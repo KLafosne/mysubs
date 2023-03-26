@@ -39,23 +39,23 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 🇭🇰 专线 N 香港 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 46935, type: vmess, uuid: 813e0fa3-c507-413d-8e78-88d1d9ddcbe9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中转 T 香港 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 38002, type: vmess, uuid: 813e0fa3-c507-413d-8e78-88d1d9ddcbe9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转 S 贵新 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 38004, type: vmess, uuid: 813e0fa3-c507-413d-8e78-88d1d9ddcbe9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 中转 Y 沪日 1.5x - 白给加速器, server: snode-oss-sh2.nmp.pw, port: 38001, type: vmess, uuid: 813e0fa3-c507-413d-8e78-88d1d9ddcbe9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 中转 Q 沪日 1.5x - 白给加速器, server: snode-oss-sh2.nmp.pw, port: 39000, type: vmess, uuid: 813e0fa3-c507-413d-8e78-88d1d9ddcbe9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇨🇳 中转 D 沪台 1.5x - 白给加速器, server: snode-oss-sh2.nmp.pw, port: 39001, type: vmess, uuid: 813e0fa3-c507-413d-8e78-88d1d9ddcbe9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 中转 D 沪日 1.5x - 白给加速器, server: snode-oss-sh2.nmp.pw, port: 39002, type: vmess, uuid: 813e0fa3-c507-413d-8e78-88d1d9ddcbe9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中转 D 沪港 1.5x - 白给加速器, server: snode-oss-sh2.nmp.pw, port: 37000, type: vmess, uuid: 813e0fa3-c507-413d-8e78-88d1d9ddcbe9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转 D 沪新 1.5x - 白给加速器, server: snode-oss-sh2.nmp.pw, port: 37001, type: vmess, uuid: 813e0fa3-c507-413d-8e78-88d1d9ddcbe9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 中转 P 日本 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 38003, type: vmess, uuid: 813e0fa3-c507-413d-8e78-88d1d9ddcbe9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 专线 Z 沪韩 1.5x - 白给加速器, server: snode-cn-sh1.nmp.pw, port: 30076, type: vmess, uuid: 813e0fa3-c507-413d-8e78-88d1d9ddcbe9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 中转 F 日本 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 38007, type: vmess, uuid: 813e0fa3-c507-413d-8e78-88d1d9ddcbe9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇨🇳 中转 C 台湾 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 38008, type: vmess, uuid: 813e0fa3-c507-413d-8e78-88d1d9ddcbe9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转 C 美国 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 38010, type: vmess, uuid: 813e0fa3-c507-413d-8e78-88d1d9ddcbe9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 专线 A 深港80m 3x - 白给加速器, server: snode-14.nmp.pw, port: 11328, type: vmess, uuid: 813e0fa3-c507-413d-8e78-88d1d9ddcbe9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇨🇳 中转 B 台湾 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 38005, type: vmess, uuid: 813e0fa3-c507-413d-8e78-88d1d9ddcbe9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇦🇷 中转 E 阿根廷 1.5x - 白给加速器, server: snode-oss-sh2.nmp.pw, port: 37002, type: vmess, uuid: 813e0fa3-c507-413d-8e78-88d1d9ddcbe9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 专线 N 香港 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 46935, type: vmess, uuid: a12093c3-ed3f-40b8-9331-ea1001904644, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转 T 香港 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 38002, type: vmess, uuid: a12093c3-ed3f-40b8-9331-ea1001904644, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转 S 贵新 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 38004, type: vmess, uuid: a12093c3-ed3f-40b8-9331-ea1001904644, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转 Y 沪日 1.5x - 白给加速器, server: snode-oss-sh2.nmp.pw, port: 38001, type: vmess, uuid: a12093c3-ed3f-40b8-9331-ea1001904644, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转 Q 沪日 1.5x - 白给加速器, server: snode-oss-sh2.nmp.pw, port: 39000, type: vmess, uuid: a12093c3-ed3f-40b8-9331-ea1001904644, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇳 中转 D 沪台 1.5x - 白给加速器, server: snode-oss-sh2.nmp.pw, port: 39001, type: vmess, uuid: a12093c3-ed3f-40b8-9331-ea1001904644, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转 D 沪日 1.5x - 白给加速器, server: snode-oss-sh2.nmp.pw, port: 39002, type: vmess, uuid: a12093c3-ed3f-40b8-9331-ea1001904644, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转 D 沪港 1.5x - 白给加速器, server: snode-oss-sh2.nmp.pw, port: 37000, type: vmess, uuid: a12093c3-ed3f-40b8-9331-ea1001904644, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转 D 沪新 1.5x - 白给加速器, server: snode-oss-sh2.nmp.pw, port: 37001, type: vmess, uuid: a12093c3-ed3f-40b8-9331-ea1001904644, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转 P 日本 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 38003, type: vmess, uuid: a12093c3-ed3f-40b8-9331-ea1001904644, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 专线 Z 沪韩 1.5x - 白给加速器, server: snode-cn-sh1.nmp.pw, port: 30076, type: vmess, uuid: a12093c3-ed3f-40b8-9331-ea1001904644, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转 F 日本 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 38007, type: vmess, uuid: a12093c3-ed3f-40b8-9331-ea1001904644, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇳 中转 C 台湾 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 38008, type: vmess, uuid: a12093c3-ed3f-40b8-9331-ea1001904644, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转 C 美国 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 38010, type: vmess, uuid: a12093c3-ed3f-40b8-9331-ea1001904644, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 专线 A 深港80m 3x - 白给加速器, server: snode-14.nmp.pw, port: 11328, type: vmess, uuid: a12093c3-ed3f-40b8-9331-ea1001904644, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇳 中转 B 台湾 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 38005, type: vmess, uuid: a12093c3-ed3f-40b8-9331-ea1001904644, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇦🇷 中转 E 阿根廷 1.5x - 白给加速器, server: snode-oss-sh2.nmp.pw, port: 37002, type: vmess, uuid: a12093c3-ed3f-40b8-9331-ea1001904644, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,local,🎯 全球直连
 - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
@@ -8401,6 +8401,37 @@ rules:
 - DOMAIN-SUFFIX,mindmanager.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,photozoomchina.com,🛑 全球拦截
 - DOMAIN-SUFFIX,xitongqingli.com,🛑 全球拦截
+- DOMAIN-SUFFIX,netflix.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflix.net,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflxext.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflximg.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflximg.net,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflxso.net,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflxvideo.net,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest0.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest1.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest2.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest3.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest4.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest5.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest6.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest7.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest8.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest9.com,🎥 NETFLIX
+- DOMAIN-KEYWORD,dualstack.apiproxy-,🎥 NETFLIX
+- DOMAIN-KEYWORD,dualstack.ichnaea-web-,🎥 NETFLIX
+- IP-CIDR,23.246.0.0/18,🎥 NETFLIX,no-resolve
+- IP-CIDR,37.77.184.0/21,🎥 NETFLIX,no-resolve
+- IP-CIDR,45.57.0.0/17,🎥 NETFLIX,no-resolve
+- IP-CIDR,64.120.128.0/17,🎥 NETFLIX,no-resolve
+- IP-CIDR,66.197.128.0/17,🎥 NETFLIX,no-resolve
+- IP-CIDR,108.175.32.0/20,🎥 NETFLIX,no-resolve
+- IP-CIDR,192.173.64.0/18,🎥 NETFLIX,no-resolve
+- IP-CIDR,198.38.96.0/19,🎥 NETFLIX,no-resolve
+- IP-CIDR,198.45.48.0/20,🎥 NETFLIX,no-resolve
+- IP-CIDR,34.210.42.111/32,🎥 NETFLIX,no-resolve
+- IP-CIDR,52.89.124.203/32,🎥 NETFLIX,no-resolve
+- IP-CIDR,54.148.37.5/32,🎥 NETFLIX,no-resolve
 - DOMAIN-SUFFIX,jtvnw.net,🌍 国外媒体
 - DOMAIN-SUFFIX,ttvnw.net,🌍 国外媒体
 - DOMAIN-SUFFIX,twitch.tv,🌍 国外媒体
@@ -8557,37 +8588,6 @@ rules:
 - DOMAIN-SUFFIX,tvb.com,🌍 国外媒体
 - DOMAIN-SUFFIX,naver.com,🌍 国外媒体
 - DOMAIN-SUFFIX,smartmediarep.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflix.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflix.net,🌍 国外媒体
-- DOMAIN-SUFFIX,nflxext.com,🌍 国外媒体
-- DOMAIN-SUFFIX,nflximg.com,🌍 国外媒体
-- DOMAIN-SUFFIX,nflximg.net,🌍 国外媒体
-- DOMAIN-SUFFIX,nflxso.net,🌍 国外媒体
-- DOMAIN-SUFFIX,nflxvideo.net,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest0.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest1.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest2.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest3.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest4.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest5.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest6.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest7.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest8.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest9.com,🌍 国外媒体
-- DOMAIN-KEYWORD,dualstack.apiproxy-,🌍 国外媒体
-- DOMAIN-KEYWORD,dualstack.ichnaea-web-,🌍 国外媒体
-- IP-CIDR,23.246.0.0/18,🌍 国外媒体,no-resolve
-- IP-CIDR,37.77.184.0/21,🌍 国外媒体,no-resolve
-- IP-CIDR,45.57.0.0/17,🌍 国外媒体,no-resolve
-- IP-CIDR,64.120.128.0/17,🌍 国外媒体,no-resolve
-- IP-CIDR,66.197.128.0/17,🌍 国外媒体,no-resolve
-- IP-CIDR,108.175.32.0/20,🌍 国外媒体,no-resolve
-- IP-CIDR,192.173.64.0/18,🌍 国外媒体,no-resolve
-- IP-CIDR,198.38.96.0/19,🌍 国外媒体,no-resolve
-- IP-CIDR,198.45.48.0/20,🌍 国外媒体,no-resolve
-- IP-CIDR,34.210.42.111/32,🌍 国外媒体,no-resolve
-- IP-CIDR,52.89.124.203/32,🌍 国外媒体,no-resolve
-- IP-CIDR,54.148.37.5/32,🌍 国外媒体,no-resolve
 - DOMAIN-SUFFIX,dmc.nico,🌍 国外媒体
 - DOMAIN-SUFFIX,nicovideo.jp,🌍 国外媒体
 - DOMAIN-SUFFIX,nimg.jp,🌍 国外媒体

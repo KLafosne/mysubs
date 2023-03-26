@@ -39,11 +39,11 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: '🇨🇳 台1[直连]-流媒体NF - 爱猫论坛', server: hinet.nbsd.win, port: 443, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /videos/stream, headers: {Host: hinet.nbsd.win}}, udp: true}
-- {name: '🇨🇳 台2[直连]-流媒体NF - 爱猫论坛', server: tw2.594888.xyz, port: 25551, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: tw2.594888.xyz}}, udp: true}
-- {name: '🇨🇳 台3[直连]-流媒体NF - 爱猫论坛', server: tw3.594888.xyz, port: 25551, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: tw3.594888.xyz}}, udp: true}
-- {name: '🇨🇳 台4[直连]-流媒体NF - 爱猫论坛', server: tw4.594888.xyz, port: 11463, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: tw4.594888.xyz}}, udp: true}
-- {name: 🇩🇪 德国 - 爱猫论坛, server: de1.netflix6.com, port: 47447, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: de1.netflix6.com}}, udp: true}
+- {name: '台1[直连]-流媒体NF - 爱猫论坛', server: hinet.nbsd.win, port: 443, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /videos/stream, headers: {Host: hinet.nbsd.win}}, udp: true}
+- {name: '台2[直连]-流媒体NF - 爱猫论坛', server: tw2.594888.xyz, port: 25551, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: tw2.594888.xyz}}, udp: true}
+- {name: '台3[直连]-流媒体NF - 爱猫论坛', server: tw3.594888.xyz, port: 25551, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: tw3.594888.xyz}}, udp: true}
+- {name: '台4[直连]-流媒体NF - 爱猫论坛', server: tw4.594888.xyz, port: 11463, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: tw4.594888.xyz}}, udp: true}
+- {name: 德国 - 爱猫论坛, server: de1.netflix6.com, port: 47447, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: de1.netflix6.com}}, udp: true}
 - {name: '新[中转]1-Disney Netflix流媒体 - 爱猫论坛', server: cu.594888.xyz, port: 60995, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maopsg1, headers: {Host: netflix6.com}}, udp: true}
 - {name: '新[中转]2-Disney Netflix流媒体 - 爱猫论坛', server: cu.594888.xyz, port: 60995, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maopsg2, headers: {Host: netflix6.com}}, udp: true}
 - {name: '新[直连]2-流媒体NF - 爱猫论坛', server: sg2.netflix6.com, port: 25551, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sg2.netflix6.com}}, udp: true}
@@ -59,7 +59,7 @@ proxies:
 - {name: '港2[直连]-流媒体NF - 爱猫论坛', server: hk2.netflix6.com, port: 25551, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: hk2.netflix6.com}}, udp: true}
 - {name: '港3[直连]-流媒体NF - 爱猫论坛', server: hk3.netflix6.com, port: 25551, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: hk3.netflix6.com}}, udp: true}
 - {name: '港6[直连]-流媒体NF - 爱猫论坛', server: hk6.netflix6.com, port: 443, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/hk6.m3u8, headers: {Host: hk6.netflix6.com}}, udp: true}
-- {name: 🇦🇺 澳大利亚 - 爱猫论坛, server: au1.netflix6.com, port: 11147, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: au1.netflix6.com}}, udp: true}
+- {name: 澳大利亚 - 爱猫论坛, server: au1.netflix6.com, port: 11147, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: au1.netflix6.com}}, udp: true}
 - {name: '美1[中转]-流媒体 - 爱猫论坛', server: cu.594888.xyz, port: 60995, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maopus1, headers: {Host: netflix6.com}}, udp: true}
 - {name: '美1[直连]-流媒体 - 爱猫论坛', server: us1.netflix6.com, port: 443, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us1.m3u8, headers: {Host: us1.netflix6.com}}, udp: true}
 - {name: "美2[中转]-流媒体\t - 爱猫论坛", server: cu.594888.xyz, port: 60995, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maopus2, headers: {Host: netflix6.com}}, udp: true}
@@ -69,9 +69,7 @@ proxies:
 - {name: '美5[直接]-流媒体 - 爱猫论坛', server: us5.netflix6.com, port: 25558, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: us5.netflix6.com}}, udp: true}
 - {name: '美8[直接]-流媒体 - 爱猫论坛', server: us8.netflix6.com, port: 602, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: us8.netflix6.com}}, udp: true}
 - {name: '英[直连] - 爱猫论坛', server: bg1.netflix6.com, port: 27555, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bg1.netflix6.com}}, udp: true}
-- {name: '🇵🇭 菲律宾[直连]-流媒体NF - 爱猫论坛', server: ph1.netflix6.com, port: 443, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/ph1.m3u8, headers: {Host: ph1.netflix6.com}}, udp: true}
-- {name: 💣 剩余流量：5.92GB - 爱猫论坛, server: maossr.top, port: 10086, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 💣 过期时间：2023-03-27 - 爱猫论坛, server: maossr.top, port: 10086, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '菲律宾[直连]-流媒体NF - 爱猫论坛', server: ph1.netflix6.com, port: 443, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/ph1.m3u8, headers: {Host: ph1.netflix6.com}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,local,🎯 全球直连
 - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
@@ -3753,6 +3751,15 @@ rules:
 - DOMAIN-SUFFIX,h5.jiumaster.com,🛑 全球拦截
 - DOMAIN-SUFFIX,h5.pk1179.com,🛑 全球拦截
 - DOMAIN-SUFFIX,h5.super-dreamers.com,🛑 全球拦截
+- DOMAIN-SUFFIX,h5.taihao.cc,🛑 全�DOMAIN-SUFFIX,h.pcd.autohome.com.cn,🛑 全球拦截
+- DOMAIN-SUFFIX,h.sora.yoyi.com.cn,🛑 全球拦截
+- DOMAIN-SUFFIX,h01.hotrank.com.tw,🛑 全球拦截
+- DOMAIN-SUFFIX,h1.18sd.cn,🛑 全球拦截
+- DOMAIN-SUFFIX,h2.18sd.cn,🛑 全球拦截
+- DOMAIN-SUFFIX,h5.holalauncher.com,🛑 全球拦截
+- DOMAIN-SUFFIX,h5.jiumaster.com,🛑 全球拦截
+- DOMAIN-SUFFIX,h5.pk1179.com,🛑 全球拦截
+- DOMAIN-SUFFIX,h5.super-dreamers.com,🛑 全球拦截
 - DOMAIN-SUFFIX,h5.taihao.cc,🛑 全球拦截
 - DOMAIN-SUFFIX,h8.bec.com,🛑 全球拦截
 - DOMAIN-SUFFIX,h9377c.com,🛑 全球拦截
@@ -3995,8 +4002,7 @@ rules:
 - DOMAIN-SUFFIX,image.box.xiaomi.com,🛑 全球拦截
 - DOMAIN-SUFFIX,image.fsyule.net,🛑 全球拦截
 - DOMAIN-SUFFIX,image.haiyunx.com,🛑 全球拦截
-- DOMAIN-SUFFIX,image.hh010.com,🛑 全球拦截
-- DOMAIN-SUFFIX,image.hj217.com,🛑 全球拦截
+- DOMAIN-SUFFIX,image.hDOMAIN-SUFFIX,images.intellitDOMAIN-SUFFIX,image.hj217.com,🛑 全球拦截
 - DOMAIN-SUFFIX,image.p4p.sogou.com,🛑 全球拦截
 - DOMAIN-SUFFIX,image.qj175.com,🛑 全球拦截
 - DOMAIN-SUFFIX,image.zzd.sm.cn,🛑 全球拦截
@@ -5245,18 +5251,7 @@ rules:
 - DOMAIN-SUFFIX,miui.hdfdm.com,🛑 全球拦截
 - DOMAIN-SUFFIX,miui.hftaili.com,🛑 全球拦截
 - DOMAIN-SUFFIX,mivideo.g.mi.com,🛑 全球拦截
-- DOMAIN-SUFFIX,mj70.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,mjs.csyymp4.com,🛑 全球拦截
-- DOMAIN-SUFFIX,mlb.did.ijinshan.com,🛑 全球拦截
-- DOMAIN-SUFFIX,mlgrrqymdsyk.com,🛑 全球拦截
-- DOMAIN-SUFFIX,mlog.aipai.com,🛑 全球拦截
-- DOMAIN-SUFFIX,mlog.hiido.com,🛑 全球拦截
-- DOMAIN-SUFFIX,mlog.m1905.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,mlog.search.xiaomi.net,🛑 全球拦截
-- DOMAIN-SUFFIX,mlt01.com,🛑 全球拦截
-- DOMAIN-SUFFIX,mm.2436.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,mm.anqu.com,🛑 全球拦截
-- DOMAIN-SUFFIX,mm.moquanad.com,🛑 全球拦截
+- DOMAIN-SUFFIX,mj70.cn,🛑 全球拦截DOMAIN-SUFFIX,mm.moquanad.com,🛑 全球拦截
 - DOMAIN-SUFFIX,mmcc.yxlady.com,🛑 全球拦截
 - DOMAIN-SUFFIX,mmg.aty.snmsohu.aisee.tv,🛑 全球拦截
 - DOMAIN-SUFFIX,mng-ads.com,🛑 全球拦截
@@ -5421,6 +5416,16 @@ rules:
 - DOMAIN-SUFFIX,newloc.map.n.shifen.com,🛑 全球拦截
 - DOMAIN-SUFFIX,newrelic.com,🛑 全球拦截
 - DOMAIN-SUFFIX,news.51y5.net,🛑 全球拦截
+- DOMAIN-SUFFIX全球拦截
+- DOMAIN-SUFFIX,network.business.com,🛑 全球拦截
+- DOMAIN-SUFFIX,network.sofeminine.co.uk,🛑 全球拦截
+- DOMAIN-SUFFIX,networkbench.com,🛑 全球拦截
+- DOMAIN-SUFFIX,new.ltheanine.cn,🛑 全球拦截
+- DOMAIN-SUFFIX,new.yokaunion.com,🛑 全球拦截
+- DOMAIN-SUFFIX,new.zhqiu.com,🛑 全球拦截
+- DOMAIN-SUFFIX,newloc.map.n.shifen.com,🛑 全球拦截
+- DOMAIN-SUFFIX,newrelic.com,🛑 全球拦截
+- DOMAIN-SUFFIX,news.51y5.net,🛑 全球拦截
 - DOMAIN-SUFFIX,news.58.com,🛑 全球拦截
 - DOMAIN-SUFFIX,news.cxxtv.com,🛑 全球拦截
 - DOMAIN-SUFFIX,news.mpush.qq.com,🛑 全球拦截
@@ -5491,18 +5496,7 @@ rules:
 - DOMAIN-SUFFIX,nwejs.myzcoffice.com,🛑 全球拦截
 - DOMAIN-SUFFIX,nwwap.com,🛑 全球拦截
 - DOMAIN-SUFFIX,nxrhs.com,🛑 全球拦截
-- DOMAIN-SUFFIX,nxrxt.con,🛑 全球拦截
-- DOMAIN-SUFFIX,ny7f6goy.bid,🛑 全球拦截
-- DOMAIN-SUFFIX,nylalobghyhirgh.com,🛑 全球拦截
-- DOMAIN-SUFFIX,nysita.com,🛑 全球拦截
-- DOMAIN-SUFFIX,nzezn.com,🛑 全球拦截
-- DOMAIN-SUFFIX,o.08jm.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,o.if.qidian.com,🛑 全球拦截
-- DOMAIN-SUFFIX,o.minisplat.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,o091i.com,🛑 全球拦截
-- DOMAIN-SUFFIX,o2omobi.com,🛑 全球拦截
-- DOMAIN-SUFFIX,o7xs6runw.bkt.clouddn.com,🛑 全球拦截
-- DOMAIN-SUFFIX,oa129.com,🛑 全球拦截
+- DOMAIN-SUFFIX,nxrxt.con,🛑 �DOMAIN-SUFFIX,oa129.com,🛑 全球拦截
 - DOMAIN-SUFFIX,oadz.com,🛑 全球拦截
 - DOMAIN-SUFFIX,oa-panther.data.aliyun.com,🛑 全球拦截
 - DOMAIN-SUFFIX,oas.autotrader.co.uk,🛑 全球拦截
@@ -5664,6 +5658,16 @@ rules:
 - DOMAIN-SUFFIX,passwz.com,🛑 全球拦截
 - DOMAIN-SUFFIX,pat.farvd.com,🛑 全球拦截
 - DOMAIN-SUFFIX,patriot.cs.pp.cn,🛑 全球拦截
+- DOMAIN-SUFFIX,pa全球拦截
+- DOMAIN-SUFFIX,partners.vouchedfor.co.uk,🛑 全球拦截
+- DOMAIN-SUFFIX,partners.xpertmarket.com,🛑 全球拦截
+- DOMAIN-SUFFIX,party-nngvitbizn.now.sh,🛑 全球拦截
+- DOMAIN-SUFFIX,pasco.cc,🛑 全球拦截
+- DOMAIN-SUFFIX,pass1.soogif.com,🛑 全球拦截
+- DOMAIN-SUFFIX,pass2.soogif.com,🛑 全球拦截
+- DOMAIN-SUFFIX,passwz.com,🛑 全球拦截
+- DOMAIN-SUFFIX,pat.farvd.com,🛑 全球拦截
+- DOMAIN-SUFFIX,patriot.cs.pp.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,pay.holaq.com,🛑 全球拦截
 - DOMAIN-SUFFIX,pay.mobile.sina.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,pay838.com,🛑 全球拦截
@@ -5814,17 +5818,7 @@ rules:
 - DOMAIN-SUFFIX,pr00001.com,🛑 全球拦截
 - DOMAIN-SUFFIX,practivate.adobe.com,🛑 全球拦截
 - DOMAIN-SUFFIX,pr-bh.ybp.yahoo.com,🛑 全球拦截
-- DOMAIN-SUFFIX,prc.rjje4.com,🛑 全球拦截
-- DOMAIN-SUFFIX,prcappzone.intel.com,🛑 全球拦截
-- DOMAIN-SUFFIX,pre.api.tw06.xlmc.sandai.net,🛑 全球拦截
-- DOMAIN-SUFFIX,prerollads.ign.com,🛑 全球拦截
-- DOMAIN-SUFFIX,priceinfo.comuv.com,🛑 全球拦截
-- DOMAIN-SUFFIX,pro.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,pro.heiguang.com,🛑 全球拦截
-- DOMAIN-SUFFIX,pro.iweihai.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,probes.cedexis.com,🛑 全球拦截
-- DOMAIN-SUFFIX,profile.ssp.rambler.ru,🛑 全球拦截
-- DOMAIN-SUFFIX,projectwonderful.com,🛑 全球拦截
+- DOMAIN-SUFFIX,prc.rjje4.comDOMAIN-SUFFIX,projectwonderful.com,🛑 全球拦截
 - DOMAIN-SUFFIX,prom.gome.com.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,promo.fileforum.com,🛑 全球拦截
 - DOMAIN-SUFFIX,promos.fling.com,🛑 全球拦截
@@ -5897,6 +5891,15 @@ rules:
 - DOMAIN-SUFFIX,pvlog.hd.baofeng.com,🛑 全球拦截
 - DOMAIN-SUFFIX,pvlog.moviebox.baofeng.net,🛑 全球拦截
 - DOMAIN-SUFFIX,pvm.zol.com.cn,🛑 全球拦截
+- DOMAIN-SUFFIX,pvmsite.zol.com.cn,🛑 全球拦截
+- DOMAIN-SUFFIX,pvsite.zol.com.cn,🛑 全球拦截
+- DOMAIN-SUFFIX,pvstat.html5.qq.com,🛑 全球拦截
+- DOMAIN-SUFFIX,pvtest.zol.com.cn,🛑 全球拦截
+- DOMAIN-SUFFIX,pvx.autohome.com.cn,🛑 全球拦截
+- DOMAIN-SUFFIX,pwj.biqugezw.com,🛑 全球拦截
+- DOMAIN-SUFFIX,px.adhigh.net,🛑 全球拦截
+- DOMAIN-SUFFIX,px.media-serving.com,🛑 全球拦截
+- DOMAIN-SUFFIX,px.owneriq.net DOMAIN-SUFFIX,pvm.zol.com.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,pvmsite.zol.com.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,pvsite.zol.com.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,pvstat.html5.qq.com,🛑 全球拦截
@@ -5978,18 +5981,7 @@ rules:
 - DOMAIN-SUFFIX,quantserve.com,🛑 全球拦截
 - DOMAIN-SUFFIX,qucaigg.com,🛑 全球拦截
 - DOMAIN-SUFFIX,queene.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,questionmarket.com,🛑 全球拦截
-- DOMAIN-SUFFIX,qujishu.com,🛑 全球拦截
-- DOMAIN-SUFFIX,qumi.com,🛑 全球拦截
-- DOMAIN-SUFFIX,qupinhj.com,🛑 全球拦截
-- DOMAIN-SUFFIX,quw18.com,🛑 全球拦截
-- DOMAIN-SUFFIX,quyaoya.com,🛑 全球拦截
-- DOMAIN-SUFFIX,qweqwe.mctvhp.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,qxjdlf.com,🛑 全球拦截
-- DOMAIN-SUFFIX,qxm.pluto.sogou.com,🛑 全球拦截
-- DOMAIN-SUFFIX,qxxys.com,🛑 全球拦截
-- DOMAIN-SUFFIX,qyctj.com,🛑 全球拦截
-- DOMAIN-SUFFIX,qytyf.com,🛑 全球拦截
+- DOMAIN-SUFFIX,questDOMAIN-SUFFIX,qytyf.com,🛑 全球拦截
 - DOMAIN-SUFFIX,qzdag.com,🛑 全球拦截
 - DOMAIN-SUFFIX,qzdfc.com,🛑 全球拦截
 - DOMAIN-SUFFIX,qzgjprj.com,🛑 全球拦截
@@ -6071,6 +6063,16 @@ rules:
 - DOMAIN-SUFFIX,resolver.gslb.mi-idc.com,🛑 全球拦截
 - DOMAIN-SUFFIX,resolver.msg.xiaomi.net,🛑 全球拦截
 - DOMAIN-SUFFIX,resource.baomihua.com,🛑 全球拦截
+- DOM全球拦截
+- DOMAIN-SUFFIX,res.mmstat.com,🛑 全球拦截
+- DOMAIN-SUFFIX,res.qhupdate.com,🛑 全球拦截
+- DOMAIN-SUFFIX,res3.feedsportal.com,🛑 全球拦截
+- DOMAIN-SUFFIX,rescn.u3.ucweb.com,🛑 全球拦截
+- DOMAIN-SUFFIX,resetgey.com,🛑 全球拦截
+- DOMAIN-SUFFIX,res-ga.smzdm.com,🛑 全球拦截
+- DOMAIN-SUFFIX,resolver.gslb.mi-idc.com,🛑 全球拦截
+- DOMAIN-SUFFIX,resolver.msg.xiaomi.net,🛑 全球拦截
+- DOMAIN-SUFFIX,resource.baomihua.com,🛑 全球拦截
 - DOMAIN-SUFFIX,responsys.net,🛑 全球拦截
 - DOMAIN-SUFFIX,ret.xinlongrubber.com,🛑 全球拦截
 - DOMAIN-SUFFIX,rev.fapdu.com,🛑 全球拦截
@@ -6141,18 +6143,7 @@ rules:
 - DOMAIN-SUFFIX,s.0594529.com,🛑 全球拦截
 - DOMAIN-SUFFIX,s.17173cdn.com,🛑 全球拦截
 - DOMAIN-SUFFIX,s.35kds.com,🛑 全球拦截
-- DOMAIN-SUFFIX,s.5jjx.net,🛑 全球拦截
-- DOMAIN-SUFFIX,s.652748.com,🛑 全球拦截
-- DOMAIN-SUFFIX,s.6travel.com,🛑 全球拦截
-- DOMAIN-SUFFIX,s.abcache.com,🛑 全球拦截
-- DOMAIN-SUFFIX,s.baidu.com,🛑 全球拦截
-- DOMAIN-SUFFIX,s.bmgan.com,🛑 全球拦截
-- DOMAIN-SUFFIX,s.caduka.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,s.cdn.u17t.com,🛑 全球拦截
-- DOMAIN-SUFFIX,s.cdxyb.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,s.com2us.net,🛑 全球拦截
-- DOMAIN-SUFFIX,s.coveredsys.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,s.ddstu.com,🛑 全球拦截
+- DOMAIN-SUFFIX,s.5jjxDOMAIN-SUFFIX,s.ddstu.com,🛑 全球拦截
 - DOMAIN-SUFFIX,s.de123.net,🛑 全球拦截
 - DOMAIN-SUFFIX,s.doyo.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,s.dpcq1.net,🛑 全球拦截
@@ -6229,6 +6220,16 @@ rules:
 - DOMAIN-SUFFIX,s400cc.com,🛑 全球拦截
 - DOMAIN-SUFFIX,s8.001fzc.com,🛑 全球拦截
 - DOMAIN-SUFFIX,s8.dnaxddnc.com,🛑 全球拦截
+- DOMAIN-SUFFIX,s8x1.com,🛑 全球拦截
+- DOMAIN-SUFFIX,s9w.cc,🛑 全球拦截
+- DOMAIN-SUFFIX,sa909.com,🛑 全球拦截
+- DOMAIN-SUFFIX,sad.qeo.cn,🛑 全球拦截
+- DOMAIN-SUFFIX,safe.tsgpay.cn,🛑 全球拦截
+- DOMAIN-SUFFIX,saferwet.com,🛑 全球拦截
+- DOMAIN-SUFFIX,same.chinadaily.com.cn,🛑 全球拦截
+- DOMAIN-SUFFIX,same.eastmoney.com,🛑 全球拦截
+- DOMAIN-SUFFIX,same.jrj.com.cn,🛑 全球拦截
+- DOMAIN-SUFFIX,sameDOMAIN-SUFFIX,s8.dnaxddnc.com,🛑 全球拦截
 - DOMAIN-SUFFIX,s8x1.com,🛑 全球拦截
 - DOMAIN-SUFFIX,s9w.cc,🛑 全球拦截
 - DOMAIN-SUFFIX,sa909.com,🛑 全球拦截
@@ -8411,6 +8412,8 @@ rules:
 - DOMAIN-SUFFIX,earmasterchina.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,folxchina.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,hypeapp.cn,🛑 全球拦截
+- DOMAIN-SUFFIX,idmchina.net,🛑 全球拦截
+- DOMAIN-SUFFIX,imazingchina.com,🛑 全球拦截
 - DOMAIN-SUFFIX,luping.net.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,mindmanager.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,photozoomchina.com,🛑 全球拦截
@@ -8450,6 +8453,8 @@ rules:
 - DOMAIN-SUFFIX,ttvnw.net,🌍 国外媒体
 - DOMAIN-SUFFIX,twitch.tv,🌍 国外媒体
 - DOMAIN-SUFFIX,twitchcdn.net,🌍 国外媒体
+- DOMAIN,radio.itunes.apple.com,🌍 国外媒体
+- DOMAIN,tv.applemusic.com,🌍 国外媒体
 - DOMAIN-SUFFIX,deezer.com,🌍 国外媒体
 - DOMAIN-SUFFIX,dzcdn.net,🌍 国外媒体
 - DOMAIN-SUFFIX,joox.com,🌍 国外媒体
@@ -8493,6 +8498,7 @@ rules:
 - DOMAIN-KEYWORD,avoddashs,🌍 国外媒体
 - DOMAIN,linear.tv.apple.com,🌍 国外媒体
 - DOMAIN,play-edge.itunes.apple.com,🌍 国外媒体
+- DOMAIN,uts-api.itunes.apple.com,🌍 国外媒体
 - DOMAIN-SUFFIX,bahamut.com.tw,🌍 国外媒体
 - DOMAIN-SUFFIX,gamer.com.tw,🌍 国外媒体
 - DOMAIN,gamer-cds.cdn.hinet.net,🌍 国外媒体
@@ -8579,6 +8585,7 @@ rules:
 - IP-CIDR,203.74.95.153/32,🌍 国外媒体,no-resolve
 - IP-CIDR,203.211.4.169/32,🌍 国外媒体,no-resolve
 - IP-CIDR,203.211.4.193/32,🌍 国外媒体,no-resolve
+- IP-CIDR,210.71.227.200/32,🌍 国外媒体,no-resolve
 - IP-CIDR,210.71.227.202/32,🌍 国外媒体,no-resolve
 - IP-CIDR,210.201.32.8/32,🌍 国外媒体,no-resolve
 - IP-CIDR,210.201.32.11/32,🌍 国外媒体,no-resolve
@@ -8647,15 +8654,13 @@ rules:
 - DOMAIN-SUFFIX,acg.tv,🌏 国内媒体
 - DOMAIN-SUFFIX,acgvideo.com,🌏 国内媒体
 - DOMAIN-SUFFIX,b23.tv,🌏 国内媒体
-- DOMAIN-SUFFIX,biliapi.com,🌏 国内媒体
-- DOMAIN-SUFFIX,biliapi.net,🌏 国内媒体
 - DOMAIN-SUFFIX,bilibili.com,🌏 国内媒体
-- DOMAIN-SUFFIX,biligame.com,🌏 国内媒体
-- DOMAIN-SUFFIX,biligame.net,🌏 国内媒体
+- DOMAIN-SUFFIX,bilibili.tv,🌏 国内媒体
+- DOMAIN-SUFFIX,biliapi.net,🌏 国内媒体
+- DOMAIN-SUFFIX,biliapi.com,🌏 国内媒体
 - DOMAIN-SUFFIX,bilivideo.com,🌏 国内媒体
 - DOMAIN-SUFFIX,hdslb.com,🌏 国内媒体
-- DOMAIN-SUFFIX,im9.com,🌏 国内媒体
-- DOMAIN-SUFFIX,smtcdns.net,🌏 国内媒体
+- DOMAIN,upos-hz-mirrorakam.akamaized.net,🌏 国内媒体
 - DOMAIN,intel-cache.m.iqiyi.com,🌏 国内媒体
 - DOMAIN,intel-cache.video.iqiyi.com,🌏 国内媒体
 - DOMAIN-SUFFIX,inter.iqiyi.com,🌏 国内媒体
@@ -8670,6 +8675,7 @@ rules:
 - DOMAIN-SUFFIX,api.mob.app.letv.com,🌏 国内媒体
 - DOMAIN-SUFFIX,v.smtcdns.com,🌏 国内媒体
 - DOMAIN-SUFFIX,vv.video.qq.com,🌏 国内媒体
+- DOMAIN-SUFFIX,youku.com,🌏 国内媒体
 - IP-CIDR,106.11.0.0/16,🌏 国内媒体,no-resolve
 - DOMAIN-SUFFIX,t.me,📲 电报信息
 - DOMAIN-SUFFIX,tdesktop.com,📲 电报信息
@@ -8683,11 +8689,14 @@ rules:
 - IP-CIDR,91.108.16.0/22,📲 电报信息,no-resolve
 - IP-CIDR,91.108.20.0/22,📲 电报信息,no-resolve
 - IP-CIDR,91.108.56.0/22,📲 电报信息,no-resolve
-- IP-CIDR,95.161.64.0/20,📲 电报信息,no-resolve
+- IP-CIDR,91.105.192.0/23,📲 电报信息,no-resolve
 - IP-CIDR,149.154.160.0/20,📲 电报信息,no-resolve
+- IP-CIDR,185.76.151.0/24,📲 电报信息,no-resolve
 - IP-CIDR6,2001:b28:f23d::/48,📲 电报信息,no-resolve
 - IP-CIDR6,2001:b28:f23f::/48,📲 电报信息,no-resolve
 - IP-CIDR6,2001:67c:4e8::/48,📲 电报信息,no-resolve
+- IP-CIDR6,2001:b28:f23c::/48,📲 电报信息,no-resolve
+- IP-CIDR6,2a0a:f280::/32,📲 电报信息,no-resolve
 - DOMAIN-SUFFIX,amazon.co.jp,🔰 节点选择
 - DOMAIN,d3c33hcgiwev3.cloudfront.net,🔰 节点选择
 - DOMAIN,payments-jp.amazon.com,🔰 节点选择
@@ -8696,16 +8705,36 @@ rules:
 - DOMAIN,a248.e.akamai.net,🔰 节点选择
 - DOMAIN,a771.dscq.akamai.net,🔰 节点选择
 - DOMAIN,testflight.apple.com,🔰 节点选择
+- DOMAIN-SUFFIX,clubhouseapi.com,🔰 节点选择
+- DOMAIN-SUFFIX,joinclubhouse.com,🔰 节点选择
+- DOMAIN,clubhouse.pubnubapi.com,🔰 节点选择
 - DOMAIN-SUFFIX,aex.com,🔰 节点选择
 - DOMAIN-SUFFIX,bibox.com,🔰 节点选择
 - DOMAIN-SUFFIX,binance.cc,🔰 节点选择
 - DOMAIN-SUFFIX,binance.com,🔰 节点选择
+- DOMAIN-SUFFIX,binance.us,🔰 节点选择
 - DOMAIN-SUFFIX,bitcointalk.org,🔰 节点选择
 - DOMAIN-SUFFIX,bitfinex.com,🔰 节点选择
+- DOMAIN-SUFFIX,bithumb.com,🔰 节点选择
 - DOMAIN-SUFFIX,bitmex.com,🔰 节点选择
+- DOMAIN-SUFFIX,bitstamp.net,🔰 节点选择
+- DOMAIN-SUFFIX,bittrex.com,🔰 节点选择
+- DOMAIN-SUFFIX,bybit.com,🔰 节点选择
+- DOMAIN-SUFFIX,coinbase.com,🔰 节点选择
+- DOMAIN-SUFFIX,coincheck.com,🔰 节点选择
+- DOMAIN-SUFFIX,coingecko.com,🔰 节点选择
+- DOMAIN-SUFFIX,coinmarketcap.com,🔰 节点选择
+- DOMAIN-SUFFIX,coinone.co.kr,🔰 节点选择
+- DOMAIN-SUFFIX,ftx.com,🔰 节点选择
 - DOMAIN-SUFFIX,gate.io,🔰 节点选择
+- DOMAIN-SUFFIX,gemini.com,🔰 节点选择
 - DOMAIN-SUFFIX,huobi.com,🔰 节点选择
+- DOMAIN-SUFFIX,korbit.co.kr,🔰 节点选择
+- DOMAIN-SUFFIX,kraken.com,🔰 节点选择
+- DOMAIN-SUFFIX,kucoin.com,🔰 节点选择
+- DOMAIN-SUFFIX,liquid.com,🔰 节点选择
 - DOMAIN-SUFFIX,okex.com,🔰 节点选择
+- DOMAIN-SUFFIX,poloniex.com,🔰 节点选择
 - DOMAIN-SUFFIX,uniswap.org,🔰 节点选择
 - DOMAIN-SUFFIX,zb.com,🔰 节点选择
 - DOMAIN-SUFFIX,discord.com,🔰 节点选择
@@ -8738,6 +8767,7 @@ rules:
 - DOMAIN-SUFFIX,blogger.com,🔰 节点选择
 - DOMAIN-SUFFIX,getoutline.org,🔰 节点选择
 - DOMAIN-SUFFIX,gvt0.com,🔰 节点选择
+- DOMAIN-SUFFIX,gvt1.com,🔰 节点选择
 - DOMAIN-SUFFIX,gvt3.com,🔰 节点选择
 - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🔰 节点选择
 - DOMAIN-KEYWORD,google,🔰 节点选择
@@ -8842,7 +8872,6 @@ rules:
 - DOMAIN-SUFFIX,ck101.com,🔰 节点选择
 - DOMAIN-SUFFIX,clarionproject.org,🔰 节点选择
 - DOMAIN-SUFFIX,cloudcone.com,🔰 节点选择
-- DOMAIN-SUFFIX,clubhouseapi.com,🔰 节点选择
 - DOMAIN-SUFFIX,clyp.it,🔰 节点选择
 - DOMAIN-SUFFIX,cna.com.tw,🔰 节点选择
 - DOMAIN-SUFFIX,comparitech.com,🔰 节点选择
@@ -8936,7 +8965,6 @@ rules:
 - DOMAIN-SUFFIX,jiji.com,🔰 节点选择
 - DOMAIN-SUFFIX,jinx.com,🔰 节点选择
 - DOMAIN-SUFFIX,jkforum.net,🔰 节点选择
-- DOMAIN-SUFFIX,joinclubhouse.com,🔰 节点选择
 - DOMAIN-SUFFIX,joinmastodon.org,🔰 节点选择
 - DOMAIN-SUFFIX,justmysocks.net,🔰 节点选择
 - DOMAIN-SUFFIX,justpaste.it,🔰 节点选择
@@ -8962,6 +8990,7 @@ rules:
 - DOMAIN-SUFFIX,marc.info,🔰 节点选择
 - DOMAIN-SUFFIX,matters.news,🔰 节点选择
 - DOMAIN-SUFFIX,maying.co,🔰 节点选择
+- DOMAIN-SUFFIX,medibang.com,🔰 节点选择
 - DOMAIN-SUFFIX,medium.com,🔰 节点选择
 - DOMAIN-SUFFIX,mega.nz,🔰 节点选择
 - DOMAIN-SUFFIX,mergersandinquisitions.com,🔰 节点选择
@@ -9064,6 +9093,7 @@ rules:
 - DOMAIN-SUFFIX,tiny.cc,🔰 节点选择
 - DOMAIN-SUFFIX,tinyurl.com,🔰 节点选择
 - DOMAIN-SUFFIX,torproject.org,🔰 节点选择
+- DOMAIN-SUFFIX,tradingview.com,🔰 节点选择
 - DOMAIN-SUFFIX,tumblr.com,🔰 节点选择
 - DOMAIN-SUFFIX,turbobit.net,🔰 节点选择
 - DOMAIN-SUFFIX,tutanota.com,🔰 节点选择
@@ -9175,19 +9205,32 @@ rules:
 - DOMAIN-SUFFIX,twitter.jp,🔰 节点选择
 - DOMAIN-SUFFIX,appsto.re,🔰 节点选择
 - DOMAIN,books.itunes.apple.com,🔰 节点选择
-- DOMAIN,api-glb-sea.smoot.apple.com,🔰 节点选择
-- DOMAIN,beta.music.apple.com,🔰 节点选择
-- DOMAIN,tv.apple.com,🔰 节点选择
-- DOMAIN,apps.apple.com,🔰 节点选择
-- DOMAIN,itunes.apple.com,🔰 节点选择
 - DOMAIN-SUFFIX,smoot.apple.com,🔰 节点选择
+- DOMAIN,beta.music.apple.com,🔰 节点选择
 - DOMAIN,lookup-api.apple.com,🔰 节点选择
+- DOMAIN,apps.apple.com,🔰 节点选择
+- DOMAIN,books.apple.com,🔰 节点选择
+- DOMAIN,itunes.apple.com,🔰 节点选择
+- DOMAIN,tv.apple.com,🔰 节点选择
+- DOMAIN,amp-api.podcasts.apple.com,🔰 节点选择
+- DOMAIN,bookkeeper.itunes.apple.com,🔰 节点选择
+- DOMAIN,gateway.icloud.com,🔰 节点选择
+- DOMAIN-SUFFIX,apple.news,🔰 节点选择
+- DOMAIN,news-assets.apple.com,🔰 节点选择
+- DOMAIN,news-client.apple.com,🔰 节点选择
+- DOMAIN,news-client-search.apple.com,🔰 节点选择
+- DOMAIN,news-edge.apple.com,🔰 节点选择
+- DOMAIN,news-events.apple.com,🔰 节点选择
+- DOMAIN,apple.comscoreresearch.com,🔰 节点选择
 - DOMAIN-SUFFIX,go.dev,🔰 节点选择
 - DOMAIN-SUFFIX,golang.org,🔰 节点选择
+- DOMAIN-SUFFIX,aicoin.com,🔰 节点选择
+- DOMAIN-SUFFIX,aimoon.com,🔰 节点选择
 - DOMAIN-SUFFIX,cccat.io,🔰 节点选择
 - DOMAIN-SUFFIX,dubox.com,🔰 节点选择
 - DOMAIN-SUFFIX,duboxcdn.com,🔰 节点选择
 - DOMAIN-SUFFIX,ifixit.com,🔰 节点选择
+- DOMAIN-SUFFIX,linkedin.com,🔰 节点选择
 - DOMAIN-SUFFIX,mangakakalot.com,🔰 节点选择
 - DOMAIN-SUFFIX,shopeemobile.com,🔰 节点选择
 - DOMAIN-SUFFIX,sushi.com,🔰 节点选择
@@ -9195,12 +9238,10 @@ rules:
 - DOMAIN,developer.apple.com,🔰 节点选择
 - DOMAIN,www.icloud.com,🔰 节点选择
 - DOMAIN,ocsp.apple.com,🔰 节点选择
-- DOMAIN,xp.apple.com,🔰 节点选择
 - DOMAIN,cacerts.digicert.com,🔰 节点选择
 - DOMAIN,crl3.digicert.com,🔰 节点选择
 - DOMAIN,crl4.digicert.com,🔰 节点选择
 - DOMAIN,ocsp.digicert.com,🔰 节点选择
-- DOMAIN-SUFFIX,cloudcone.com.cn,🔰 节点选择
 - DOMAIN-SUFFIX,inkbunny.net,🔰 节点选择
 - DOMAIN-SUFFIX,metapix.net,🔰 节点选择
 - DOMAIN-SUFFIX,s3.amazonaws.com,🔰 节点选择
@@ -9244,7 +9285,6 @@ rules:
 - DOMAIN-SUFFIX,tmall.com,🎯 全球直连
 - DOMAIN-SUFFIX,tmall.hk,🎯 全球直连
 - DOMAIN-SUFFIX,ykimg.com,🎯 全球直连
-- DOMAIN-SUFFIX,youku.com,🎯 全球直连
 - DOMAIN-SUFFIX,xiami.com,🎯 全球直连
 - DOMAIN-SUFFIX,xiami.net,🎯 全球直连
 - DOMAIN-SUFFIX,baidu.com,🎯 全球直连
@@ -9256,7 +9296,6 @@ rules:
 - DOMAIN-SUFFIX,yunjiasu-cdn.net,🎯 全球直连
 - DOMAIN-SUFFIX,battle.net,🎯 全球直连
 - DOMAIN-SUFFIX,blizzard.com,🎯 全球直连
-- DOMAIN-SUFFIX,bilibili.tv,🎯 全球直连
 - DOMAIN-SUFFIX,feiliao.com,🎯 全球直连
 - DOMAIN-SUFFIX,pstatp.com,🎯 全球直连
 - DOMAIN-SUFFIX,snssdk.com,🎯 全球直连
@@ -9329,19 +9368,11 @@ rules:
 - DOMAIN-SUFFIX,qqmail.com,🎯 全球直连
 - DOMAIN-SUFFIX,servicewechat.com,🎯 全球直连
 - DOMAIN-SUFFIX,tencent.com,🎯 全球直连
+- DOMAIN-SUFFIX,tencent-cloud.com,🎯 全球直连
 - DOMAIN-SUFFIX,tencent-cloud.net,🎯 全球直连
 - DOMAIN-SUFFIX,tenpay.com,🎯 全球直连
 - DOMAIN-SUFFIX,wechat.com,🎯 全球直连
 - DOMAIN,file-igamecj.akamaized.net,🎯 全球直连
-- IP-CIDR,101.32.104.4/32,🎯 全球直连,no-resolve
-- IP-CIDR,101.32.104.41/32,🎯 全球直连,no-resolve
-- IP-CIDR,101.32.104.56/32,🎯 全球直连,no-resolve
-- IP-CIDR,101.32.118.25/32,🎯 全球直连,no-resolve
-- IP-CIDR,101.32.133.16/32,🎯 全球直连,no-resolve
-- IP-CIDR,101.32.133.53/32,🎯 全球直连,no-resolve
-- IP-CIDR,101.32.133.209/32,🎯 全球直连,no-resolve
-- IP-CIDR,129.226.3.47/32,🎯 全球直连,no-resolve
-- IP-CIDR,129.226.107.244/32,🎯 全球直连,no-resolve
 - IP-CIDR,182.254.116.0/24,🎯 全球直连,no-resolve
 - IP-CIDR,203.205.254.0/23,🎯 全球直连,no-resolve
 - DOMAIN-SUFFIX,ccgslb.com,🎯 全球直连
@@ -9420,6 +9451,7 @@ rules:
 - DOMAIN-SUFFIX,chinaso.com,🎯 全球直连
 - DOMAIN-SUFFIX,chuimg.com,🎯 全球直连
 - DOMAIN-SUFFIX,chunyu.mobi,🎯 全球直连
+- DOMAIN-SUFFIX,cibntv.net,🎯 全球直连
 - DOMAIN-SUFFIX,cmbchina.com,🎯 全球直连
 - DOMAIN-SUFFIX,cmbimg.com,🎯 全球直连
 - DOMAIN-SUFFIX,coolapk.com,🎯 全球直连
@@ -9442,18 +9474,7 @@ rules:
 - DOMAIN-SUFFIX,gandi.net,🎯 全球直连
 - DOMAIN-SUFFIX,gcores.com,🎯 全球直连
 - DOMAIN-SUFFIX,geilicdn.com,🎯 全球直连
-- DOMAIN-SUFFIX,getpricetag.com,🎯 全球直连
-- DOMAIN-SUFFIX,gifshow.com,🎯 全球直连
-- DOMAIN-SUFFIX,godic.net,🎯 全球直连
-- DOMAIN-SUFFIX,heweather.net,🎯 全球直连
-- DOMAIN-SUFFIX,hicloud.com,🎯 全球直连
-- DOMAIN-SUFFIX,hongxiu.com,🎯 全球直连
-- DOMAIN-SUFFIX,hostbuf.com,🎯 全球直连
-- DOMAIN-SUFFIX,huxiucdn.com,🎯 全球直连
-- DOMAIN-SUFFIX,huya.com,🎯 全球直连
-- DOMAIN-SUFFIX,ibm.com,🎯 全球直连
-- DOMAIN-SUFFIX,infinitynewtab.com,🎯 全球直连
-- DOMAIN-SUFFIX,ithome.com,🎯 全球直连
+- DOMAIN-SUFFIX,getpricetag.com,🎯 全球� 全球直连
 - DOMAIN-SUFFIX,java.com,🎯 全球直连
 - DOMAIN-SUFFIX,jianguoyun.com,🎯 全球直连
 - DOMAIN-SUFFIX,jianshu.com,🎯 全球直连
@@ -9464,8 +9485,6 @@ rules:
 - DOMAIN-SUFFIX,keepcdn.com,🎯 全球直连
 - DOMAIN-SUFFIX,kkmh.com,🎯 全球直连
 - DOMAIN-SUFFIX,lanzous.com,🎯 全球直连
-- DOMAIN-SUFFIX,licdn.com,🎯 全球直连
-- DOMAIN-SUFFIX,linkedin.com,🎯 全球直连
 - DOMAIN-SUFFIX,luojilab.com,🎯 全球直连
 - DOMAIN-SUFFIX,maoyan.com,🎯 全球直连
 - DOMAIN-SUFFIX,maoyun.tv,🎯 全球直连
@@ -9488,6 +9507,7 @@ rules:
 - DOMAIN-SUFFIX,ruguoapp.com,🎯 全球直连
 - DOMAIN-SUFFIX,sankuai.com,🎯 全球直连
 - DOMAIN-SUFFIX,scomper.me,🎯 全球直连
+- DOMAIN-SUFFIX,shouqianba.com,🎯 全球直连
 - DOMAIN-SUFFIX,sm.ms,🎯 全球直连
 - DOMAIN-SUFFIX,smzdm.com,🎯 全球直连
 - DOMAIN-SUFFIX,snapdrop.net,🎯 全球直连
@@ -9523,6 +9543,19 @@ rules:
 - PROCESS-NAME,NetTransport,🎯 全球直连
 - PROCESS-NAME,Thunder,🎯 全球直连
 - PROCESS-NAME,Transmission,🎯 全球直连
+- PROCESS-NAME,uTorrent,🎯 全球直连
+- PROCESS-NAME,WebTorrent,🎯 全球直连
+- PROCESS-NAME,WebTorrent Helper,🎯 全球直连
+- PROCESS-NAME,DownloadService,🎯 全球直连
+- PROCESS-NAME,Weiyun,🎯 全球直连
+- DOMAIN-KEYWORD,aria2,🎯 全球直连
+- DOMAIN-KEYWORD,xunlei,🎯 全球直连
+- DOMAIN-KEYWORD,yunpan,🎯 全球直连
+- DOMAIN-KEYWORD,Thunder,🎯 全球直连
+- DOMAIN-KEYWORD,XLLiveUD,🎯 全球直连
+- GEOIP,CN,🎯 全球直连
+- MATCH,🐟 漏网之鱼
+连
 - PROCESS-NAME,uTorrent,🎯 全球直连
 - PROCESS-NAME,WebTorrent,🎯 全球直连
 - PROCESS-NAME,WebTorrent Helper,🎯 全球直连
