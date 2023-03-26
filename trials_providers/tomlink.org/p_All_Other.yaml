@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 KR 02 | x1.0 - TomLink, server: 120.241.255.246, port: 14041, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, tfo: false, udp: true}
-- {name: 🇰🇷 KR 03 | x1.0 - TomLink, server: 117.174.51.138, port: 14041, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, tfo: false, udp: true}
-- {name: 🇬🇧 UK 02 | x1.0 - TomLink, server: 120.241.255.246, port: 14081, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, tfo: false, udp: true}
-- {name: 🇬🇧 UK 03 | x1.0 - TomLink, server: 117.174.51.138, port: 14081, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, tfo: false, udp: true}
-- {name: 🇨🇦 CA 02 | x1.0 - TomLink, server: 120.241.255.246, port: 14083, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, tfo: false, udp: true}
-- {name: 🇨🇦 CA 03 | x1.0 - TomLink, server: 117.174.51.138, port: 14083, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, tfo: false, udp: true}
+- {name: 🇰🇷 KR 02 | x1.0 - TomLink, server: 120.241.255.246, port: 14041, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: 🇰🇷 KR 03 | x1.0 - TomLink, server: 117.174.51.138, port: 14041, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: 🇬🇧 UK 02 | x1.0 - TomLink, server: 120.241.255.246, port: 14081, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: 🇬🇧 UK 03 | x1.0 - TomLink, server: 117.174.51.138, port: 14081, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: 🇨🇦 CA 02 | x1.0 - TomLink, server: 120.241.255.246, port: 14083, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: 🇨🇦 CA 03 | x1.0 - TomLink, server: 117.174.51.138, port: 14083, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}

@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 【1x】美国-十堰联通 - wuxuCloud, server: x1xcc.777753.xyz, port: 45671, type: ss, cipher: chacha20-ietf-poly1305, password: 080642b9-3d1f-4c64-9ca7-8ce3fbd6aa52, udp: true}
-- {name: '🇺🇸 【2x】[美国]-上海联通 - wuxuCloud', server: shcm.donghui.tech, port: 23376, type: ss, cipher: chacha20-ietf-poly1305, password: 080642b9-3d1f-4c64-9ca7-8ce3fbd6aa52, udp: true}
-- {name: '🇺🇸 【2x】[美国]-杭州移动 - wuxuCloud', server: hzyd.donghui.tech, port: 23376, type: ss, cipher: chacha20-ietf-poly1305, password: 080642b9-3d1f-4c64-9ca7-8ce3fbd6aa52, udp: true}
+- {name: 🇺🇸 【1x】美国-十堰联通 - wuxuCloud, server: x1xcc.777753.xyz, port: 45671, type: ss, cipher: chacha20-ietf-poly1305, password: 566c9e6a-40d5-450b-8b86-fb66756b9b8d, udp: true}
+- {name: '🇺🇸 【2x】[美国]-上海联通 - wuxuCloud', server: shcm.donghui.tech, port: 23376, type: ss, cipher: chacha20-ietf-poly1305, password: 566c9e6a-40d5-450b-8b86-fb66756b9b8d, udp: true}
+- {name: '🇺🇸 【2x】[美国]-杭州移动 - wuxuCloud', server: hzyd.donghui.tech, port: 23376, type: ss, cipher: chacha20-ietf-poly1305, password: 566c9e6a-40d5-450b-8b86-fb66756b9b8d, udp: true}
