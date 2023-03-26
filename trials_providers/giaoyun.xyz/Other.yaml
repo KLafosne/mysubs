@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: http://170.178.195.148:7800/down/cMI1QUbhpfIr - giao云, server: 1.2.3.3, port: 443, type: vmess, uuid: 108a54e1-a0cb-42b1-b5be-ce637338bce1, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: http://170.178.195.148:7800/down/cMI1QUbhpfIr - giao云, server: 1.2.3.3, port: 443, client-fingerprint: chrome, type: vmess, uuid: 108a54e1-a0cb-42b1-b5be-ce637338bce1, alterId: 1, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
