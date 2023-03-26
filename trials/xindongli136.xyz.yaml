@@ -40,10 +40,8 @@ proxy-groups:
   - 💩 ‍广告
 proxies:
 - {name: C2.半年专业版套餐限时8折仅119/1150G(非节点勿连) - XD Cloud, server: www.xindongli139.xyz, port: 10086, type: trojan, password: NSaCARLBcirlOZ9J, skip-cert-verify: true, udp: true}
-- {name: 🏳️‍🌈 (非节点勿连)剩余流量：5.27GB - XD Cloud, server: www.xindongli139.xyz, port: 10086, type: trojan, password: NSaCARLBcirlOZ9J, skip-cert-verify: true, udp: true}
-- {name: 🏳️‍🌈 (非节点勿连)过期时间：2023-03-27 - XD Cloud, server: www.xindongli139.xyz, port: 10086, type: trojan, password: NSaCARLBcirlOZ9J, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 F1|Trojan|01(支持IPV6) - XD Cloud, server: xf1sgtr1.106ctc.buzz, port: 443, type: trojan, password: f1c185f8-fc9c-31ed-a247-b0e043d06106, sni: xf1sgtr1.106ctc.buzz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 F1(注册登录xd228.xyz) - XD Cloud, server: xhkf1.102ctc.xyz, port: 20301, type: trojan, password: f1c185f8-fc9c-31ed-a247-b0e043d06106, sni: xhkf1.102ctc.xyz, skip-cert-verify: true, udp: true}
+- {name: 新加坡 F1|Trojan|01(支持IPV6) - XD Cloud, server: xf1sgtr1.106ctc.buzz, port: 443, type: trojan, password: f1c185f8-fc9c-31ed-a247-b0e043d06106, sni: xf1sgtr1.106ctc.buzz, skip-cert-verify: true, udp: true}
+- {name: 香港 F1(注册登录xd228.xyz) - XD Cloud, server: xhkf1.102ctc.xyz, port: 20301, type: trojan, password: f1c185f8-fc9c-31ed-a247-b0e043d06106, sni: xhkf1.102ctc.xyz, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,local,🎯 全球直连
 - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve

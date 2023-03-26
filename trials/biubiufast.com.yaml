@@ -39,24 +39,24 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 韩国 | 直连 - BIUBIU FAST, server: hg1.biubiufast.quest, port: 5201, type: trojan, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, skip-cert-verify: true, udp: true}
-- {name: 韩国 | 直连2 - BIUBIU FAST, server: hg6.biubiufast.quest, port: 5203, type: trojan, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, skip-cert-verify: true, udp: true}
-- {name: 香港| 直连 - BIUBIU FAST, server: hk5.biubiufast.quest, port: 5203, type: trojan, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, skip-cert-verify: true, udp: true}
-- {name: 香港| 直连2 - BIUBIU FAST, server: hk6.biubiufast.quest, port: 5203, type: trojan, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, skip-cert-verify: true, udp: true}
-- {name: 日本 | 直连 - BIUBIU FAST, server: jp4.biubiufast.quest, port: 5201, type: trojan, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, skip-cert-verify: true, udp: true}
-- {name: 日本 | 直连2 - BIUBIU FAST, server: jp6.biubiufast.quest, port: 5203, type: trojan, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, skip-cert-verify: true, udp: true}
-- {name: 美国 | 直连 - BIUBIU FAST, server: sfo4.biubiufast.quest, port: 5201, type: trojan, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, skip-cert-verify: true, udp: true}
-- {name: 美国 | 直连2 - BIUBIU FAST, server: sfo6.biubiufast.quest, port: 5203, type: trojan, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, skip-cert-verify: true, udp: true}
-- {name: 香港|直连SS - BIUBIU FAST, server: hk5.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, udp: true}
-- {name: 香港|直连SS2 - BIUBIU FAST, server: hk6.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, udp: true}
-- {name: 美国 | 直连二线 - BIUBIU FAST, server: sfo1.biubiufast.quest, port: 3721, type: trojan, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, skip-cert-verify: true, udp: true}
-- {name: 日本|直连SS - BIUBIU FAST, server: jp4.biubiufast.quest, port: 5202, type: ss, cipher: chacha20-ietf-poly1305, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, udp: true}
-- {name: 日本|直连SS2 - BIUBIU FAST, server: jp6.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, udp: true}
-- {name: 美国|直连SS - BIUBIU FAST, server: sfo4.biubiufast.quest, port: 5202, type: ss, cipher: chacha20-ietf-poly1305, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, udp: true}
-- {name: 美国|直连SS2 - BIUBIU FAST, server: sfo6.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, udp: true}
-- {name: 韩国|直连SS - BIUBIU FAST, server: hg1.biubiufast.quest, port: 5202, type: ss, cipher: chacha20-ietf-poly1305, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, udp: true}
-- {name: 韩国|直连SS2 - BIUBIU FAST, server: hg6.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, udp: true}
-- {name: 香港|高速SS（会员） - BIUBIU FAST, server: gs1.biubiufast.quest, port: 12332, type: ss, cipher: chacha20-ietf-poly1305, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, udp: true}
+- {name: 🇰🇷 韩国 | 直连 - BIUBIU FAST, server: hg1.biubiufast.quest, port: 5201, type: trojan, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国 | 直连2 - BIUBIU FAST, server: hg6.biubiufast.quest, port: 5203, type: trojan, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港| 直连 - BIUBIU FAST, server: hk5.biubiufast.quest, port: 5203, type: trojan, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港| 直连2 - BIUBIU FAST, server: hk6.biubiufast.quest, port: 5203, type: trojan, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 | 直连 - BIUBIU FAST, server: jp4.biubiufast.quest, port: 5201, type: trojan, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 | 直连2 - BIUBIU FAST, server: jp6.biubiufast.quest, port: 5203, type: trojan, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 | 直连 - BIUBIU FAST, server: sfo4.biubiufast.quest, port: 5201, type: trojan, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 | 直连2 - BIUBIU FAST, server: sfo6.biubiufast.quest, port: 5203, type: trojan, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|直连SS - BIUBIU FAST, server: hk5.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, udp: true}
+- {name: 🇭🇰 香港|直连SS2 - BIUBIU FAST, server: hk6.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, udp: true}
+- {name: 🇺🇸 美国 | 直连二线 - BIUBIU FAST, server: sfo1.biubiufast.quest, port: 3721, type: trojan, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|直连SS - BIUBIU FAST, server: jp4.biubiufast.quest, port: 5202, type: ss, cipher: chacha20-ietf-poly1305, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, udp: true}
+- {name: 🇯🇵 日本|直连SS2 - BIUBIU FAST, server: jp6.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, udp: true}
+- {name: 🇺🇸 美国|直连SS - BIUBIU FAST, server: sfo4.biubiufast.quest, port: 5202, type: ss, cipher: chacha20-ietf-poly1305, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, udp: true}
+- {name: 🇺🇸 美国|直连SS2 - BIUBIU FAST, server: sfo6.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, udp: true}
+- {name: 🇰🇷 韩国|直连SS - BIUBIU FAST, server: hg1.biubiufast.quest, port: 5202, type: ss, cipher: chacha20-ietf-poly1305, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, udp: true}
+- {name: 🇰🇷 韩国|直连SS2 - BIUBIU FAST, server: hg6.biubiufast.quest, port: 5204, type: ss, cipher: chacha20-ietf-poly1305, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, udp: true}
+- {name: 🇭🇰 香港|高速SS（会员） - BIUBIU FAST, server: gs1.biubiufast.quest, port: 12332, type: ss, cipher: chacha20-ietf-poly1305, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, udp: true}
 rules:
 - DOMAIN-SUFFIX,local,🎯 全球直连
 - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve

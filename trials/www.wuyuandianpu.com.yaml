@@ -39,7 +39,6 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 💣 剩余流量：1 GB - 五元店, server: gdcm.r1u.cn, port: 18047, type: ss, cipher: chacha20-ietf-poly1305, password: 40dbc4ce-8f85-4615-abba-fe9d383ae4bd, udp: true}
 - {name: 🇭🇰 香港 - 五元店, server: gdcm.r1u.cn, port: 18047, type: ss, cipher: chacha20-ietf-poly1305, password: 40dbc4ce-8f85-4615-abba-fe9d383ae4bd, udp: true}
 - {name: 🇨🇳 台湾 - 五元店, server: hbcu.r1u.cn, port: 43789, type: ss, cipher: chacha20-ietf-poly1305, password: 40dbc4ce-8f85-4615-abba-fe9d383ae4bd, udp: true}
 - {name: 🇰🇷 韩国汉城 - 五元店, server: hbcu.r1u.cn, port: 28781, type: ss, cipher: chacha20-ietf-poly1305, password: 40dbc4ce-8f85-4615-abba-fe9d383ae4bd, udp: true}
@@ -51,7 +50,7 @@ proxies:
 - {name: 🇩🇪 德国法兰克福 - 五元店, server: jscm.r1u.cn, port: 25978, type: ss, cipher: chacha20-ietf-poly1305, password: 40dbc4ce-8f85-4615-abba-fe9d383ae4bd, udp: true}
 - {name: 🇬🇧 英国伦敦 - 五元店, server: hbcu.r1u.cn, port: 43425, type: ss, cipher: chacha20-ietf-poly1305, password: 40dbc4ce-8f85-4615-abba-fe9d383ae4bd, udp: true}
 - {name: 🇺🇸 美国圣何塞 - 五元店, server: jscm.r1u.cn, port: 49607, type: ss, cipher: chacha20-ietf-poly1305, password: 40dbc4ce-8f85-4615-abba-fe9d383ae4bd, udp: true}
-- {name: 🇺🇸 美国新泽西 - 五元店, server: gzcm.xzcloud.pro, port: 24055, type: ss, cipher: chacha20-ietf-poly1305, password: 40dbc4ce-8f85-4615-abba-fe9d383ae4bd, udp: true}
+- {name: 🇸🇬 美国新泽西 - 五元店, server: gzcm.xzcloud.pro, port: 24055, type: ss, cipher: chacha20-ietf-poly1305, password: 40dbc4ce-8f85-4615-abba-fe9d383ae4bd, udp: true}
 rules:
 - DOMAIN-SUFFIX,local,🎯 全球直连
 - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve

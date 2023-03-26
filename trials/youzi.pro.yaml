@@ -39,6 +39,7 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
+- {name: 💣 剩余流量：5 GB - 柚子酱, server: ss.karyl.cc, port: 10001, type: ss, cipher: chacha20-ietf-poly1305, password: 86000b4c-dacc-43d3-8a35-77fbb2c5f4e2, udp: true}
 - {name: 随机节点01【SS】「1X」 - 柚子酱, server: ss.karyl.cc, port: 10001, type: ss, cipher: chacha20-ietf-poly1305, password: 86000b4c-dacc-43d3-8a35-77fbb2c5f4e2, udp: true}
 - {name: 随机节点02【SS】「1X」 - 柚子酱, server: ss.karyl.cc, port: 10002, type: ss, cipher: chacha20-ietf-poly1305, password: 86000b4c-dacc-43d3-8a35-77fbb2c5f4e2, udp: true}
 - {name: 随机节点03【SS】「1X」 - 柚子酱, server: ss.karyl.cc, port: 10003, type: ss, cipher: chacha20-ietf-poly1305, password: 86000b4c-dacc-43d3-8a35-77fbb2c5f4e2, udp: true}
