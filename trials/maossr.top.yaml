@@ -39,37 +39,39 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: '台1[直连]-流媒体NF - 爱猫论坛', server: hinet.nbsd.win, port: 443, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /videos/stream, headers: {Host: hinet.nbsd.win}}, udp: true}
-- {name: '台2[直连]-流媒体NF - 爱猫论坛', server: tw2.594888.xyz, port: 25551, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: tw2.594888.xyz}}, udp: true}
-- {name: '台3[直连]-流媒体NF - 爱猫论坛', server: tw3.594888.xyz, port: 25551, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: tw3.594888.xyz}}, udp: true}
-- {name: '台4[直连]-流媒体NF - 爱猫论坛', server: tw4.594888.xyz, port: 11463, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: tw4.594888.xyz}}, udp: true}
-- {name: 德国 - 爱猫论坛, server: de1.netflix6.com, port: 47447, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: de1.netflix6.com}}, udp: true}
-- {name: '新[中转]1-Disney Netflix流媒体 - 爱猫论坛', server: cu.594888.xyz, port: 60995, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maopsg1, headers: {Host: netflix6.com}}, udp: true}
-- {name: '新[中转]2-Disney Netflix流媒体 - 爱猫论坛', server: cu.594888.xyz, port: 60995, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maopsg2, headers: {Host: netflix6.com}}, udp: true}
-- {name: '新[直连]2-流媒体NF - 爱猫论坛', server: sg2.netflix6.com, port: 25551, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sg2.netflix6.com}}, udp: true}
-- {name: '新[直连]4-流媒体NF - 爱猫论坛', server: sg4.netflix6.com, port: 443, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/sg4.m3u8, headers: {Host: sg4.netflix6.com}}, udp: true}
-- {name: "新[直连]5-流媒体NF\t - 爱猫论坛", server: sg5.netflix6.com, port: 443, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/sg5.m3u8, headers: {Host: sg5.netflix6.com}}, udp: true}
-- {name: '新[直连]6-流媒体NF - 爱猫论坛', server: sg6.netflix6.com, port: 443, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/sg6.m3u8, headers: {Host: sg6.netflix6.com}}, udp: true}
-- {name: "新[直连]8-流媒体NF\t - 爱猫论坛", server: sg8.netflix6.com, port: 25551, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sg8.netflix6.com}}, udp: true}
-- {name: '日1[中转]-流媒体NF - 爱猫论坛', server: cu.netflix6.com, port: 60995, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maojp1, headers: {Host: netflix6.com}}, udp: true}
-- {name: '日2[中转]-流媒体NF - 爱猫论坛', server: cu.netflix6.com, port: 60996, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maojp2, headers: {Host: netflix6.com}}, udp: true}
-- {name: '港1[中转]-Disney Netflix流媒体 - 爱猫论坛', server: cu.594888.xyz, port: 60995, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maophk1, headers: {Host: netflix6.com}}, udp: true}
-- {name: '港1[直连]-流媒体NF - 爱猫论坛', server: v2hk1.594888.xyz, port: 35203, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk1, headers: {Host: v2hk1.594888.xyz}}, udp: true}
-- {name: "港2[中转]-Disney Netflix流媒体\t - 爱猫论坛", server: cu.594888.xyz, port: 60995, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maophk2, headers: {Host: netflix6.com}}, udp: true}
-- {name: '港2[直连]-流媒体NF - 爱猫论坛', server: hk2.netflix6.com, port: 25551, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: hk2.netflix6.com}}, udp: true}
-- {name: '港3[直连]-流媒体NF - 爱猫论坛', server: hk3.netflix6.com, port: 25551, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: hk3.netflix6.com}}, udp: true}
-- {name: '港6[直连]-流媒体NF - 爱猫论坛', server: hk6.netflix6.com, port: 443, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/hk6.m3u8, headers: {Host: hk6.netflix6.com}}, udp: true}
-- {name: 澳大利亚 - 爱猫论坛, server: au1.netflix6.com, port: 11147, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: au1.netflix6.com}}, udp: true}
-- {name: '美1[中转]-流媒体 - 爱猫论坛', server: cu.594888.xyz, port: 60995, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maopus1, headers: {Host: netflix6.com}}, udp: true}
-- {name: '美1[直连]-流媒体 - 爱猫论坛', server: us1.netflix6.com, port: 443, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us1.m3u8, headers: {Host: us1.netflix6.com}}, udp: true}
-- {name: "美2[中转]-流媒体\t - 爱猫论坛", server: cu.594888.xyz, port: 60995, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maopus2, headers: {Host: netflix6.com}}, udp: true}
-- {name: '美2[直连]-流媒体 - 爱猫论坛', server: us2.netflix6.com, port: 443, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us2.m3u8, headers: {Host: us2.netflix6.com}}, udp: true}
-- {name: '美3[中转]-流媒体 - 爱猫论坛', server: cu.594888.xyz, port: 60995, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maopus3, headers: {Host: netflix6.com}}, udp: true}
-- {name: '美4[直连]-流媒体 - 爱猫论坛', server: us4.netflix6.com, port: 12557, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: us4.netflix6.com}}, udp: true}
-- {name: '美5[直接]-流媒体 - 爱猫论坛', server: us5.netflix6.com, port: 25558, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: us5.netflix6.com}}, udp: true}
-- {name: '美8[直接]-流媒体 - 爱猫论坛', server: us8.netflix6.com, port: 602, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: us8.netflix6.com}}, udp: true}
-- {name: '英[直连] - 爱猫论坛', server: bg1.netflix6.com, port: 27555, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bg1.netflix6.com}}, udp: true}
-- {name: '菲律宾[直连]-流媒体NF - 爱猫论坛', server: ph1.netflix6.com, port: 443, client-fingerprint: chrome, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/ph1.m3u8, headers: {Host: ph1.netflix6.com}}, udp: true}
+- {name: '台1[直连]-流媒体NF - 爱猫论坛', server: hinet.nbsd.win, port: 443, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /videos/stream, headers: {Host: hinet.nbsd.win}}, udp: true}
+- {name: '台2[直连]-流媒体NF - 爱猫论坛', server: tw2.594888.xyz, port: 25551, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: tw2.594888.xyz}}, udp: true}
+- {name: '台3[直连]-流媒体NF - 爱猫论坛', server: tw3.594888.xyz, port: 25551, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: tw3.594888.xyz}}, udp: true}
+- {name: '台4[直连]-流媒体NF - 爱猫论坛', server: tw4.594888.xyz, port: 11463, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: tw4.594888.xyz}}, udp: true}
+- {name: 🇩🇪 德国 - 爱猫论坛, server: de1.netflix6.com, port: 47447, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: de1.netflix6.com}}, udp: true}
+- {name: '新[中转]1-Disney Netflix流媒体 - 爱猫论坛', server: cu.594888.xyz, port: 60995, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maopsg1, headers: {Host: netflix6.com}}, udp: true}
+- {name: '新[中转]2-Disney Netflix流媒体 - 爱猫论坛', server: cu.594888.xyz, port: 60995, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maopsg2, headers: {Host: netflix6.com}}, udp: true}
+- {name: '新[直连]2-流媒体NF - 爱猫论坛', server: sg2.netflix6.com, port: 25551, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sg2.netflix6.com}}, udp: true}
+- {name: '新[直连]4-流媒体NF - 爱猫论坛', server: sg4.netflix6.com, port: 443, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/sg4.m3u8, headers: {Host: sg4.netflix6.com}}, udp: true}
+- {name: "新[直连]5-流媒体NF\t - 爱猫论坛", server: sg5.netflix6.com, port: 443, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/sg5.m3u8, headers: {Host: sg5.netflix6.com}}, udp: true}
+- {name: '新[直连]6-流媒体NF - 爱猫论坛', server: sg6.netflix6.com, port: 443, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/sg6.m3u8, headers: {Host: sg6.netflix6.com}}, udp: true}
+- {name: "新[直连]8-流媒体NF\t - 爱猫论坛", server: sg8.netflix6.com, port: 25551, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sg8.netflix6.com}}, udp: true}
+- {name: '日1[中转]-流媒体NF - 爱猫论坛', server: cu.netflix6.com, port: 60995, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maojp1, headers: {Host: netflix6.com}}, udp: true}
+- {name: '日2[中转]-流媒体NF - 爱猫论坛', server: cu.netflix6.com, port: 60996, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maojp2, headers: {Host: netflix6.com}}, udp: true}
+- {name: '港1[中转]-Disney Netflix流媒体 - 爱猫论坛', server: cu.594888.xyz, port: 60995, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maophk1, headers: {Host: netflix6.com}}, udp: true}
+- {name: '港1[直连]-流媒体NF - 爱猫论坛', server: v2hk1.594888.xyz, port: 35203, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk1, headers: {Host: v2hk1.594888.xyz}}, udp: true}
+- {name: "港2[中转]-Disney Netflix流媒体\t - 爱猫论坛", server: cu.594888.xyz, port: 60995, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maophk2, headers: {Host: netflix6.com}}, udp: true}
+- {name: '港2[直连]-流媒体NF - 爱猫论坛', server: hk2.netflix6.com, port: 25551, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: hk2.netflix6.com}}, udp: true}
+- {name: '港3[直连]-流媒体NF - 爱猫论坛', server: hk3.netflix6.com, port: 25551, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: hk3.netflix6.com}}, udp: true}
+- {name: '港6[直连]-流媒体NF - 爱猫论坛', server: hk6.netflix6.com, port: 443, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/hk6.m3u8, headers: {Host: hk6.netflix6.com}}, udp: true}
+- {name: 🇦🇺 澳大利亚 - 爱猫论坛, server: au1.netflix6.com, port: 11147, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: au1.netflix6.com}}, udp: true}
+- {name: '美1[中转]-流媒体 - 爱猫论坛', server: cu.594888.xyz, port: 60995, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maopus1, headers: {Host: netflix6.com}}, udp: true}
+- {name: '美1[直连]-流媒体 - 爱猫论坛', server: us1.netflix6.com, port: 443, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us1.m3u8, headers: {Host: us1.netflix6.com}}, udp: true}
+- {name: "美2[中转]-流媒体\t - 爱猫论坛", server: cu.594888.xyz, port: 60995, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maopus2, headers: {Host: netflix6.com}}, udp: true}
+- {name: '美2[直连]-流媒体 - 爱猫论坛', server: us2.netflix6.com, port: 443, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us2.m3u8, headers: {Host: us2.netflix6.com}}, udp: true}
+- {name: '美3[中转]-流媒体 - 爱猫论坛', server: cu.594888.xyz, port: 60995, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maopus3, headers: {Host: netflix6.com}}, udp: true}
+- {name: '美4[直连]-流媒体 - 爱猫论坛', server: us4.netflix6.com, port: 12557, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: us4.netflix6.com}}, udp: true}
+- {name: '美5[直接]-流媒体 - 爱猫论坛', server: us5.netflix6.com, port: 25558, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: us5.netflix6.com}}, udp: true}
+- {name: '美8[直接]-流媒体 - 爱猫论坛', server: us8.netflix6.com, port: 602, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/us8.m3u8, headers: {Host: us8.netflix6.com}}, udp: true}
+- {name: '英[直连] - 爱猫论坛', server: bg1.netflix6.com, port: 27555, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: bg1.netflix6.com}}, udp: true}
+- {name: '🇵🇭 菲律宾[直连]-流媒体NF - 爱猫论坛', server: ph1.netflix6.com, port: 443, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/ph1.m3u8, headers: {Host: ph1.netflix6.com}}, udp: true}
+- {name: 🏳️‍🌈 剩余流量：5.92GB - 爱猫论坛, server: maossr.top, port: 10086, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🏳️‍🌈 过期时间：2023-03-27 - 爱猫论坛, server: maossr.top, port: 10086, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,local,🎯 全球直连
 - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
@@ -155,11 +157,28 @@ rules:
 - DOMAIN-SUFFIX,wunderlist.com,Ⓜ️ 微软服务
 - DOMAIN-SUFFIX,yammer.com,Ⓜ️ 微软服务
 - DOMAIN-SUFFIX,yammerusercontent.com,Ⓜ️ 微软服务
-- DOMAIN-SUFFIX,bingapis.com,Ⓜ️ 微软服务
 - DOMAIN,app.adjust.com,🎯 全球直连
 - DOMAIN,bdtj.tagtic.cn,🎯 全球直连
 - DOMAIN,log.mmstat.com,🎯 全球直连
 - DOMAIN,sycm.mmstat.com,🎯 全球直连
+- DOMAIN-SUFFIX,blog.google,🎯 全球直连
+- DOMAIN-SUFFIX,googletraveladservices.com,🎯 全球直连
+- DOMAIN,clientservices.googleapis.com,🎯 全球直连
+- DOMAIN,dl.google.com,🎯 全球直连
+- DOMAIN,dl.l.google.com,🎯 全球直连
+- DOMAIN,update.googleapis.com,🎯 全球直连
+- DOMAIN,translate.googleapis.com,🎯 全球直连
+- DOMAIN,fonts.googleapis.com,🎯 全球直连
+- DOMAIN,fonts.gstatic.com,🎯 全球直连
+- DOMAIN,mtalk.google.com,🎯 全球直连
+- DOMAIN,alt1-mtalk.google.com,🎯 全球直连
+- DOMAIN,alt2-mtalk.google.com,🎯 全球直连
+- DOMAIN,alt3-mtalk.google.com,🎯 全球直连
+- DOMAIN,alt4-mtalk.google.com,🎯 全球直连
+- DOMAIN,alt5-mtalk.google.com,🎯 全球直连
+- DOMAIN,alt6-mtalk.google.com,🎯 全球直连
+- DOMAIN,alt7-mtalk.google.com,🎯 全球直连
+- DOMAIN,alt8-mtalk.google.com,🎯 全球直连
 - DOMAIN,pubads.g.doubleclick.net,🎯 全球直连
 - DOMAIN,fairplay.l.qq.com,🎯 全球直连
 - DOMAIN,livew.l.qq.com,🎯 全球直连
@@ -8398,37 +8417,6 @@ rules:
 - DOMAIN-SUFFIX,mindmanager.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,photozoomchina.com,🛑 全球拦截
 - DOMAIN-SUFFIX,xitongqingli.com,🛑 全球拦截
-- DOMAIN-SUFFIX,netflix.com,🎥 NETFLIX
-- DOMAIN-SUFFIX,netflix.net,🎥 NETFLIX
-- DOMAIN-SUFFIX,nflxext.com,🎥 NETFLIX
-- DOMAIN-SUFFIX,nflximg.com,🎥 NETFLIX
-- DOMAIN-SUFFIX,nflximg.net,🎥 NETFLIX
-- DOMAIN-SUFFIX,nflxso.net,🎥 NETFLIX
-- DOMAIN-SUFFIX,nflxvideo.net,🎥 NETFLIX
-- DOMAIN-SUFFIX,netflixdnstest0.com,🎥 NETFLIX
-- DOMAIN-SUFFIX,netflixdnstest1.com,🎥 NETFLIX
-- DOMAIN-SUFFIX,netflixdnstest2.com,🎥 NETFLIX
-- DOMAIN-SUFFIX,netflixdnstest3.com,🎥 NETFLIX
-- DOMAIN-SUFFIX,netflixdnstest4.com,🎥 NETFLIX
-- DOMAIN-SUFFIX,netflixdnstest5.com,🎥 NETFLIX
-- DOMAIN-SUFFIX,netflixdnstest6.com,🎥 NETFLIX
-- DOMAIN-SUFFIX,netflixdnstest7.com,🎥 NETFLIX
-- DOMAIN-SUFFIX,netflixdnstest8.com,🎥 NETFLIX
-- DOMAIN-SUFFIX,netflixdnstest9.com,🎥 NETFLIX
-- DOMAIN-KEYWORD,dualstack.apiproxy-,🎥 NETFLIX
-- DOMAIN-KEYWORD,dualstack.ichnaea-web-,🎥 NETFLIX
-- IP-CIDR,23.246.0.0/18,🎥 NETFLIX,no-resolve
-- IP-CIDR,37.77.184.0/21,🎥 NETFLIX,no-resolve
-- IP-CIDR,45.57.0.0/17,🎥 NETFLIX,no-resolve
-- IP-CIDR,64.120.128.0/17,🎥 NETFLIX,no-resolve
-- IP-CIDR,66.197.128.0/17,🎥 NETFLIX,no-resolve
-- IP-CIDR,108.175.32.0/20,🎥 NETFLIX,no-resolve
-- IP-CIDR,192.173.64.0/18,🎥 NETFLIX,no-resolve
-- IP-CIDR,198.38.96.0/19,🎥 NETFLIX,no-resolve
-- IP-CIDR,198.45.48.0/20,🎥 NETFLIX,no-resolve
-- IP-CIDR,34.210.42.111/32,🎥 NETFLIX,no-resolve
-- IP-CIDR,52.89.124.203/32,🎥 NETFLIX,no-resolve
-- IP-CIDR,54.148.37.5/32,🎥 NETFLIX,no-resolve
 - DOMAIN-SUFFIX,jtvnw.net,🌍 国外媒体
 - DOMAIN-SUFFIX,ttvnw.net,🌍 国外媒体
 - DOMAIN-SUFFIX,twitch.tv,🌍 国外媒体
@@ -8585,6 +8573,37 @@ rules:
 - DOMAIN-SUFFIX,tvb.com,🌍 国外媒体
 - DOMAIN-SUFFIX,naver.com,🌍 国外媒体
 - DOMAIN-SUFFIX,smartmediarep.com,🌍 国外媒体
+- DOMAIN-SUFFIX,netflix.com,🌍 国外媒体
+- DOMAIN-SUFFIX,netflix.net,🌍 国外媒体
+- DOMAIN-SUFFIX,nflxext.com,🌍 国外媒体
+- DOMAIN-SUFFIX,nflximg.com,🌍 国外媒体
+- DOMAIN-SUFFIX,nflximg.net,🌍 国外媒体
+- DOMAIN-SUFFIX,nflxso.net,🌍 国外媒体
+- DOMAIN-SUFFIX,nflxvideo.net,🌍 国外媒体
+- DOMAIN-SUFFIX,netflixdnstest0.com,🌍 国外媒体
+- DOMAIN-SUFFIX,netflixdnstest1.com,🌍 国外媒体
+- DOMAIN-SUFFIX,netflixdnstest2.com,🌍 国外媒体
+- DOMAIN-SUFFIX,netflixdnstest3.com,🌍 国外媒体
+- DOMAIN-SUFFIX,netflixdnstest4.com,🌍 国外媒体
+- DOMAIN-SUFFIX,netflixdnstest5.com,🌍 国外媒体
+- DOMAIN-SUFFIX,netflixdnstest6.com,🌍 国外媒体
+- DOMAIN-SUFFIX,netflixdnstest7.com,🌍 国外媒体
+- DOMAIN-SUFFIX,netflixdnstest8.com,🌍 国外媒体
+- DOMAIN-SUFFIX,netflixdnstest9.com,🌍 国外媒体
+- DOMAIN-KEYWORD,dualstack.apiproxy-,🌍 国外媒体
+- DOMAIN-KEYWORD,dualstack.ichnaea-web-,🌍 国外媒体
+- IP-CIDR,23.246.0.0/18,🌍 国外媒体,no-resolve
+- IP-CIDR,37.77.184.0/21,🌍 国外媒体,no-resolve
+- IP-CIDR,45.57.0.0/17,🌍 国外媒体,no-resolve
+- IP-CIDR,64.120.128.0/17,🌍 国外媒体,no-resolve
+- IP-CIDR,66.197.128.0/17,🌍 国外媒体,no-resolve
+- IP-CIDR,108.175.32.0/20,🌍 国外媒体,no-resolve
+- IP-CIDR,192.173.64.0/18,🌍 国外媒体,no-resolve
+- IP-CIDR,198.38.96.0/19,🌍 国外媒体,no-resolve
+- IP-CIDR,198.45.48.0/20,🌍 国外媒体,no-resolve
+- IP-CIDR,34.210.42.111/32,🌍 国外媒体,no-resolve
+- IP-CIDR,52.89.124.203/32,🌍 国外媒体,no-resolve
+- IP-CIDR,54.148.37.5/32,🌍 国外媒体,no-resolve
 - DOMAIN-SUFFIX,dmc.nico,🌍 国外媒体
 - DOMAIN-SUFFIX,nicovideo.jp,🌍 国外媒体
 - DOMAIN-SUFFIX,nimg.jp,🌍 国外媒体
@@ -9528,6 +9547,25 @@ rules:
 - DOMAIN-SUFFIX,zhuihd.com,🎯 全球直连
 - DOMAIN,download.jetbrains.com,🎯 全球直连
 - DOMAIN,images-cn.ssl-images-amazon.com,🎯 全球直连
+- PROCESS-NAME,aria2c,🎯 全球直连
+- PROCESS-NAME,fdm,🎯 全球直连
+- PROCESS-NAME,Folx,🎯 全球直连
+- PROCESS-NAME,NetTransport,🎯 全球直连
+- PROCESS-NAME,Thunder,🎯 全球直连
+- PROCESS-NAME,Transmission,🎯 全球直连
+- PROCESS-NAME,uTorrent,🎯 全球直连
+- PROCESS-NAME,WebTorrent,🎯 全球直连
+- PROCESS-NAME,WebTorrent Helper,🎯 全球直连
+- PROCESS-NAME,DownloadService,🎯 全球直连
+- PROCESS-NAME,Weiyun,🎯 全球直连
+- DOMAIN-KEYWORD,aria2,🎯 全球直连
+- DOMAIN-KEYWORD,xunlei,🎯 全球直连
+- DOMAIN-KEYWORD,yunpan,🎯 全球直连
+- DOMAIN-KEYWORD,Thunder,🎯 全球直连
+- DOMAIN-KEYWORD,XLLiveUD,🎯 全球直连
+- GEOIP,CN,🎯 全球直连
+- MATCH,🐟 漏网之鱼
+🎯 全球直连
 - PROCESS-NAME,aria2c,🎯 全球直连
 - PROCESS-NAME,fdm,🎯 全球直连
 - PROCESS-NAME,Folx,🎯 全球直连
