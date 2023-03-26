@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK 01 - MESL, server: s1.mesinks.cn, port: 10000, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 55933969-b051-40df-bd1f-191f1ea30642, tfo: false, udp: true}
+- {name: 🇭🇰 HK 01 - MESL, server: s1.mesinks.cn, port: 10000, type: ss, cipher: aes-128-gcm, password: 55933969-b051-40df-bd1f-191f1ea30642, udp: true}

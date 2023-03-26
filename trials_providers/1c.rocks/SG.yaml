@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 シンガポール① | 共用通常版サーバ - 1coinVPN, server: 139.180.139.18, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: sg01.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 シンガポール② | 共用通常版サーバ - 1coinVPN, server: 149.28.151.141, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: sg02.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 シンガポール① | 共用通常版サーバ - 1coinVPN, server: 139.180.139.18, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: sg01.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 シンガポール② | 共用通常版サーバ - 1coinVPN, server: 149.28.151.141, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: sg02.1coinvp.vip, skip-cert-verify: true, udp: true}

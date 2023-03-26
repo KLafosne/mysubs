@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 Singapore 獅城隧道 | 1.25x - AIR FORCE, server: cdn-96.airforce1.cyou, port: 25252, type: trojan, password: 9b9f1513-c760-41bb-8911-5b252fa20c0a, sni: intl.802039.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡隧道 √ 1.2x倍率 - AIR FORCE, server: uni-1.802039.xyz, port: 443, type: vmess, uuid: 9b9f1513-c760-41bb-8911-5b252fa20c0a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-1.802039.xyz, network: ws, ws-opts: {path: /new, headers: {Host: sg-1.802039.xyz}}, udp: true}
+- {name: 🇸🇬 Singapore 獅城隧道 | 1.25x - AIR FORCE, server: cdn-96.airforce1.cyou, port: 25252, client-fingerprint: chrome, type: trojan, password: 9b9f1513-c760-41bb-8911-5b252fa20c0a, tfo: false, sni: intl.802039.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡隧道 √ 1.2x倍率 - AIR FORCE, server: uni-1.802039.xyz, port: 443, client-fingerprint: chrome, type: vmess, uuid: 9b9f1513-c760-41bb-8911-5b252fa20c0a, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: sg-1.802039.xyz, network: ws, ws-opts: {path: /new, headers: {Host: sg-1.802039.xyz}}, udp: true}

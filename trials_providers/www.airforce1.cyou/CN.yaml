@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 TaiWan 台灣隧道 | 1.25x - AIR FORCE, server: cdn-200.airforce1.cyou, port: 24654, type: trojan, password: 9b9f1513-c760-41bb-8911-5b252fa20c0a, sni: cdn-40.airforce1.cyou, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 Hong Kong 香港隧道 | 1.25x - AIR FORCE, server: cdn-95.airforce1.cyou, port: 39743, type: trojan, password: 9b9f1513-c760-41bb-8911-5b252fa20c0a, sni: hgc.airforce1.cyou, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TaiWan 台灣隧道 | 1.25x - AIR FORCE, server: cdn-200.airforce1.cyou, port: 24654, client-fingerprint: chrome, type: trojan, password: 9b9f1513-c760-41bb-8911-5b252fa20c0a, tfo: false, sni: cdn-40.airforce1.cyou, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 Hong Kong 香港隧道 | 1.25x - AIR FORCE, server: cdn-95.airforce1.cyou, port: 39743, client-fingerprint: chrome, type: trojan, password: 9b9f1513-c760-41bb-8911-5b252fa20c0a, tfo: false, sni: hgc.airforce1.cyou, skip-cert-verify: true, udp: true}

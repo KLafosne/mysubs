@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡25 Chatgpt - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 11386, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡47 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 62222, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡48 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 52221, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡25 Chatgpt - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 11386, client-fingerprint: chrome, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡47 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 62222, client-fingerprint: chrome, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡48 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 52221, client-fingerprint: chrome, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
