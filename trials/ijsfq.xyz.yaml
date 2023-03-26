@@ -39,19 +39,19 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 🇯🇵 VIP 日本 BGP - 雷云加速, server: bgp.ijsfq.xyz, port: 47662, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
-- {name: 🇺🇸 VIP 美国芝加哥 - 雷云加速, server: bgp.ijsfq.xyz, port: 47692, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
-- {name: 🇸🇬 VIP 新加坡 BGP - 雷云加速, server: bgp.ijsfq.xyz, port: 47663, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
-- {name: 🇨🇳 VIP 台湾 解锁流媒体 - 雷云加速, server: bgp.ijsfq.xyz, port: 55667, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
-- {name: 🇭🇰 VIP 香港 解锁流媒体X - 雷云加速, server: bgp.ijsfq.xyz, port: 45436, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
-- {name: 🇯🇵 VIP 日本 v6 - 雷云加速, server: v6.ijsfq.xyz, port: 6401, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
-- {name: 🇯🇵 VIP 日本 v6X GPT - 雷云加速, server: bgp.ijsfq.xyz, port: 55669, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
-- {name: 🇭🇰 香港v6 - 雷云加速, server: hkv6.ijsfq.xyz, port: 443, type: vmess, uuid: ec27d454-3096-458b-b769-2de83bd0c011, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hkv6.ijsfq.xyz, network: ws, ws-opts: {path: /, headers: {Host: hkv6.ijsfq.xyz}}, udp: true}
-- {name: 🇺🇸 美国洛杉矶 解锁流媒体 GPT - 雷云加速, server: bgp.ijsfq.xyz, port: 47664, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
-- {name: 🇮🇳 印度 解锁流媒体 BGP - 雷云加速, server: bgp.ijsfq.xyz, port: 47661, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
-- {name: 🇩🇪 德国 法兰克福 - 雷云加速, server: bgp.ijsfq.xyz, port: 47161, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
-- {name: 🇺🇸 美国圣何塞 - 雷云加速, server: ehe.ijsfq.xyz, port: 443, type: vmess, uuid: ec27d454-3096-458b-b769-2de83bd0c011, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: ehe.ijsfq.xyz, network: ws, ws-opts: {path: /, headers: {Host: ehe.ijsfq.xyz}}, udp: true}
-- {name: 🇸🇬 新加坡 轻量 - 雷云加速, server: sgp1.ijsfq.xyz, port: 443, type: vmess, uuid: ec27d454-3096-458b-b769-2de83bd0c011, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgp1.ijsfq.xyz, network: ws, ws-opts: {path: /, headers: {Host: sgp1.ijsfq.xyz}}, udp: true}
+- {name: VIP 日本 BGP - 雷云加速, server: bgp.ijsfq.xyz, port: 47662, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
+- {name: VIP 美国芝加哥 - 雷云加速, server: bgp.ijsfq.xyz, port: 47692, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
+- {name: VIP 新加坡 BGP - 雷云加速, server: bgp.ijsfq.xyz, port: 47663, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
+- {name: VIP 台湾 解锁流媒体 - 雷云加速, server: bgp.ijsfq.xyz, port: 55667, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
+- {name: VIP 香港 解锁流媒体X - 雷云加速, server: bgp.ijsfq.xyz, port: 45436, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
+- {name: VIP 日本 v6 - 雷云加速, server: v6.ijsfq.xyz, port: 6401, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
+- {name: VIP 日本 v6X GPT - 雷云加速, server: bgp.ijsfq.xyz, port: 55669, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
+- {name: 香港v6 - 雷云加速, server: hkv6.ijsfq.xyz, port: 443, type: vmess, uuid: ec27d454-3096-458b-b769-2de83bd0c011, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hkv6.ijsfq.xyz, network: ws, ws-opts: {path: /, headers: {Host: hkv6.ijsfq.xyz}}, udp: true}
+- {name: 美国洛杉矶 解锁流媒体 GPT - 雷云加速, server: bgp.ijsfq.xyz, port: 47664, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
+- {name: 印度 解锁流媒体 BGP - 雷云加速, server: bgp.ijsfq.xyz, port: 47661, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
+- {name: 德国 法兰克福 - 雷云加速, server: bgp.ijsfq.xyz, port: 47161, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
+- {name: 美国圣何塞 - 雷云加速, server: ehe.ijsfq.xyz, port: 443, type: vmess, uuid: ec27d454-3096-458b-b769-2de83bd0c011, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: ehe.ijsfq.xyz, network: ws, ws-opts: {path: /, headers: {Host: ehe.ijsfq.xyz}}, udp: true}
+- {name: 新加坡 轻量 - 雷云加速, server: sgp1.ijsfq.xyz, port: 443, type: vmess, uuid: ec27d454-3096-458b-b769-2de83bd0c011, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgp1.ijsfq.xyz, network: ws, ws-opts: {path: /, headers: {Host: sgp1.ijsfq.xyz}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,local,🎯 全球直连
 - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
@@ -142,24 +142,6 @@ rules:
 - DOMAIN,bdtj.tagtic.cn,🎯 全球直连
 - DOMAIN,log.mmstat.com,🎯 全球直连
 - DOMAIN,sycm.mmstat.com,🎯 全球直连
-- DOMAIN-SUFFIX,blog.google,🎯 全球直连
-- DOMAIN-SUFFIX,googletraveladservices.com,🎯 全球直连
-- DOMAIN,clientservices.googleapis.com,🎯 全球直连
-- DOMAIN,dl.google.com,🎯 全球直连
-- DOMAIN,dl.l.google.com,🎯 全球直连
-- DOMAIN,update.googleapis.com,🎯 全球直连
-- DOMAIN,translate.googleapis.com,🎯 全球直连
-- DOMAIN,fonts.googleapis.com,🎯 全球直连
-- DOMAIN,fonts.gstatic.com,🎯 全球直连
-- DOMAIN,mtalk.google.com,🎯 全球直连
-- DOMAIN,alt1-mtalk.google.com,🎯 全球直连
-- DOMAIN,alt2-mtalk.google.com,🎯 全球直连
-- DOMAIN,alt3-mtalk.google.com,🎯 全球直连
-- DOMAIN,alt4-mtalk.google.com,🎯 全球直连
-- DOMAIN,alt5-mtalk.google.com,🎯 全球直连
-- DOMAIN,alt6-mtalk.google.com,🎯 全球直连
-- DOMAIN,alt7-mtalk.google.com,🎯 全球直连
-- DOMAIN,alt8-mtalk.google.com,🎯 全球直连
 - DOMAIN,pubads.g.doubleclick.net,🎯 全球直连
 - DOMAIN,fairplay.l.qq.com,🎯 全球直连
 - DOMAIN,livew.l.qq.com,🎯 全球直连
@@ -8398,6 +8380,37 @@ rules:
 - DOMAIN-SUFFIX,mindmanager.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,photozoomchina.com,🛑 全球拦截
 - DOMAIN-SUFFIX,xitongqingli.com,🛑 全球拦截
+- DOMAIN-SUFFIX,netflix.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflix.net,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflxext.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflximg.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflximg.net,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflxso.net,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflxvideo.net,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest0.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest1.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest2.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest3.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest4.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest5.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest6.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest7.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest8.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest9.com,🎥 NETFLIX
+- DOMAIN-KEYWORD,dualstack.apiproxy-,🎥 NETFLIX
+- DOMAIN-KEYWORD,dualstack.ichnaea-web-,🎥 NETFLIX
+- IP-CIDR,23.246.0.0/18,🎥 NETFLIX,no-resolve
+- IP-CIDR,37.77.184.0/21,🎥 NETFLIX,no-resolve
+- IP-CIDR,45.57.0.0/17,🎥 NETFLIX,no-resolve
+- IP-CIDR,64.120.128.0/17,🎥 NETFLIX,no-resolve
+- IP-CIDR,66.197.128.0/17,🎥 NETFLIX,no-resolve
+- IP-CIDR,108.175.32.0/20,🎥 NETFLIX,no-resolve
+- IP-CIDR,192.173.64.0/18,🎥 NETFLIX,no-resolve
+- IP-CIDR,198.38.96.0/19,🎥 NETFLIX,no-resolve
+- IP-CIDR,198.45.48.0/20,🎥 NETFLIX,no-resolve
+- IP-CIDR,34.210.42.111/32,🎥 NETFLIX,no-resolve
+- IP-CIDR,52.89.124.203/32,🎥 NETFLIX,no-resolve
+- IP-CIDR,54.148.37.5/32,🎥 NETFLIX,no-resolve
 - DOMAIN-SUFFIX,jtvnw.net,🌍 国外媒体
 - DOMAIN-SUFFIX,ttvnw.net,🌍 国外媒体
 - DOMAIN-SUFFIX,twitch.tv,🌍 国外媒体
@@ -8554,37 +8567,6 @@ rules:
 - DOMAIN-SUFFIX,tvb.com,🌍 国外媒体
 - DOMAIN-SUFFIX,naver.com,🌍 国外媒体
 - DOMAIN-SUFFIX,smartmediarep.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflix.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflix.net,🌍 国外媒体
-- DOMAIN-SUFFIX,nflxext.com,🌍 国外媒体
-- DOMAIN-SUFFIX,nflximg.com,🌍 国外媒体
-- DOMAIN-SUFFIX,nflximg.net,🌍 国外媒体
-- DOMAIN-SUFFIX,nflxso.net,🌍 国外媒体
-- DOMAIN-SUFFIX,nflxvideo.net,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest0.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest1.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest2.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest3.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest4.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest5.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest6.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest7.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest8.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest9.com,🌍 国外媒体
-- DOMAIN-KEYWORD,dualstack.apiproxy-,🌍 国外媒体
-- DOMAIN-KEYWORD,dualstack.ichnaea-web-,🌍 国外媒体
-- IP-CIDR,23.246.0.0/18,🌍 国外媒体,no-resolve
-- IP-CIDR,37.77.184.0/21,🌍 国外媒体,no-resolve
-- IP-CIDR,45.57.0.0/17,🌍 国外媒体,no-resolve
-- IP-CIDR,64.120.128.0/17,🌍 国外媒体,no-resolve
-- IP-CIDR,66.197.128.0/17,🌍 国外媒体,no-resolve
-- IP-CIDR,108.175.32.0/20,🌍 国外媒体,no-resolve
-- IP-CIDR,192.173.64.0/18,🌍 国外媒体,no-resolve
-- IP-CIDR,198.38.96.0/19,🌍 国外媒体,no-resolve
-- IP-CIDR,198.45.48.0/20,🌍 国外媒体,no-resolve
-- IP-CIDR,34.210.42.111/32,🌍 国外媒体,no-resolve
-- IP-CIDR,52.89.124.203/32,🌍 国外媒体,no-resolve
-- IP-CIDR,54.148.37.5/32,🌍 国外媒体,no-resolve
 - DOMAIN-SUFFIX,dmc.nico,🌍 国外媒体
 - DOMAIN-SUFFIX,nicovideo.jp,🌍 国外媒体
 - DOMAIN-SUFFIX,nimg.jp,🌍 国外媒体

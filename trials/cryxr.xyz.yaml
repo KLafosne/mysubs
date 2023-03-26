@@ -39,31 +39,33 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 本站网址：www.cryxr1.xyz - 探索者, server: 603diya.donghui.tech, port: 34635, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 本站网址：www.cryxr2.xyz - 探索者, server: 603diya.donghui.tech, port: 34636, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 本站网址：www.cryxr3.xyz - 探索者, server: 603diya.donghui.tech, port: 34640, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: SVIP|台湾03|三网优化| - 探索者, server: 603diya.donghui.tech, port: 34637, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: SVIP|台湾04|三网优化| - 探索者, server: 603diya.donghui.tech, port: 34647, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 【IEPL-香港-02】流媒体解锁 - 探索者, server: 603diya.donghui.tech, port: 34641, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 【IEPL-香港-03】流媒体解锁 - 探索者, server: 603diya.donghui.tech, port: 34642, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 【IEPL-香港-04】流媒体解锁 - 探索者, server: 603diya.donghui.tech, port: 34643, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 【IEPL-香港-05】流媒体解锁 - 探索者, server: 603diya.donghui.tech, port: 34644, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 【IEPL-香港-07】流媒体解锁 - 探索者, server: 603diyb.donghui.tech, port: 32322, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: VIP|新加坡02-5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32338, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: VIP|新加坡03-5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32323, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: VIP|新加坡04-5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32324, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: VIP|新加坡05-5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32325, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: VIP｜日本004—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32328, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 极速｜日本005—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32337, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 极速｜日本006—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32335, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 极速｜日本007—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32336, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 极速｜日本008—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32337, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 极速|美国06 - 探索者, server: 603diyb.donghui.tech, port: 32331, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 极速|美国07 - 探索者, server: 603diyb.donghui.tech, port: 32332, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 极速|美国08 - 探索者, server: 603diyb.donghui.tech, port: 23334, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 极速|韩国02 - 探索者, server: 603diya.donghui.tech, port: 34645, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 极速|韩国03 - 探索者, server: 603diya.donghui.tech, port: 34656, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 极速|韩国04 - 探索者, server: 603diya.donghui.tech, port: 34646, type: vmess, uuid: 1bef1443-cae4-4aa0-9c64-4d6b9a4c4a37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🏳️‍🌈 剩余流量：1 GB - 探索者, server: 603diya.donghui.tech, port: 34635, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 套餐到期：2023-03-26 - 探索者, server: 603diya.donghui.tech, port: 34635, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 本站网址：www.cryxr1.xyz - 探索者, server: 603diya.donghui.tech, port: 34635, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 本站网址：www.cryxr2.xyz - 探索者, server: 603diya.donghui.tech, port: 34636, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 本站网址：www.cryxr3.xyz - 探索者, server: 603diya.donghui.tech, port: 34640, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🇨🇳 SVIP|台湾03|三网优化| - 探索者, server: 603diya.donghui.tech, port: 34637, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🇨🇳 SVIP|台湾04|三网优化| - 探索者, server: 603diya.donghui.tech, port: 34647, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🇭🇰 【IEPL-香港-02】流媒体解锁 - 探索者, server: 603diya.donghui.tech, port: 34641, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🇭🇰 【IEPL-香港-03】流媒体解锁 - 探索者, server: 603diya.donghui.tech, port: 34642, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🇭🇰 【IEPL-香港-04】流媒体解锁 - 探索者, server: 603diya.donghui.tech, port: 34643, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🇭🇰 【IEPL-香港-05】流媒体解锁 - 探索者, server: 603diya.donghui.tech, port: 34644, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🇭🇰 【IEPL-香港-07】流媒体解锁 - 探索者, server: 603diyb.donghui.tech, port: 32322, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇸🇬 VIP|新加坡02-5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32338, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇸🇬 VIP|新加坡03-5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32323, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇸🇬 VIP|新加坡04-5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32324, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇸🇬 VIP|新加坡05-5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32325, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇯🇵 VIP｜日本004—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32328, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇯🇵 极速｜日本005—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32337, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇯🇵 极速｜日本006—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32335, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇯🇵 极速｜日本007—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32336, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇯🇵 极速｜日本008—5Gbps - 探索者, server: 603diyb.donghui.tech, port: 32337, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇺🇸 极速|美国06 - 探索者, server: 603diyb.donghui.tech, port: 32331, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇺🇸 极速|美国07 - 探索者, server: 603diyb.donghui.tech, port: 32332, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇺🇸 极速|美国08 - 探索者, server: 603diyb.donghui.tech, port: 23334, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇰🇷 极速|韩国02 - 探索者, server: 603diya.donghui.tech, port: 34645, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🇰🇷 极速|韩国03 - 探索者, server: 603diya.donghui.tech, port: 34656, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🇰🇷 极速|韩国04 - 探索者, server: 603diya.donghui.tech, port: 34646, type: vmess, uuid: 94f5d3ab-f4f6-4ba7-9242-25f39e62daed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,local,🎯 全球直连
 - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
@@ -154,24 +156,6 @@ rules:
 - DOMAIN,bdtj.tagtic.cn,🎯 全球直连
 - DOMAIN,log.mmstat.com,🎯 全球直连
 - DOMAIN,sycm.mmstat.com,🎯 全球直连
-- DOMAIN-SUFFIX,blog.google,🎯 全球直连
-- DOMAIN-SUFFIX,googletraveladservices.com,🎯 全球直连
-- DOMAIN,clientservices.googleapis.com,🎯 全球直连
-- DOMAIN,dl.google.com,🎯 全球直连
-- DOMAIN,dl.l.google.com,🎯 全球直连
-- DOMAIN,update.googleapis.com,🎯 全球直连
-- DOMAIN,translate.googleapis.com,🎯 全球直连
-- DOMAIN,fonts.googleapis.com,🎯 全球直连
-- DOMAIN,fonts.gstatic.com,🎯 全球直连
-- DOMAIN,mtalk.google.com,🎯 全球直连
-- DOMAIN,alt1-mtalk.google.com,🎯 全球直连
-- DOMAIN,alt2-mtalk.google.com,🎯 全球直连
-- DOMAIN,alt3-mtalk.google.com,🎯 全球直连
-- DOMAIN,alt4-mtalk.google.com,🎯 全球直连
-- DOMAIN,alt5-mtalk.google.com,🎯 全球直连
-- DOMAIN,alt6-mtalk.google.com,🎯 全球直连
-- DOMAIN,alt7-mtalk.google.com,🎯 全球直连
-- DOMAIN,alt8-mtalk.google.com,🎯 全球直连
 - DOMAIN,pubads.g.doubleclick.net,🎯 全球直连
 - DOMAIN,fairplay.l.qq.com,🎯 全球直连
 - DOMAIN,livew.l.qq.com,🎯 全球直连
@@ -8410,6 +8394,37 @@ rules:
 - DOMAIN-SUFFIX,mindmanager.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,photozoomchina.com,🛑 全球拦截
 - DOMAIN-SUFFIX,xitongqingli.com,🛑 全球拦截
+- DOMAIN-SUFFIX,netflix.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflix.net,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflxext.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflximg.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflximg.net,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflxso.net,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflxvideo.net,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest0.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest1.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest2.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest3.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest4.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest5.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest6.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest7.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest8.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest9.com,🎥 NETFLIX
+- DOMAIN-KEYWORD,dualstack.apiproxy-,🎥 NETFLIX
+- DOMAIN-KEYWORD,dualstack.ichnaea-web-,🎥 NETFLIX
+- IP-CIDR,23.246.0.0/18,🎥 NETFLIX,no-resolve
+- IP-CIDR,37.77.184.0/21,🎥 NETFLIX,no-resolve
+- IP-CIDR,45.57.0.0/17,🎥 NETFLIX,no-resolve
+- IP-CIDR,64.120.128.0/17,🎥 NETFLIX,no-resolve
+- IP-CIDR,66.197.128.0/17,🎥 NETFLIX,no-resolve
+- IP-CIDR,108.175.32.0/20,🎥 NETFLIX,no-resolve
+- IP-CIDR,192.173.64.0/18,🎥 NETFLIX,no-resolve
+- IP-CIDR,198.38.96.0/19,🎥 NETFLIX,no-resolve
+- IP-CIDR,198.45.48.0/20,🎥 NETFLIX,no-resolve
+- IP-CIDR,34.210.42.111/32,🎥 NETFLIX,no-resolve
+- IP-CIDR,52.89.124.203/32,🎥 NETFLIX,no-resolve
+- IP-CIDR,54.148.37.5/32,🎥 NETFLIX,no-resolve
 - DOMAIN-SUFFIX,jtvnw.net,🌍 国外媒体
 - DOMAIN-SUFFIX,ttvnw.net,🌍 国外媒体
 - DOMAIN-SUFFIX,twitch.tv,🌍 国外媒体
@@ -8566,37 +8581,6 @@ rules:
 - DOMAIN-SUFFIX,tvb.com,🌍 国外媒体
 - DOMAIN-SUFFIX,naver.com,🌍 国外媒体
 - DOMAIN-SUFFIX,smartmediarep.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflix.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflix.net,🌍 国外媒体
-- DOMAIN-SUFFIX,nflxext.com,🌍 国外媒体
-- DOMAIN-SUFFIX,nflximg.com,🌍 国外媒体
-- DOMAIN-SUFFIX,nflximg.net,🌍 国外媒体
-- DOMAIN-SUFFIX,nflxso.net,🌍 国外媒体
-- DOMAIN-SUFFIX,nflxvideo.net,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest0.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest1.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest2.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest3.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest4.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest5.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest6.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest7.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest8.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest9.com,🌍 国外媒体
-- DOMAIN-KEYWORD,dualstack.apiproxy-,🌍 国外媒体
-- DOMAIN-KEYWORD,dualstack.ichnaea-web-,🌍 国外媒体
-- IP-CIDR,23.246.0.0/18,🌍 国外媒体,no-resolve
-- IP-CIDR,37.77.184.0/21,🌍 国外媒体,no-resolve
-- IP-CIDR,45.57.0.0/17,🌍 国外媒体,no-resolve
-- IP-CIDR,64.120.128.0/17,🌍 国外媒体,no-resolve
-- IP-CIDR,66.197.128.0/17,🌍 国外媒体,no-resolve
-- IP-CIDR,108.175.32.0/20,🌍 国外媒体,no-resolve
-- IP-CIDR,192.173.64.0/18,🌍 国外媒体,no-resolve
-- IP-CIDR,198.38.96.0/19,🌍 国外媒体,no-resolve
-- IP-CIDR,198.45.48.0/20,🌍 国外媒体,no-resolve
-- IP-CIDR,34.210.42.111/32,🌍 国外媒体,no-resolve
-- IP-CIDR,52.89.124.203/32,🌍 国外媒体,no-resolve
-- IP-CIDR,54.148.37.5/32,🌍 国外媒体,no-resolve
 - DOMAIN-SUFFIX,dmc.nico,🌍 国外媒体
 - DOMAIN-SUFFIX,nicovideo.jp,🌍 国外媒体
 - DOMAIN-SUFFIX,nimg.jp,🌍 国外媒体
