@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 中转 D 沪新 1.5x - 白给加速器, server: snode-oss-sh2.nmp.pw, port: 37001, type: vmess, uuid: 03a6d834-edc8-4295-858d-28990752df89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转 D 沪新 1.5x - 白给加速器, server: snode-oss-sh2.nmp.pw, port: 37001, type: vmess, uuid: c2a6b18d-6dbf-41ad-ae69-52239b836c59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

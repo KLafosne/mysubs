@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵Japan 01 - Lime 青柠, server: ahyd.pangupy.com, port: 59093, type: ss, cipher: aes-256-gcm, password: 8a781483-11b7-40cf-8fb9-4bbadecbc09c, udp: true}
-- {name: 🇯🇵Japan 02 - Lime 青柠, server: hzdx.pangupy.com, port: 59093, type: ss, cipher: aes-256-gcm, password: 8a781483-11b7-40cf-8fb9-4bbadecbc09c, udp: true}
+- {name: 🇯🇵Japan 01 - Lime 青柠, server: ahyd.pangupy.com, port: 59093, type: ss, cipher: aes-256-gcm, password: 1c668908-cfbc-454b-8e41-10280305a4c1, udp: true}
+- {name: 🇯🇵Japan 02 - Lime 青柠, server: hzdx.pangupy.com, port: 59093, type: ss, cipher: aes-256-gcm, password: 1c668908-cfbc-454b-8e41-10280305a4c1, udp: true}
