@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 TW原生2-1-广东X1.2 - 大牛机场, server: gd.xyzxyz8.xyz, port: 43429, type: ss, cipher: aes-128-gcm, password: 69ad07bb-7bee-4bd7-82d8-0ebd69449fc3, udp: true}
-- {name: 🇹🇼 TW原生2-2-江苏X1.2 - 大牛机场, server: js.xyzxyz8.xyz, port: 27632, type: trojan, password: 69ad07bb-7bee-4bd7-82d8-0ebd69449fc3, sni: tw1.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TW原生2-1-广东X1.2 - 大牛机场, server: gd.xyzxyz8.xyz, port: 43429, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 69ad07bb-7bee-4bd7-82d8-0ebd69449fc3, tfo: false, udp: true}
+- {name: 🇹🇼 TW原生2-2-江苏X1.2 - 大牛机场, server: js.xyzxyz8.xyz, port: 27632, client-fingerprint: chrome, type: trojan, password: 69ad07bb-7bee-4bd7-82d8-0ebd69449fc3, tfo: false, sni: tw1.e300daniu.com, skip-cert-verify: true, udp: true}

@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 ss丨台湾1 ChatGPT - 蚂蚁云流量, server: ss.mayiyun.shop, port: 22004, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: fe824cca-1310-40da-942d-37c90b9e7293, tfo: false, udp: true}
-- {name: 🇹🇼 CF丨台湾2 - 蚂蚁云流量, server: mytw.brucean.cn, port: 443, client-fingerprint: chrome, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mytw.brucean.cn}}, udp: true}
-- {name: 🇹🇼 80丨台湾2 - 蚂蚁云流量, server: tw.mayiyun.shop, port: 80, client-fingerprint: chrome, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}, udp: true}
-- {name: 🇹🇼 80丨台湾1 - 蚂蚁云流量, server: hinettw.mayiyun.shop, port: 80, client-fingerprint: chrome, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}, udp: true}
+- {name: 🇹🇼 ss丨台湾1 ChatGPT - 蚂蚁云流量, server: ss.mayiyun.shop, port: 22004, type: ss, cipher: aes-128-gcm, password: fe824cca-1310-40da-942d-37c90b9e7293, udp: true}
+- {name: 🇹🇼 CF丨台湾2 - 蚂蚁云流量, server: mytw.brucean.cn, port: 443, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mytw.brucean.cn}}, udp: true}
+- {name: 🇹🇼 80丨台湾2 - 蚂蚁云流量, server: tw.mayiyun.shop, port: 80, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}, udp: true}
+- {name: 🇹🇼 80丨台湾1 - 蚂蚁云流量, server: hinettw.mayiyun.shop, port: 80, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}, udp: true}
