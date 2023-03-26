@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇮🇸 冰岛|8.0X|Disney+🏰 - 小狗云, server: is.feng.best, port: 25007, type: ss, cipher: chacha20-ietf-poly1305, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, udp: true}
+- {name: 🇮🇸 冰岛|8.0X|Disney+🏰 - 小狗云, server: is.feng.best, port: 25007, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, tfo: false, udp: true}

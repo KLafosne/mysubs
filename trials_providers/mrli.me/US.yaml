@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国11 SSR - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 10081, type: ssr, cipher: aes-128-ctr, password: aD7kWU, protocol: auth_aes128_md5, obfs: plain, protocol-param: 5945:mJwmeUItuElIdQ74, obfs-param: 791495945.microsoft.com, udp: true}
-- {name: 🇺🇸 美国17 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 30114, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国60 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 13024, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国11 SSR - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 10081, type: ssr, cipher: aes-128-ctr, password: aD7kWU, protocol: auth_aes128_md5, obfs: plain, protocol-param: 5956:WHOUw97rNbao14Rd, obfs-param: 86fb45956.microsoft.com, udp: true}
+- {name: 🇺🇸 美国17 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 30114, type: vmess, uuid: bbb4c186-7c26-3f3c-946b-850a3f7e3e78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国60 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 13024, type: vmess, uuid: bbb4c186-7c26-3f3c-946b-850a3f7e3e78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

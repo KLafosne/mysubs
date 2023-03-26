@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 VIP2/日本_04/隧道/1.0x - ANYDOOR, server: hbcu.lele233.top, port: 52405, type: ss, cipher: chacha20-ietf-poly1305, password: 58c0f24f-6137-41c3-bbb2-7b86d964d6c0, udp: true}
-- {name: 🇯🇵 VIP2/日本_05/隧道/1.0x - ANYDOOR, server: hbcu.lele233.top, port: 31513, type: ss, cipher: chacha20-ietf-poly1305, password: 58c0f24f-6137-41c3-bbb2-7b86d964d6c0, udp: true}
+- {name: 🇯🇵 VIP2/日本_04/隧道/1.0x - ANYDOOR, server: hbcu.lele233.top, port: 52405, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 58c0f24f-6137-41c3-bbb2-7b86d964d6c0, tfo: false, udp: true}
+- {name: 🇯🇵 VIP2/日本_05/隧道/1.0x - ANYDOOR, server: hbcu.lele233.top, port: 31513, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 58c0f24f-6137-41c3-bbb2-7b86d964d6c0, tfo: false, udp: true}

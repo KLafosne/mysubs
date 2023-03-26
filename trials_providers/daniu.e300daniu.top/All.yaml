@@ -1,79 +1,79 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK1-1-原生-江苏X1.2 - 大牛机场, server: js.xyzxyz8.xyz, port: 49904, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: xg22.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK1-2-原生-广东X1.2 - 大牛机场, server: gd.xyzxyz8.xyz, port: 31355, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇭🇰 HK2-1-原生-广东X1.2 - 大牛机场, server: gd.xyzxyz8.xyz, port: 24100, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: xg2.e300daniu.top, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK2-2-原生-江苏X1.2 - 大牛机场, server: js.xyzxyz8.xyz, port: 29097, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇭🇰 HK3-1-原生-广东X1.2 - 大牛机场, server: gd.xyzxyz8.xyz, port: 51297, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇭🇰 HK3-2-原生-江苏X1.2 - 大牛机场, server: js.xyzxyz8.xyz, port: 42643, type: ss, cipher: aes-256-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇭🇰 HK4-1-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 48568, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: xg5.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK4-2-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 18890, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇭🇰 HK5-1-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 13329, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: xg6.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK5-2-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 25130, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇭🇰 HK6-1-广东-原生X1.2 - 大牛机场, server: gd.xyzxyz8.xyz, port: 20753, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: xg1.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK6-2-江苏-原生X1.2 - 大牛机场, server: js.xyzxyz8.xyz, port: 23862, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇭🇰 HK7-1-广东-原生X1.2 - 大牛机场, server: gd.xyzxyz8.xyz, port: 35766, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: xg7.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK7-2-江苏-原生X1.2 - 大牛机场, server: js.xyzxyz8.xyz, port: 54606, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇭🇰 HK8-1-广东-原生X1.2 - 大牛机场, server: gd.xyzxyz8.xyz, port: 22870, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: xg8.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 HK8-2-江苏-原生X1.2 - 大牛机场, server: js.xyzxyz8.xyz, port: 17970, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇹🇭 THA1-1-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 43000, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇹🇭 THA1-2-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 18214, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: tg.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇮🇱 IL1-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 31200, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: ysl.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇮🇱 IL1-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 31772, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇹🇼 TW原生2-1-广东X1.2 - 大牛机场, server: gd.xyzxyz8.xyz, port: 43429, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇹🇼 TW原生2-2-江苏X1.2 - 大牛机场, server: js.xyzxyz8.xyz, port: 27632, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: tw1.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP1-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 25977, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: ri10.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP1-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 30973, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇯🇵 JP2-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 53049, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: rb.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP2-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 54581, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: rb.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP3-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 17196, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: se1.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP3-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 28093, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇯🇵 JP4-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 54616, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: rbaz.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP4-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 53664, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇯🇵 JP5-1-江苏-原生-500MX1.3 - 大牛机场, server: js.xyzxyz8.xyz, port: 35500, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: riben.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP5-2-广东-原生-500MX1.3 - 大牛机场, server: gd.xyzxyz8.xyz, port: 32935, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇰🇷 KR1-1-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 59039, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇰🇷 KR1-2-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 24635, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: se.e300daniu.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG1-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 25163, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: sg2.e300daniu.top, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG1-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 50044, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇸🇬 SG2-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 38393, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇸🇬 SG2-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 33349, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: sg.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG3-1-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 13245, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: sg1.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG3-2-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 45151, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇸🇬 SG4-1-原生-江苏X1.3 - 大牛机场, server: js.xyzxyz8.xyz, port: 20584, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: sg4.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG4-2-原生-广东X1.3 - 大牛机场, server: gd.xyzxyz8.xyz, port: 25691, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇺🇸 US1-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 49752, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: jjs2.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US1-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 35034, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇺🇸 US2-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 30679, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇺🇸 US2-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 49791, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: mlsj.e300daniu.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US3-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 42496, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇺🇸 US3-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 37285, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: mei.e300daniu.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US4-1-原生-江苏X1 - 大牛机场, server: js.xyzxyz8.xyz, port: 29276, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: mg4.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US4-2-原生-广东X1 - 大牛机场, server: gd.xyzxyz8.xyz, port: 48701, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇨🇦 CA1-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 12245, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: ca.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦 CA1-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 45012, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇳🇱 NL1-1-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 37229, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: hl.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇳🇱 NL1-2-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 15343, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇬🇧 UK1-1-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 33953, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: ygld.e300daniu.top, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 UK1-2-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 46794, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇦🇺 AU1-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 56185, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇦🇺 AU1-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 10547, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: xn.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 IN1-1-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 17768, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: yd.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 IN1-2-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 12587, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: yd.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 DE1-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 50286, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇩🇪 DE1-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 39578, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: de1.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇧🇷 BR1-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 48036, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇧🇷 BR1-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 22027, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: bx.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇲🇾 MY1-1-江苏X1.5 - 大牛机场, server: js.xyzxyz8.xyz, port: 57184, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: ml.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇲🇾 MY1-2-广东X1.3 - 大牛机场, server: gd.xyzxyz8.xyz, port: 27303, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇵🇭 PH1-1-广东X2 - 大牛机场, server: gd.xyzxyz8.xyz, port: 12916, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇵🇭 PH1-2-江苏X2 - 大牛机场, server: js.xyzxyz8.xyz, port: 41607, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: flb.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 TUR 1-1原生-广东X1.1 - 大牛机场, server: gd.xyzxyz8.xyz, port: 25382, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇹🇷 TUR 1-2原生-江苏X1.1 - 大牛机场, server: js.xyzxyz8.xyz, port: 27341, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: trq1.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 VN1-1-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 20627, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: yn.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 VN1-2-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 57159, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇦🇷 AR1-1-广东X3 - 大牛机场, server: gd.xyzxyz8.xyz, port: 56385, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇦🇷 AR1-2-江苏X3 - 大牛机场, server: js.xyzxyz8.xyz, port: 30464, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: agt.e300daniu.com, skip-cert-verify: true, udp: true}
-- {name: 🇨🇳 UKR1-1-广州 - 大牛机场, server: gd.xyzxyz8.xyz, port: 41180, type: ss, cipher: aes-128-gcm, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, udp: true}
-- {name: 🇺🇦 UKR1-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 50014, type: trojan, password: 07fe2a20-5457-431d-a068-4b8ae43bd140, sni: wkl.e300daniu.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK1-1-原生-江苏X1.2 - 大牛机场, server: js.xyzxyz8.xyz, port: 49904, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: xg22.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK1-2-原生-广东X1.2 - 大牛机场, server: gd.xyzxyz8.xyz, port: 31355, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇭🇰 HK2-1-原生-广东X1.2 - 大牛机场, server: gd.xyzxyz8.xyz, port: 24100, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: xg2.e300daniu.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK2-2-原生-江苏X1.2 - 大牛机场, server: js.xyzxyz8.xyz, port: 29097, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇭🇰 HK3-1-原生-广东X1.2 - 大牛机场, server: gd.xyzxyz8.xyz, port: 51297, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇭🇰 HK3-2-原生-江苏X1.2 - 大牛机场, server: js.xyzxyz8.xyz, port: 42643, type: ss, cipher: aes-256-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇭🇰 HK4-1-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 48568, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: xg5.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK4-2-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 18890, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇭🇰 HK5-1-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 13329, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: xg6.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK5-2-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 25130, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇭🇰 HK6-1-广东-原生X1.2 - 大牛机场, server: gd.xyzxyz8.xyz, port: 20753, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: xg1.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK6-2-江苏-原生X1.2 - 大牛机场, server: js.xyzxyz8.xyz, port: 23862, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇭🇰 HK7-1-广东-原生X1.2 - 大牛机场, server: gd.xyzxyz8.xyz, port: 35766, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: xg7.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK7-2-江苏-原生X1.2 - 大牛机场, server: js.xyzxyz8.xyz, port: 54606, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇭🇰 HK8-1-广东-原生X1.2 - 大牛机场, server: gd.xyzxyz8.xyz, port: 22870, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: xg8.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK8-2-江苏-原生X1.2 - 大牛机场, server: js.xyzxyz8.xyz, port: 17970, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇹🇭 THA1-1-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 43000, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇹🇭 THA1-2-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 18214, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: tg.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇮🇱 IL1-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 31200, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: ysl.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇮🇱 IL1-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 31772, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇹🇼 TW原生2-1-广东X1.2 - 大牛机场, server: gd.xyzxyz8.xyz, port: 43429, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇹🇼 TW原生2-2-江苏X1.2 - 大牛机场, server: js.xyzxyz8.xyz, port: 27632, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: tw1.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP1-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 25977, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: ri10.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP1-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 30973, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇯🇵 JP2-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 53049, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: rb.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP2-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 54581, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: rb.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP3-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 17196, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: se1.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP3-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 28093, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇯🇵 JP4-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 54616, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: rbaz.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP4-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 53664, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇯🇵 JP5-1-江苏-原生-500MX1.3 - 大牛机场, server: js.xyzxyz8.xyz, port: 35500, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: riben.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP5-2-广东-原生-500MX1.3 - 大牛机场, server: gd.xyzxyz8.xyz, port: 32935, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇰🇷 KR1-1-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 59039, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇰🇷 KR1-2-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 24635, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: se.e300daniu.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG1-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 25163, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: sg2.e300daniu.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG1-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 50044, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇸🇬 SG2-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 38393, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇸🇬 SG2-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 33349, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: sg.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG3-1-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 13245, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: sg1.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG3-2-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 45151, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇸🇬 SG4-1-原生-江苏X1.3 - 大牛机场, server: js.xyzxyz8.xyz, port: 20584, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: sg4.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG4-2-原生-广东X1.3 - 大牛机场, server: gd.xyzxyz8.xyz, port: 25691, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇺🇸 US1-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 49752, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: jjs2.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US1-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 35034, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇺🇸 US2-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 30679, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇺🇸 US2-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 49791, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: mlsj.e300daniu.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US3-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 42496, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇺🇸 US3-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 37285, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: mei.e300daniu.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US4-1-原生-江苏X1 - 大牛机场, server: js.xyzxyz8.xyz, port: 29276, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: mg4.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US4-2-原生-广东X1 - 大牛机场, server: gd.xyzxyz8.xyz, port: 48701, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇨🇦 CA1-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 12245, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: ca.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦 CA1-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 45012, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇳🇱 NL1-1-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 37229, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: hl.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇳🇱 NL1-2-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 15343, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇬🇧 UK1-1-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 33953, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: ygld.e300daniu.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 UK1-2-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 46794, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇦🇺 AU1-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 56185, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇦🇺 AU1-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 10547, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: xn.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 IN1-1-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 17768, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: yd.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 IN1-2-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 12587, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: yd.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 DE1-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 50286, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇩🇪 DE1-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 39578, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: de1.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇧🇷 BR1-1-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 48036, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇧🇷 BR1-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 22027, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: bx.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇲🇾 MY1-1-江苏X1.5 - 大牛机场, server: js.xyzxyz8.xyz, port: 57184, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: ml.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇲🇾 MY1-2-广东X1.3 - 大牛机场, server: gd.xyzxyz8.xyz, port: 27303, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇵🇭 PH1-1-广东X2 - 大牛机场, server: gd.xyzxyz8.xyz, port: 12916, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇵🇭 PH1-2-江苏X2 - 大牛机场, server: js.xyzxyz8.xyz, port: 41607, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: flb.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 TUR 1-1原生-广东X1.1 - 大牛机场, server: gd.xyzxyz8.xyz, port: 25382, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇹🇷 TUR 1-2原生-江苏X1.1 - 大牛机场, server: js.xyzxyz8.xyz, port: 27341, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: trq1.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 VN1-1-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 20627, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: yn.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 VN1-2-广东 - 大牛机场, server: gd.xyzxyz8.xyz, port: 57159, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇦🇷 AR1-1-广东X3 - 大牛机场, server: gd.xyzxyz8.xyz, port: 56385, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇦🇷 AR1-2-江苏X3 - 大牛机场, server: js.xyzxyz8.xyz, port: 30464, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: agt.e300daniu.com, skip-cert-verify: true, udp: true}
+- {name: 🇨🇳 UKR1-1-广州 - 大牛机场, server: gd.xyzxyz8.xyz, port: 41180, type: ss, cipher: aes-128-gcm, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, udp: true}
+- {name: 🇺🇦 UKR1-2-江苏 - 大牛机场, server: js.xyzxyz8.xyz, port: 50014, type: trojan, password: aca92d9d-1f4b-413f-8140-8f5b1c26c2a5, sni: wkl.e300daniu.top, skip-cert-verify: true, udp: true}
