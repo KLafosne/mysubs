@@ -1,15 +1,15 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 - 五元店, server: gdcm.r1u.cn, port: 18047, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, udp: true}
-- {name: 🇹🇼 台湾 - 五元店, server: hbcu.r1u.cn, port: 43789, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, udp: true}
-- {name: 🇰🇷 韩国汉城 - 五元店, server: hbcu.r1u.cn, port: 28781, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, udp: true}
-- {name: 🇯🇵 日本东京1 - 五元店, server: gzcm.xzcloud.pro, port: 28873, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, udp: true}
-- {name: 🇯🇵 日本大阪 - 五元店, server: gzcm.xzcloud.pro, port: 15782, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, udp: true}
-- {name: 🇸🇬 新加坡 - 五元店, server: gzcm.xzcloud.pro, port: 31464, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, udp: true}
-- {name: 🇳🇱 荷兰阿姆斯特丹 - 五元店, server: gdcm.r1u.cn, port: 35242, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, udp: true}
-- {name: 🇫🇷 法国巴黎 - 五元店, server: jscm.r1u.cn, port: 49817, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, udp: true}
-- {name: 🇩🇪 德国法兰克福 - 五元店, server: jscm.r1u.cn, port: 25978, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, udp: true}
-- {name: 🇬🇧 英国伦敦 - 五元店, server: hbcu.r1u.cn, port: 43425, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, udp: true}
-- {name: 🇺🇸 美国圣何塞 - 五元店, server: jscm.r1u.cn, port: 49607, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, udp: true}
-- {name: 🇺🇸 美国新泽西 - 五元店, server: gzcm.xzcloud.pro, port: 24055, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, udp: true}
+- {name: 🇭🇰 香港 - 五元店, server: gdcm.r1u.cn, port: 18047, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 368fbcd0-0955-45b1-a137-ecc2e103b141, tfo: false, udp: true}
+- {name: 🇹🇼 台湾 - 五元店, server: hbcu.r1u.cn, port: 43789, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 368fbcd0-0955-45b1-a137-ecc2e103b141, tfo: false, udp: true}
+- {name: 🇰🇷 韩国汉城 - 五元店, server: hbcu.r1u.cn, port: 28781, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 368fbcd0-0955-45b1-a137-ecc2e103b141, tfo: false, udp: true}
+- {name: 🇯🇵 日本东京1 - 五元店, server: gzcm.xzcloud.pro, port: 28873, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 368fbcd0-0955-45b1-a137-ecc2e103b141, tfo: false, udp: true}
+- {name: 🇯🇵 日本大阪 - 五元店, server: gzcm.xzcloud.pro, port: 15782, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 368fbcd0-0955-45b1-a137-ecc2e103b141, tfo: false, udp: true}
+- {name: 🇸🇬 新加坡 - 五元店, server: gzcm.xzcloud.pro, port: 31464, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 368fbcd0-0955-45b1-a137-ecc2e103b141, tfo: false, udp: true}
+- {name: 🇳🇱 荷兰阿姆斯特丹 - 五元店, server: gdcm.r1u.cn, port: 35242, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 368fbcd0-0955-45b1-a137-ecc2e103b141, tfo: false, udp: true}
+- {name: 🇫🇷 法国巴黎 - 五元店, server: jscm.r1u.cn, port: 49817, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 368fbcd0-0955-45b1-a137-ecc2e103b141, tfo: false, udp: true}
+- {name: 🇩🇪 德国法兰克福 - 五元店, server: jscm.r1u.cn, port: 25978, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 368fbcd0-0955-45b1-a137-ecc2e103b141, tfo: false, udp: true}
+- {name: 🇬🇧 英国伦敦 - 五元店, server: hbcu.r1u.cn, port: 43425, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 368fbcd0-0955-45b1-a137-ecc2e103b141, tfo: false, udp: true}
+- {name: 🇺🇸 美国圣何塞 - 五元店, server: jscm.r1u.cn, port: 49607, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 368fbcd0-0955-45b1-a137-ecc2e103b141, tfo: false, udp: true}
+- {name: 🇺🇸 美国新泽西 - 五元店, server: gzcm.xzcloud.pro, port: 24055, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 368fbcd0-0955-45b1-a137-ecc2e103b141, tfo: false, udp: true}
