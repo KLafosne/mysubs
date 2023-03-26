@@ -38,7 +38,51 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-proxy-providers: {}
+proxies:
+- {name: 欢迎使用果园吧网络服务 - 果园吧 ⚠️限速 30, server: guoyuanbar.top, port: 10086, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: A 中国香港 03 NF - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 32815, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: A 中国香港 04 NF - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 49311, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: A 中国香港 09 NF - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 27147, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: A 中国香港 11 NF - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 19926, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: A 日本 03 NF TT - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 34238, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: A 日本 04 NF TT - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 21328, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: A 日本 08 - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 41515, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: A 日本 09 - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 27502, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: A 美国 06 TT - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 31506, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: A 美国 08 TT - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 36109, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: A 美国 11 NF - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 21287, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: A 英国 02 TT - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 19388, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: A 英国 04 NF TT - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 36306, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: B 中国台湾 01 NF - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 34854, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: B 中国台湾 03 NF - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 23127, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: B 中国香港 01 NF - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 20275, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: B 中国香港 02 NF - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 39104, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: B 中国香港 07 NF - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 17675, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: B 新加坡 01 NF - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 31485, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: B 新加坡 05 NF - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 32048, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: B 日本 05 TT - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 26259, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: B 美国 01 NF - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 40918, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: B 美国 02 NF - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 42842, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: B 美国 04 TT - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 22326, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: C 中国香港 10 NF - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 34908, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: C 新加坡 03 - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 21732, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: C 新加坡 04 - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 24806, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: C 日本 01 NF TT - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 19041, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: C 日本 07 TT - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 20374, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: E 中国台湾 02 NF - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 41433, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: E 中国台湾 04 NF - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 36677, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: E 中国香港 05 NF - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 38951, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: E 中国香港 06 NF - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 40748, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: E 中国香港 08 NF - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 23984, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: E 德国 01 TT - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 37237, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: E 新加坡 02 - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 38211, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: E 日本 02 NF TT - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 37376, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: E 日本 06 TT - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 45359, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: E 美国 09 TT - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 26786, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: E 英国 01 TT - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 35348, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: E 英国 03 NF TT - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 26767, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: E 荷兰 - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 34915, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
+- {name: E 马来西亚 01 NF - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 39182, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, tfo: false, udp: true}
 rules:
 - DOMAIN-SUFFIX,local,🎯 全球直连
 - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve

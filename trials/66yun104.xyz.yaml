@@ -38,7 +38,10 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-proxy-providers: {}
+proxies:
+- {name: A4.入门版年租套餐限时6折仅138/2T/年(非节点勿连) - 六六云, server: www.66yun106.xyz, port: 10086, client-fingerprint: chrome, type: trojan, password: JqfKBjbkcgeeHlbN, tfo: false, skip-cert-verify: true, udp: true}
+- {name: 新加坡 F1|Trojan|01 - 六六云, server: 6f1sgtr1.106ctc.buzz, port: 50143, client-fingerprint: chrome, type: trojan, password: f1c185f8-fc9c-31ed-a247-b0e043d06106, tfo: false, sni: 6f1sgtr1.106ctc.buzz, skip-cert-verify: true, udp: true}
+- {name: 香港 F1(限速) - 六六云, server: 6hkf1.102ctc.xyz, port: 32558, client-fingerprint: chrome, type: trojan, password: f1c185f8-fc9c-31ed-a247-b0e043d06106, tfo: false, sni: 6hkf1.102ctc.xyz, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,local,🎯 全球直连
 - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve

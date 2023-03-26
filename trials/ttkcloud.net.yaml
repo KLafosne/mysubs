@@ -38,7 +38,54 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-proxy-providers: {}
+proxies:
+- {name: 剩余流量：4 GB - TTK, server: lv2.ttkcloud.xyz, port: 51320, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 套餐到期：2023-03-29 - TTK, server: lv2.ttkcloud.xyz, port: 51320, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 香港-TV-1x - TTK, server: lv2.ttkcloud.xyz, port: 51320, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 狮城-TV-1x - TTK, server: lv2.ttkcloud.xyz, port: 51350, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 日本-TV-1x - TTK, server: lv2.ttkcloud.xyz, port: 12333, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 美国-TV-1x - TTK, server: lv2.ttkcloud.xyz, port: 59021, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 台湾01-TV-1x - TTK, server: lv2.ttkcloud.xyz, port: 51347, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 台湾02-TV-1x - TTK, server: lv2.ttkcloud.xyz, port: 52347, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 公网|香港|1x - TTK, server: cs.ttkcloud.xyz, port: 51320, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 公网|狮城|1x - TTK, server: cs.ttkcloud.xyz, port: 51350, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 公网|日本|1x - TTK, server: cs.ttkcloud.xyz, port: 12333, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 公网|美国|1x - TTK, server: cs.ttkcloud.xyz, port: 59021, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 公网|台湾|1x - TTK, server: cs.ttkcloud.xyz, port: 51347, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 韩国01|1x - TTK, server: lv2.ttkcloud.xyz, port: 12334, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 韩国02|1x - TTK, server: lv2.ttkcloud.xyz, port: 12336, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 韩国03|1x - TTK, server: lv2.ttkcloud.xyz, port: 12337, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 韩国04|1x - TTK, server: lv2.ttkcloud.xyz, port: 12338, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 韩国05|1x - TTK, server: lv2.ttkcloud.xyz, port: 12339, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 印度|1x - TTK, server: cs.ttkcloud.xyz, port: 51003, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 泰国|1x - TTK, server: cs.ttkcloud.xyz, port: 51004, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 悉尼|1x - TTK, server: cs.ttkcloud.xyz, port: 51006, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 嘤国|1x - TTK, server: cs.ttkcloud.xyz, port: 51007, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 德国|1x - TTK, server: cs.ttkcloud.xyz, port: 51008, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 法国|1x - TTK, server: cs.ttkcloud.xyz, port: 51011, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 莫斯科|1x - TTK, server: cs.ttkcloud.xyz, port: 51002, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 土耳其|1x - TTK, server: cs.ttkcloud.xyz, port: 51001, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 加拿大|1x - TTK, server: cs.ttkcloud.xyz, port: 51009, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 菲律宾|1x - TTK, server: cs.ttkcloud.xyz, port: 51010, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 墨西哥|1x - TTK, server: cs.ttkcloud.xyz, port: 51005, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 印度尼西亚|1x - TTK, server: cs.ttkcloud.xyz, port: 51012, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: IEPL-ChatGPT-01-1x - TTK, server: cs.ttkcloud.xyz, port: 14236, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: IEPL-ChatGPT-02-1x - TTK, server: cs.ttkcloud.xyz, port: 14237, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: IEPL-ChatGPT-03-1x - TTK, server: cs.ttkcloud.xyz, port: 14238, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: IEPL-ChatGPT-04-1x - TTK, server: cs.ttkcloud.xyz, port: 14239, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: IEPL-ChatGPT-05-1x - TTK, server: cs.ttkcloud.xyz, port: 14240, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 路由器|日本|1x - TTK, server: lv2.ttkcloud.xyz, port: 10946, type: vmess, uuid: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 74.120.175.243, udp: true}
+- {name: 路由器|狮城|1x - TTK, server: lv2.ttkcloud.xyz, port: 10945, type: vmess, uuid: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 74.120.175.243, udp: true}
+- {name: 路由器|美国|1x - TTK, server: lv2.ttkcloud.xyz, port: 10942, type: vmess, uuid: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 74.120.175.243, udp: true}
+- {name: 海外|香港|1x - TTK, server: outline-hk.ttkcloud.buzz, port: 33333, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 海外|日本|1x - TTK, server: outline-jp.ttkcloud.buzz, port: 33333, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 海外|狮城|1x - TTK, server: outline-sg.ttkcloud.buzz, port: 33333, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 海外|美国|1x - TTK, server: outline-us.ttkcloud.buzz, port: 33333, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 节点版本—1月18日 - TTK, server: 10086, port: 666, type: vmess, uuid: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 更新订阅可解决绝大部分问题哦 - TTK, server: 10086, port: 666, type: vmess, uuid: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 最新地址：https://home.ttk.rocks/ - TTK, server: 10086, port: 666, type: vmess, uuid: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 如遇到更新问题请到官网重新导入订阅哦 - TTK, server: 10086, port: 666, type: vmess, uuid: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 若只有三个可用节点请更新客户端 - TTK, server: 10086, port: 666, type: vmess, uuid: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,local,🎯 全球直连
 - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
@@ -3638,13 +3685,7 @@ rules:
 - DOMAIN-SUFFIX,gmota.g188.net,🛑 全球拦截
 - DOMAIN-SUFFIX,gmtdmp.mookie1.com,🛑 全球拦截
 - DOMAIN-SUFFIX,go.gogolm.xyz,🛑 全球拦截
-- DOMAIN-SUFFIX,go.gotourl.xyz,🛑 全球拦截
-- DOMAIN-SUFFIX,go.gotourls.bid,🛑 全球拦截
-- DOMAIN-SUFFIX,go.hangzhou.com.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,go.mmstat.com,🛑 全球拦截
-- DOMAIN-SUFFIX,go.onclasrv.com,🛑 全球拦截
-- DOMAIN-SUFFIX,go.util.zlibs.com,🛑 全球拦截
-- DOMAIN-SUFFIX,godloveme.cn,🛑 全球拦截
+- DOMAIN-SUFFIX,go.gotourl.xDOMAIN-SUFFIX,godloveme.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,gog9.qzdfc.com,🛑 全球拦截
 - DOMAIN-SUFFIX,go-mpulse.net,🛑 全球拦截
 - DOMAIN-SUFFIX,good.ta80.com,🛑 全球拦截
@@ -3721,6 +3762,12 @@ rules:
 - DOMAIN-SUFFIX,h5.pk1179.com,🛑 全球拦截
 - DOMAIN-SUFFIX,h5.super-dreamers.com,🛑 全球拦截
 - DOMAIN-SUFFIX,h5.taihao.cc,🛑 全球拦截
+- DOMAIN-SUFFIX,h8.bec.com,🛑 全球拦截
+- DOMAIN-SUFFIX,h9377c.com,🛑 全球拦截
+- DOMAIN-SUFFIX,haitaoad.nosdn.127.net,🛑 全球拦截
+- DOMAIN-SUFFIX,haiwai-ic.ksosoft.com,🛑 全球拦截
+- DOMAIN-SUFFIX,haiwengji.net,🛑 全球拦截
+- DOMAIN-SUF全球拦截
 - DOMAIN-SUFFIX,h8.bec.com,🛑 全球拦截
 - DOMAIN-SUFFIX,h9377c.com,🛑 全球拦截
 - DOMAIN-SUFFIX,haitaoad.nosdn.127.net,🛑 全球拦截
@@ -3808,12 +3855,7 @@ rules:
 - DOMAIN-SUFFIX,hk.napi.ucweb.com,🛑 全球拦截
 - DOMAIN-SUFFIX,hk9600.com,🛑 全球拦截
 - DOMAIN-SUFFIX,hkfuy.com,🛑 全球拦截
-- DOMAIN-SUFFIX,hl.kuzu.com,🛑 全球拦截
-- DOMAIN-SUFFIX,hl.quw18.com,🛑 全球拦截
-- DOMAIN-SUFFIX,hl2rcv.adobe.com,🛑 全球拦截
-- DOMAIN-SUFFIX,hldwmly.com,🛑 全球拦截
-- DOMAIN-SUFFIX,hlrcv.stage.adobe.com,🛑 全球拦截
-- DOMAIN-SUFFIX,hmp33.com,🛑 全球拦截
+-全球拦截
 - DOMAIN-SUFFIX,hmttoly.com,🛑 全球拦截
 - DOMAIN-SUFFIX,hmyangshengji.com,🛑 全球拦截
 - DOMAIN-SUFFIX,hnasd.com,🛑 全球拦截
@@ -3891,6 +3933,11 @@ rules:
 - DOMAIN-SUFFIX,i.huilixieye.net,🛑 全球拦截
 - DOMAIN-SUFFIX,i.jiathis.com,🛑 全球拦截
 - DOMAIN-SUFFIX,i.jyhwt.cn,🛑 全球拦截
+- DOMAIN-SUFFIX,i.l.cnn.net,🛑 全球拦截
+- DOMAIN-SUFFIX,i.liadm.com,🛑 全球拦截
+- DOMAIN-SUFFIX,i.ma.social-touch.com,🛑 全球拦截
+- DOMAIN-SUFFIX,i.mmcdn.cn,🛑 全球拦截
+- DOMAIN-SUFFIX,i.ssix.io,🛑 全球拦DOMAIN-SUFFIX,i.jyhwt.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,i.l.cnn.net,🛑 全球拦截
 - DOMAIN-SUFFIX,i.liadm.com,🛑 全球拦截
 - DOMAIN-SUFFIX,i.ma.social-touch.com,🛑 全球拦截
@@ -4135,12 +4182,7 @@ rules:
 - DOMAIN-SUFFIX,ipengtai.huanqiu.com,🛑 全球拦截
 - DOMAIN-SUFFIX,iperceptions.com,🛑 全球拦截
 - DOMAIN-SUFFIX,iphonelog.shouji.baofeng.com,🛑 全球拦截
-- DOMAIN-SUFFIX,ipic.staticsdo.com,🛑 全球拦截
-- DOMAIN-SUFFIX,ipinyou.com,🛑 全球拦截
-- DOMAIN-SUFFIX,ipm.atm.youku.com,🛑 全球拦截
-- DOMAIN-SUFFIX,iqiyi.irs01.com,🛑 全球拦截
-- DOMAIN-SUFFIX,ir.mail.126.com,🛑 全球拦截
-- DOMAIN-SUFFIX,ir.mail.163.com,🛑 全球拦截
+- DOMAIN-SUF全球拦截
 - DOMAIN-SUFFIX,ir.mail.yeah.net,🛑 全球拦截
 - DOMAIN-SUFFIX,iroby.com,🛑 全球拦截
 - DOMAIN-SUFFIX,irpmt.mail.163.com,🛑 全球拦截
@@ -4470,6 +4512,12 @@ rules:
 - DOMAIN-SUFFIX,kas.keydot.net,🛑 全球拦截
 - DOMAIN-SUFFIX,kawa11.space,🛑 全球拦截
 - DOMAIN-SUFFIX,kbnetworkz.s3.amazonaws.com,🛑 全球拦截
+- DO全球拦截
+- DOMAIN-SUFFIX,kaitongyewu.com,🛑 全球拦截
+- DOMAIN-SUFFIX,karma.mdpcdn.com,🛑 全球拦截
+- DOMAIN-SUFFIX,kas.keydot.net,🛑 全球拦截
+- DOMAIN-SUFFIX,kawa11.space,🛑 全球拦截
+- DOMAIN-SUFFIX,kbnetworkz.s3.amazonaws.com,🛑 全球拦截
 - DOMAIN-SUFFIX,kddtri.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,kejet.com,🛑 全球拦截
 - DOMAIN-SUFFIX,kejet.net,🛑 全球拦截
@@ -4555,13 +4603,7 @@ rules:
 - DOMAIN-SUFFIX,kxmav2.com,🛑 全球拦截
 - DOMAIN-SUFFIX,kxrxh.com,🛑 全球拦截
 - DOMAIN-SUFFIX,kyad88.com,🛑 全球拦截
-- DOMAIN-SUFFIX,kyzhecmvpiaw.com,🛑 全球拦截
-- DOMAIN-SUFFIX,l.adiers.com,🛑 全球拦截
-- DOMAIN-SUFFIX,l.betrad.com,🛑 全球拦截
-- DOMAIN-SUFFIX,l.minisplat.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,l.mnjkw.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,lives.l.qq.com,🛑 全球拦截
-- DOMAIN-SUFFIX,livep.l.qq.com,🛑 全球拦截
+- DOMAIN-SUFFIDOMAIN-SUFFIX,livep.l.qq.com,🛑 全球拦截
 - DOMAIN-SUFFIX,mi.gdt.qq.com,🛑 全球拦截
 - DOMAIN-SUFFIX,l.supfast.net,🛑 全球拦截
 - DOMAIN-SUFFIX,l.ujian.cc,🛑 全球拦截
@@ -5796,6 +5838,11 @@ rules:
 - DOMAIN-SUFFIX,promo.fileforum.com,🛑 全球拦截
 - DOMAIN-SUFFIX,promos.fling.com,🛑 全球拦截
 - DOMAIN-SUFFIX,promote.biz.weibo.cn,🛑 全球拦截
+- DOMAIN-SUFDOMAIN-SUFFIX,projectwonderful.com,🛑 全球拦截
+- DOMAIN-SUFFIX,prom.gome.com.cn,🛑 全球拦截
+- DOMAIN-SUFFIX,promo.fileforum.com,🛑 全球拦截
+- DOMAIN-SUFFIX,promos.fling.com,🛑 全球拦截
+- DOMAIN-SUFFIX,promote.biz.weibo.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,promote.caixin.com,🛑 全球拦截
 - DOMAIN-SUFFIX,promote.pair.com,🛑 全球拦截
 - DOMAIN-SUFFIX,promotion.gomlab.com,🛑 全球拦截
@@ -6367,12 +6414,7 @@ rules:
 - DOMAIN-SUFFIX,sitescout.com,🛑 全球拦截
 - DOMAIN-SUFFIX,sitetag.us,🛑 全球拦截
 - DOMAIN-SUFFIX,sj.uukanshu.com,🛑 全球拦截
-- DOMAIN-SUFFIX,sj1.3987.com,🛑 全球拦截
-- DOMAIN-SUFFIX,sjj.jsyjwj.com,🛑 全球拦截
-- DOMAIN-SUFFIX,skatehot.net,🛑 全球拦截
-- DOMAIN-SUFFIX,sl.xawjwl.com,🛑 全球拦截
-- DOMAIN-SUFFIX,slb.sxuantang.com,🛑 全球拦截
-- DOMAIN-SUFFIX,slb.upshengyi.com,🛑 全球拦截
+- DOMA全球拦截
 - DOMAIN-SUFFIX,slib.tvmao.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,slides.discovery.tom.com,🛑 全球拦截
 - DOMAIN-SUFFIX,slog.sina.cn,🛑 全球拦截
@@ -6447,6 +6489,11 @@ rules:
 - DOMAIN-SUFFIX,ss.sysadult.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,ssac.suning.com,🛑 全球拦截
 - DOMAIN-SUFFIX,sscefsol.com,🛑 全球拦截
+- DOMAIN-SUFFIX,sscefsol.com.cn,🛑 全球拦截
+- DOMAIN-SUFFIX,ssdaili.com,🛑 全球拦截
+- DOMAIN-SUFFIX,ssh.hxlif.com,🛑 全球拦截
+- DOMAIN-SUFFIX,ssh.jsyzw132.com,🛑 全球拦截
+- DOMAIN-SUFFIX,ssh.lifu11.com,🛑 DOMAIN-SUFFIX,sscefsol.com,🛑 全球拦截
 - DOMAIN-SUFFIX,sscefsol.com.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,ssdaili.com,🛑 全球拦截
 - DOMAIN-SUFFIX,ssh.hxlif.com,🛑 全球拦截
@@ -6859,13 +6906,7 @@ rules:
 - DOMAIN-SUFFIX,ue.yeyoucdn.com,🛑 全球拦截
 - DOMAIN-SUFFIX,ueadlian.com,🛑 全球拦截
 - DOMAIN-SUFFIX,uebawtz7.me,🛑 全球拦截
-- DOMAIN-SUFFIX,ugc.moji001.com,🛑 全球拦截
-- DOMAIN-SUFFIX,ugg.keefung-zs.com,🛑 全球拦截
-- DOMAIN-SUFFIX,ugg66.com,🛑 全球拦截
-- DOMAIN-SUFFIX,ugvip.com,🛑 全球拦截
-- DOMAIN-SUFFIX,ui37.net,🛑 全球拦截
-- DOMAIN-SUFFIX,uid.ksosoft.com,🛑 全球拦截
-- DOMAIN-SUFFIX,uid.mdbchina.com,🛑 全球拦截
+- DOMAIN-SDOMAIN-SUFFIX,uid.mdbchina.com,🛑 全球拦截
 - DOMAIN-SUFFIX,uimg.27admin.com,🛑 全球拦截
 - DOMAIN-SUFFIX,uimserv.net,🛑 全球拦截
 - DOMAIN-SUFFIX,ujian.cc,🛑 全球拦截
@@ -7018,6 +7059,11 @@ rules:
 - DOMAIN-SUFFIX,vns800600.net,🛑 全球拦截
 - DOMAIN-SUFFIX,vodlog.m1905.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,voiceads.cn,🛑 全球拦截
+- DOMAIN-SUFFIX,voiceads.com,🛑 全球拦截
+- DOMAIN-SUFFIX,voila.refr.adgtw.orangeads.fr,🛑 全球拦截
+- DOMAIN-SUFFIX,vpon.com,🛑 全球拦截
+- DOMAIN-SUFFIX,vs.funshion.com,🛑 全球拦截
+- DOMAIN-SUFFIX,vs19.gzcu.u3DOMAIN-SUFFIX,voiceads.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,voiceads.com,🛑 全球拦截
 - DOMAIN-SUFFIX,voila.refr.adgtw.orangeads.fr,🛑 全球拦截
 - DOMAIN-SUFFIX,vpon.com,🛑 全球拦截
@@ -7700,13 +7746,7 @@ rules:
 - DOMAIN-SUFFIX,amazon-adsystem.com,🛑 全球拦截
 - DOMAIN-SUFFIX,amobee.com,🛑 全球拦截
 - DOMAIN-SUFFIX,analysys.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,app-adforce.jp,🛑 全球拦截
-- DOMAIN-SUFFIX,appadhoc.com,🛑 全球拦截
-- DOMAIN-SUFFIX,appads.com,🛑 全球拦截
-- DOMAIN-SUFFIX,appier.net,🛑 全球拦截
-- DOMAIN-SUFFIX,applift.com,🛑 全球拦截
-- DOMAIN-SUFFIX,appsflyer.com,🛑 全球拦截
-- DOMAIN-SUFFIX,apsalar.com,🛑 全球拦截
+- DOMADOMAIN-SUFFIX,apsalar.com,🛑 全球拦截
 - DOMAIN-SUFFIX,apxadtracking.net,🛑 全球拦截
 - DOMAIN-SUFFIX,axonix.com,🛑 全球拦截
 - DOMAIN-SUFFIX,cloudmobi.net,🛑 全球拦截
@@ -7786,10 +7826,9 @@ rules:
 - DOMAIN-SUFFIX,nativeadv.dftoutiao.com,🛑 全球拦截
 - DOMAIN-SUFFIX,optimus-ads.amap.com,🛑 全球拦截
 - DOMAIN-SUFFIX,sugar.zhihu.com,🛑 全球拦截
-- DOMAIN-SUFFIX,track.tiara.daum.net,🛑 全球拦截
-- DOMAIN-SUFFIX,track.tiara.kakao.com,🛑 全球拦截
-- DOMAIN-SUFFIX,trackapp.guahao.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,traffic.mogujie.com,🛑 全球拦截
+- DOMAIDOMAIN-SUFFIX,mads.suning.com,🛑 全球拦截
+- DOMAIN-SUFFIX,mopnativeadv.037201.com,🛑 全球拦截
+- DOMAIN-SUFFIX,nativeadv.dftoutiao.com,🛑 全球�DOMAIN-SUFFIX,traffic.mogujie.com,🛑 全球拦截
 - DOMAIN-SUFFIX,wmlog.meituan.com,🛑 全球拦截
 - DOMAIN-SUFFIX,adshow.58.com,🛑 全球拦截
 - DOMAIN-SUFFIX,track.58.com,🛑 全球拦截
@@ -7862,10 +7901,9 @@ rules:
 - DOMAIN-SUFFIX,kgmobilestatbak.kugou.com,🛑 全球拦截
 - DOMAIN-SUFFIX,mobilelog.kugou.com,🛑 全球拦截
 - DOMAIN-SUFFIX,mobilead.kuwo.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,rich.kuwo.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,ad-stat.ksosoft.com,🛑 全球拦截
-- DOMAIN-SUFFIX,img.auction-ads.wpscdn.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,counter.ksosoft.com,🛑 全球拦截
+- DODOMAIN-SUFFIX,log.web.kugou.com,🛑 全球拦截
+- DOMAIN-SUFFIX,kgmobilestat.kugou.com,🛑 全球拦截
+- DOMAIN-SUFFIX,kgmobilestatbak.kugou.com,🛑 全�DOMAIN-SUFFIX,counter.ksosoft.com,🛑 全球拦截
 - DOMAIN-SUFFIX,minfo.wps.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,webp2p.letv.com,🛑 全球拦截
 - DOMAIN-SUFFIX,ark.letv.com,🛑 全球拦截
@@ -8106,6 +8144,11 @@ rules:
 - DOMAIN-SUFFIX,chemdraw.com.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,cjmakeding.com,🛑 全球拦截
 - DOMAIN-SUFFIX,cjmkt.com,🛑 全球拦截
+- DOMAIN-SUFFIX,codesoftchina.com,🛑 全球拦截
+- DOMAIN-SUFFIX,coreldrawchina.com,🛑 全球拦截
+- DOMAIN-SUFFIX,crossoverchina.com,🛑 全球拦截
+- DOMAIN-SUFFIX,easyrecoverychina.com,🛑 全球拦截
+- DOMAIN-SUFFIX,ediuDOMAIN-SUFFIX,cjmkt.com,🛑 全球拦截
 - DOMAIN-SUFFIX,codesoftchina.com,🛑 全球拦截
 - DOMAIN-SUFFIX,coreldrawchina.com,🛑 全球拦截
 - DOMAIN-SUFFIX,crossoverchina.com,🛑 全球拦截
@@ -8417,12 +8460,6 @@ rules:
 - IP-CIDR,54.148.37.5/32,🎥 NETFLIX,no-resolve
 - DOMAIN-SUFFIX,jtvnw.net,🌍 国外媒体
 - DOMAIN-SUFFIX,ttvnw.net,🌍 国外媒体
-- DOMAIN-SUFFIX,twitch.tv,🌍 国外媒体
-- DOMAIN-SUFFIX,twitchcdn.net,🌍 国外媒体
-- DOMAIN,radio.itunes.apple.com,🌍 国外媒体
-- DOMAIN,tv.applemusic.com,🌍 国外媒体
-- DOMAIN-SUFFIX,deezer.com,🌍 国外媒体
-- DOMAIN-SUFFIX,dzcdn.net,🌍 国外媒体
 - DOMAIN-SUFFIX,joox.com,🌍 国外媒体
 - DOMAIN-KEYWORD,jooxweb-api,🌍 国外媒体
 - DOMAIN-SUFFIX,kkbox.com,🌍 国外媒体
@@ -8841,12 +8878,11 @@ rules:
 - DOMAIN-SUFFIX,clyp.it,🔰 节点选择
 - DOMAIN-SUFFIX,cna.com.tw,🔰 节点选择
 - DOMAIN-SUFFIX,comparitech.com,🔰 节点选择
-- DOMAIN-SUFFIX,conoha.jp,🔰 节点选择
-- DOMAIN-SUFFIX,crucial.com,🔰 节点选择
-- DOMAIN-SUFFIX,cts.com.tw,🔰 节点选择
-- DOMAIN-SUFFIX,cw.com.tw,🔰 节点选择
-- DOMAIN-SUFFIX,cyberctm.com,🔰 节点选择
-- DOMAIN-SUFFIX,cyclingnews.com,🔰 节点选择
+- DOMAIN-SUFFIX,conoha.jp,🔰 节点选DOMAIN-SUFFIX,clarionproject.org,🔰 节点选择
+- DOMAIN-SUFFIX,cloudcone.com,🔰 节点选择
+- DOMAIN-SUFFIX,clyp.it,🔰 节点选择
+- DOMAIN-SUFFIX,cna.com.tw,🔰 节点选择
+- DOMAIN-SUFFIX,comparitech.com,🔰 节点选择
 - DOMAIN-SUFFIX,dailymotion.com,🔰 节点选择
 - DOMAIN-SUFFIX,dailyview.tw,🔰 节点选择
 - DOMAIN-SUFFIX,dandanzan.com,🔰 节点选择
@@ -9194,11 +9230,12 @@ rules:
 - DOMAIN-SUFFIX,aimoon.com,🔰 节点选择
 - DOMAIN-SUFFIX,cccat.io,🔰 节点选择
 - DOMAIN-SUFFIX,dubox.com,🔰 节点选择
-- DOMAIN-SUFFIX,duboxcdn.com,🔰 节点选择
-- DOMAIN-SUFFIX,ifixit.com,🔰 节点选择
-- DOMAIN-SUFFIX,linkedin.com,🔰 节点选择
-- DOMAIN-SUFFIX,mangakakalot.com,🔰 节点选择
-- DOMAIN-SUFFIX,shopeemobile.com,🔰 节点选择
+节点选择
+- DOMAIN-SUFFIX,go.dev,🔰 节点选择
+- DOMAIN-SUFFIX,golang.org,🔰 节点选择
+- DOMAIN-SUFFIX,aicoin.com,🔰 节点选择
+- DOMAIN-SUFFIX,aimoon.com,🔰 节点选择
+- DOMAIN-SUFFIX,cccat.io,🔰 节点选节点选择
 - DOMAIN-SUFFIX,sushi.com,🔰 节点选择
 - DOMAIN,appleid.apple.com,🔰 节点选择
 - DOMAIN,developer.apple.com,🔰 节点选择
@@ -9280,12 +9317,12 @@ rules:
 - DOMAIN-SUFFIX,iqiyipic.com,🎯 全球直连
 - DOMAIN-SUFFIX,71.am,🎯 全球直连
 - DOMAIN-SUFFIX,jd.com,🎯 全球直连
-- DOMAIN-SUFFIX,jd.hk,🎯 全球直连
-- DOMAIN-SUFFIX,jdpay.com,🎯 全球直连
-- DOMAIN-SUFFIX,360buyimg.com,🎯 全球直连
-- DOMAIN-SUFFIX,iciba.com,🎯 全球直连
-- DOMAIN-SUFFIX,ksosoft.com,🎯 全球直连
-- DOMAIN-SUFFIX,meitu.com,🎯 全球直连
+- DOMAIN-SUFFIX,jd.hDOMAIN-SUFFIX,hitv.com,🎯 全球直连
+- DOMAIN-SUFFIX,mgtv.com,🎯 全球直连
+- DOMAIN-SUFFIX,iqiyi.com,🎯 全球直连
+- DOMAIN-SUFFIX,iqiyipic.com,🎯 全球直连
+- DOMAIN-SUFFIX,71.am,🎯 全球直连
+- DOMAIN-SUFFIX,jd.com,🎯 �
 - DOMAIN-SUFFIX,meitudata.com,🎯 全球直连
 - DOMAIN-SUFFIX,meitustat.com,🎯 全球直连
 - DOMAIN-SUFFIX,meipai.com,🎯 全球直连
@@ -9525,6 +9562,14 @@ rules:
 - PROCESS-NAME,WebTorrent Helper,🎯 全球直连
 - PROCESS-NAME,DownloadService,🎯 全球直连
 - PROCESS-NAME,Weiyun,🎯 全球直连
+- DOMAIN-KEYWORD,aria2,🎯 全球直连
+- DOMAIN-KEYWORD,xunlei,🎯 全球直连
+- DOMAIN-KEYWORD,yunpan,🎯 全球直连
+- DOMAIN-KEYWORD,Thunder,🎯 全球直连
+- DOMAIN-KEYWORD,XLLiveUD,🎯 全球直连
+- GEOIP,CN,🎯 全球直连
+- MATCH,🐟 漏网之鱼
+��直连
 - DOMAIN-KEYWORD,aria2,🎯 全球直连
 - DOMAIN-KEYWORD,xunlei,🎯 全球直连
 - DOMAIN-KEYWORD,yunpan,🎯 全球直连

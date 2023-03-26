@@ -38,7 +38,30 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-proxy-providers: {}
+proxies:
+- {name: 距离下次重置剩余：1 天 - TomLink, server: 120.241.255.246, port: 14061, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: HK 03 | x1.0 - TomLink, server: 120.241.255.246, port: 14061, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: HK 04 | x1.0 - TomLink, server: 120.241.255.246, port: 14071, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: HK 05 | x1.0 - TomLink, server: 117.174.51.138, port: 14061, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: HK 06 | x1.0 - TomLink, server: 117.174.51.138, port: 14071, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: HK 07 | IEPL | x5.0 - TomLink, server: gddx.fosi.hk, port: 14061, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: HK 08 | IEPL | x5.0 - TomLink, server: gddx.fosi.hk, port: 14071, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: HK 10 | x0.7 - TomLink, server: 117.174.51.138, port: 14074, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: HK 11 | x0.7 - TomLink, server: 120.241.255.246, port: 14074, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: TW 02 | x1.0 - TomLink, server: 120.241.255.246, port: 14011, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: TW 03 | x1.0 - TomLink, server: 117.174.51.138, port: 14011, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: JP 02 | x1.0 - TomLink, server: 120.241.255.246, port: 14021, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: JP 03 | x1.0 - TomLink, server: 117.174.51.138, port: 14021, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: KR 02 | x1.0 - TomLink, server: 120.241.255.246, port: 14041, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: KR 03 | x1.0 - TomLink, server: 117.174.51.138, port: 14041, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: SG 02 | x1.0 - TomLink, server: 120.241.255.246, port: 14031, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: SG 03 | x1.0 - TomLink, server: 117.174.51.138, port: 14031, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: US 02 | x1.0 - TomLink, server: 120.241.255.246, port: 14051, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: US 03 | x1.0 - TomLink, server: 117.174.51.138, port: 14051, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: UK 02 | x1.0 - TomLink, server: 120.241.255.246, port: 14081, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: UK 03 | x1.0 - TomLink, server: 117.174.51.138, port: 14081, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: CA 02 | x1.0 - TomLink, server: 120.241.255.246, port: 14083, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: CA 03 | x1.0 - TomLink, server: 117.174.51.138, port: 14083, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
 rules:
 - DOMAIN-SUFFIX,local,🎯 全球直连
 - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
