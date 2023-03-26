@@ -39,8 +39,6 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 🏳️‍🌈 剩余流量：1 GB - 黑洞云 Pro, server: ct1-hd.go001.buzz, port: 17111, type: vmess, uuid: 52325514-b92e-4870-931a-679cf782ebb0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 套餐到期：2023-03-26 - 黑洞云 Pro, server: ct1-hd.go001.buzz, port: 17111, type: vmess, uuid: 52325514-b92e-4870-931a-679cf782ebb0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 基础|香港01解锁|x1 - 黑洞云 Pro, server: ct1-hd.go001.buzz, port: 17111, type: vmess, uuid: 52325514-b92e-4870-931a-679cf782ebb0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 基础|香港02解锁|x1 - 黑洞云 Pro, server: cn2-1-hd.go001.buzz, port: 17011, type: vmess, uuid: 52325514-b92e-4870-931a-679cf782ebb0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 基础|香港03解锁|x1 - 黑洞云 Pro, server: cm1-hd.go001.buzz, port: 17211, type: vmess, uuid: 52325514-b92e-4870-931a-679cf782ebb0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

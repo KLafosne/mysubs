@@ -39,6 +39,8 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
+- {name: 🏳️‍🌈 剩余流量：1.06GB - 恰恰, server: iqiaqia.xyz, port: 10086, type: vmess, uuid: 5d09bfc9-b206-3ba8-8b26-d58f2c13e5b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🏳️‍🌈 过期时间：2023-03-27 - 恰恰, server: iqiaqia.xyz, port: 10086, type: vmess, uuid: 5d09bfc9-b206-3ba8-8b26-d58f2c13e5b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国Mini|高速|节点01 - 恰恰, server: sus41.qiaqia.win, port: 80, type: vmess, uuid: 5d09bfc9-b206-3ba8-8b26-d58f2c13e5b4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus41.qiaqia.win}}, udp: true}
 - {name: 🇺🇸 美国Mini|高速|节点02 - 恰恰, server: sus49.qiaqia.win, port: 80, type: vmess, uuid: 5d09bfc9-b206-3ba8-8b26-d58f2c13e5b4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus49.qiaqia.win}}, udp: true}
 - {name: 🇺🇸 美国Mini|高速|节点03 - 恰恰, server: sus57.qiaqia.win, port: 80, type: vmess, uuid: 5d09bfc9-b206-3ba8-8b26-d58f2c13e5b4, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sus57.qiaqia.win}}, udp: true}

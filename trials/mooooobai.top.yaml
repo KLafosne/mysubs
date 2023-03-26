@@ -40,12 +40,12 @@ proxy-groups:
   - 💩 ‍广告
 proxies:
 - {name: TR丨Test - 锐云, server: gd-cn-01.1024.com.s1024.cc, port: 49639, type: ss, cipher: aes-128-gcm, password: 9660f0c6-13a9-415f-a98c-7db367ea69a0, udp: true}
-- {name: 🇭🇰 HK Test - 锐云, server: gd-cn-01.1024.com.s1024.cc, port: 41075, type: ss, cipher: aes-128-gcm, password: 9660f0c6-13a9-415f-a98c-7db367ea69a0, udp: true}
-- {name: 🇭🇰 HK 01丨广港 - 锐云, server: gd-cn-01.1024.com.s1024.cc, port: 23790, type: ss, cipher: aes-128-gcm, password: 9660f0c6-13a9-415f-a98c-7db367ea69a0, udp: true}
-- {name: 🇯🇵 JP丨Test - 锐云, server: gd-cn-01.1024.com.s1024.cc, port: 38009, type: ss, cipher: aes-128-gcm, password: 9660f0c6-13a9-415f-a98c-7db367ea69a0, udp: true}
-- {name: 🇯🇵 JP 02丨广日 - 锐云, server: gd-cn-01.1024.com.s1024.cc, port: 15760, type: ss, cipher: aes-128-gcm, password: 9660f0c6-13a9-415f-a98c-7db367ea69a0, udp: true}
-- {name: 🇯🇵 JP 03丨苏日 - 锐云, server: js.xyzxyz8.xyz, port: 10269, type: ss, cipher: aes-128-gcm, password: 9660f0c6-13a9-415f-a98c-7db367ea69a0, udp: true}
-- {name: 🇺🇸 US 01丨广美 - 锐云, server: gd-cn-01.1024.com.s1024.cc, port: 28669, type: ss, cipher: aes-128-gcm, password: 9660f0c6-13a9-415f-a98c-7db367ea69a0, udp: true}
+- {name: HK Test - 锐云, server: gd-cn-01.1024.com.s1024.cc, port: 41075, type: ss, cipher: aes-128-gcm, password: 9660f0c6-13a9-415f-a98c-7db367ea69a0, udp: true}
+- {name: HK 01丨广港 - 锐云, server: gd-cn-01.1024.com.s1024.cc, port: 23790, type: ss, cipher: aes-128-gcm, password: 9660f0c6-13a9-415f-a98c-7db367ea69a0, udp: true}
+- {name: JP丨Test - 锐云, server: gd-cn-01.1024.com.s1024.cc, port: 38009, type: ss, cipher: aes-128-gcm, password: 9660f0c6-13a9-415f-a98c-7db367ea69a0, udp: true}
+- {name: JP 02丨广日 - 锐云, server: gd-cn-01.1024.com.s1024.cc, port: 15760, type: ss, cipher: aes-128-gcm, password: 9660f0c6-13a9-415f-a98c-7db367ea69a0, udp: true}
+- {name: JP 03丨苏日 - 锐云, server: js.xyzxyz8.xyz, port: 10269, type: ss, cipher: aes-128-gcm, password: 9660f0c6-13a9-415f-a98c-7db367ea69a0, udp: true}
+- {name: US 01丨广美 - 锐云, server: gd-cn-01.1024.com.s1024.cc, port: 28669, type: ss, cipher: aes-128-gcm, password: 9660f0c6-13a9-415f-a98c-7db367ea69a0, udp: true}
 rules:
 - DOMAIN-SUFFIX,local,🎯 全球直连
 - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve

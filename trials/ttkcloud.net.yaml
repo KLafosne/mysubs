@@ -39,6 +39,7 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
+- {name: 💣 剩余流量：4 GB - TTK, server: lv2.ttkcloud.xyz, port: 51320, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港-TV-1x - TTK, server: lv2.ttkcloud.xyz, port: 51320, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 狮城-TV-1x - TTK, server: lv2.ttkcloud.xyz, port: 51350, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本-TV-1x - TTK, server: lv2.ttkcloud.xyz, port: 12333, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
