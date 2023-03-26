@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 基础|新加坡01解锁|x1 - 黑洞云 Pro, server: cn2-1-hd.go001.buzz, port: 17041, type: vmess, uuid: 74fbfc6b-4d38-4883-bcd1-4f7a8a3b3b91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 基础|新加坡02解锁|x1 - 黑洞云 Pro, server: ct1-hd.go001.buzz, port: 17141, type: vmess, uuid: 74fbfc6b-4d38-4883-bcd1-4f7a8a3b3b91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 基础|新加坡03解锁|x1 - 黑洞云 Pro, server: cm1-hd.go001.buzz, port: 17241, type: vmess, uuid: 74fbfc6b-4d38-4883-bcd1-4f7a8a3b3b91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 基础|新加坡01解锁|x1 - 黑洞云 Pro, server: cn2-1-hd.go001.buzz, port: 17041, type: vmess, uuid: 68e84f3d-6863-419f-9b69-589a3b1bd542, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 基础|新加坡02解锁|x1 - 黑洞云 Pro, server: ct1-hd.go001.buzz, port: 17141, type: vmess, uuid: 68e84f3d-6863-419f-9b69-589a3b1bd542, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 基础|新加坡03解锁|x1 - 黑洞云 Pro, server: cm1-hd.go001.buzz, port: 17241, type: vmess, uuid: 68e84f3d-6863-419f-9b69-589a3b1bd542, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

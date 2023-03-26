@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 最新官网地址ruixy.xyz - 锐星云, server: gy.ruistar.info, port: 50240, type: vmess, uuid: 9656eee6-3177-4e2b-adbd-2e2d36b07ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 安卓|如遇提示配置文件请更新订阅 - 锐星云, server: sd.ruistar.info, port: 30115, type: vmess, uuid: 9656eee6-3177-4e2b-adbd-2e2d36b07ef0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 最新官网地址ruixy.xyz - 锐星云, server: gy.ruistar.info, port: 50240, type: vmess, uuid: 61aa3077-0970-4644-8fcb-3b173ab76286, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 安卓|如遇提示配置文件请更新订阅 - 锐星云, server: sd.ruistar.info, port: 30115, type: vmess, uuid: 61aa3077-0970-4644-8fcb-3b173ab76286, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷韩国-注意-出现超时请更新订阅 - FreeKing ⚠️限速 2, server: 42.sking.app, port: 443, client-fingerprint: chrome, type: vmess, uuid: d10e6f73-fcac-4b37-bbb3-3486390b686e, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 42.sking.app}}, udp: true}
+- {name: 🇰🇷韩国-注意-出现超时请更新订阅 - FreeKing ⚠️限速 2, server: 42.sking.app, port: 443, type: vmess, uuid: d10e6f73-fcac-4b37-bbb3-3486390b686e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 42.sking.app}}, udp: true}

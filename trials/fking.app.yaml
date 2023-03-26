@@ -98,10 +98,10 @@ proxy-groups:
   type: select
   proxies: *id004
 proxies:
-- {name: 🇭🇰香港-官网-www.freeking1.app - FreeKing ⚠️限速 2, server: 41.sking.app, port: 448, client-fingerprint: chrome, type: vmess, uuid: d10e6f73-fcac-4b37-bbb3-3486390b686e, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 41.sking.app}}, udp: true}
-- {name: 🇰🇷韩国-注意-出现超时请更新订阅 - FreeKing ⚠️限速 2, server: 42.sking.app, port: 443, client-fingerprint: chrome, type: vmess, uuid: d10e6f73-fcac-4b37-bbb3-3486390b686e, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 42.sking.app}}, udp: true}
-- {name: 🇯🇵日本-免费 - FreeKing ⚠️限速 2, server: 43.sking.app, port: 464, client-fingerprint: chrome, type: vmess, uuid: d10e6f73-fcac-4b37-bbb3-3486390b686e, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 43.sking.app}}, udp: true}
-- {name: 🇭🇰香港-免费02 - FreeKing ⚠️限速 2, server: 44.sking.app, port: 481, client-fingerprint: chrome, type: vmess, uuid: d10e6f73-fcac-4b37-bbb3-3486390b686e, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 44.sking.app}}, udp: true}
+- {name: 🇭🇰香港-官网-www.freeking1.app - FreeKing ⚠️限速 2, server: 41.sking.app, port: 448, type: vmess, uuid: d10e6f73-fcac-4b37-bbb3-3486390b686e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 41.sking.app}}, udp: true}
+- {name: 🇰🇷韩国-注意-出现超时请更新订阅 - FreeKing ⚠️限速 2, server: 42.sking.app, port: 443, type: vmess, uuid: d10e6f73-fcac-4b37-bbb3-3486390b686e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 42.sking.app}}, udp: true}
+- {name: 🇯🇵日本-免费 - FreeKing ⚠️限速 2, server: 43.sking.app, port: 464, type: vmess, uuid: d10e6f73-fcac-4b37-bbb3-3486390b686e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 43.sking.app}}, udp: true}
+- {name: 🇭🇰香港-免费02 - FreeKing ⚠️限速 2, server: 44.sking.app, port: 481, type: vmess, uuid: d10e6f73-fcac-4b37-bbb3-3486390b686e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 44.sking.app}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
