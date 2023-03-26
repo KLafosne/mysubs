@@ -39,17 +39,19 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 使用前更新订阅 - 至云互联, server: mcecloud.com, port: 10086, type: vmess, uuid: d8a74b54-ad2d-3f87-bb2d-2c3f1bebe47d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: Lv.1 | 俄罗斯 |IEPL | 1.0× - 至云互联, server: x1.mceee.xyz, port: 21911, type: vmess, uuid: d8a74b54-ad2d-3f87-bb2d-2c3f1bebe47d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: Lv.1 | 台湾 | IEPL | 1.0× - 至云互联, server: x1.mceee.xyz, port: 21211, type: vmess, uuid: d8a74b54-ad2d-3f87-bb2d-2c3f1bebe47d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download, headers: {Host: x1.mceee.xyz}}, udp: true}
-- {name: Lv.1 | 台湾 | 备用 | 1.0× - 至云互联, server: z-cn2.mceee.xyz, port: 20211, type: vmess, uuid: d8a74b54-ad2d-3f87-bb2d-2c3f1bebe47d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download, headers: {Host: z-cn2.mceee.xyz}}, udp: true}
-- {name: Lv.1 | 日本 | IEPL | 1.0× - 至云互联, server: x2.mceee.xyz, port: 21311, type: vmess, uuid: d8a74b54-ad2d-3f87-bb2d-2c3f1bebe47d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: Lv.1 | 日本 | 备用 | 1.0× - 至云互联, server: z-cn2.mceee.xyz, port: 20311, type: vmess, uuid: d8a74b54-ad2d-3f87-bb2d-2c3f1bebe47d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: Lv.1 | 美国 | IEPL| 1.0× - 至云互联, server: x2.mceee.xyz, port: 21611, type: vmess, uuid: d8a74b54-ad2d-3f87-bb2d-2c3f1bebe47d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: Lv.1 | 阿根廷 | IEPL | 1.0× - 至云互联, server: x2.mceee.xyz, port: 21914, type: vmess, uuid: d8a74b54-ad2d-3f87-bb2d-2c3f1bebe47d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: Lv.1 | 香港 | IEPL | 1.0× - 至云互联, server: x1.mceee.xyz, port: 21111, type: vmess, uuid: d8a74b54-ad2d-3f87-bb2d-2c3f1bebe47d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: Lv.1 | 香港 | 备用 | 1.0× - 至云互联, server: z-cn2.mceee.xyz, port: 20111, type: vmess, uuid: d8a74b54-ad2d-3f87-bb2d-2c3f1bebe47d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: Lv.1| 新加坡 | IEPL | 1.0× - 至云互联, server: x1.mceee.xyz, port: 21411, type: vmess, uuid: d8a74b54-ad2d-3f87-bb2d-2c3f1bebe47d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download, headers: {Host: x1.mceee.xyz}}, udp: true}
+- {name: 🇸🇬 使用前更新订阅 - 至云互联, server: mcecloud.com, port: 10086, type: vmess, uuid: d8a74b54-ad2d-3f87-bb2d-2c3f1bebe47d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 💣 剩余流量：2.05GB - 至云互联, server: mcecloud.com, port: 10086, type: vmess, uuid: d8a74b54-ad2d-3f87-bb2d-2c3f1bebe47d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 💣 过期时间：2023-03-26 - 至云互联, server: mcecloud.com, port: 10086, type: vmess, uuid: d8a74b54-ad2d-3f87-bb2d-2c3f1bebe47d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇷🇺 Lv.1 | 俄罗斯 |IEPL | 1.0× - 至云互联, server: x1.mceee.xyz, port: 21911, type: vmess, uuid: d8a74b54-ad2d-3f87-bb2d-2c3f1bebe47d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇳 Lv.1 | 台湾 | IEPL | 1.0× - 至云互联, server: x1.mceee.xyz, port: 21211, type: vmess, uuid: d8a74b54-ad2d-3f87-bb2d-2c3f1bebe47d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download, headers: {Host: x1.mceee.xyz}}, udp: true}
+- {name: 🇨🇳 Lv.1 | 台湾 | 备用 | 1.0× - 至云互联, server: z-cn2.mceee.xyz, port: 20211, type: vmess, uuid: d8a74b54-ad2d-3f87-bb2d-2c3f1bebe47d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download, headers: {Host: z-cn2.mceee.xyz}}, udp: true}
+- {name: 🇯🇵 Lv.1 | 日本 | IEPL | 1.0× - 至云互联, server: x2.mceee.xyz, port: 21311, type: vmess, uuid: d8a74b54-ad2d-3f87-bb2d-2c3f1bebe47d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 Lv.1 | 日本 | 备用 | 1.0× - 至云互联, server: z-cn2.mceee.xyz, port: 20311, type: vmess, uuid: d8a74b54-ad2d-3f87-bb2d-2c3f1bebe47d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 Lv.1 | 美国 | IEPL| 1.0× - 至云互联, server: x2.mceee.xyz, port: 21611, type: vmess, uuid: d8a74b54-ad2d-3f87-bb2d-2c3f1bebe47d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇦🇷 Lv.1 | 阿根廷 | IEPL | 1.0× - 至云互联, server: x2.mceee.xyz, port: 21914, type: vmess, uuid: d8a74b54-ad2d-3f87-bb2d-2c3f1bebe47d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 Lv.1 | 香港 | IEPL | 1.0× - 至云互联, server: x1.mceee.xyz, port: 21111, type: vmess, uuid: d8a74b54-ad2d-3f87-bb2d-2c3f1bebe47d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 Lv.1 | 香港 | 备用 | 1.0× - 至云互联, server: z-cn2.mceee.xyz, port: 20111, type: vmess, uuid: d8a74b54-ad2d-3f87-bb2d-2c3f1bebe47d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 Lv.1| 新加坡 | IEPL | 1.0× - 至云互联, server: x1.mceee.xyz, port: 21411, type: vmess, uuid: d8a74b54-ad2d-3f87-bb2d-2c3f1bebe47d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download, headers: {Host: x1.mceee.xyz}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,17gouwuba.com,REJECT
 - DOMAIN-SUFFIX,186078.com,REJECT

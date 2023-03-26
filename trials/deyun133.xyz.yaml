@@ -40,8 +40,8 @@ proxy-groups:
   - 💩 ‍广告
 proxies:
 - {name: B2B. 半年付套餐限时6折仅150/1900G(非节点勿连) - 浪潮, server: www.deyun135.xyz, port: 10086, type: trojan, password: Dsy5Uj0Scy9dt8xM, skip-cert-verify: true, udp: true}
-- {name: 新加坡 F1|Trojan|01 - 浪潮, server: dsgtr1.152cc.xyz, port: 4493, type: trojan, password: f1c185f8-fc9c-31ed-a247-b0e043d06106, sni: dsgtr1.152cc.xyz, skip-cert-verify: true, udp: true}
-- {name: 香港 F1(免费线路) - 浪潮, server: dhktrf1.102ctc.xyz, port: 30301, type: trojan, password: f1c185f8-fc9c-31ed-a247-b0e043d06106, sni: dhktrf1.102ctc.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 F1|Trojan|01 - 浪潮, server: dsgtr1.152cc.xyz, port: 4493, type: trojan, password: f1c185f8-fc9c-31ed-a247-b0e043d06106, sni: dsgtr1.152cc.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 F1(免费线路) - 浪潮, server: dhktrf1.102ctc.xyz, port: 30301, type: trojan, password: f1c185f8-fc9c-31ed-a247-b0e043d06106, sni: dhktrf1.102ctc.xyz, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,17gouwuba.com,REJECT
 - DOMAIN-SUFFIX,186078.com,REJECT

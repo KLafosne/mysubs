@@ -1549,3 +1549,5 @@ rules:
 - DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
 - GEOIP,CN,DIRECT
 - MATCH,Proxies
+,CN,DIRECT
+- MATCH,Proxies

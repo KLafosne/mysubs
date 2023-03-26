@@ -39,7 +39,6 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 💣 剩余流量：1 GB - TomLink, server: 120.241.255.246, port: 14061, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
 - {name: 距离下次重置剩余：1 天 - TomLink, server: 120.241.255.246, port: 14061, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
 - {name: 🇭🇰 HK 03 | x1.0 - TomLink, server: 120.241.255.246, port: 14061, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
 - {name: 🇭🇰 HK 04 | x1.0 - TomLink, server: 120.241.255.246, port: 14071, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}

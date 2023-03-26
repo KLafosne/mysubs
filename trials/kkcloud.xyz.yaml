@@ -39,9 +39,7 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 🏳️‍🌈 剩余流量：5 GB - 看看云, server: tongzhi.52652601.xyz, port: 21086, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}
 - {name: 距离下次重置剩余：3 天 - 看看云, server: tongzhi.52652601.xyz, port: 21086, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}
-- {name: 套餐到期：2023-03-29 - 看看云, server: tongzhi.52652601.xyz, port: 21086, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}
 - {name: '🇭🇰 [China]中国香港-江苏移动 - 看看云', server: z1.52652601.xyz, port: 21852, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}
 - {name: '🇨🇳 [China]中国台湾-江苏移动 - 看看云', server: z1.52652601.xyz, port: 21886, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}
 - {name: '🇰🇷 [Korea]韩国-江苏移动 - 看看云', server: z1.52652601.xyz, port: 21082, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}

@@ -39,16 +39,16 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 距离下次重置剩余：5 天 - 小狗云, server: gdcm.r1u.cn, port: 30787, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, tfo: false, udp: true}
-- {name: 香港|3.0X|📶IEPL - 小狗云, server: gdcm.r1u.cn, port: 30787, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, tfo: false, udp: true}
-- {name: 台湾|0.5X|直连|Netflix🔓 - 小狗云, server: gov.alisa.buzz, port: 808, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, tfo: false, udp: true}
-- {name: 香港<->广东移动|1.5X|流媒体 🎬 - 小狗云, server: cn-gd.feng.best, port: 27446, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, tfo: false, udp: true}
-- {name: 香港<->浙江移动|1.5X|流媒体 🎬 - 小狗云, server: hk-zjmobile.feng.best, port: 19943, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, tfo: false, udp: true}
-- {name: 台湾|1.0X|Netflix|🔓 - 小狗云, server: cn-gd.feng.best, port: 20194, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, tfo: false, udp: true}
-- {name: 冰岛|8.0X|Disney+🏰 - 小狗云, server: is.feng.best, port: 25007, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, tfo: false, udp: true}
-- {name: 东京|1.0X|Hbo Max 🎮 - 小狗云, server: jp.feng.best, port: 26397, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, tfo: false, udp: true}
-- {name: 新加坡|1.0X|Disney+🏰 - 小狗云, server: sg.feng.best, port: 20768, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, tfo: false, udp: true}
-- {name: 美国|1.0X|Netflix🔓 - 小狗云, server: gdcm.r1u.cn, port: 44979, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, tfo: false, udp: true}
+- {name: 距离下次重置剩余：5 天 - 小狗云, server: gdcm.r1u.cn, port: 30787, type: ss, cipher: aes-256-gcm, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, udp: true}
+- {name: 🇭🇰 香港|3.0X|📶IEPL - 小狗云, server: gdcm.r1u.cn, port: 30787, type: ss, cipher: aes-256-gcm, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, udp: true}
+- {name: 🇨🇳 台湾|0.5X|直连|Netflix🔓 - 小狗云, server: gov.alisa.buzz, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, udp: true}
+- {name: 🇭🇰 香港<->广东移动|1.5X|流媒体 🎬 - 小狗云, server: cn-gd.feng.best, port: 27446, type: ss, cipher: aes-256-gcm, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, udp: true}
+- {name: 🇭🇰 香港<->浙江移动|1.5X|流媒体 🎬 - 小狗云, server: hk-zjmobile.feng.best, port: 19943, type: ss, cipher: aes-256-gcm, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, udp: true}
+- {name: 🇨🇳 台湾|1.0X|Netflix|🔓 - 小狗云, server: cn-gd.feng.best, port: 20194, type: ss, cipher: chacha20-ietf-poly1305, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, udp: true}
+- {name: 🇮🇸 冰岛|8.0X|Disney+🏰 - 小狗云, server: is.feng.best, port: 25007, type: ss, cipher: chacha20-ietf-poly1305, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, udp: true}
+- {name: 🇯🇵 东京|1.0X|Hbo Max 🎮 - 小狗云, server: jp.feng.best, port: 26397, type: ss, cipher: chacha20-ietf-poly1305, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, udp: true}
+- {name: 🇸🇬 新加坡|1.0X|Disney+🏰 - 小狗云, server: sg.feng.best, port: 20768, type: ss, cipher: aes-256-gcm, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, udp: true}
+- {name: 🇺🇸 美国|1.0X|Netflix🔓 - 小狗云, server: gdcm.r1u.cn, port: 44979, type: ss, cipher: aes-256-gcm, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, udp: true}
 rules:
 - DOMAIN-SUFFIX,17gouwuba.com,REJECT
 - DOMAIN-SUFFIX,186078.com,REJECT
