@@ -1020,7 +1020,7 @@ rules:
 - DOMAIN-SUFFIX,cpu-admin.baidu.com,💩 ‍广告
 - DOMAIN-SUFFIX,crs.baidu.cn,💩 ‍广告
 - DOMAIN-SUFFIX,crs.baidu.com,💩 ‍广告
-- DOMAIN-SUFFIX,datax.baidu.com,DOMAIN-SUFFIX,datax.baidu.com,💩 ‍广告
+- DOMAIN-SUFFIX,datax.baidu.com,💩 ‍广告
 - DOMAIN-SUFFIX,dl-vip.bav.baidu.com,💩 ‍广告
 - DOMAIN-SUFFIX,dl-vip.pcfaster.baidu.co.th,💩 ‍广告
 - DOMAIN-SUFFIX,dl.client.baidu.com,💩 ‍广告
@@ -1105,7 +1105,8 @@ rules:
 - DOMAIN-SUFFIX,river.zhidao.baidu.com,💩 ‍广告
 - DOMAIN-SUFFIX,rj.baidu.cn,💩 ‍广告
 - DOMAIN-SUFFIX,rj.baidu.com,💩 ‍广告
-- DOMAIN-SUFFIXDOMAIN-SUFFIX,rp.baidu.com,💩 ‍广告
+- DOMAIN-SUFFIX,rp.baidu.cn,💩 ‍广告
+- DOMAIN-SUFFIX,rp.baidu.com,💩 ‍广告
 - DOMAIN-SUFFIX,rplog.baidu.com,💩 ‍广告
 - DOMAIN-SUFFIX,s.baidu.com,💩 ‍广告
 - DOMAIN-SUFFIX,sclick.baidu.com,💩 ‍广告
@@ -1193,7 +1194,7 @@ rules:
 - DOMAIN-SUFFIX,xgcsr.com,💩 ‍广告
 - DOMAIN-SUFFIX,xjq.jxmqkj.com,💩 ‍广告
 - DOMAIN-SUFFIX,xpe.cxaerp.com,💩 ‍广告
-- DOMAIN-SUFFIX,xtzxmy.com,💩 DOMAIN-SUFFIX,xtzxmy.com,💩 ‍广告
+- DOMAIN-SUFFIX,xtzxmy.com,💩 ‍广告
 - DOMAIN-SUFFIX,xyrkl.com,💩 ‍广告
 - DOMAIN-SUFFIX,zhuanfakong.com,💩 ‍广告
 - DOMAIN-SUFFIX,ad.toutiao.com,💩 ‍广告
@@ -1276,7 +1277,8 @@ rules:
 - DOMAIN-SUFFIX,g.koowo.com,💩 ‍广告
 - DOMAIN-SUFFIX,g.kuwo.cn,💩 ‍广告
 - DOMAIN-SUFFIX,kwmsg.kuwo.cn,💩 ‍广告
-- DOMAIN-SUFFIXDOMAIN-SUFFIX,mobilead.kuwo.cnDOMAIN-SUFFIX,mobilead.kuwo.cn,💩 ‍广告
+- DOMAIN-SUFFIX,log.kuwo.cn,💩 ‍广告
+- DOMAIN-SUFFIX,mobilead.kuwo.cn,💩 ‍广告
 - DOMAIN-SUFFIX,msclick2.kuwo.cn,💩 ‍广告
 - DOMAIN-SUFFIX,msphoneclick.kuwo.cn,💩 ‍广告
 - DOMAIN-SUFFIX,updatepage.kuwo.cn,💩 ‍广告
@@ -1358,7 +1360,8 @@ rules:
 - DOMAIN,adsmind.tc.qq.com,💩 ‍广告
 - DOMAIN,pgdt.gtimg.cn,💩 ‍广告
 - DOMAIN,pgdt.gtimg.com,💩 ‍广告
-- DOMAIN,splashqqliDOMAIN,wa.gtimg.com,💩 ‍�DOMAIN,wa.gtimg.com,💩 ‍广告
+- DOMAIN,splashqqlive.gtimg.com,💩 ‍广告
+- DOMAIN,wa.gtimg.com,💩 ‍广告
 - DOMAIN,wxsnsdy.wxs.qq.com,💩 ‍广告
 - DOMAIN,wxsnsdythumb.wxs.qq.com,💩 ‍广告
 - DOMAIN-SUFFIX,act.qq.com,💩 ‍广告
@@ -1527,8 +1530,7 @@ rules:
 - DOMAIN-SUFFIX,ws.progrss.yahoo.com,💩 ‍广告
 - DOMAIN-SUFFIX,yads.yahoo.co.jp,💩 ‍广告
 - DOMAIN-SUFFIX,ybp.yahoo.com,💩 ‍广告
-- ‍广告
-- DOMAIN-SUFFIX,sim ‍广告
+- DOMAIN-SUFFIX,shrek.6.cn,💩 ‍广告
 - DOMAIN-SUFFIX,simba.6.cn,💩 ‍广告
 - DOMAIN-SUFFIX,union.6.cn,💩 ‍广告
 - DOMAIN-SUFFIX,logger.baofeng.com,💩 ‍广告
@@ -1613,7 +1615,8 @@ rules:
 - DOMAIN-SUFFIX,push.tv.sohu.com,💩 ‍广告
 - DOMAIN-SUFFIX,pv.hd.sohu.com,💩 ‍广告
 - DOMAIN-SUFFIX,pv.sohu.com,💩 ‍广告
-- DOMAIN-SUFFIX,theta.DOMAIN-SUFFIX,um.hd.sohu.com,�DOMAIN-SUFFIX,um.hd.sohu.com,💩 ‍广告
+- DOMAIN-SUFFIX,theta.sogoucdn.com,💩 ‍广告
+- DOMAIN-SUFFIX,um.hd.sohu.com,💩 ‍广告
 - DOMAIN-SUFFIX,uranus.sogou.com,💩 ‍广告
 - DOMAIN-SUFFIX,uranus.sohu.com,💩 ‍广告
 - DOMAIN-SUFFIX,wan.sohu.com,💩 ‍广告
@@ -4070,7 +4073,7 @@ rules:
 - DOMAIN-SUFFIX,internet.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,internetdefenseleague.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,internetfreedom.org,✈️ ‍起飞
-- DOMAIN-SUFFIX ‍起飞
+- DOMAIN-SUFFIX,internetpopculture.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,inthenameofconfuciusmovie.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,inxian.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,iownyour.biz,✈️ ‍起飞
@@ -4249,7 +4252,6 @@ rules:
 - DOMAIN-SUFFIX,k-doujin.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,ka-wai.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,kagyu.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,kagy‍起飞
 - DOMAIN-SUFFIX,kagyu.org.za,✈️ ‍起飞
 - DOMAIN-SUFFIX,kagyumonlam.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,kagyuoffice.org,✈️ ‍起飞
@@ -4338,7 +4340,8 @@ rules:
 - DOMAIN-SUFFIX,lamayeshe.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,lamenhu.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,lamrim.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,lanDOMAIN-SUFFIX,lanterncn.cn,✈️ ‍起飞
+- DOMAIN-SUFFIX,landofhope.tv,✈️ ‍起飞
+- DOMAIN-SUFFIX,lanterncn.cn,✈️ ‍起飞
 - DOMAIN-SUFFIX,lantosfoundation.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,laod.cn,✈️ ‍起飞
 - DOMAIN-SUFFIX,laogai.org,✈️ ‍起飞
@@ -4602,7 +4605,6 @@ rules:
 - DOMAIN-SUFFIX,mingjingnews.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mingjingtimes.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mingpao.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,ming‍起飞
 - DOMAIN-SUFFIX,mingpaocanada.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mingpaomonthly.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mingpaonews.com,✈️ ‍起飞

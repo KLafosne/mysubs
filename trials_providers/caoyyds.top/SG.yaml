@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 SG1·新加坡·直连·1X - 小C-Airport, server: sg1.caoyyds.link, port: 10001, type: vmess, uuid: adf825ce-db0b-4e46-bf94-9f52f67b493d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cao, headers: {Host: sg1.caoyyds.link}}, udp: true}
-- {name: 🇸🇬 SG2·新加坡·中转·2X - 小C-Airport, server: gdcm.r1u.cn, port: 29349, type: vmess, uuid: adf825ce-db0b-4e46-bf94-9f52f67b493d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SG3·新加坡·中转流媒体·3X - 小C-Airport, server: gdcm.r1u.cn, port: 13754, type: vmess, uuid: adf825ce-db0b-4e46-bf94-9f52f67b493d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG1·新加坡·直连·1X - 小C-Airport, server: sg1.caoyyds.link, port: 10001, type: vmess, uuid: b0cb9d7a-6738-4795-9183-5641f378e085, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cao, headers: {Host: sg1.caoyyds.link}}, udp: true}
+- {name: 🇸🇬 SG2·新加坡·中转·2X - 小C-Airport, server: gdcm.r1u.cn, port: 29349, type: vmess, uuid: b0cb9d7a-6738-4795-9183-5641f378e085, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG3·新加坡·中转流媒体·3X - 小C-Airport, server: gdcm.r1u.cn, port: 13754, type: vmess, uuid: b0cb9d7a-6738-4795-9183-5641f378e085, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

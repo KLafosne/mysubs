@@ -2,7 +2,7 @@
 ---
 proxies:
 - {name: 距离下次重置剩余：1 天 - 大哥云, server: v02.gutingting.com, port: 30015, type: vmess, uuid: 179690f2-786f-46e9-804a-3f5bd1db073a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aceamedv, headers: {Host: gz.fastcloud.club}}, udp: true}
-- {name: '官网: v2.mk - 白给加速器', server: 120-241-236-24.nhost.00cdn.com, port: 30806, type: vmess, uuid: 8c67200a-4c91-486b-af65-ce6ce1496be7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '官网: v2.mk - 白给加速器', server: 120-241-236-24.nhost.00cdn.com, port: 30806, type: vmess, uuid: 03a6d834-edc8-4295-858d-28990752df89, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 最新官网地址ruixy.xyz - 锐星云, server: gy.ruistar.info, port: 50240, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 安卓|如遇提示配置文件请更新订阅 - 锐星云, server: sd.ruistar.info, port: 30115, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: A4.入门版年租套餐限时6折仅138/2T/年(非节点勿连) - 六六云, server: www.66yun106.xyz, port: 10086, type: trojan, password: JqfKBjbkcgeeHlbN, skip-cert-verify: true, udp: true}
@@ -21,8 +21,8 @@ proxies:
 - {name: 欢迎使用果园吧网络服务 - 果园吧 ⚠️限速 30, server: guoyuanbar.top, port: 10086, type: ss, cipher: chacha20-ietf, password: I1unMew7RhkAFEyP, udp: true}
 - {name: 官网网址 guoyuanbar.top - 果园吧 ⚠️限速 30, server: guoyuanbar.top, port: 10086, type: ss, cipher: chacha20-ietf, password: I1unMew7RhkAFEyP, udp: true}
 - {name: 新网址：sockboom.tv - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
-- {name: 距离下次重置剩余：3 天 - 看看云, server: tongzhi.52652601.xyz, port: 21086, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, tfo: false, udp: true}
-- {name: 官网:kkcloud.xyz - 看看云, server: tongzhi.52652601.xyz, port: 21086, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, tfo: false, udp: true}
+- {name: 距离下次重置剩余：3 天 - 看看云, server: tongzhi.52652601.xyz, port: 21086, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}
+- {name: 官网:kkcloud.xyz - 看看云, server: tongzhi.52652601.xyz, port: 21086, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}
 - {name: 距离下次重置剩余：5 天 - Tadm科學基地, server: 203.184.132.251, port: 4433, type: vmess, uuid: 117b0566-58b0-4e66-935f-ea3e5d001bfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 官网：dnfcflol.top 备用：a.dnfcflol.top - Tadm科學基地, server: 203.184.132.251, port: 4433, type: vmess, uuid: 117b0566-58b0-4e66-935f-ea3e5d001bfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：14 天 - 1coinVPN, server: 160.16.153.228, port: 44443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: trotktest.1coinvp.vip, skip-cert-verify: true, udp: true}
@@ -38,4 +38,4 @@ proxies:
 - {name: 本站网址：www.cryxr3.xyz - 探索者, server: 603diya.donghui.tech, port: 34640, type: vmess, uuid: fb225e48-592d-4b0c-bb45-31d88301bfd6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: 距离下次重置剩余：5 天 - JCBB, server: gzyd.jcnode.top, port: 23002, type: vmess, uuid: 44136132-2ec8-4499-9328-5b0e41ac1934, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
 - {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gzyd.jcnode.top, port: 23002, type: vmess, uuid: 44136132-2ec8-4499-9328-5b0e41ac1934, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
-- {name: 距离下次重置剩余：5 天 - 小狗云, server: gdcm.r1u.cn, port: 30787, type: ss, cipher: aes-256-gcm, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, udp: true}
+- {name: 距离下次重置剩余：5 天 - 小狗云, server: gdcm.r1u.cn, port: 30787, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, tfo: false, udp: true}
