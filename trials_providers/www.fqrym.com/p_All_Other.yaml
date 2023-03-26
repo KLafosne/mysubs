@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇩🇪 VIP2/德国_01/隧道/1.0x - ANYDOOR, server: hbcu.lele233.top, port: 53246, type: ss, cipher: chacha20-ietf-poly1305, password: 58c0f24f-6137-41c3-bbb2-7b86d964d6c0, udp: true}
-- {name: 🇩🇪 VIP2/德国_02/隧道/1.0x - ANYDOOR, server: hbcu.lele233.top, port: 47955, type: ss, cipher: chacha20-ietf-poly1305, password: 58c0f24f-6137-41c3-bbb2-7b86d964d6c0, udp: true}
-- {name: 🇦🇺 VIP1/澳大利亚_01/隧道/1.0x - ANYDOOR, server: szct.lele233.top, port: 30562, type: ss, cipher: chacha20-ietf-poly1305, password: 58c0f24f-6137-41c3-bbb2-7b86d964d6c0, udp: true}

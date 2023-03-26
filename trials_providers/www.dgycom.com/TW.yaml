@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: '🇹🇼 🚇 [ v1 ] 台湾原生 · 01 · 线路1 - 大哥云', server: v01.gutingting.com, port: 30002, client-fingerprint: chrome, type: trojan, password: 179690f2-786f-46e9-804a-3f5bd1db073a, tfo: false, sni: v2tw01.fuqiangren.com, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 🚇 [ v1 ] 台湾原生 · 02 · 线路2 - 大哥云', server: v02.gutingting.com, port: 30003, client-fingerprint: chrome, type: trojan, password: 179690f2-786f-46e9-804a-3f5bd1db073a, tfo: false, sni: v2tw01.fuqiangren.com, skip-cert-verify: true, udp: true}

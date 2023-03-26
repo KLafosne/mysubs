@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵 日本-成都移动-02 - 迅帆加速器, server: relay-jp3.nxunfan.com, port: 33386, type: ss, cipher: chacha20-ietf-poly1305, password: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, udp: true}
-- {name: 🇯🇵 日本-江苏移动-01 - 迅帆加速器, server: jscm.r1u.cn, port: 32735, type: vmess, uuid: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-浙江移动-01 - 迅帆加速器, server: relay-jp2.nxunfan.com, port: 44183, type: vmess, uuid: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

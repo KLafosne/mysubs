@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 新加坡 F1|Trojan|01(支持IPV6) - XD Cloud, server: xf1sgtr1.106ctc.buzz, port: 443, type: trojan, password: f1c185f8-fc9c-31ed-a247-b0e043d06106, sni: xf1sgtr1.106ctc.buzz, skip-cert-verify: true, udp: true}

@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵 东京|1.0X|Hbo Max 🎮 - 小狗云, server: jp.feng.best, port: 26397, type: ss, cipher: chacha20-ietf-poly1305, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, udp: true}

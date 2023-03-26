@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇹🇼 Taiwan 台湾 | 迪士尼 | 1.0x | V1 - 猪猪, server: 165.154.246.103, port: 80, type: vmess, uuid: 29256b2d-aca4-35e5-bcf1-8f2587be8b05, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe}, udp: true}

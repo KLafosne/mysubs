@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: '快飞永久跳转地址: http://fastfly.club - FastFly', server: gy.xueshao.top, port: 13945, type: trojan, password: d28b3fbb-7e3d-4f0d-bbf5-6f63fbc0e97f, sni: hk01.ckcloud.info, skip-cert-verify: true, udp: true}

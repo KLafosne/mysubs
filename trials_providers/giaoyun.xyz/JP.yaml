@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵 日本 - giao云, server: jp1117.ljydw.top, port: 80, type: trojan, password: 108a54e1-a0cb-42b1-b5be-ce637338bce1, sni: jp1117.ljydw.top, skip-cert-verify: true, udp: true}

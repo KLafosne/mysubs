@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: '🇭🇰 [China]中国香港-江苏移动 - 看看云', server: z1.52652601.xyz, port: 21852, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}
-- {name: '🇭🇰 [China]中国香港-广东移动 - 看看云', server: z2.52652601.xyz, port: 21852, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}
-- {name: '🇭🇰 [China]中国香港-广州移动 - 看看云', server: z3.52652601.xyz, port: 21852, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}

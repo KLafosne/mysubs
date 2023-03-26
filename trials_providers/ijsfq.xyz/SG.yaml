@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 VIP 新加坡 BGP - 雷云加速, server: bgp.ijsfq.xyz, port: 47663, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
-- {name: 🇸🇬 新加坡 轻量 - 雷云加速, server: sgp1.ijsfq.xyz, port: 443, type: vmess, uuid: ec27d454-3096-458b-b769-2de83bd0c011, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sgp1.ijsfq.xyz, network: ws, ws-opts: {path: /, headers: {Host: sgp1.ijsfq.xyz}}, udp: true}

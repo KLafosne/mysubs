@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 US1·美国·CN2·3X - 小C-Airport, server: us1.caoyyds.link, port: 8443, type: vmess, uuid: 3acdbcb3-e576-486b-9158-f34600f2e019, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /cao, headers: {Host: us1.caoyyds.link}}, udp: true}
-- {name: 🇺🇸 US2·美国·中转·2X - 小C-Airport, server: gdcm.r1u.cn, port: 46895, type: vmess, uuid: 3acdbcb3-e576-486b-9158-f34600f2e019, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US3·美国·流媒体·2X - 小C-Airport, server: us3.caoyyds.link, port: 8443, type: vmess, uuid: 3acdbcb3-e576-486b-9158-f34600f2e019, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /cao, headers: {Host: us3.caoyyds.link}}, udp: true}

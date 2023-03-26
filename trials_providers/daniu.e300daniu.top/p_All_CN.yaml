@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇨🇳 UKR1-1-广州 - 大牛机场, server: gd.xyzxyz8.xyz, port: 41180, type: ss, cipher: aes-128-gcm, password: fe1c59fe-ba90-436e-a307-c7aa3a90ad5d, udp: true}

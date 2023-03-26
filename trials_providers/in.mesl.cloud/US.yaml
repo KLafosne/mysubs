@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 US 01 - MESL, server: e3.mesinks.cn, port: 11010, type: ss, cipher: aes-128-gcm, password: 55933969-b051-40df-bd1f-191f1ea30642, udp: true}

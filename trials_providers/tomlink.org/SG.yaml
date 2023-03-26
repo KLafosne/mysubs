@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 SG 02 | x1.0 - TomLink, server: 120.241.255.246, port: 14031, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
-- {name: 🇸🇬 SG 03 | x1.0 - TomLink, server: 117.174.51.138, port: 14031, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}

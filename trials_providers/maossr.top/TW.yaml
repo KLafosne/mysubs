@@ -1,7 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: '🇹🇼 台1[直连]-流媒体NF - 爱猫论坛', server: hinet.nbsd.win, port: 443, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /videos/stream, headers: {Host: hinet.nbsd.win}}, udp: true}
-- {name: '🇹🇼 台2[直连]-流媒体NF - 爱猫论坛', server: tw2.594888.xyz, port: 25551, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: tw2.594888.xyz}}, udp: true}
-- {name: '🇹🇼 台3[直连]-流媒体NF - 爱猫论坛', server: tw3.594888.xyz, port: 25551, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: tw3.594888.xyz}}, udp: true}
-- {name: '🇹🇼 台4[直连]-流媒体NF - 爱猫论坛', server: tw4.594888.xyz, port: 11463, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: tw4.594888.xyz}}, udp: true}

@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵 Tokyo 日本東京都隧道 | 1.25x - AIR FORCE, server: cdn-93.airforce1.cyou, port: 49588, type: ss, cipher: chacha20-ietf-poly1305, password: 9b9f1513-c760-41bb-8911-5b252fa20c0a, udp: true}
