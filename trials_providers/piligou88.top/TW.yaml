@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾1||移动出口||原生 - 霹雳狗加速, server: yd.plggogo.xyz, port: 31611, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: tw.plggogo.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾2 ||电信出口||原生 - 霹雳狗加速, server: dx.plggogo.xyz, port: 31611, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: tw.plggogo.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾3 ||联通出口||原生 - 霹雳狗加速, server: lt.plggogo.xyz, port: 31611, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: tw.plggogo.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾1||移动出口||原生 - 霹雳狗加速, server: yd.plggogo.xyz, port: 31611, client-fingerprint: chrome, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, tfo: false, sni: tw.plggogo.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾2 ||电信出口||原生 - 霹雳狗加速, server: dx.plggogo.xyz, port: 31611, client-fingerprint: chrome, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, tfo: false, sni: tw.plggogo.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾3 ||联通出口||原生 - 霹雳狗加速, server: lt.plggogo.xyz, port: 31611, client-fingerprint: chrome, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, tfo: false, sni: tw.plggogo.xyz, skip-cert-verify: true, udp: true}

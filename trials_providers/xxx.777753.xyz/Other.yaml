@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 雲☁xxx.777753.xyz - wuxuCloud, server: 124.223.32.233, port: 5000, client-fingerprint: chrome, type: trojan, password: 25547da9-d9e4-43c6-a2d9-a49bdfa08378, tfo: false, sni: 1, skip-cert-verify: true, udp: true}
-- {name: 企鵝群773629161 - wuxuCloud, server: 124.223.32.233, port: 5000, client-fingerprint: chrome, type: trojan, password: 25547da9-d9e4-43c6-a2d9-a49bdfa08378, tfo: false, sni: 1, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 【1x】韩国-十堰联通 - wuxuCloud, server: x1xcc.777753.xyz, port: 20492, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 25547da9-d9e4-43c6-a2d9-a49bdfa08378, tfo: false, udp: true}
-- {name: 🇩🇪 【1x】德国-十堰联通 - wuxuCloud, server: x1xcc.777753.xyz, port: 11840, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 25547da9-d9e4-43c6-a2d9-a49bdfa08378, tfo: false, udp: true}
-- {name: '🇰🇷 【2x】[韩国]-上海联通 - wuxuCloud', server: shcm.donghui.tech, port: 23378, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 25547da9-d9e4-43c6-a2d9-a49bdfa08378, tfo: false, udp: true}
-- {name: '🇩🇪 【2x】[德国]-上海联通 - wuxuCloud', server: shcm.donghui.tech, port: 23375, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 25547da9-d9e4-43c6-a2d9-a49bdfa08378, tfo: false, udp: true}
-- {name: '🇰🇷 【2x】[韩国]-杭州移动 - wuxuCloud', server: hzyd.donghui.tech, port: 23378, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 25547da9-d9e4-43c6-a2d9-a49bdfa08378, tfo: false, udp: true}
-- {name: '🇩🇪 【2x】[德国]-杭州移动 - wuxuCloud', server: hzyd.donghui.tech, port: 23375, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 25547da9-d9e4-43c6-a2d9-a49bdfa08378, tfo: false, udp: true}
+- {name: 雲☁xxx.777753.xyz - wuxuCloud, server: 124.223.32.233, port: 5000, type: trojan, password: 25547da9-d9e4-43c6-a2d9-a49bdfa08378, sni: 1, skip-cert-verify: true, udp: true}
+- {name: 企鵝群773629161 - wuxuCloud, server: 124.223.32.233, port: 5000, type: trojan, password: 25547da9-d9e4-43c6-a2d9-a49bdfa08378, sni: 1, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 【1x】韩国-十堰联通 - wuxuCloud, server: x1xcc.777753.xyz, port: 20492, type: ss, cipher: chacha20-ietf-poly1305, password: 25547da9-d9e4-43c6-a2d9-a49bdfa08378, udp: true}
+- {name: 🇩🇪 【1x】德国-十堰联通 - wuxuCloud, server: x1xcc.777753.xyz, port: 11840, type: ss, cipher: chacha20-ietf-poly1305, password: 25547da9-d9e4-43c6-a2d9-a49bdfa08378, udp: true}
+- {name: '🇰🇷 【2x】[韩国]-上海联通 - wuxuCloud', server: shcm.donghui.tech, port: 23378, type: ss, cipher: chacha20-ietf-poly1305, password: 25547da9-d9e4-43c6-a2d9-a49bdfa08378, udp: true}
+- {name: '🇩🇪 【2x】[德国]-上海联通 - wuxuCloud', server: shcm.donghui.tech, port: 23375, type: ss, cipher: chacha20-ietf-poly1305, password: 25547da9-d9e4-43c6-a2d9-a49bdfa08378, udp: true}
+- {name: '🇰🇷 【2x】[韩国]-杭州移动 - wuxuCloud', server: hzyd.donghui.tech, port: 23378, type: ss, cipher: chacha20-ietf-poly1305, password: 25547da9-d9e4-43c6-a2d9-a49bdfa08378, udp: true}
+- {name: '🇩🇪 【2x】[德国]-杭州移动 - wuxuCloud', server: hzyd.donghui.tech, port: 23375, type: ss, cipher: chacha20-ietf-poly1305, password: 25547da9-d9e4-43c6-a2d9-a49bdfa08378, udp: true}

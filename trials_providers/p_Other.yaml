@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：1 天 - 大哥云, server: v02.gutingting.com, port: 30015, type: vmess, uuid: 179690f2-786f-46e9-804a-3f5bd1db073a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aceamedv, headers: {Host: gz.fastcloud.club}}, udp: true}
+- {name: 距离下次重置剩余：1 天 - 大哥云, server: v02.gutingting.com, port: 30015, client-fingerprint: chrome, type: vmess, uuid: 179690f2-786f-46e9-804a-3f5bd1db073a, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aceamedv, headers: {Host: gz.fastcloud.club}}, udp: true}
 - {name: '官网: v2.mk - 白给加速器', server: 120-241-236-24.nhost.00cdn.com, port: 30806, type: vmess, uuid: 979da2a1-869a-479b-92e8-05e23bf27999, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 最新官网地址ruixy.xyz - 锐星云, server: gy.ruistar.info, port: 50240, type: vmess, uuid: b044f49b-4088-4fd9-b3cf-3ffe97e13680, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 安卓|如遇提示配置文件请更新订阅 - 锐星云, server: sd.ruistar.info, port: 30115, type: vmess, uuid: b044f49b-4088-4fd9-b3cf-3ffe97e13680, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -19,22 +19,20 @@ proxies:
 - {name: 最新网址 https://mayi-site.com - 蚂蚁云流量, server: ss.mayiyun.shop, port: 22002, type: ss, cipher: aes-128-gcm, password: fe824cca-1310-40da-942d-37c90b9e7293, udp: true}
 - {name: Ss.cf不可用时，换80节点。会尽快恢复 - 蚂蚁云流量, server: ss.mayiyun.shop, port: 22002, type: ss, cipher: aes-128-gcm, password: fe824cca-1310-40da-942d-37c90b9e7293, udp: true}
 - {name: 续费后开通更多优质国内外节点 - 蚂蚁云流量, server: ss.mayiyun.shop, port: 22002, type: ss, cipher: aes-128-gcm, password: fe824cca-1310-40da-942d-37c90b9e7293, udp: true}
-- {name: 官网-2022.pet - 飞翔吧, server: xn--gmqa02ag57d.com, port: 10086, client-fingerprint: chrome, type: vless, uuid: 0427aa4f-8203-3a4b-8afa-00a48f60e7fa, tls: false, tfo: false, servername: xn--gmqa02ag57d.com, skip-cert-verify: true, udp: true}
 - {name: 欢迎使用果园吧网络服务 - 果园吧 ⚠️限速 30, server: guoyuanbar.top, port: 10086, type: ss, cipher: chacha20-ietf, password: I1unMew7RhkAFEyP, udp: true}
 - {name: 官网网址 guoyuanbar.top - 果园吧 ⚠️限速 30, server: guoyuanbar.top, port: 10086, type: ss, cipher: chacha20-ietf, password: I1unMew7RhkAFEyP, udp: true}
 - {name: 新网址：sockboom.tv - SockBoom, server: www.google.com, port: 1, type: ssr, cipher: aes-256-cfb, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
-- {name: 距离下次重置剩余：3 天 - 看看云, server: tongzhi.52652601.xyz, port: 21086, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, tfo: false, udp: true}
-- {name: 官网:kkcloud.xyz - 看看云, server: tongzhi.52652601.xyz, port: 21086, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, tfo: false, udp: true}
-- {name: 距离下次重置剩余：5 天 - Tadm科學基地, server: 203.184.132.251, port: 4433, type: vmess, uuid: 117b0566-58b0-4e66-935f-ea3e5d001bfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 官网：dnfcflol.top 备用：a.dnfcflol.top - Tadm科學基地, server: 203.184.132.251, port: 4433, type: vmess, uuid: 117b0566-58b0-4e66-935f-ea3e5d001bfe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：3 天 - 看看云, server: tongzhi.52652601.xyz, port: 21086, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}
+- {name: 官网:kkcloud.xyz - 看看云, server: tongzhi.52652601.xyz, port: 21086, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}
+- {name: 距离下次重置剩余：5 天 - Tadm科學基地, server: 203.184.132.251, port: 4433, client-fingerprint: chrome, type: vmess, uuid: 117b0566-58b0-4e66-935f-ea3e5d001bfe, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
+- {name: 官网：dnfcflol.top 备用：a.dnfcflol.top - Tadm科學基地, server: 203.184.132.251, port: 4433, client-fingerprint: chrome, type: vmess, uuid: 117b0566-58b0-4e66-935f-ea3e5d001bfe, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：14 天 - 1coinVPN, server: 160.16.153.228, port: 44443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: trotktest.1coinvp.vip, skip-cert-verify: true, udp: true}
 - {name: K00【官 网】yywl.org - 云翼网络, server: gtm-sg-6wr31eq5o8g.gtm-i1d8.com, port: 42338, type: ss, cipher: aes-128-gcm, password: w5UveP, udp: true}
 - {name: 距离下次重置剩余：7 天 - 迅帆加速器, server: relay-hk-vip-4.nxunfan.com, port: 11432, type: vmess, uuid: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：1 天 - ANYDOOR, server: zjcm.lele233.top, port: 45977, type: ss, cipher: chacha20-ietf-poly1305, password: 58c0f24f-6137-41c3-bbb2-7b86d964d6c0, udp: true}
 - {name: C2.半年专业版套餐限时8折仅119/1150G(非节点勿连) - XD Cloud, server: www.xindongli139.xyz, port: 10086, type: trojan, password: NSaCARLBcirlOZ9J, skip-cert-verify: true, udp: true}
-- {name: A1.最新官网地址：zhuzhu12.com【请勿连接】 - 猪猪, server: adobe.zhuzhu12.com, port: 666, client-fingerprint: chrome, type: vmess, uuid: 29256b2d-aca4-35e5-bcf1-8f2587be8b05, alterId: 2, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.zhuzhu12.com}}, udp: true}
-- {name: A2.断网超时请更新订阅【请勿连接】 - 猪猪, server: malio.zhuzhu12.com, port: 666, client-fingerprint: chrome, type: vmess, uuid: 29256b2d-aca4-35e5-bcf1-8f2587be8b05, alterId: 2, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: malio.zhuzhu12.com}}, udp: true}
-- {name: '两会来临请勤更新订阅,备用网址：metron.zhuzhu12.com - 猪猪', server: zhuzhu12.com, port: 10086, client-fingerprint: chrome, type: vless, uuid: 29256b2d-aca4-35e5-bcf1-8f2587be8b05, tls: false, tfo: false, servername: zhuzhu12.com, skip-cert-verify: true, udp: true}
+- {name: A1.最新官网地址：zhuzhu12.com【请勿连接】 - 猪猪, server: adobe.zhuzhu12.com, port: 666, type: vmess, uuid: 29256b2d-aca4-35e5-bcf1-8f2587be8b05, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.zhuzhu12.com}}, udp: true}
+- {name: A2.断网超时请更新订阅【请勿连接】 - 猪猪, server: malio.zhuzhu12.com, port: 666, type: vmess, uuid: 29256b2d-aca4-35e5-bcf1-8f2587be8b05, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: malio.zhuzhu12.com}}, udp: true}
 - {name: 距离下次重置剩余：1 天 - TomLink, server: 120.241.255.246, port: 14061, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
 - {name: 本站网址：www.cryxr1.xyz - 探索者, server: 603diya.donghui.tech, port: 34635, type: vmess, uuid: 81dffcad-5aa5-4181-85d1-a6ac994a9c67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
 - {name: 本站网址：www.cryxr2.xyz - 探索者, server: 603diya.donghui.tech, port: 34636, type: vmess, uuid: 81dffcad-5aa5-4181-85d1-a6ac994a9c67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
