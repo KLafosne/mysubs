@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 VIP2/香港_03/隧道/1.0x - ANYDOOR, server: zjcm.lele233.top, port: 45977, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 58c0f24f-6137-41c3-bbb2-7b86d964d6c0, tfo: false, udp: true}
-- {name: 🇭🇰 VIP2/香港_06/隧道/1.0x - ANYDOOR, server: zjcm.lele233.top, port: 50073, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 58c0f24f-6137-41c3-bbb2-7b86d964d6c0, tfo: false, udp: true}
-- {name: 🇭🇰 VIP2/香港_07/隧道/1.0x - ANYDOOR, server: nmcm.lele233.top, port: 21228, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 58c0f24f-6137-41c3-bbb2-7b86d964d6c0, tfo: false, udp: true}
-- {name: 🇭🇰 VIP1/香港_05/隧道/1.0x - ANYDOOR, server: szct.lele233.top, port: 19981, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 58c0f24f-6137-41c3-bbb2-7b86d964d6c0, tfo: false, udp: true}
-- {name: 🇭🇰 VIP1/香港_07/隧道/1.0x - ANYDOOR, server: szct.lele233.top, port: 41089, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 58c0f24f-6137-41c3-bbb2-7b86d964d6c0, tfo: false, udp: true}
-- {name: 🇭🇰 VIP1/香港_08/隧道/1.0x - ANYDOOR, server: szct.lele233.top, port: 24227, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 58c0f24f-6137-41c3-bbb2-7b86d964d6c0, tfo: false, udp: true}
+- {name: 🇭🇰 VIP2/香港_03/隧道/1.0x - ANYDOOR, server: zjcm.lele233.top, port: 45977, type: ss, cipher: chacha20-ietf-poly1305, password: 58c0f24f-6137-41c3-bbb2-7b86d964d6c0, udp: true}
+- {name: 🇭🇰 VIP2/香港_06/隧道/1.0x - ANYDOOR, server: zjcm.lele233.top, port: 50073, type: ss, cipher: chacha20-ietf-poly1305, password: 58c0f24f-6137-41c3-bbb2-7b86d964d6c0, udp: true}
+- {name: 🇭🇰 VIP2/香港_07/隧道/1.0x - ANYDOOR, server: nmcm.lele233.top, port: 21228, type: ss, cipher: chacha20-ietf-poly1305, password: 58c0f24f-6137-41c3-bbb2-7b86d964d6c0, udp: true}
+- {name: 🇭🇰 VIP1/香港_05/隧道/1.0x - ANYDOOR, server: szct.lele233.top, port: 19981, type: ss, cipher: chacha20-ietf-poly1305, password: 58c0f24f-6137-41c3-bbb2-7b86d964d6c0, udp: true}
+- {name: 🇭🇰 VIP1/香港_07/隧道/1.0x - ANYDOOR, server: szct.lele233.top, port: 41089, type: ss, cipher: chacha20-ietf-poly1305, password: 58c0f24f-6137-41c3-bbb2-7b86d964d6c0, udp: true}
+- {name: 🇭🇰 VIP1/香港_08/隧道/1.0x - ANYDOOR, server: szct.lele233.top, port: 24227, type: ss, cipher: chacha20-ietf-poly1305, password: 58c0f24f-6137-41c3-bbb2-7b86d964d6c0, udp: true}

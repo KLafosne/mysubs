@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 韩国汉城 - 五元店, server: hbcu.r1u.cn, port: 28781, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, tfo: false, udp: true}
-- {name: 🇳🇱 荷兰阿姆斯特丹 - 五元店, server: gdcm.r1u.cn, port: 35242, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, tfo: false, udp: true}
-- {name: 🇫🇷 法国巴黎 - 五元店, server: jscm.r1u.cn, port: 49817, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, tfo: false, udp: true}
-- {name: 🇩🇪 德国法兰克福 - 五元店, server: jscm.r1u.cn, port: 25978, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, tfo: false, udp: true}
-- {name: 🇬🇧 英国伦敦 - 五元店, server: hbcu.r1u.cn, port: 43425, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, tfo: false, udp: true}
+- {name: 🇰🇷 韩国汉城 - 五元店, server: hbcu.r1u.cn, port: 28781, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, udp: true}
+- {name: 🇳🇱 荷兰阿姆斯特丹 - 五元店, server: gdcm.r1u.cn, port: 35242, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, udp: true}
+- {name: 🇫🇷 法国巴黎 - 五元店, server: jscm.r1u.cn, port: 49817, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, udp: true}
+- {name: 🇩🇪 德国法兰克福 - 五元店, server: jscm.r1u.cn, port: 25978, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, udp: true}
+- {name: 🇬🇧 英国伦敦 - 五元店, server: hbcu.r1u.cn, port: 43425, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, udp: true}
