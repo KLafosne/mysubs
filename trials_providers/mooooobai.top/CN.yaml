@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 HK Test - 锐云, server: gd-cn-01.1024.com.s1024.cc, port: 41075, type: ss, cipher: aes-128-gcm, password: 9660f0c6-13a9-415f-a98c-7db367ea69a0, udp: true}
+- {name: 🇭🇰 HK 01丨广港 - 锐云, server: gd-cn-01.1024.com.s1024.cc, port: 23790, type: ss, cipher: aes-128-gcm, password: 9660f0c6-13a9-415f-a98c-7db367ea69a0, udp: true}

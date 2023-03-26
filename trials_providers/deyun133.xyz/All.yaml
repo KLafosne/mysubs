@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 新加坡 F1|Trojan|01   - 浪潮, server: dsgtr1.152cc.xyz, port: 4493, type: trojan, password: f1c185f8-fc9c-31ed-a247-b0e043d06106, sni: dsgtr1.152cc.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 F1(免费线路)  - 浪潮, server: dhktrf1.102ctc.xyz, port: 30301, type: trojan, password: f1c185f8-fc9c-31ed-a247-b0e043d06106, sni: dhktrf1.102ctc.xyz, skip-cert-verify: true, udp: true}

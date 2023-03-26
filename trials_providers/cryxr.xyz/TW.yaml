@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 SVIP|台湾03|三网优化| - 探索者, server: 603diya.donghui.tech, port: 34637, type: vmess, uuid: 947c0160-ee9c-442b-8d6c-0d68c19d97f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🇹🇼 SVIP|台湾04|三网优化| - 探索者, server: 603diya.donghui.tech, port: 34647, type: vmess, uuid: 947c0160-ee9c-442b-8d6c-0d68c19d97f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}

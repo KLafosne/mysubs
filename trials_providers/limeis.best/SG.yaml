@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬Singapore 01 - Lime 青柠, server: ahyd.pangupy.com, port: 12757, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: 8a781483-11b7-40cf-8fb9-4bbadecbc09c, tfo: false, udp: true}
+- {name: 🇸🇬Singapore 02 - Lime 青柠, server: hzdx.pangupy.com, port: 12756, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: 8a781483-11b7-40cf-8fb9-4bbadecbc09c, tfo: false, udp: true}
+- {name: 🇸🇬Singapore 03 - Lime 青柠, server: ahyd.pangupy.com, port: 52448, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: 8a781483-11b7-40cf-8fb9-4bbadecbc09c, tfo: false, udp: true}
+- {name: 🇸🇬Singapore 04 - Lime 青柠, server: hzdx.pangupy.com, port: 52448, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: 8a781483-11b7-40cf-8fb9-4bbadecbc09c, tfo: false, udp: true}

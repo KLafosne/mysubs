@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 香港1 - giao云, server: 316sg01.ljydw.top, port: 443, type: trojan, password: 108a54e1-a0cb-42b1-b5be-ce637338bce1, sni: 316sg01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港7 - giao云, server: 320hk01.ljydw.top, port: 80, type: trojan, password: 108a54e1-a0cb-42b1-b5be-ce637338bce1, sni: 320hk01.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港8 - giao云, server: 320hk02.ljydw.top, port: 80, type: trojan, password: 108a54e1-a0cb-42b1-b5be-ce637338bce1, sni: 320hk02.ljydw.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港2 - giao云, server: 316sg02.ljydw.top, port: 52022, type: trojan, password: 108a54e1-a0cb-42b1-b5be-ce637338bce1, sni: 316sg02.ljydw.top, skip-cert-verify: true, udp: true}

@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇰🇷 KR-1 - 小白云, server: kr1.iepl.cooc.icu, port: 35101, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: f536ea4a-6af4-45d3-97a5-e4149e18a2d5, tfo: false, udp: true}
+- {name: 🇰🇷 KR-3 - 小白云, server: kr3.iepl.cooc.icu, port: 35103, client-fingerprint: chrome, type: trojan, password: f536ea4a-6af4-45d3-97a5-e4149e18a2d5, tfo: false, sni: kr.first.cooc.icu, skip-cert-verify: true, udp: true}

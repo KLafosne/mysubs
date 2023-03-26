@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 Lv0|新加坡|Beta2 - 飞云, server: free2.fynode2.top, port: 20225, type: ssr, cipher: rc4-md5, password: feiyun001, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 14917:nl9f1uIhuO9s, obfs-param: 26b2814917.hdslb.com, udp: true}
+- {name: 🇯🇵 Lv0|日本|Beta1 - 飞云, server: free1.fynode2.top, port: 20223, type: ssr, cipher: rc4-md5, password: feiyun001, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 14917:nl9f1uIhuO9s, obfs-param: 26b2814917.hdslb.com, udp: true}

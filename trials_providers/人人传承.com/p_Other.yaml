@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 官网-2022.pet - 飞翔吧, server: xn--gmqa02ag57d.com, port: 10086, client-fingerprint: chrome, type: vless, uuid: 0427aa4f-8203-3a4b-8afa-00a48f60e7fa, tls: false, tfo: false, servername: xn--gmqa02ag57d.com, skip-cert-verify: true, udp: true}

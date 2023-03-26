@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: A1.最新官网地址：zhuzhu12.com【请勿连接】 - 猪猪, server: adobe.zhuzhu12.com, port: 666, type: vmess, uuid: 29256b2d-aca4-35e5-bcf1-8f2587be8b05, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: adobe.zhuzhu12.com}}, udp: true}
+- {name: A2.断网超时请更新订阅【请勿连接】 - 猪猪, server: malio.zhuzhu12.com, port: 666, type: vmess, uuid: 29256b2d-aca4-35e5-bcf1-8f2587be8b05, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: malio.zhuzhu12.com}}, udp: true}

@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 B 中国台湾 01 NF - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 34854, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, udp: true}
+- {name: 🇹🇼 B 中国台湾 03 NF - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 23127, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, udp: true}
+- {name: 🇹🇼 E 中国台湾 02 NF - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 41433, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, udp: true}
+- {name: 🇹🇼 E 中国台湾 04 NF - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 36677, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, udp: true}

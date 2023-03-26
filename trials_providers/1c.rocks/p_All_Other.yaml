@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇰🇷 ソウル① | 共用通常版サーバ - 1coinVPN, server: 141.164.47.231, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: trokr01.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 ソウル② | 共用通常版サーバ - 1coinVPN, server: 158.247.225.127, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: trokr02.1coinvp.vip, skip-cert-verify: true, udp: true}

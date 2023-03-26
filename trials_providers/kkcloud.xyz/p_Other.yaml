@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 距离下次重置剩余：3 天 - 看看云, server: tongzhi.52652601.xyz, port: 21086, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}
+- {name: 官网:kkcloud.xyz - 看看云, server: tongzhi.52652601.xyz, port: 21086, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}

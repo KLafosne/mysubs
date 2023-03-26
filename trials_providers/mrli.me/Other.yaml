@@ -1,0 +1,22 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇩🇰 丹麦12 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 17987, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇷🇺 俄罗斯16 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 30113, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦 加拿大30 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 12454, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度05 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 33222, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇩 印度尼西亚07 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 12482, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 土耳其59 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 10007, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇲🇽 墨西哥15 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 15423, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国14 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 12383, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇭 泰国57 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 12356, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇦🇺 澳大利亚24 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 46510, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国08 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 11480, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇳🇱 荷兰35 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 55558, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇵🇭 菲律宾67 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 14751, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇪🇸 西班牙44 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 12040, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南68 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 14214, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇦🇪 迪拜55 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 10225, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇦🇷 阿根廷23 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 55656, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国06 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 42153, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇲🇾 马来西亚03 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 20156, type: vmess, uuid: a8f2ac7c-ebf7-3313-8133-dffc2c5d3873, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

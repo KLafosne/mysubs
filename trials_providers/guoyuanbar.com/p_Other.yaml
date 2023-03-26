@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 欢迎使用果园吧网络服务 - 果园吧 ⚠️限速 30, server: guoyuanbar.top, port: 10086, type: ss, cipher: chacha20-ietf, password: I1unMew7RhkAFEyP, udp: true}
+- {name: 官网网址 guoyuanbar.top - 果园吧 ⚠️限速 30, server: guoyuanbar.top, port: 10086, type: ss, cipher: chacha20-ietf, password: I1unMew7RhkAFEyP, udp: true}

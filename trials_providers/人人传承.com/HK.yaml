@@ -1,0 +1,11 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 广港•香港260•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 31313, client-fingerprint: chrome, type: trojan, password: 0427aa4f-8203-3a4b-8afa-00a48f60e7fa, tfo: false, sni: z260.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 28678, client-fingerprint: chrome, type: trojan, password: 0427aa4f-8203-3a4b-8afa-00a48f60e7fa, tfo: false, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 22741, client-fingerprint: chrome, type: trojan, password: 0427aa4f-8203-3a4b-8afa-00a48f60e7fa, tfo: false, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港294•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 20294, client-fingerprint: chrome, type: trojan, password: 0427aa4f-8203-3a4b-8afa-00a48f60e7fa, tfo: false, sni: x294.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 43337, client-fingerprint: chrome, type: trojan, password: 0427aa4f-8203-3a4b-8afa-00a48f60e7fa, tfo: false, sni: x102.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港259•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 24603, client-fingerprint: chrome, type: trojan, password: 0427aa4f-8203-3a4b-8afa-00a48f60e7fa, tfo: false, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 20278, client-fingerprint: chrome, type: trojan, password: 0427aa4f-8203-3a4b-8afa-00a48f60e7fa, tfo: false, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gg.xn--gmqa02ag57d.com, port: 20279, client-fingerprint: chrome, type: trojan, password: 0427aa4f-8203-3a4b-8afa-00a48f60e7fa, tfo: false, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}

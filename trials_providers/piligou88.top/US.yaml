@@ -1,0 +1,15 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇲 美国俄亥俄0 ||原生 - 霹雳狗加速, server: mg1.plggogo.xyz, port: 31610, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: mg1.plggogo.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国俄亥俄1 ||移动出口||原生 - 霹雳狗加速, server: yd.plggogo.xyz, port: 31610, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: mg1.plggogo.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国俄亥俄2 ||电信出口||原生 - 霹雳狗加速, server: dx.plggogo.xyz, port: 31610, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: mg1.plggogo.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国俄亥俄3 ||联通出口||原生 - 霹雳狗加速, server: lt.plggogo.xyz, port: 31610, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: mg1.plggogo.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国洛杉矶0  - 霹雳狗加速, server: mg3.plggogo.xyz, port: 31617, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: mg3.plggogo.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国洛杉矶1 ||移动出口 - 霹雳狗加速, server: yd.plggogo.xyz, port: 31617, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: mg3.plggogo.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国洛杉矶2 ||电信出口 - 霹雳狗加速, server: dx.plggogo.xyz, port: 31617, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: mg3.plggogo.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国洛杉矶3 ||联通出口 - 霹雳狗加速, server: lt.plggogo.xyz, port: 31617, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: mg3.plggogo.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国芝加哥0 ||原生 - 霹雳狗加速, server: mg2.plggogo.xyz, port: 31616, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: mg2.plggogo.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国芝加哥1 ||移动出口||原生 - 霹雳狗加速, server: yd.plggogo.xyz, port: 31616, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: mg2.plggogo.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国芝加哥2 ||电信出口||原生 - 霹雳狗加速, server: dx.plggogo.xyz, port: 31616, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: mg2.plggogo.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国芝加哥3 ||联通出口||原生 - 霹雳狗加速, server: lt.plggogo.xyz, port: 31616, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: mg2.plggogo.xyz, skip-cert-verify: true, udp: true}

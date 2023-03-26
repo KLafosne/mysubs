@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本-TV-1x - TTK, server: lv2.ttkcloud.xyz, port: 12333, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 公网|日本|1x - TTK, server: cs.ttkcloud.xyz, port: 12333, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 路由器|日本|1x - TTK, server: lv2.ttkcloud.xyz, port: 10946, type: vmess, uuid: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 74.120.175.243, udp: true}
+- {name: 🇯🇵 海外|日本|1x - TTK, server: outline-jp.ttkcloud.buzz, port: 33333, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}

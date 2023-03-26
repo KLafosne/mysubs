@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 台湾 - 五元店, server: hbcu.r1u.cn, port: 43789, type: ss, cipher: chacha20-ietf-poly1305, password: b07fc986-a5b9-4b4c-99f4-1aaf4cf33b16, udp: true}

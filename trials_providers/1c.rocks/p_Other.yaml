@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 距离下次重置剩余：14 天 - 1coinVPN, server: 160.16.153.228, port: 44443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: trotktest.1coinvp.vip, skip-cert-verify: true, udp: true}

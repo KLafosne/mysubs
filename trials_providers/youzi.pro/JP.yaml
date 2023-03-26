@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本01流媒体解锁【SS】「1.5X」 - 柚子酱, server: a.karyl.cc, port: 33004, type: ss, cipher: chacha20-ietf-poly1305, password: 86000b4c-dacc-43d3-8a35-77fbb2c5f4e2, udp: true}
+- {name: 🇯🇵 日本02流媒体解锁【SS】「1.5X」 - 柚子酱, server: b.karyl.cc, port: 33005, type: ss, cipher: chacha20-ietf-poly1305, password: 86000b4c-dacc-43d3-8a35-77fbb2c5f4e2, udp: true}

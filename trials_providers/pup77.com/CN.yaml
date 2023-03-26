@@ -1,0 +1,8 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 香港|3.0X|📶IEPL - 小狗云, server: gdcm.r1u.cn, port: 30787, type: ss, cipher: aes-256-gcm, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, udp: true}
+- {name: 🇹🇼 台湾|0.5X|直连|Netflix🔓 - 小狗云, server: gov.alisa.buzz, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, udp: true}
+- {name: 🇭🇰 香港<->广东移动|1.5X|流媒体 🎬 - 小狗云, server: cn-gd.feng.best, port: 27446, type: ss, cipher: aes-256-gcm, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, udp: true}
+- {name: 🇭🇰 香港<->浙江移动|1.5X|流媒体 🎬 - 小狗云, server: hk-zjmobile.feng.best, port: 19943, type: ss, cipher: aes-256-gcm, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, udp: true}
+- {name: 🇹🇼 台湾|1.0X|Netflix|🔓 - 小狗云, server: cn-gd.feng.best, port: 20194, type: ss, cipher: chacha20-ietf-poly1305, password: 31e6d015-3fe6-4432-9122-6b37ac5dde66, udp: true}

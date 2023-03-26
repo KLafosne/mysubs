@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 HK 01 - MESL, server: s1.mesinks.cn, port: 10000, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 55933969-b051-40df-bd1f-191f1ea30642, tfo: false, udp: true}
+- {name: 🇸🇬 SG 01 - MESL, server: s1.mesinks.cn, port: 10013, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 55933969-b051-40df-bd1f-191f1ea30642, tfo: false, udp: true}
+- {name: 🇯🇵 JP 01 - MESL, server: e3.mesinks.cn, port: 11000, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 55933969-b051-40df-bd1f-191f1ea30642, tfo: false, udp: true}
+- {name: 🇺🇸 US 01 - MESL, server: e3.mesinks.cn, port: 11010, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 55933969-b051-40df-bd1f-191f1ea30642, tfo: false, udp: true}

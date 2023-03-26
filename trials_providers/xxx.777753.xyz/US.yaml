@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 【1x】美国-十堰联通 - wuxuCloud, server: x1xcc.777753.xyz, port: 45671, type: ss, cipher: chacha20-ietf-poly1305, password: 6e2d5be7-c42f-4b24-8164-ec582245a21a, udp: true}
+- {name: '🇺🇸 【2x】[美国]-上海联通 - wuxuCloud', server: shcm.donghui.tech, port: 23376, type: ss, cipher: chacha20-ietf-poly1305, password: 6e2d5be7-c42f-4b24-8164-ec582245a21a, udp: true}
+- {name: '🇺🇸 【2x】[美国]-杭州移动 - wuxuCloud', server: hzyd.donghui.tech, port: 23376, type: ss, cipher: chacha20-ietf-poly1305, password: 6e2d5be7-c42f-4b24-8164-ec582245a21a, udp: true}

@@ -1,0 +1,11 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 JCBB_香港01【vip1 - JCBB, server: gzyd.jcnode.top, port: 20000, type: vmess, uuid: 44136132-2ec8-4499-9328-5b0e41ac1934, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
+- {name: 🇭🇰 JCBB_香港02【vip1】 - JCBB, server: gzdx.jcnode.top, port: 20001, type: vmess, uuid: 44136132-2ec8-4499-9328-5b0e41ac1934, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx.jcnode.top}}, udp: true}
+- {name: 🇭🇰 JCBB_香港03【vip1】 - JCBB, server: gzyd.jcnode.top, port: 20001, type: vmess, uuid: 44136132-2ec8-4499-9328-5b0e41ac1934, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
+- {name: 🇭🇰 JCBB_香港04【vip1 - JCBB, server: gzdx.jcnode.top, port: 20000, type: vmess, uuid: 44136132-2ec8-4499-9328-5b0e41ac1934, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzdx.jcnode.top}}, udp: true}
+- {name: 🇭🇰 JCBB_香港 05【vip1】 - JCBB, server: gzdx.jcnode.top, port: 60003, type: trojan, password: 44136132-2ec8-4499-9328-5b0e41ac1934, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 JCBB_香港 06【vip1】 - JCBB, server: gzyd.jcnode.top, port: 20003, type: trojan, password: 44136132-2ec8-4499-9328-5b0e41ac1934, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 01【vip1】 - JCBB, server: gzyd.jcnode.top, port: 24000, type: vmess, uuid: 44136132-2ec8-4499-9328-5b0e41ac1934, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}
+- {name: 🇹🇼 JCBB_ 台湾 02【vip1】 - JCBB, server: gzyd.jcnode.top, port: 24001, type: vmess, uuid: 44136132-2ec8-4499-9328-5b0e41ac1934, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gzyd.jcnode.top}}, udp: true}

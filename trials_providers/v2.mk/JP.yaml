@@ -1,0 +1,8 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 中转 Y 沪日 1.5x - 白给加速器, server: snode-oss-sh2.nmp.pw, port: 38001, type: vmess, uuid: ff1a1016-03a6-4a0e-8ead-296f882a5b91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转 Q 沪日 1.5x - 白给加速器, server: snode-oss-sh2.nmp.pw, port: 39000, type: vmess, uuid: ff1a1016-03a6-4a0e-8ead-296f882a5b91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转 D 沪日 1.5x - 白给加速器, server: snode-oss-sh2.nmp.pw, port: 39002, type: vmess, uuid: ff1a1016-03a6-4a0e-8ead-296f882a5b91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转 P 日本 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 38003, type: vmess, uuid: ff1a1016-03a6-4a0e-8ead-296f882a5b91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转 F 日本 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 38007, type: vmess, uuid: ff1a1016-03a6-4a0e-8ead-296f882a5b91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

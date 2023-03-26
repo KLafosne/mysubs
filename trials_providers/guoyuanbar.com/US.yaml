@@ -1,0 +1,10 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 A 美国 06 TT - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 31506, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, udp: true}
+- {name: 🇺🇸 A 美国 08 TT - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 36109, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, udp: true}
+- {name: 🇺🇸 A 美国 11 NF - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 21287, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, udp: true}
+- {name: 🇺🇸 B 美国 01 NF - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 40918, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, udp: true}
+- {name: 🇺🇸 B 美国 02 NF - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 42842, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, udp: true}
+- {name: 🇺🇸 B 美国 04 TT - 果园吧 ⚠️限速 30, server: zzcu01.wze410c9g7.top, port: 22326, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, udp: true}
+- {name: 🇺🇸 E 美国 09 TT - 果园吧 ⚠️限速 30, server: jmcm01.wze410c9g7.top, port: 26786, type: ss, cipher: chacha20-ietf-poly1305, password: I1unMew7RhkAFEyP, udp: true}

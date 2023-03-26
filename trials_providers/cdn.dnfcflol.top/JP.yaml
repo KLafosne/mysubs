@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本混合｜广州移动｜解锁奈飞 - Tadm科學基地, server: jmyd.kfc0.icu, port: 20044, client-fingerprint: chrome, type: vmess, uuid: 117b0566-58b0-4e66-935f-ea3e5d001bfe, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 混合日本02｜解锁ChatGPT - Tadm科學基地, server: jmyd.kfc0.icu, port: 20051, client-fingerprint: chrome, type: vmess, uuid: 117b0566-58b0-4e66-935f-ea3e5d001bfe, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}

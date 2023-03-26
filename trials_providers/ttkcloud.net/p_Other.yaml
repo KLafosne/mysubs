@@ -1,0 +1,8 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🔔节点版本—1月18日 - TTK, server: 10086, port: 666, type: vmess, uuid: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🔧更新订阅可解决绝大部分问题哦 - TTK, server: 10086, port: 666, type: vmess, uuid: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🔗最新地址：https://home.ttk.rocks/ - TTK, server: 10086, port: 666, type: vmess, uuid: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🔧如遇到更新问题请到官网重新导入订阅哦 - TTK, server: 10086, port: 666, type: vmess, uuid: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🚦若只有三个可用节点请更新客户端 - TTK, server: 10086, port: 666, type: vmess, uuid: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}

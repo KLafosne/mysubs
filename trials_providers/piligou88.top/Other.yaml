@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇬🇧 英国0  - 霹雳狗加速, server: yg.plggogo.xyz, port: 31619, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: yg.plggogo.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国1 ||移动出口 - 霹雳狗加速, server: yd.plggogo.xyz, port: 31619, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: yg.plggogo.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国2 ||电信出口 - 霹雳狗加速, server: dx.plggogo.xyz, port: 31619, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: yg.plggogo.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国3 ||联通出口 - 霹雳狗加速, server: lt.plggogo.xyz, port: 31619, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: yg.plggogo.xyz, skip-cert-verify: true, udp: true}
