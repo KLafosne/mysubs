@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡-江苏移动-01 - 迅帆加速器, server: jscm.r1u.cn, port: 12440, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, tfo: false, udp: true}
-- {name: 🇸🇬 新加坡-浙江移动-01 - 迅帆加速器, server: relay-sg2.nxunfan.com, port: 20980, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, tfo: false, udp: true}
+- {name: 🇸🇬 新加坡-江苏移动-01 - 迅帆加速器, server: jscm.r1u.cn, port: 12440, type: ss, cipher: chacha20-ietf-poly1305, password: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, udp: true}
+- {name: 🇸🇬 新加坡-浙江移动-01 - 迅帆加速器, server: relay-sg2.nxunfan.com, port: 20980, type: ss, cipher: chacha20-ietf-poly1305, password: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, udp: true}

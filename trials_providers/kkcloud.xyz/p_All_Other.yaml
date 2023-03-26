@@ -1,14 +1,14 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇰🇷 [Korea]韩国-江苏移动 - 看看云', server: z1.52652601.xyz, port: 21082, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, tfo: false, udp: true}
-- {name: '🇩🇪 [Germany]德国-江苏移动 - 看看云', server: z1.52652601.xyz, port: 21049, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, tfo: false, udp: true}
-- {name: '🇦🇪 [Arab Emirates]阿联酋-江苏移动 - 看看云', server: z1.52652601.xyz, port: 21971, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, tfo: false, udp: true}
-- {name: '🇰🇷 [Korea]韩国-广东移动 - 看看云', server: z2.52652601.xyz, port: 21082, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, tfo: false, udp: true}
-- {name: '🇩🇪 [Germany]德国-广东移动 - 看看云', server: z2.52652601.xyz, port: 21049, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, tfo: false, udp: true}
-- {name: '🇦🇪 [Arab Emirates]阿联酋-广东移动 - 看看云', server: z2.52652601.xyz, port: 21971, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, tfo: false, udp: true}
-- {name: '🇰🇷 [Korea]韩国-广州移动 - 看看云', server: z3.52652601.xyz, port: 21082, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, tfo: false, udp: true}
-- {name: '🇩🇪 [Germany]德国-广州移动 - 看看云', server: z3.52652601.xyz, port: 21049, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, tfo: false, udp: true}
-- {name: '🇦🇪 [Arab Emirates]阿联酋-广州移动 - 看看云', server: z3.52652601.xyz, port: 21971, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, tfo: false, udp: true}
-- {name: 无法访问请发邮件 - 看看云, server: tongzhi.52652601.xyz, port: 21086, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, tfo: false, udp: true}
-- {name: kankanyun@outlook.com - 看看云, server: tongzhi.52652601.xyz, port: 21086, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, tfo: false, udp: true}
+- {name: '🇰🇷 [Korea]韩国-江苏移动 - 看看云', server: z1.52652601.xyz, port: 21082, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}
+- {name: '🇩🇪 [Germany]德国-江苏移动 - 看看云', server: z1.52652601.xyz, port: 21049, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}
+- {name: '🇦🇪 [Arab Emirates]阿联酋-江苏移动 - 看看云', server: z1.52652601.xyz, port: 21971, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}
+- {name: '🇰🇷 [Korea]韩国-广东移动 - 看看云', server: z2.52652601.xyz, port: 21082, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}
+- {name: '🇩🇪 [Germany]德国-广东移动 - 看看云', server: z2.52652601.xyz, port: 21049, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}
+- {name: '🇦🇪 [Arab Emirates]阿联酋-广东移动 - 看看云', server: z2.52652601.xyz, port: 21971, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}
+- {name: '🇰🇷 [Korea]韩国-广州移动 - 看看云', server: z3.52652601.xyz, port: 21082, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}
+- {name: '🇩🇪 [Germany]德国-广州移动 - 看看云', server: z3.52652601.xyz, port: 21049, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}
+- {name: '🇦🇪 [Arab Emirates]阿联酋-广州移动 - 看看云', server: z3.52652601.xyz, port: 21971, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}
+- {name: 无法访问请发邮件 - 看看云, server: tongzhi.52652601.xyz, port: 21086, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}
+- {name: kankanyun@outlook.com - 看看云, server: tongzhi.52652601.xyz, port: 21086, type: ss, cipher: chacha20-ietf-poly1305, password: c1aceeb2-d6a6-4d35-a343-7ef78dd815af, udp: true}

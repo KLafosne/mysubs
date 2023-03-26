@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: C2.半年专业版套餐限时8折仅119/1150G(非节点勿连) - XD Cloud, server: www.xindongli139.xyz, port: 10086, client-fingerprint: chrome, type: trojan, password: NSaCARLBcirlOZ9J, tfo: false, skip-cert-verify: true, udp: true}
+- {name: C2.半年专业版套餐限时8折仅119/1150G(非节点勿连) - XD Cloud, server: www.xindongli139.xyz, port: 10086, type: trojan, password: NSaCARLBcirlOZ9J, skip-cert-verify: true, udp: true}
