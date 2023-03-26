@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 台湾-北京联通-01 - 迅帆加速器, server: relay-tw-1.nxunfan.com, port: 14064, type: ss, cipher: chacha20-ietf-poly1305, password: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, udp: true}
+- {name: 🇹🇼 台湾-湖北联通-02 - 迅帆加速器, server: relay-tw-2.nxunfan.com, port: 41544, type: ss, cipher: chacha20-ietf-poly1305, password: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, udp: true}

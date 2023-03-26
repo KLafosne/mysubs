@@ -1,0 +1,9 @@
+%YAML 1.1
+---
+proxies:
+- {name: '🇭🇰 港1[中转]-Disney Netflix流媒体 - 爱猫论坛', server: cu.594888.xyz, port: 60995, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maophk1, headers: {Host: netflix6.com}}, udp: true}
+- {name: '🇭🇰 港1[直连]-流媒体NF - 爱猫论坛', server: v2hk1.594888.xyz, port: 35203, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maohk1, headers: {Host: v2hk1.594888.xyz}}, udp: true}
+- {name: "\U0001F1ED\U0001F1F0 港2[中转]-Disney Netflix流媒体\t - 爱猫论坛", server: cu.594888.xyz, port: 60995, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /maophk2, headers: {Host: netflix6.com}}, udp: true}
+- {name: '🇭🇰 港2[直连]-流媒体NF - 爱猫论坛', server: hk2.netflix6.com, port: 25551, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: hk2.netflix6.com}}, udp: true}
+- {name: '🇭🇰 港3[直连]-流媒体NF - 爱猫论坛', server: hk3.netflix6.com, port: 25551, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: hk3.netflix6.com}}, udp: true}
+- {name: '🇭🇰 港6[直连]-流媒体NF - 爱猫论坛', server: hk6.netflix6.com, port: 443, type: vmess, uuid: b988a837-5594-3c96-bc02-b45f602ab145, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/hk6.m3u8, headers: {Host: hk6.netflix6.com}}, udp: true}

@@ -1,0 +1,8 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 ss丨日本1 - 蚂蚁云流量, server: ss.mayiyun.shop, port: 20000, type: ss, cipher: aes-128-gcm, password: fe824cca-1310-40da-942d-37c90b9e7293, udp: true}
+- {name: 🇯🇵 80丨日本1 - 蚂蚁云流量, server: jp5.mayiyun.shop, port: 80, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}, udp: true}
+- {name: 🇯🇵 443丨日本1 - 蚂蚁云流量, server: jp5.mayiyun.shop, port: 443, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}, udp: true}
+- {name: 🇯🇵 80丨日本2 - 蚂蚁云流量, server: jp.mayiyun.shop, port: 80, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}, udp: true}
+- {name: 🇯🇵 80丨软银日本丨1Gbps - 蚂蚁云流量, server: ryjp.mayiyun.shop, port: 80, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}, udp: true}

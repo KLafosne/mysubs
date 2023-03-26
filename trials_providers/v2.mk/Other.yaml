@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 中转 S 贵新 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 38004, type: vmess, uuid: feeb9cc8-d30f-4521-b449-a4afe1c5df94, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 专线 Z 沪韩 1.5x - 白给加速器, server: snode-cn-sh1.nmp.pw, port: 30076, type: vmess, uuid: feeb9cc8-d30f-4521-b449-a4afe1c5df94, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇦🇷 中转 E 阿根廷 1.5x - 白给加速器, server: snode-oss-sh2.nmp.pw, port: 37002, type: vmess, uuid: feeb9cc8-d30f-4521-b449-a4afe1c5df94, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '官网: v2.mk - 白给加速器', server: 120-241-236-24.nhost.00cdn.com, port: 30806, type: vmess, uuid: feeb9cc8-d30f-4521-b449-a4afe1c5df94, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

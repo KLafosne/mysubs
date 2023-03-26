@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 新加坡 01 - Roadv2, server: zz-hk.roadv2.top, port: 29005, type: trojan, password: 465a5add-9edf-46d7-9040-689f543f942c, sni: sg-1.rdyun.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 02 - Roadv2, server: zz-hk.roadv2.top, port: 46481, type: trojan, password: 465a5add-9edf-46d7-9040-689f543f942c, sni: sg-2.rdyun.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 03 - Roadv2, server: zz-hk.roadv2.top, port: 37309, type: trojan, password: 465a5add-9edf-46d7-9040-689f543f942c, sni: sg-3.rdyun.top, skip-cert-verify: true, udp: true}

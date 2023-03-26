@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 香港02 - 花栗鼠, server: cmi.evansdev.xyz, port: 33221, type: vmess, uuid: 76e95449-a972-4e34-b7f0-254aec4dcc2d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /sometimesnaive, headers: {Host: cmi.evansdev.xyz}}, udp: true}
+- {name: 🇭🇰 香港03 - 花栗鼠, server: cmi333.evansdev.xyz, port: 56789, type: vmess, uuid: 76e95449-a972-4e34-b7f0-254aec4dcc2d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /sometimesnaive, headers: {Host: cmi333.evansdev.xyz}}, udp: true}
+- {name: 🇭🇰 香港04 - 花栗鼠, server: hk55.evansdev.xyz, port: 33442, type: vmess, uuid: 76e95449-a972-4e34-b7f0-254aec4dcc2d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /sometimesnaive, headers: {Host: hk55.evansdev.xyz}}, udp: true}
+- {name: 🇹🇼 台湾｜沪港 - 花栗鼠, server: shdx.donghui.tech, port: 55125, type: trojan, password: 76e95449-a972-4e34-b7f0-254aec4dcc2d, sni: nnctw.evansdev.xyz, skip-cert-verify: true, udp: true}

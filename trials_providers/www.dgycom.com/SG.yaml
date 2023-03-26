@@ -1,0 +1,8 @@
+%YAML 1.1
+---
+proxies:
+- {name: '🇸🇬 🚇 [ v1 ] 新加坡 · 01 · 线路1 - 大哥云', server: v01.gutingting.com, port: 30035, type: vmess, uuid: 179690f2-786f-46e9-804a-3f5bd1db073a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aceamedv, headers: {Host: v01.gutingting.com}}, udp: true}
+- {name: '🇸🇬 💎 [ T1 ] 新加坡 · 01 · 线路1 - 大哥云', server: v01.gutingting.com, port: 20222, type: trojan, password: 179690f2-786f-46e9-804a-3f5bd1db073a, sni: v2sg01.fuqiangren.com, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 💎 [ v1 ] 新加坡 · 02 · 线路1 - 大哥云', server: v01.gutingting.com, port: 30050, type: trojan, password: 179690f2-786f-46e9-804a-3f5bd1db073a, sni: v2sg02.fuqiangren.com, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 💎 [ v1 ] 新加坡 · 03 · 线路2 - 大哥云', server: v02.gutingting.com, port: 30049, type: trojan, password: 179690f2-786f-46e9-804a-3f5bd1db073a, sni: v2sg02.fuqiangren.com, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 💎 [ T1 ] 新加坡 · 02 · 线路2 - 大哥云', server: v02.gutingting.com, port: 20223, type: trojan, password: 179690f2-786f-46e9-804a-3f5bd1db073a, sni: v2sg01.fuqiangren.com, skip-cert-verify: true, udp: true}

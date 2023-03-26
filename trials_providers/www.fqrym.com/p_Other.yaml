@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 距离下次重置剩余：1 天 - ANYDOOR, server: zjcm.lele233.top, port: 45977, type: ss, cipher: chacha20-ietf-poly1305, password: 58c0f24f-6137-41c3-bbb2-7b86d964d6c0, udp: true}

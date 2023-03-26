@@ -1,0 +1,9 @@
+%YAML 1.1
+---
+proxies:
+- {name: '🇺🇸 💎 [ T1 ] 美国 · 01 · 线路1 - 大哥云', server: v01.gutingting.com, port: 20224, type: trojan, password: 179690f2-786f-46e9-804a-3f5bd1db073a, sni: v2usa01.fuqiangren.com, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 💎 [ T1 ] 美国 · 02 · 线路2 - 大哥云', server: v02.gutingting.com, port: 20225, type: trojan, password: 179690f2-786f-46e9-804a-3f5bd1db073a, sni: v2usa01.fuqiangren.com, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 🚇 [ v1 ] 美国 · 02 · 线路1 - 大哥云', server: v01.gutingting.com, port: 30048, type: vmess, uuid: 179690f2-786f-46e9-804a-3f5bd1db073a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sh02.fastcloud.club}}, udp: true}
+- {name: '🇺🇸 🚇 [ v1 ] 美国 · 03 · 线路2 - 大哥云', server: v02.gutingting.com, port: 30000, type: vmess, uuid: 179690f2-786f-46e9-804a-3f5bd1db073a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aceamedv, headers: {Host: gz.fastcloud.club}}, udp: true}
+- {name: '🇺🇸 [ 直连不保证国内 ] 美国 · U1 | 01 - 大哥云', server: zzus01.gutingting.com, port: 20220, type: trojan, password: 179690f2-786f-46e9-804a-3f5bd1db073a, sni: zzus01.gutingting.com, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [ 直连不保证国内 ] 美国 · U1 | 02 - 大哥云', server: zzus01.gutingting.com, port: 20220, type: trojan, password: 179690f2-786f-46e9-804a-3f5bd1db073a, sni: zzus01.gutingting.com, skip-cert-verify: true, udp: true}

@@ -1,0 +1,19 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇰🇷 ss丨韩国3 - 蚂蚁云流量, server: ss.mayiyun.shop, port: 20001, type: ss, cipher: aes-128-gcm, password: fe824cca-1310-40da-942d-37c90b9e7293, udp: true}
+- {name: 🇰🇷 ss丨首尔 - 蚂蚁云流量, server: ss.mayiyun.shop, port: 20012, type: ss, cipher: aes-128-gcm, password: fe824cca-1310-40da-942d-37c90b9e7293, udp: true}
+- {name: 🇰🇷 CF丨韩国 - 蚂蚁云流量, server: mykr.brucean.cn, port: 443, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mykr.brucean.cn}}, udp: true}
+- {name: 🇨🇦 ss丨加拿大 - 蚂蚁云流量, server: ss.mayiyun.shop, port: 20005, type: ss, cipher: aes-128-gcm, password: fe824cca-1310-40da-942d-37c90b9e7293, udp: true}
+- {name: 🇨🇦 CF丨加拿大 - 蚂蚁云流量, server: myca.brucean.cn, port: 443, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: myca.brucean.cn}}, udp: true}
+- {name: 🇷🇺 ss丨俄罗斯 - 蚂蚁云流量, server: ss.mayiyun.shop, port: 20010, type: ss, cipher: aes-128-gcm, password: fe824cca-1310-40da-942d-37c90b9e7293, udp: true}
+- {name: 🇩🇪 ss丨德国 - 蚂蚁云流量, server: ss.mayiyun.shop, port: 20007, type: ss, cipher: aes-128-gcm, password: fe824cca-1310-40da-942d-37c90b9e7293, udp: true}
+- {name: 🇳🇱 ss丨荷兰 - 蚂蚁云流量, server: ss.mayiyun.shop, port: 20008, type: ss, cipher: aes-128-gcm, password: fe824cca-1310-40da-942d-37c90b9e7293, udp: true}
+- {name: 🇬🇧 ss丨英国 - 蚂蚁云流量, server: ss.mayiyun.shop, port: 20009, type: ss, cipher: aes-128-gcm, password: fe824cca-1310-40da-942d-37c90b9e7293, udp: true}
+- {name: 🇰🇷 80丨首尔2 - 蚂蚁云流量, server: srhk.mayiyun.shop, port: 80, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ll, headers: {Host: a.189.cn}}, udp: true}
+- {name: 🇰🇷 80丨首尔1 - 蚂蚁云流量, server: sr.mayiyun.shop, port: 80, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}, udp: true}
+- {name: 🇰🇷 443丨首尔2 - 蚂蚁云流量, server: srhk.mayiyun.shop, port: 443, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}, udp: true}
+- {name: 🇰🇷 80丨韩国2 - 蚂蚁云流量, server: kr5.mayiyun.shop, port: 80, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}, udp: true}
+- {name: 🇰🇷 80丨韩国4 - 蚂蚁云流量, server: kr1.mayiyun.shop, port: 80, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}, udp: true}
+- {name: 🇬🇧 80丨英国1 - 蚂蚁云流量, server: bg.mayiyun.shop, port: 80, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}, udp: true}
+- {name: 🇩🇪 80丨德国 - 蚂蚁云流量, server: ger1.mayiyun.shop, port: 80, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}, udp: true}

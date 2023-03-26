@@ -1,0 +1,11 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 HK 03 | x1.0 - TomLink, server: 120.241.255.246, port: 14061, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: 🇭🇰 HK 04 | x1.0 - TomLink, server: 120.241.255.246, port: 14071, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: 🇭🇰 HK 05 | x1.0 - TomLink, server: 117.174.51.138, port: 14061, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: 🇭🇰 HK 06 | x1.0 - TomLink, server: 117.174.51.138, port: 14071, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: 🇭🇰 HK 07 | IEPL | x5.0 - TomLink, server: gddx.fosi.hk, port: 14061, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: 🇭🇰 HK 08 | IEPL | x5.0 - TomLink, server: gddx.fosi.hk, port: 14071, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: 🇭🇰 HK 10 | x0.7 - TomLink, server: 117.174.51.138, port: 14074, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}
+- {name: 🇭🇰 HK 11 | x0.7 - TomLink, server: 120.241.255.246, port: 14074, type: ss, cipher: chacha20-ietf-poly1305, password: b9663b19-2497-4a2b-8f3a-b94c66ec91d0, udp: true}

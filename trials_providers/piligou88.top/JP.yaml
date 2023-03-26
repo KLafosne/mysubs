@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 微软日本1 ||移动中转 - 霹雳狗加速, server: yd.plggogo.xyz, port: 31614, client-fingerprint: chrome, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, tfo: false, sni: wrrb.plggogo.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 微软日本2 ||电信中转 - 霹雳狗加速, server: dx.plggogo.xyz, port: 31614, client-fingerprint: chrome, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, tfo: false, sni: wrrb.plggogo.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 微软日本3 ||联通中转 - 霹雳狗加速, server: lt.plggogo.xyz, port: 31614, client-fingerprint: chrome, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, tfo: false, sni: wrrb.plggogo.xyz, skip-cert-verify: true, udp: true}

@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 距离下次重置剩余：14 天 - 1coinVPN, server: 160.16.153.228, port: 44443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: trotktest.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 ソウル① | 共用通常版サーバ - 1coinVPN, server: 141.164.47.231, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: trokr01.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 ソウル② | 共用通常版サーバ - 1coinVPN, server: 158.247.225.127, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: trokr02.1coinvp.vip, skip-cert-verify: true, udp: true}

@@ -1,0 +1,29 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本 01 - Roadv2, server: dg.roadv2.top, port: 30076, type: trojan, password: 465a5add-9edf-46d7-9040-689f543f942c, sni: jp-1.rdyun.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 02 - Roadv2, server: dg.roadv2.top, port: 30077, type: trojan, password: 465a5add-9edf-46d7-9040-689f543f942c, sni: jp-2.rdyun.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 03 - Roadv2, server: dg.roadv2.top, port: 30078, type: trojan, password: 465a5add-9edf-46d7-9040-689f543f942c, sni: jp-3.rdyun.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 04 - Roadv2, server: dg.roadv2.top, port: 30079, type: trojan, password: 465a5add-9edf-46d7-9040-689f543f942c, sni: jp-4.rdyun.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 01 - Roadv2, server: zz-hk.roadv2.top, port: 29005, type: trojan, password: 465a5add-9edf-46d7-9040-689f543f942c, sni: sg-1.rdyun.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 02 - Roadv2, server: zz-hk.roadv2.top, port: 46481, type: trojan, password: 465a5add-9edf-46d7-9040-689f543f942c, sni: sg-2.rdyun.top, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 03 - Roadv2, server: zz-hk.roadv2.top, port: 37309, type: trojan, password: 465a5add-9edf-46d7-9040-689f543f942c, sni: sg-3.rdyun.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 01 - Roadv2, server: zz-hk.roadv2.top, port: 29001, type: trojan, password: 465a5add-9edf-46d7-9040-689f543f942c, sni: hkhk.rdyun.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 02 - Roadv2, server: zz-hk.roadv2.top, port: 29002, type: trojan, password: 465a5add-9edf-46d7-9040-689f543f942c, sni: hk-1.rdyun.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 03 - Roadv2, server: zz-hk.roadv2.top, port: 30069, type: trojan, password: 465a5add-9edf-46d7-9040-689f543f942c, sni: hk-4.rdyun.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 04 - Roadv2, server: zz-hk.roadv2.top, port: 29004, type: trojan, password: 465a5add-9edf-46d7-9040-689f543f942c, sni: hk-5.rdyun.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 01 - Roadv2, server: zz-hk.roadv2.top, port: 30193, type: ss, cipher: chacha20-ietf-poly1305, password: 465a5add-9edf-46d7-9040-689f543f942c, udp: true}
+- {name: 🇹🇼 台湾 02 - Roadv2, server: zz-hk.roadv2.top, port: 30194, type: ss, cipher: chacha20-ietf-poly1305, password: 465a5add-9edf-46d7-9040-689f543f942c, udp: true}
+- {name: 🇺🇸 美国 01 - Roadv2, server: dg.roadv2.top, port: 26701, type: ss, cipher: aes-128-gcm, password: 465a5add-9edf-46d7-9040-689f543f942c, udp: true}
+- {name: 🇺🇸 美国 02 - Roadv2, server: dg.roadv2.top, port: 30092, type: ss, cipher: aes-128-gcm, password: 465a5add-9edf-46d7-9040-689f543f942c, udp: true}
+- {name: 🇺🇸 美国 03 - Roadv2, server: dg.roadv2.top, port: 30093, type: ss, cipher: aes-128-gcm, password: 465a5add-9edf-46d7-9040-689f543f942c, udp: true}
+- {name: 🇬🇧 英国 01 - Roadv2, server: zz-bj.roadv2.top, port: 33302, type: ss, cipher: aes-128-gcm, password: 465a5add-9edf-46d7-9040-689f543f942c, udp: true}
+- {name: 🇬🇧 英国 02 - Roadv2, server: zz-bj.roadv2.top, port: 33303, type: ss, cipher: aes-128-gcm, password: 465a5add-9edf-46d7-9040-689f543f942c, udp: true}
+- {name: 🇩🇪 德国 01 - Roadv2, server: zz-bj.roadv2.top, port: 33606, type: ss, cipher: aes-128-gcm, password: 465a5add-9edf-46d7-9040-689f543f942c, udp: true}
+- {name: 🇩🇪 德国 02 - Roadv2, server: zz-bj.roadv2.top, port: 33607, type: ss, cipher: aes-128-gcm, password: 465a5add-9edf-46d7-9040-689f543f942c, udp: true}
+- {name: 🇳🇱 荷兰 01 - Roadv2, server: zz-bj.roadv2.top, port: 33503, type: ss, cipher: aes-128-gcm, password: 465a5add-9edf-46d7-9040-689f543f942c, udp: true}
+- {name: 🇳🇱 荷兰 02 - Roadv2, server: zz-bj.roadv2.top, port: 33503, type: ss, cipher: aes-128-gcm, password: 465a5add-9edf-46d7-9040-689f543f942c, udp: true}
+- {name: 🇮🇳 印度 01 - Roadv2, server: zz-hk.roadv2.top, port: 30195, type: ss, cipher: aes-128-gcm, password: 465a5add-9edf-46d7-9040-689f543f942c, udp: true}
+- {name: 🇮🇳 印度 02 - Roadv2, server: zz-hk.roadv2.top, port: 30196, type: ss, cipher: aes-128-gcm, password: 465a5add-9edf-46d7-9040-689f543f942c, udp: true}
+- {name: 🇫🇷 法国 01 - Roadv2, server: zz-bj.roadv2.top, port: 33707, type: ss, cipher: chacha20-ietf-poly1305, password: 465a5add-9edf-46d7-9040-689f543f942c, udp: true}
+- {name: 🇷🇺 俄罗斯 01 - Roadv2, server: zz-bj.roadv2.top, port: 30262, type: ss, cipher: chacha20-ietf-poly1305, password: 465a5add-9edf-46d7-9040-689f543f942c, udp: true}

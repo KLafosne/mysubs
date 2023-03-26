@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: '官网: v2.mk - 白给加速器', server: 120-241-236-24.nhost.00cdn.com, port: 30806, type: vmess, uuid: feeb9cc8-d30f-4521-b449-a4afe1c5df94, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

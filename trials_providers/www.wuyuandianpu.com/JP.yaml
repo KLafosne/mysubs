@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本东京1 - 五元店, server: gzcm.xzcloud.pro, port: 28873, type: ss, cipher: chacha20-ietf-poly1305, password: 40dbc4ce-8f85-4615-abba-fe9d383ae4bd, udp: true}
+- {name: 🇯🇵 日本大阪 - 五元店, server: gzcm.xzcloud.pro, port: 15782, type: ss, cipher: chacha20-ietf-poly1305, password: 40dbc4ce-8f85-4615-abba-fe9d383ae4bd, udp: true}

@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇬🇧 vip1 英国-03 - FastFly, server: hbcu.lele233.top, port: 29733, type: trojan, password: d28b3fbb-7e3d-4f0d-bbf5-6f63fbc0e97f, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 vip1 英国-04 - FastFly, server: nmcm.lele233.top, port: 57299, type: trojan, password: d28b3fbb-7e3d-4f0d-bbf5-6f63fbc0e97f, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 vip1 印度-03 - FastFly, server: gzdx.jcnode.top, port: 49000, type: vmess, uuid: d28b3fbb-7e3d-4f0d-bbf5-6f63fbc0e97f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}

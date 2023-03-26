@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本 01 - Roadv2, server: dg.roadv2.top, port: 30076, type: trojan, password: 465a5add-9edf-46d7-9040-689f543f942c, sni: jp-1.rdyun.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 02 - Roadv2, server: dg.roadv2.top, port: 30077, type: trojan, password: 465a5add-9edf-46d7-9040-689f543f942c, sni: jp-2.rdyun.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 03 - Roadv2, server: dg.roadv2.top, port: 30078, type: trojan, password: 465a5add-9edf-46d7-9040-689f543f942c, sni: jp-3.rdyun.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 04 - Roadv2, server: dg.roadv2.top, port: 30079, type: trojan, password: 465a5add-9edf-46d7-9040-689f543f942c, sni: jp-4.rdyun.top, skip-cert-verify: true, udp: true}
