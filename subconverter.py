@@ -63,7 +63,7 @@ def _get_rules():
     with _lock_rules:
         if not _rules:
             session = Session(user_agent='ClashforWindows')
-            url = f"sub?target=clash&config={quote(f'https://dd.al/config#{time()}')}&url=ss://YWVzLTEyOC1nY206YWJj@c.c:1%231"
+            url = f"sub?target=clash&config={quote(f'https://1dd.al/config#{time()}')}&url=ss://YWVzLTEyOC1nY206YWJj@c.c:1%231"
             try:
                 res = _get_by_any(session, url)
                 cfg = _yaml().load(res.content)
