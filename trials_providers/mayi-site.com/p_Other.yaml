@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 最新网址 https://mayi-site.com - 蚂蚁云流量, server: ss.mayiyun.shop, port: 22002, type: ss, cipher: aes-128-gcm, password: fe824cca-1310-40da-942d-37c90b9e7293, udp: true}
-- {name: Ss.cf不可用时，换80节点。会尽快恢复 - 蚂蚁云流量, server: ss.mayiyun.shop, port: 22002, type: ss, cipher: aes-128-gcm, password: fe824cca-1310-40da-942d-37c90b9e7293, udp: true}
-- {name: 续费后开通更多优质国内外节点 - 蚂蚁云流量, server: ss.mayiyun.shop, port: 22002, type: ss, cipher: aes-128-gcm, password: fe824cca-1310-40da-942d-37c90b9e7293, udp: true}
+- {name: 最新网址 https://mayi-site.com - 蚂蚁云流量, server: ss.mayiyun.shop, port: 22002, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: fe824cca-1310-40da-942d-37c90b9e7293, tfo: false, udp: true}
+- {name: Ss.cf不可用时，换80节点。会尽快恢复 - 蚂蚁云流量, server: ss.mayiyun.shop, port: 22002, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: fe824cca-1310-40da-942d-37c90b9e7293, tfo: false, udp: true}
+- {name: 续费后开通更多优质国内外节点 - 蚂蚁云流量, server: ss.mayiyun.shop, port: 22002, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: fe824cca-1310-40da-942d-37c90b9e7293, tfo: false, udp: true}

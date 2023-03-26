@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 A11 日本51 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 10000, client-fingerprint: chrome, type: vmess, uuid: bbb4c186-7c26-3f3c-946b-850a3f7e3e78, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本36 SSR - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 10082, client-fingerprint: chrome, type: ssr, cipher: aes-128-ctr, password: aD7kWU, tfo: false, protocol: auth_aes128_md5, obfs: plain, protocol-param: 5956:WHOUw97rNbao14Rd, obfs-param: 86fb45956.microsoft.com, udp: true}
+- {name: 🇯🇵 A11 日本51 - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 10000, type: vmess, uuid: bbb4c186-7c26-3f3c-946b-850a3f7e3e78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本36 SSR - Mrli加速器, server: rk1.mrlizhuanfa.com, port: 10082, type: ssr, cipher: aes-128-ctr, password: aD7kWU, protocol: auth_aes128_md5, obfs: plain, protocol-param: 5956:WHOUw97rNbao14Rd, obfs-param: 86fb45956.microsoft.com, udp: true}

@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 ss丨新加坡1 - 蚂蚁云流量, server: ss.mayiyun.shop, port: 20002, type: ss, cipher: aes-128-gcm, password: fe824cca-1310-40da-942d-37c90b9e7293, udp: true}
-- {name: 🇸🇬 ss丨新加坡2 - 蚂蚁云流量, server: ss.mayiyun.shop, port: 22003, type: ss, cipher: aes-128-gcm, password: fe824cca-1310-40da-942d-37c90b9e7293, udp: true}
-- {name: 🇸🇬 CF丨新加坡1 - 蚂蚁云流量, server: mysg.brucean.cn, port: 443, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mysg.brucean.cn}}, udp: true}
-- {name: 🇸🇬 CF丨新加坡2 - 蚂蚁云流量, server: mywkl.brucean.cn, port: 443, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /1, headers: {Host: mywkl.brucean.cn}}, udp: true}
-- {name: 🇸🇬 80丨新加坡2 - 蚂蚁云流量, server: lpsp.mayiyun.shop, port: 80, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}, udp: true}
+- {name: 🇸🇬 ss丨新加坡1 - 蚂蚁云流量, server: ss.mayiyun.shop, port: 20002, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: fe824cca-1310-40da-942d-37c90b9e7293, tfo: false, udp: true}
+- {name: 🇸🇬 ss丨新加坡2 - 蚂蚁云流量, server: ss.mayiyun.shop, port: 22003, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: fe824cca-1310-40da-942d-37c90b9e7293, tfo: false, udp: true}
+- {name: 🇸🇬 CF丨新加坡1 - 蚂蚁云流量, server: mysg.brucean.cn, port: 443, client-fingerprint: chrome, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: mysg.brucean.cn}}, udp: true}
+- {name: 🇸🇬 CF丨新加坡2 - 蚂蚁云流量, server: mywkl.brucean.cn, port: 443, client-fingerprint: chrome, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /1, headers: {Host: mywkl.brucean.cn}}, udp: true}
+- {name: 🇸🇬 80丨新加坡2 - 蚂蚁云流量, server: lpsp.mayiyun.shop, port: 80, client-fingerprint: chrome, type: vmess, uuid: fe824cca-1310-40da-942d-37c90b9e7293, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a.189.cn}}, udp: true}
