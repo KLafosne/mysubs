@@ -167,20 +167,20 @@ proxy-groups:
   type: select
   proxies: *id007
 proxies:
-- {name: 🇭🇰 香港-vip-安徽移动-01 - 迅帆加速器, server: relay-hk-vip-4.nxunfan.com, port: 11432, type: vmess, uuid: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-vip浙江移动-01 - 迅帆加速器, server: relay-hz.nxunfan.com, port: 21122, type: vmess, uuid: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-vip-山东联通-01 - 迅帆加速器, server: relay-hk-vip-2.nxunfan.com, port: 21122, type: vmess, uuid: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-vip-湖北联通-02 - 迅帆加速器, server: relay-hk-vip-3.nxunfan.com, port: 42024, type: vmess, uuid: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-山东联通-06 - 迅帆加速器, server: relay-hk6.nxunfan.com, port: 29673, type: vmess, uuid: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-浙江移动-07 - 迅帆加速器, server: relay-hz.nxunfan.com, port: 18164, type: vmess, uuid: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-成都移动-02 - 迅帆加速器, server: relay-jp3.nxunfan.com, port: 33386, type: ss, cipher: chacha20-ietf-poly1305, password: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, udp: true}
-- {name: 🇹🇼 台湾-北京联通-01 - 迅帆加速器, server: relay-tw-1.nxunfan.com, port: 14064, type: ss, cipher: chacha20-ietf-poly1305, password: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, udp: true}
-- {name: 🇹🇼 台湾-湖北联通-02 - 迅帆加速器, server: relay-tw-2.nxunfan.com, port: 41544, type: ss, cipher: chacha20-ietf-poly1305, password: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, udp: true}
-- {name: 🇸🇬 新加坡-江苏移动-01 - 迅帆加速器, server: jscm.r1u.cn, port: 12440, type: ss, cipher: chacha20-ietf-poly1305, password: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, udp: true}
-- {name: 🇸🇬 新加坡-浙江移动-01 - 迅帆加速器, server: relay-sg2.nxunfan.com, port: 20980, type: ss, cipher: chacha20-ietf-poly1305, password: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, udp: true}
-- {name: 🇯🇵 日本-江苏移动-01 - 迅帆加速器, server: jscm.r1u.cn, port: 32735, type: vmess, uuid: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-浙江移动-01 - 迅帆加速器, server: relay-jp2.nxunfan.com, port: 44183, type: vmess, uuid: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦 加拿大-江苏移动-01 - 迅帆加速器, server: relay-cd.nxunfan.com, port: 36059, type: ss, cipher: chacha20-ietf-poly1305, password: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, udp: true}
+- {name: 🇭🇰 香港-vip-安徽移动-01 - 迅帆加速器, server: relay-hk-vip-4.nxunfan.com, port: 11432, client-fingerprint: chrome, type: vmess, uuid: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-vip浙江移动-01 - 迅帆加速器, server: relay-hz.nxunfan.com, port: 21122, client-fingerprint: chrome, type: vmess, uuid: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-vip-山东联通-01 - 迅帆加速器, server: relay-hk-vip-2.nxunfan.com, port: 21122, client-fingerprint: chrome, type: vmess, uuid: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-vip-湖北联通-02 - 迅帆加速器, server: relay-hk-vip-3.nxunfan.com, port: 42024, client-fingerprint: chrome, type: vmess, uuid: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-山东联通-06 - 迅帆加速器, server: relay-hk6.nxunfan.com, port: 29673, client-fingerprint: chrome, type: vmess, uuid: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港-浙江移动-07 - 迅帆加速器, server: relay-hz.nxunfan.com, port: 18164, client-fingerprint: chrome, type: vmess, uuid: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-成都移动-02 - 迅帆加速器, server: relay-jp3.nxunfan.com, port: 33386, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, tfo: false, udp: true}
+- {name: 🇹🇼 台湾-北京联通-01 - 迅帆加速器, server: relay-tw-1.nxunfan.com, port: 14064, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, tfo: false, udp: true}
+- {name: 🇹🇼 台湾-湖北联通-02 - 迅帆加速器, server: relay-tw-2.nxunfan.com, port: 41544, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, tfo: false, udp: true}
+- {name: 🇸🇬 新加坡-江苏移动-01 - 迅帆加速器, server: jscm.r1u.cn, port: 12440, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, tfo: false, udp: true}
+- {name: 🇸🇬 新加坡-浙江移动-01 - 迅帆加速器, server: relay-sg2.nxunfan.com, port: 20980, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, tfo: false, udp: true}
+- {name: 🇯🇵 日本-江苏移动-01 - 迅帆加速器, server: jscm.r1u.cn, port: 32735, client-fingerprint: chrome, type: vmess, uuid: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-浙江移动-01 - 迅帆加速器, server: relay-jp2.nxunfan.com, port: 44183, client-fingerprint: chrome, type: vmess, uuid: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦 加拿大-江苏移动-01 - 迅帆加速器, server: relay-cd.nxunfan.com, port: 36059, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ef48f1c3-7c95-4d5b-b8f5-727ca5c73f8d, tfo: false, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

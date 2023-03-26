@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP1·日本·直连·1X - 小C-Airport, server: jp1.caoyyds.link, port: 8443, client-fingerprint: chrome, type: vmess, uuid: 3acdbcb3-e576-486b-9158-f34600f2e019, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cao, headers: {Host: jp1.caoyyds.link}}, udp: true}
-- {name: 🇯🇵 JP2·日本·中转·2X - 小C-Airport, server: gdcm.r1u.cn, port: 47399, client-fingerprint: chrome, type: vmess, uuid: 3acdbcb3-e576-486b-9158-f34600f2e019, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP3·日本·流媒体·2X - 小C-Airport, server: jp3.caoyyds.link, port: 10001, client-fingerprint: chrome, type: vmess, uuid: 3acdbcb3-e576-486b-9158-f34600f2e019, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cao, headers: {Host: jp3.caoyyds.link}}, udp: true}
+- {name: 🇯🇵 JP1·日本·直连·1X - 小C-Airport, server: jp1.caoyyds.link, port: 8443, type: vmess, uuid: 3acdbcb3-e576-486b-9158-f34600f2e019, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /cao, headers: {Host: jp1.caoyyds.link}}, udp: true}
+- {name: 🇯🇵 JP2·日本·中转·2X - 小C-Airport, server: gdcm.r1u.cn, port: 47399, type: vmess, uuid: 3acdbcb3-e576-486b-9158-f34600f2e019, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP3·日本·流媒体·2X - 小C-Airport, server: jp3.caoyyds.link, port: 10001, type: vmess, uuid: 3acdbcb3-e576-486b-9158-f34600f2e019, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cao, headers: {Host: jp3.caoyyds.link}}, udp: true}

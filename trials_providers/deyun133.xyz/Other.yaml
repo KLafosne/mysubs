@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: B2B. 半年付套餐限时6折仅150/1900G(非节点勿连) - 浪潮, server: www.deyun135.xyz, port: 10086, client-fingerprint: chrome, type: trojan, password: Dsy5Uj0Scy9dt8xM, tfo: false, skip-cert-verify: true, udp: true}
+- {name: B2B. 半年付套餐限时6折仅150/1900G(非节点勿连) - 浪潮, server: www.deyun135.xyz, port: 10086, type: trojan, password: Dsy5Uj0Scy9dt8xM, skip-cert-verify: true, udp: true}

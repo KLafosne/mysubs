@@ -230,46 +230,46 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇭🇰 🇨🇳 香港-TV-1x - TTK, server: lv2.ttkcloud.xyz, port: 51320, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 狮城-TV-1x - TTK, server: lv2.ttkcloud.xyz, port: 51350, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-TV-1x - TTK, server: lv2.ttkcloud.xyz, port: 12333, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇺🇲 美国-TV-1x - TTK, server: lv2.ttkcloud.xyz, port: 59021, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳 台湾01-TV-1x - TTK, server: lv2.ttkcloud.xyz, port: 51347, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳 台湾02-TV-1x - TTK, server: lv2.ttkcloud.xyz, port: 52347, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 🇨🇳 公网|香港|1x - TTK, server: cs.ttkcloud.xyz, port: 51320, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 公网|狮城|1x - TTK, server: cs.ttkcloud.xyz, port: 51350, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 公网|日本|1x - TTK, server: cs.ttkcloud.xyz, port: 12333, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇺🇲 公网|美国|1x - TTK, server: cs.ttkcloud.xyz, port: 59021, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳 公网|台湾|1x - TTK, server: cs.ttkcloud.xyz, port: 51347, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 韩国01|1x - TTK, server: lv2.ttkcloud.xyz, port: 12334, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 韩国02|1x - TTK, server: lv2.ttkcloud.xyz, port: 12336, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 韩国03|1x - TTK, server: lv2.ttkcloud.xyz, port: 12337, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 韩国04|1x - TTK, server: lv2.ttkcloud.xyz, port: 12338, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 韩国05|1x - TTK, server: lv2.ttkcloud.xyz, port: 12339, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度|1x - TTK, server: cs.ttkcloud.xyz, port: 51003, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇹🇭 泰国|1x - TTK, server: cs.ttkcloud.xyz, port: 51004, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇦🇺 悉尼|1x - TTK, server: cs.ttkcloud.xyz, port: 51006, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 嘤国|1x - TTK, server: cs.ttkcloud.xyz, port: 51007, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国|1x - TTK, server: cs.ttkcloud.xyz, port: 51008, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇫🇷 法国|1x - TTK, server: cs.ttkcloud.xyz, port: 51011, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇷🇺 莫斯科|1x - TTK, server: cs.ttkcloud.xyz, port: 51002, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 土耳其|1x - TTK, server: cs.ttkcloud.xyz, port: 51001, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦 加拿大|1x - TTK, server: cs.ttkcloud.xyz, port: 51009, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇵🇭 菲律宾|1x - TTK, server: cs.ttkcloud.xyz, port: 51010, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇲🇽 墨西哥|1x - TTK, server: cs.ttkcloud.xyz, port: 51005, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇮🇩 印度尼西亚|1x - TTK, server: cs.ttkcloud.xyz, port: 51012, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: IEPL-ChatGPT-01-1x - TTK, server: cs.ttkcloud.xyz, port: 14236, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: IEPL-ChatGPT-02-1x - TTK, server: cs.ttkcloud.xyz, port: 14237, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: IEPL-ChatGPT-03-1x - TTK, server: cs.ttkcloud.xyz, port: 14238, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: IEPL-ChatGPT-04-1x - TTK, server: cs.ttkcloud.xyz, port: 14239, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: IEPL-ChatGPT-05-1x - TTK, server: cs.ttkcloud.xyz, port: 14240, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 路由器|日本|1x - TTK, server: lv2.ttkcloud.xyz, port: 10946, client-fingerprint: chrome, type: vmess, uuid: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: 74.120.175.243, udp: true}
-- {name: 🇸🇬 路由器|狮城|1x - TTK, server: lv2.ttkcloud.xyz, port: 10945, client-fingerprint: chrome, type: vmess, uuid: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: 74.120.175.243, udp: true}
-- {name: 🇺🇸 路由器|美国|1x - TTK, server: lv2.ttkcloud.xyz, port: 10942, client-fingerprint: chrome, type: vmess, uuid: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: 74.120.175.243, udp: true}
-- {name: 🇭🇰 🇨🇳 海外|香港|1x - TTK, server: outline-hk.ttkcloud.buzz, port: 33333, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 海外|日本|1x - TTK, server: outline-jp.ttkcloud.buzz, port: 33333, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 海外|狮城|1x - TTK, server: outline-sg.ttkcloud.buzz, port: 33333, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇺🇲 海外|美国|1x - TTK, server: outline-us.ttkcloud.buzz, port: 33333, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 🇨🇳 香港-TV-1x - TTK, server: lv2.ttkcloud.xyz, port: 51320, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 狮城-TV-1x - TTK, server: lv2.ttkcloud.xyz, port: 51350, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-TV-1x - TTK, server: lv2.ttkcloud.xyz, port: 12333, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国-TV-1x - TTK, server: lv2.ttkcloud.xyz, port: 59021, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳 台湾01-TV-1x - TTK, server: lv2.ttkcloud.xyz, port: 51347, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳 台湾02-TV-1x - TTK, server: lv2.ttkcloud.xyz, port: 52347, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 🇨🇳 公网|香港|1x - TTK, server: cs.ttkcloud.xyz, port: 51320, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 公网|狮城|1x - TTK, server: cs.ttkcloud.xyz, port: 51350, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 公网|日本|1x - TTK, server: cs.ttkcloud.xyz, port: 12333, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 公网|美国|1x - TTK, server: cs.ttkcloud.xyz, port: 59021, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳 公网|台湾|1x - TTK, server: cs.ttkcloud.xyz, port: 51347, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国01|1x - TTK, server: lv2.ttkcloud.xyz, port: 12334, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国02|1x - TTK, server: lv2.ttkcloud.xyz, port: 12336, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国03|1x - TTK, server: lv2.ttkcloud.xyz, port: 12337, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国04|1x - TTK, server: lv2.ttkcloud.xyz, port: 12338, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国05|1x - TTK, server: lv2.ttkcloud.xyz, port: 12339, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度|1x - TTK, server: cs.ttkcloud.xyz, port: 51003, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇹🇭 泰国|1x - TTK, server: cs.ttkcloud.xyz, port: 51004, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇦🇺 悉尼|1x - TTK, server: cs.ttkcloud.xyz, port: 51006, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 嘤国|1x - TTK, server: cs.ttkcloud.xyz, port: 51007, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国|1x - TTK, server: cs.ttkcloud.xyz, port: 51008, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇫🇷 法国|1x - TTK, server: cs.ttkcloud.xyz, port: 51011, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇷🇺 莫斯科|1x - TTK, server: cs.ttkcloud.xyz, port: 51002, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 土耳其|1x - TTK, server: cs.ttkcloud.xyz, port: 51001, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦 加拿大|1x - TTK, server: cs.ttkcloud.xyz, port: 51009, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇵🇭 菲律宾|1x - TTK, server: cs.ttkcloud.xyz, port: 51010, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇲🇽 墨西哥|1x - TTK, server: cs.ttkcloud.xyz, port: 51005, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇮🇩 印度尼西亚|1x - TTK, server: cs.ttkcloud.xyz, port: 51012, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: IEPL-ChatGPT-01-1x - TTK, server: cs.ttkcloud.xyz, port: 14236, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: IEPL-ChatGPT-02-1x - TTK, server: cs.ttkcloud.xyz, port: 14237, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: IEPL-ChatGPT-03-1x - TTK, server: cs.ttkcloud.xyz, port: 14238, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: IEPL-ChatGPT-04-1x - TTK, server: cs.ttkcloud.xyz, port: 14239, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: IEPL-ChatGPT-05-1x - TTK, server: cs.ttkcloud.xyz, port: 14240, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 路由器|日本|1x - TTK, server: lv2.ttkcloud.xyz, port: 10946, type: vmess, uuid: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 74.120.175.243, udp: true}
+- {name: 🇸🇬 路由器|狮城|1x - TTK, server: lv2.ttkcloud.xyz, port: 10945, type: vmess, uuid: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 74.120.175.243, udp: true}
+- {name: 🇺🇸 路由器|美国|1x - TTK, server: lv2.ttkcloud.xyz, port: 10942, type: vmess, uuid: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 74.120.175.243, udp: true}
+- {name: 🇭🇰 🇨🇳 海外|香港|1x - TTK, server: outline-hk.ttkcloud.buzz, port: 33333, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 海外|日本|1x - TTK, server: outline-jp.ttkcloud.buzz, port: 33333, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 海外|狮城|1x - TTK, server: outline-sg.ttkcloud.buzz, port: 33333, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 海外|美国|1x - TTK, server: outline-us.ttkcloud.buzz, port: 33333, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -1029,7 +1029,41 @@ rules:
 - DOMAIN-SUFFIX,33.autohome.com.cn,💩 ‍广告
 - DOMAIN-SUFFIX,adproxy.autohome.com.cn,💩 ‍广告
 - DOMAIN-SUFFIX,al.autohome.com.cn,💩 ‍广告
-- DOMAIN-SUFFIX,alert.autohome.com.cn,💩 ‍�DOMAIN-SUFFIX,baidu9635.com,💩 ‍广告
+- DOMAIN-SUFFIX,alert.autohome.com.cn,💩 ‍广告
+- DOMAIN-SUFFIX,applogapi.autohome.com.cn,💩 ‍广告
+- DOMAIN-SUFFIX,c.autohome.com.cn,💩 ‍广告
+- DOMAIN-SUFFIX,cmx.autohome.com.cn,💩 ‍广告
+- DOMAIN-SUFFIX,dspmnt.autohome.com.cn,💩 ‍广告
+- DOMAIN-SUFFIX,pcd.autohome.com.cn,💩 ‍广告
+- DOMAIN-SUFFIX,push.app.autohome.com.cn,💩 ‍广告
+- DOMAIN-SUFFIX,pvx.autohome.com.cn,💩 ‍广告
+- DOMAIN-SUFFIX,rd.autohome.com.cn,💩 ‍广告
+- DOMAIN-SUFFIX,rdx.autohome.com.cn,💩 ‍广告
+- DOMAIN-SUFFIX,stats.autohome.com.cn,💩 ‍广告
+- DOMAIN-SUFFIX,a.baidu.cn,💩 ‍广告
+- DOMAIN-SUFFIX,a.baidu.com,💩 ‍广告
+- DOMAIN-SUFFIX,ad.duapps.com,💩 ‍广告
+- DOMAIN-SUFFIX,ad.player.baidu.com,💩 ‍广告
+- DOMAIN-SUFFIX,adm.baidu.cn,💩 ‍广告
+- DOMAIN-SUFFIX,adm.baidu.com,💩 ‍广告
+- DOMAIN-SUFFIX,adscdn.baidu.cn,💩 ‍广告
+- DOMAIN-SUFFIX,adscdn.baidu.com,💩 ‍广告
+- DOMAIN-SUFFIX,adx.xiaodutv.com,💩 ‍广告
+- DOMAIN-SUFFIX,ae.bdstatic.com,💩 ‍广告
+- DOMAIN-SUFFIX,afd.baidu.cn,💩 ‍广告
+- DOMAIN-SUFFIX,afd.baidu.com,💩 ‍广告
+- DOMAIN-SUFFIX,als.baidu.cn,💩 ‍广告
+- DOMAIN-SUFFIX,als.baidu.com,💩 ‍广告
+- DOMAIN-SUFFIX,anquan.baidu.cn,💩 ‍广告
+- DOMAIN-SUFFIX,anquan.baidu.com,💩 ‍广告
+- DOMAIN-SUFFIX,antivirus.baidu.com,💩 ‍广告
+- DOMAIN-SUFFIX,api.mobula.sdk.duapps.com,💩 ‍广告
+- DOMAIN-SUFFIX,appc.baidu.cn,💩 ‍广告
+- DOMAIN-SUFFIX,appc.baidu.com,💩 ‍广告
+- DOMAIN-SUFFIX,as.baidu.cn,💩 ‍广告
+- DOMAIN-SUFFIX,as.baidu.com,💩 ‍广告
+- DOMAIN-SUFFIX,baichuan.baidu.com,💩 ‍广告
+- DOMAIN-SUFFIX,baidu9635.com,💩 ‍广告
 - DOMAIN-SUFFIX,baidustatic.com,💩 ‍广告
 - DOMAIN-SUFFIX,baidutv.baidu.com,💩 ‍广告
 - DOMAIN-SUFFIX,banlv.baidu.com,💩 ‍广告
@@ -1083,41 +1117,6 @@ rules:
 - DOMAIN-SUFFIX,ecmb.bdimg.com,💩 ‍广告
 - DOMAIN-SUFFIX,ecmc.bdimg.com,💩 ‍广告
 - DOMAIN-SUFFIX,eiv.baidu.cn,💩 ‍广告
-- DOMAIN-SUFFIX,eiv.baidu.com,💩 ‍广告
-- DOMAIN-SUFFIX,em.baidu.com,💩 ‍广告
-- DOMAIN-SUFFIX,ers.baidu.com,💩 ‍广告
-- DOMAIN-SUFFIX,f10.baidu.com,💩 ‍广告
-- DOMAIN-SUFFIX,fc-.cdn.bcebos.com,💩 ‍广告
-- DOMAIN-SUFFIX,fc-feed.cdn.bcebos.com,💩 ‍广告
-- DOMAIN-SUFFIX,fclick.baidu.com,💩 ‍广告
-- DOMAIN-SUFFIX,fexclick.baidu.com,💩 ‍广告
-- DOMAIN-SUFFIX,g.baidu.com,💩 ‍广告
-- DOMAIN-SUFFIX,gimg.baidu.com,💩 ‍广告
-- DOMAIN-SUFFIX,guanjia.baidu.com,💩 ‍广告
-- DOMAIN-SUFFIX,hc.baidu.cn,💩 ‍广告
-- DOMAIN-SUFFIX,hc.baidu.com,💩 ‍广告
-- DOMAIN-SUFFIX,hm.baidu.cn,💩 ‍广告
-- DOMAIN-SUFFIX,hm.baidu.com,💩 ‍广告
-- DOMAIN-SUFFIX,hmma.baidu.cn,💩 ‍广告
-- DOMAIN-SUFFIX,hmma.baidu.com,💩 ‍广告
-- DOMAIN-SUFFIX,hpd.baidu.cn,💩 ‍广告
-- DOMAIN-SUFFIX,hpd.baidu.com,💩 ‍广告
-- DOMAIN-SUFFIX,idm-su.baidu.com,💩 ‍广告
-- DOMAIN-SUFFIX,iebar.baidu.com,💩 ‍广告
-- DOMAIN-SUFFIX,ikcode.baidu.com,💩 ‍广告
-- DOMAIN-SUFFIX,imageplus.baidu.cn,💩 ‍广告
-- DOMAIN-SUFFIX,imageplus.baidu.com,💩 ‍广告
-- DOMAIN-SUFFIX,img.taotaosou.cn,💩 ‍广告
-- DOMAIN-SUFFIX,img01.taotaosou.cn,💩 ‍广告
-- DOMAIN-SUFFIX,itsdata.map.baidu.com,💩 ‍广告
-- DOMAIN-SUFFIX,j.br.baidu.com,💩 ‍广告
-- DOMAIN-SUFFIX,kstj.baidu.com,💩 ‍广告
-- DOMAIN-SUFFIX,log.music.baidu.com,💩 ‍广告
-- DOMAIN-SUFFIX,log.nuomi.com,💩 ‍广告
-- DOMAIN-SUFFIX,m1.baidu.com,💩 ‍广告
-- DOMAIN-SUFFIX,ma.baidu.cn,💩 ‍广告
-- DOMAIN-SUFFIX,ma.baidu.com,💩 ‍广告
-- D‍广告
 - DOMAIN-SUFFIX,eiv.baidu.com,💩 ‍广告
 - DOMAIN-SUFFIX,em.baidu.com,💩 ‍广告
 - DOMAIN-SUFFIX,ers.baidu.com,💩 ‍广告
@@ -2679,7 +2678,8 @@ rules:
 - DOMAIN-SUFFIX,carabinasypistolas.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cardinalkungfoundation.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,carfax.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,cari.com.my,✈️ ‍起飞DOMDOMAIN-SUFFIX,caribbeancom.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,cari.com.my,✈️ ‍起飞
+- DOMAIN-SUFFIX,caribbeancom.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,carmotorshow.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,carrd.co,✈️ ‍起飞
 - DOMAIN-SUFFIX,carryzhou.com,✈️ ‍起飞
@@ -2936,7 +2936,42 @@ rules:
 - DOMAIN-SUFFIX,counter.social,✈️ ‍起飞
 - DOMAIN-SUFFIX,coursehero.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cpj.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,crackle.coDOMAIN-SUFFIX,cz.cc,✈️ ‍起飞
+- DOMAIN-SUFFIX,crackle.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,crazys.cc,✈️ ‍起飞
+- DOMAIN-SUFFIX,crazyshit.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,crbug.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,crchina.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,crd-net.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,creaders.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,creadersnet.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,creativelab5.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,cristyli.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,crocotube.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,crossthewall.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,crossvpn.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,croxyproxy.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,crrev.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,crucial.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,crunchyroll.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,cryptographyengineering.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,csdparty.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,csis.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,csmonitor.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,csuchen.de,✈️ ‍起飞
+- DOMAIN-SUFFIX,ctao.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,ctfriend.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,ctowc.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,ctwant.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,cuhkacs.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,cuihua.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,cuiweiping.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,cumlouder.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,curvefish.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,cutscenes.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,cyberctm.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,cyberghostvpn.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,cynscribe.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,cz.cc,✈️ ‍起飞
 - DOMAIN-SUFFIX,d-fukyu.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,d0z.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,d100.net,✈️ ‍起飞
@@ -4526,40 +4561,6 @@ rules:
 - DOMAIN-SUFFIX,maiplus.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,maizhong.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,makemymood.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,makkahnewspaper.com,✈️ �DOMAIN-SUFFIX,lsmchinese.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,lsmkorean.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,lsmradio.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,lsmwebcast.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,lsxszzg.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,luckydesigner.space,✈️ ‍起飞
-- DOMAIN-SUFFIX,luke54.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,luke54.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,lupm.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,lushstories.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,luxebc.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,lvhai.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,lvv2.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,lyfhk.net,✈️ ‍起飞
-- DOMAIN-SUFFIX,lzjscript.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,lzmtnews.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,m.me,✈️ ‍起飞
-- DOMAIN-SUFFIX,macgamestore.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,macrovpn.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,mad-ar.ch,✈️ ‍起飞
-- DOMAIN-SUFFIX,madewithcode.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,madonna-av.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,madrau.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,madthumbs.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,magic-net.info,✈️ ‍起飞
-- DOMAIN-SUFFIX,mahabodhi.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,maiio.net,✈️ ‍起飞
-- DOMAIN-SUFFIX,mail-archive.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,mail.ru,✈️ ‍起飞
-- DOMAIN-SUFFIX,mailchimp.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,maildns.xyz,✈️ ‍起飞
-- DOMAIN-SUFFIX,maiplus.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,maizhong.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,makemymood.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,makkahnewspaper.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,malaysiakini.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mamingzhe.com,✈️ ‍起飞
@@ -4612,7 +4613,41 @@ rules:
 - DOMAIN-SUFFIX,mediachinese.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mediafire.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mediafreakcity.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,mediu‍起飞
+- DOMAIN-SUFFIX,medium.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,meetav.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,meetup.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,mefeedia.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,meforum.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,mefound.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,mega.co.nz,✈️ ‍起飞
+- DOMAIN-SUFFIX,mega.io,✈️ ‍起飞
+- DOMAIN-SUFFIX,mega.nz,✈️ ‍起飞
+- DOMAIN-SUFFIX,megaproxy.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,megarotic.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,megavideo.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,megurineluka.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,meizhong.blog,✈️ ‍起飞
+- DOMAIN-SUFFIX,meizhong.report,✈️ ‍起飞
+- DOMAIN-SUFFIX,meltoday.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,memehk.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,memorybbs.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,memri.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,memrijttm.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,mercatox.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,mercdn.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,mercyprophet.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,mergersandinquisitions.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,meridian-trust.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,meripet.biz,✈️ ‍起飞
+- DOMAIN-SUFFIX,meripet.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,meshrep.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,mesotw.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,messenger.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,metacafe.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,metafilter.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,metart.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,metarthunter.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,meteorshowersonline.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,metro.taipei,✈️ ‍起飞
 - DOMAIN-SUFFIX,mewe.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,meyul.com,✈️ ‍起飞
@@ -4970,42 +5005,6 @@ rules:
 - DOMAIN-SUFFIX,nvquan.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,nvtongzhisheng.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,nwtca.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,nyaa.si,✈️ �DOMAIN-SUFFIX,noypf.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,npnt.me,✈️ ‍起飞
-- DOMAIN-SUFFIX,nps.gov,✈️ ‍起飞
-- DOMAIN-SUFFIX,npsboost.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,nradio.me,✈️ ‍起飞
-- DOMAIN-SUFFIX,nrk.no,✈️ ‍起飞
-- DOMAIN-SUFFIX,ns01.biz,✈️ ‍起飞
-- DOMAIN-SUFFIX,ns01.info,✈️ ‍起飞
-- DOMAIN-SUFFIX,ns02.biz,✈️ ‍起飞
-- DOMAIN-SUFFIX,ns02.info,✈️ ‍起飞
-- DOMAIN-SUFFIX,ns1.name,✈️ ‍起飞
-- DOMAIN-SUFFIX,ns2.name,✈️ ‍起飞
-- DOMAIN-SUFFIX,ns3.name,✈️ ‍起飞
-- DOMAIN-SUFFIX,ntd.tv,✈️ ‍起飞
-- DOMAIN-SUFFIX,ntdtv.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,ntdtv.cz,✈️ ‍起飞
-- DOMAIN-SUFFIX,ntdtv.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,ntdtv.ru,✈️ ‍起飞
-- DOMAIN-SUFFIX,ntdtvla.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,ntrfun.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,nu.nl,✈️ ‍起飞
-- DOMAIN-SUFFIX,nubiles.net,✈️ ‍起飞
-- DOMAIN-SUFFIX,nudezz.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,nuexpo.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,nukistream.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,nurgo-software.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,nusatrip.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,nutaku.net,✈️ ‍起飞
-- DOMAIN-SUFFIX,nutsvpn.work,✈️ ‍起飞
-- DOMAIN-SUFFIX,nuuvem.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,nuvid.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,nuzcom.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,nvdst.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,nvquan.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,nvtongzhisheng.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,nwtca.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,nyaa.si,✈️ ‍起飞
 - DOMAIN-SUFFIX,nybooks.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,nylon-angel.com,✈️ ‍起飞
@@ -5060,7 +5059,42 @@ rules:
 - DOMAIN-SUFFIX,omnitalk.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,omny.fm,✈️ ‍起飞
 - DOMAIN-SUFFIX,on.cc,✈️ ‍起飞
-- DOMDOMAIN-SUFFIX,organharvestinvestigation.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,on2.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,onapp.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,onedumb.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,onejav.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,onion.city,✈️ ‍起飞
+- DOMAIN-SUFFIX,onion.ly,✈️ ‍起飞
+- DOMAIN-SUFFIX,onlinecha.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,onlygayvideo.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,onlytweets.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,onmoon.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,onmoon.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,onmypc.biz,✈️ ‍起飞
+- DOMAIN-SUFFIX,onmypc.info,✈️ ‍起飞
+- DOMAIN-SUFFIX,onmypc.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,onmypc.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,onthehunt.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,ontrac.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,oopsforum.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,openallweb.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,opendemocracy.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,opendn.xyz,✈️ ‍起飞
+- DOMAIN-SUFFIX,openervpn.in,✈️ ‍起飞
+- DOMAIN-SUFFIX,openid.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,openleaks.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,opensea.io,✈️ ‍起飞
+- DOMAIN-SUFFIX,openstreetmap.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,opentech.fund,✈️ ‍起飞
+- DOMAIN-SUFFIX,openvpn.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,openvpn.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,openwebster.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,openwrt.org.cn,✈️ ‍起飞
+- DOMAIN-SUFFIX,opera-mini.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,opera.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,opus-gaming.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,orchidbbs.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,organharvestinvestigation.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,organiccrap.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,orgasm.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,orgfree.com,✈️ ‍起飞
@@ -7897,39 +7931,6 @@ rules:
 - IP-CIDR,103.74.24.0/21,🛩️ ‍墙内,no-resolve
 - IP-CIDR,103.74.48.0/22,🛩️ ‍墙内,no-resolve
 - IP-CIDR,103.126.92.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.129.252.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.131.252.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.135.240.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,103.196.64.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,106.2.32.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,106.2.64.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,114.113.196.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,114.113.200.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,115.236.112.0/20,🛩️ ‍墙内,no-resolve
-- IP-CIDR,115.238.76.0/22,🛩️ ‍墙内,no-resolve
-- IP-CIDR,123.58.160.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,223.252.192.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,101.198.128.0/18,🛩️ ‍墙内,no-resolve
-- IP-CIDR,101.198.192.0/19,🛩️ ‍墙内,no-resolve
-- IP-CIDR,101.199.196.0/22,🛩️ ‍墙内,no-resolve
-- PROCESS-NAME,aria2c.exe,🛩️ ‍墙内
-- PROCESS-NAME,fdm.exe,🛩️ ‍墙内
-- PROCESS-NAME,Folx.exe,🛩️ ‍墙内
-- PROCESS-NAME,NetTransport.exe,🛩️ ‍墙内
-- PROCESS-NAME,Thunder.exe,🛩️ ‍墙内
-- PROCESS-NAME,Transmission.exe,🛩️ ‍墙内
-- PROCESS-NAME,uTorrent.exe,🛩️ ‍墙内
-- PROCESS-NAME,WebTorrent.exe,🛩️ ‍墙内
-- PROCESS-NAME,WebTorrent Helper.exe,🛩️ ‍墙内
-- PROCESS-NAME,qbittorrent.exe,🛩️ ‍墙内
-- DOMAIN-SUFFIX,smtp,🛩️ ‍墙内
-- DOMAIN-KEYWORD,aria2,🛩️ ‍墙内
-- PROCESS-NAME,DownloadService.exe,🛩️ ‍墙内
-- PROCESS-NAME,Weiyun.exe,🛩️ ‍墙内
-- PROCESS-NAME,baidunetdisk.exe,🛩️ ‍墙内
-- GEOIP,CN,🛩️ ‍墙内
-- MATCH,🌐 ‍未知站点
-��,no-resolve
 - IP-CIDR,103.129.252.0/22,🛩️ ‍墙内,no-resolve
 - IP-CIDR,103.131.252.0/22,🛩️ ‍墙内,no-resolve
 - IP-CIDR,103.135.240.0/22,🛩️ ‍墙内,no-resolve

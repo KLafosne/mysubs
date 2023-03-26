@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 TW·台湾·直连·1X - 小C-Airport, server: tw.caoyyds.link, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 3acdbcb3-e576-486b-9158-f34600f2e019, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cao, headers: {Host: tw.caoyyds.link}}, udp: true}
+- {name: 🇹🇼 TW·台湾·直连·1X - 小C-Airport, server: tw.caoyyds.link, port: 8080, type: vmess, uuid: 3acdbcb3-e576-486b-9158-f34600f2e019, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /cao, headers: {Host: tw.caoyyds.link}}, udp: true}
