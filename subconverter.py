@@ -16,7 +16,7 @@ from utils import (DOMAIN_SUFFIX_Tree, IP_CIDR_SegmentTree, clear_files,
                    get_name, list_file_paths, re_non_empty_base64, read,
                    read_cfg, write)
 
-github_raw_url_prefix = f"https://raw.kgithub.com/{os.getenv('GITHUB_REPOSITORY')}/{os.getenv('GITHUB_REF_NAME')}"
+github_raw_url_prefix = f"https://raw1.kgithub.com/{os.getenv('GITHUB_REPOSITORY')}/{os.getenv('GITHUB_REF_NAME')}"
 
 subconverters = [row[0] for row in read_cfg('subconverters.cfg')['default']]
 
@@ -63,7 +63,7 @@ def _get_rules():
     with _lock_rules:
         if not _rules:
             session = Session(user_agent='ClashforWindows')
-            url = f"sub?target=clash&config={quote(f'https://1dd.al/config#{time()}')}&url=ss://YWVzLTEyOC1nY206YWJj@c.c:1%231"
+            url = f"sub?target=clash&config={quote(f'https://dd.al/config#{time()}')}&url=ss://YWVzLTEyOC1nY206YWJj@c.c:1%231"
             try:
                 res = _get_by_any(session, url)
                 cfg = _yaml().load(res.content)
