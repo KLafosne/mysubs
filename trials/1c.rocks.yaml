@@ -39,45 +39,47 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 距离下次重置剩余：14 天 - 1coinVPN, server: 160.16.153.228, port: 44443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: trotktest.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: プレミアム版お試し(各種ストリーミング動画サービス等使用可能) - 1coinVPN, server: 160.16.153.228, port: 44443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: trotktest.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 東京① | 共用通常版サーバ - 1coinVPN, server: 128.22.153.76, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: tk01.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 東京② | 共用通常版サーバ - 1coinVPN, server: 118.27.26.190, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: tk02.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 東京③ | 共用通常版サーバ - 1coinVPN, server: 150.66.45.194, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: tk03.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 東京④ | 共用通常版サーバ - 1coinVPN, server: 160.251.43.168, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: tk04.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 東京⑥ | 共用通常版サーバ - 1coinVPN, server: 118.27.11.106, port: 44443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: tk06.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 東京⑦ | 共用通常版サーバ - 1coinVPN, server: 203.183.8.145, port: 44444, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: tk07.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 東京⑧ | 共用通常版サーバ - 1coinVPN, server: 118.27.28.70, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: tk08.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 東京⑨ | 共用通常版サーバ - 1coinVPN, server: 128.22.136.60, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: tk09.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 東京⑪ | 共用通常版サーバ - 1coinVPN, server: 153.121.42.93, port: 44443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: tk11.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 東京⑫ | 共用通常版サーバ - 1coinVPN, server: 160.251.8.213, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: tk12.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 東京⑬ | 共用通常版サーバ - 1coinVPN, server: 160.251.48.227, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: tk13.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 東京⑮ | 共用通常版サーバ - 1coinVPN, server: 150.66.13.75, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: tk15.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 東京⑯ | 共用通常版サーバ - 1coinVPN, server: 160.16.109.130, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: tk16.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 東京⑰ | 共用通常版サーバ - 1coinVPN, server: 203.183.45.125, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: tk17.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 東京⑳ | 共用通常版サーバ - 1coinVPN, server: 160.16.223.54, port: 44443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: tk20.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 東京㉒ | 共用通常版サーバ - 1coinVPN, server: 59.106.190.145, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: tk22.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 東京㉓ | 共用通常版サーバ - 1coinVPN, server: 160.16.239.19, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: tk23.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 東京㉕ | 共用通常版サーバ - 1coinVPN, server: 153.121.56.159, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: tk25.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 東京㉗ | 共用通常版サーバ - 1coinVPN, server: 160.16.145.133, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: tk27.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 東京㉙ | 共用通常版サーバ - 1coinVPN, server: 202.218.152.200, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: tk29.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 東京㉚ | 共用通常版サーバ - 1coinVPN, server: 118.27.37.83, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: tk30.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 大阪① | 共用通常版サーバ - 1coinVPN, server: 133.18.237.54, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: os01.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 大阪② | 共用通常版サーバ - 1coinVPN, server: 133.18.230.26, port: 44444, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: os02.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 大阪③ | 共用通常版サーバ - 1coinVPN, server: 133.18.236.171, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: os03.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 大阪④ | 共用通常版サーバ - 1coinVPN, server: 133.18.238.247, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: os04.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 大阪⑤ | 共用通常版サーバ - 1coinVPN, server: 133.18.233.84, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: os05.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 大阪⑥ | 共用通常版サーバ - 1coinVPN, server: 133.18.174.166, port: 44443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: os06.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 香港① | 共用通常版サーバ - 1coinVPN, server: 103.135.250.132, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: trohk08.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 香港② | 共用通常版サーバ - 1coinVPN, server: 154.3.39.138, port: 44445, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: hk02.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 香港⑤ | 共用通常版サーバ - 1coinVPN, server: 154.3.35.159, port: 44457, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: hk08.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 香港⑥ | 共用通常版サーバ - 1coinVPN, server: 103.135.250.242, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: hk10.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: LA① | 共用通常版サーバ - 1coinVPN, server: 45.63.51.13, port: 44443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: la01.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: LA② | 共用通常版サーバ - 1coinVPN, server: 207.246.111.180, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: la02.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: シンガポール① | 共用通常版サーバ - 1coinVPN, server: 139.180.139.18, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: sg01.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: シンガポール② | 共用通常版サーバ - 1coinVPN, server: 149.28.151.141, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: sg02.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: ソウル① | 共用通常版サーバ - 1coinVPN, server: 141.164.47.231, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: trokr01.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: ソウル② | 共用通常版サーバ - 1coinVPN, server: 158.247.225.127, port: 443, client-fingerprint: chrome, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, tfo: false, sni: trokr02.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 🏳️‍🌈 剩余流量：1 GB - 1coinVPN, server: 160.16.153.228, port: 44443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: trotktest.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：14 天 - 1coinVPN, server: 160.16.153.228, port: 44443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: trotktest.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 套餐到期：2023-04-09 - 1coinVPN, server: 160.16.153.228, port: 44443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: trotktest.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: プレミアム版お試し(各種ストリーミング動画サービス等使用可能) - 1coinVPN, server: 160.16.153.228, port: 44443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: trotktest.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 東京① | 共用通常版サーバ - 1coinVPN, server: 128.22.153.76, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: tk01.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 東京② | 共用通常版サーバ - 1coinVPN, server: 118.27.26.190, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: tk02.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 東京③ | 共用通常版サーバ - 1coinVPN, server: 150.66.45.194, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: tk03.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 東京④ | 共用通常版サーバ - 1coinVPN, server: 160.251.43.168, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: tk04.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 東京⑥ | 共用通常版サーバ - 1coinVPN, server: 118.27.11.106, port: 44443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: tk06.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 東京⑦ | 共用通常版サーバ - 1coinVPN, server: 203.183.8.145, port: 44444, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: tk07.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 東京⑧ | 共用通常版サーバ - 1coinVPN, server: 118.27.28.70, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: tk08.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 東京⑨ | 共用通常版サーバ - 1coinVPN, server: 128.22.136.60, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: tk09.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 東京⑪ | 共用通常版サーバ - 1coinVPN, server: 153.121.42.93, port: 44443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: tk11.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 東京⑫ | 共用通常版サーバ - 1coinVPN, server: 160.251.8.213, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: tk12.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 東京⑬ | 共用通常版サーバ - 1coinVPN, server: 160.251.48.227, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: tk13.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 東京⑮ | 共用通常版サーバ - 1coinVPN, server: 150.66.13.75, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: tk15.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 東京⑯ | 共用通常版サーバ - 1coinVPN, server: 160.16.109.130, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: tk16.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 東京⑰ | 共用通常版サーバ - 1coinVPN, server: 203.183.45.125, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: tk17.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 東京⑳ | 共用通常版サーバ - 1coinVPN, server: 160.16.223.54, port: 44443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: tk20.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 東京㉒ | 共用通常版サーバ - 1coinVPN, server: 59.106.190.145, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: tk22.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 東京㉓ | 共用通常版サーバ - 1coinVPN, server: 160.16.239.19, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: tk23.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 東京㉕ | 共用通常版サーバ - 1coinVPN, server: 153.121.56.159, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: tk25.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 東京㉗ | 共用通常版サーバ - 1coinVPN, server: 160.16.145.133, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: tk27.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 東京㉙ | 共用通常版サーバ - 1coinVPN, server: 202.218.152.200, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: tk29.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 東京㉚ | 共用通常版サーバ - 1coinVPN, server: 118.27.37.83, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: tk30.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 大阪① | 共用通常版サーバ - 1coinVPN, server: 133.18.237.54, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: os01.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 大阪② | 共用通常版サーバ - 1coinVPN, server: 133.18.230.26, port: 44444, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: os02.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 大阪③ | 共用通常版サーバ - 1coinVPN, server: 133.18.236.171, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: os03.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 大阪④ | 共用通常版サーバ - 1coinVPN, server: 133.18.238.247, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: os04.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 大阪⑤ | 共用通常版サーバ - 1coinVPN, server: 133.18.233.84, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: os05.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 大阪⑥ | 共用通常版サーバ - 1coinVPN, server: 133.18.174.166, port: 44443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: os06.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港① | 共用通常版サーバ - 1coinVPN, server: 103.135.250.132, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: trohk08.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港② | 共用通常版サーバ - 1coinVPN, server: 154.3.39.138, port: 44445, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: hk02.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港⑤ | 共用通常版サーバ - 1coinVPN, server: 154.3.35.159, port: 44457, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: hk08.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港⑥ | 共用通常版サーバ - 1coinVPN, server: 103.135.250.242, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: hk10.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: LA① | 共用通常版サーバ - 1coinVPN, server: 45.63.51.13, port: 44443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: la01.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: LA② | 共用通常版サーバ - 1coinVPN, server: 207.246.111.180, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: la02.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: シンガポール① | 共用通常版サーバ - 1coinVPN, server: 139.180.139.18, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: sg01.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: シンガポール② | 共用通常版サーバ - 1coinVPN, server: 149.28.151.141, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: sg02.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: ソウル① | 共用通常版サーバ - 1coinVPN, server: 141.164.47.231, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: trokr01.1coinvp.vip, skip-cert-verify: true, udp: true}
+- {name: ソウル② | 共用通常版サーバ - 1coinVPN, server: 158.247.225.127, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: trokr02.1coinvp.vip, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,local,🎯 全球直连
 - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
@@ -8417,18 +8419,45 @@ rules:
 - DOMAIN-SUFFIX,earmasterchina.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,folxchina.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,hypeapp.cn,🛑 全球拦截
-- DOMAIN-SUFFIX,idmchina.net,🛑 全球拦截
-- DOMAIN-SUFFIX,imazingchina.com,🛑 全球拦截
 - DOMAIN-SUFFIX,luping.net.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,mindmanager.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,photozoomchina.com,🛑 全球拦截
 - DOMAIN-SUFFIX,xitongqingli.com,🛑 全球拦截
+- DOMAIN-SUFFIX,netflix.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflix.net,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflxext.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflximg.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflximg.net,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflxso.net,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflxvideo.net,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest0.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest1.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest2.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest3.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest4.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest5.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest6.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest7.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest8.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest9.com,🎥 NETFLIX
+- DOMAIN-KEYWORD,dualstack.apiproxy-,🎥 NETFLIX
+- DOMAIN-KEYWORD,dualstack.ichnaea-web-,🎥 NETFLIX
+- IP-CIDR,23.246.0.0/18,🎥 NETFLIX,no-resolve
+- IP-CIDR,37.77.184.0/21,🎥 NETFLIX,no-resolve
+- IP-CIDR,45.57.0.0/17,🎥 NETFLIX,no-resolve
+- IP-CIDR,64.120.128.0/17,🎥 NETFLIX,no-resolve
+- IP-CIDR,66.197.128.0/17,🎥 NETFLIX,no-resolve
+- IP-CIDR,108.175.32.0/20,🎥 NETFLIX,no-resolve
+- IP-CIDR,192.173.64.0/18,🎥 NETFLIX,no-resolve
+- IP-CIDR,198.38.96.0/19,🎥 NETFLIX,no-resolve
+- IP-CIDR,198.45.48.0/20,🎥 NETFLIX,no-resolve
+- IP-CIDR,34.210.42.111/32,🎥 NETFLIX,no-resolve
+- IP-CIDR,52.89.124.203/32,🎥 NETFLIX,no-resolve
+- IP-CIDR,54.148.37.5/32,🎥 NETFLIX,no-resolve
 - DOMAIN-SUFFIX,jtvnw.net,🌍 国外媒体
 - DOMAIN-SUFFIX,ttvnw.net,🌍 国外媒体
 - DOMAIN-SUFFIX,twitch.tv,🌍 国外媒体
 - DOMAIN-SUFFIX,twitchcdn.net,🌍 国外媒体
-- DOMAIN,radio.itunes.apple.com,🌍 国外媒体
-- DOMAIN,tv.applemusic.com,🌍 国外媒体
 - DOMAIN-SUFFIX,deezer.com,🌍 国外媒体
 - DOMAIN-SUFFIX,dzcdn.net,🌍 国外媒体
 - DOMAIN-SUFFIX,joox.com,🌍 国外媒体
@@ -8472,7 +8501,6 @@ rules:
 - DOMAIN-KEYWORD,avoddashs,🌍 国外媒体
 - DOMAIN,linear.tv.apple.com,🌍 国外媒体
 - DOMAIN,play-edge.itunes.apple.com,🌍 国外媒体
-- DOMAIN,uts-api.itunes.apple.com,🌍 国外媒体
 - DOMAIN-SUFFIX,bahamut.com.tw,🌍 国外媒体
 - DOMAIN-SUFFIX,gamer.com.tw,🌍 国外媒体
 - DOMAIN,gamer-cds.cdn.hinet.net,🌍 国外媒体
@@ -8559,7 +8587,6 @@ rules:
 - IP-CIDR,203.74.95.153/32,🌍 国外媒体,no-resolve
 - IP-CIDR,203.211.4.169/32,🌍 国外媒体,no-resolve
 - IP-CIDR,203.211.4.193/32,🌍 国外媒体,no-resolve
-- IP-CIDR,210.71.227.200/32,🌍 国外媒体,no-resolve
 - IP-CIDR,210.71.227.202/32,🌍 国外媒体,no-resolve
 - IP-CIDR,210.201.32.8/32,🌍 国外媒体,no-resolve
 - IP-CIDR,210.201.32.11/32,🌍 国外媒体,no-resolve
@@ -8579,37 +8606,6 @@ rules:
 - DOMAIN-SUFFIX,tvb.com,🌍 国外媒体
 - DOMAIN-SUFFIX,naver.com,🌍 国外媒体
 - DOMAIN-SUFFIX,smartmediarep.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflix.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflix.net,🌍 国外媒体
-- DOMAIN-SUFFIX,nflxext.com,🌍 国外媒体
-- DOMAIN-SUFFIX,nflximg.com,🌍 国外媒体
-- DOMAIN-SUFFIX,nflximg.net,🌍 国外媒体
-- DOMAIN-SUFFIX,nflxso.net,🌍 国外媒体
-- DOMAIN-SUFFIX,nflxvideo.net,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest0.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest1.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest2.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest3.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest4.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest5.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest6.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest7.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest8.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest9.com,🌍 国外媒体
-- DOMAIN-KEYWORD,dualstack.apiproxy-,🌍 国外媒体
-- DOMAIN-KEYWORD,dualstack.ichnaea-web-,🌍 国外媒体
-- IP-CIDR,23.246.0.0/18,🌍 国外媒体,no-resolve
-- IP-CIDR,37.77.184.0/21,🌍 国外媒体,no-resolve
-- IP-CIDR,45.57.0.0/17,🌍 国外媒体,no-resolve
-- IP-CIDR,64.120.128.0/17,🌍 国外媒体,no-resolve
-- IP-CIDR,66.197.128.0/17,🌍 国外媒体,no-resolve
-- IP-CIDR,108.175.32.0/20,🌍 国外媒体,no-resolve
-- IP-CIDR,192.173.64.0/18,🌍 国外媒体,no-resolve
-- IP-CIDR,198.38.96.0/19,🌍 国外媒体,no-resolve
-- IP-CIDR,198.45.48.0/20,🌍 国外媒体,no-resolve
-- IP-CIDR,34.210.42.111/32,🌍 国外媒体,no-resolve
-- IP-CIDR,52.89.124.203/32,🌍 国外媒体,no-resolve
-- IP-CIDR,54.148.37.5/32,🌍 国外媒体,no-resolve
 - DOMAIN-SUFFIX,dmc.nico,🌍 国外媒体
 - DOMAIN-SUFFIX,nicovideo.jp,🌍 国外媒体
 - DOMAIN-SUFFIX,nimg.jp,🌍 国外媒体
@@ -8659,13 +8655,15 @@ rules:
 - DOMAIN-SUFFIX,acg.tv,🌏 国内媒体
 - DOMAIN-SUFFIX,acgvideo.com,🌏 国内媒体
 - DOMAIN-SUFFIX,b23.tv,🌏 国内媒体
-- DOMAIN-SUFFIX,bilibili.com,🌏 国内媒体
-- DOMAIN-SUFFIX,bilibili.tv,🌏 国内媒体
-- DOMAIN-SUFFIX,biliapi.net,🌏 国内媒体
 - DOMAIN-SUFFIX,biliapi.com,🌏 国内媒体
+- DOMAIN-SUFFIX,biliapi.net,🌏 国内媒体
+- DOMAIN-SUFFIX,bilibili.com,🌏 国内媒体
+- DOMAIN-SUFFIX,biligame.com,🌏 国内媒体
+- DOMAIN-SUFFIX,biligame.net,🌏 国内媒体
 - DOMAIN-SUFFIX,bilivideo.com,🌏 国内媒体
 - DOMAIN-SUFFIX,hdslb.com,🌏 国内媒体
-- DOMAIN,upos-hz-mirrorakam.akamaized.net,🌏 国内媒体
+- DOMAIN-SUFFIX,im9.com,🌏 国内媒体
+- DOMAIN-SUFFIX,smtcdns.net,🌏 国内媒体
 - DOMAIN,intel-cache.m.iqiyi.com,🌏 国内媒体
 - DOMAIN,intel-cache.video.iqiyi.com,🌏 国内媒体
 - DOMAIN-SUFFIX,inter.iqiyi.com,🌏 国内媒体
@@ -8680,7 +8678,6 @@ rules:
 - DOMAIN-SUFFIX,api.mob.app.letv.com,🌏 国内媒体
 - DOMAIN-SUFFIX,v.smtcdns.com,🌏 国内媒体
 - DOMAIN-SUFFIX,vv.video.qq.com,🌏 国内媒体
-- DOMAIN-SUFFIX,youku.com,🌏 国内媒体
 - IP-CIDR,106.11.0.0/16,🌏 国内媒体,no-resolve
 - DOMAIN-SUFFIX,t.me,📲 电报信息
 - DOMAIN-SUFFIX,tdesktop.com,📲 电报信息
@@ -8694,14 +8691,11 @@ rules:
 - IP-CIDR,91.108.16.0/22,📲 电报信息,no-resolve
 - IP-CIDR,91.108.20.0/22,📲 电报信息,no-resolve
 - IP-CIDR,91.108.56.0/22,📲 电报信息,no-resolve
-- IP-CIDR,91.105.192.0/23,📲 电报信息,no-resolve
+- IP-CIDR,95.161.64.0/20,📲 电报信息,no-resolve
 - IP-CIDR,149.154.160.0/20,📲 电报信息,no-resolve
-- IP-CIDR,185.76.151.0/24,📲 电报信息,no-resolve
 - IP-CIDR6,2001:b28:f23d::/48,📲 电报信息,no-resolve
 - IP-CIDR6,2001:b28:f23f::/48,📲 电报信息,no-resolve
 - IP-CIDR6,2001:67c:4e8::/48,📲 电报信息,no-resolve
-- IP-CIDR6,2001:b28:f23c::/48,📲 电报信息,no-resolve
-- IP-CIDR6,2a0a:f280::/32,📲 电报信息,no-resolve
 - DOMAIN-SUFFIX,amazon.co.jp,🔰 节点选择
 - DOMAIN,d3c33hcgiwev3.cloudfront.net,🔰 节点选择
 - DOMAIN,payments-jp.amazon.com,🔰 节点选择
@@ -8710,36 +8704,16 @@ rules:
 - DOMAIN,a248.e.akamai.net,🔰 节点选择
 - DOMAIN,a771.dscq.akamai.net,🔰 节点选择
 - DOMAIN,testflight.apple.com,🔰 节点选择
-- DOMAIN-SUFFIX,clubhouseapi.com,🔰 节点选择
-- DOMAIN-SUFFIX,joinclubhouse.com,🔰 节点选择
-- DOMAIN,clubhouse.pubnubapi.com,🔰 节点选择
 - DOMAIN-SUFFIX,aex.com,🔰 节点选择
 - DOMAIN-SUFFIX,bibox.com,🔰 节点选择
 - DOMAIN-SUFFIX,binance.cc,🔰 节点选择
 - DOMAIN-SUFFIX,binance.com,🔰 节点选择
-- DOMAIN-SUFFIX,binance.us,🔰 节点选择
 - DOMAIN-SUFFIX,bitcointalk.org,🔰 节点选择
 - DOMAIN-SUFFIX,bitfinex.com,🔰 节点选择
-- DOMAIN-SUFFIX,bithumb.com,🔰 节点选择
 - DOMAIN-SUFFIX,bitmex.com,🔰 节点选择
-- DOMAIN-SUFFIX,bitstamp.net,🔰 节点选择
-- DOMAIN-SUFFIX,bittrex.com,🔰 节点选择
-- DOMAIN-SUFFIX,bybit.com,🔰 节点选择
-- DOMAIN-SUFFIX,coinbase.com,🔰 节点选择
-- DOMAIN-SUFFIX,coincheck.com,🔰 节点选择
-- DOMAIN-SUFFIX,coingecko.com,🔰 节点选择
-- DOMAIN-SUFFIX,coinmarketcap.com,🔰 节点选择
-- DOMAIN-SUFFIX,coinone.co.kr,🔰 节点选择
-- DOMAIN-SUFFIX,ftx.com,🔰 节点选择
 - DOMAIN-SUFFIX,gate.io,🔰 节点选择
-- DOMAIN-SUFFIX,gemini.com,🔰 节点选择
 - DOMAIN-SUFFIX,huobi.com,🔰 节点选择
-- DOMAIN-SUFFIX,korbit.co.kr,🔰 节点选择
-- DOMAIN-SUFFIX,kraken.com,🔰 节点选择
-- DOMAIN-SUFFIX,kucoin.com,🔰 节点选择
-- DOMAIN-SUFFIX,liquid.com,🔰 节点选择
 - DOMAIN-SUFFIX,okex.com,🔰 节点选择
-- DOMAIN-SUFFIX,poloniex.com,🔰 节点选择
 - DOMAIN-SUFFIX,uniswap.org,🔰 节点选择
 - DOMAIN-SUFFIX,zb.com,🔰 节点选择
 - DOMAIN-SUFFIX,discord.com,🔰 节点选择
@@ -8772,7 +8746,6 @@ rules:
 - DOMAIN-SUFFIX,blogger.com,🔰 节点选择
 - DOMAIN-SUFFIX,getoutline.org,🔰 节点选择
 - DOMAIN-SUFFIX,gvt0.com,🔰 节点选择
-- DOMAIN-SUFFIX,gvt1.com,🔰 节点选择
 - DOMAIN-SUFFIX,gvt3.com,🔰 节点选择
 - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🔰 节点选择
 - DOMAIN-KEYWORD,google,🔰 节点选择
@@ -8877,6 +8850,7 @@ rules:
 - DOMAIN-SUFFIX,ck101.com,🔰 节点选择
 - DOMAIN-SUFFIX,clarionproject.org,🔰 节点选择
 - DOMAIN-SUFFIX,cloudcone.com,🔰 节点选择
+- DOMAIN-SUFFIX,clubhouseapi.com,🔰 节点选择
 - DOMAIN-SUFFIX,clyp.it,🔰 节点选择
 - DOMAIN-SUFFIX,cna.com.tw,🔰 节点选择
 - DOMAIN-SUFFIX,comparitech.com,🔰 节点选择
@@ -8970,6 +8944,7 @@ rules:
 - DOMAIN-SUFFIX,jiji.com,🔰 节点选择
 - DOMAIN-SUFFIX,jinx.com,🔰 节点选择
 - DOMAIN-SUFFIX,jkforum.net,🔰 节点选择
+- DOMAIN-SUFFIX,joinclubhouse.com,🔰 节点选择
 - DOMAIN-SUFFIX,joinmastodon.org,🔰 节点选择
 - DOMAIN-SUFFIX,justmysocks.net,🔰 节点选择
 - DOMAIN-SUFFIX,justpaste.it,🔰 节点选择
@@ -8995,7 +8970,6 @@ rules:
 - DOMAIN-SUFFIX,marc.info,🔰 节点选择
 - DOMAIN-SUFFIX,matters.news,🔰 节点选择
 - DOMAIN-SUFFIX,maying.co,🔰 节点选择
-- DOMAIN-SUFFIX,medibang.com,🔰 节点选择
 - DOMAIN-SUFFIX,medium.com,🔰 节点选择
 - DOMAIN-SUFFIX,mega.nz,🔰 节点选择
 - DOMAIN-SUFFIX,mergersandinquisitions.com,🔰 节点选择
@@ -9098,7 +9072,6 @@ rules:
 - DOMAIN-SUFFIX,tiny.cc,🔰 节点选择
 - DOMAIN-SUFFIX,tinyurl.com,🔰 节点选择
 - DOMAIN-SUFFIX,torproject.org,🔰 节点选择
-- DOMAIN-SUFFIX,tradingview.com,🔰 节点选择
 - DOMAIN-SUFFIX,tumblr.com,🔰 节点选择
 - DOMAIN-SUFFIX,turbobit.net,🔰 节点选择
 - DOMAIN-SUFFIX,tutanota.com,🔰 节点选择
@@ -9210,32 +9183,19 @@ rules:
 - DOMAIN-SUFFIX,twitter.jp,🔰 节点选择
 - DOMAIN-SUFFIX,appsto.re,🔰 节点选择
 - DOMAIN,books.itunes.apple.com,🔰 节点选择
-- DOMAIN-SUFFIX,smoot.apple.com,🔰 节点选择
+- DOMAIN,api-glb-sea.smoot.apple.com,🔰 节点选择
 - DOMAIN,beta.music.apple.com,🔰 节点选择
-- DOMAIN,lookup-api.apple.com,🔰 节点选择
-- DOMAIN,apps.apple.com,🔰 节点选择
-- DOMAIN,books.apple.com,🔰 节点选择
-- DOMAIN,itunes.apple.com,🔰 节点选择
 - DOMAIN,tv.apple.com,🔰 节点选择
-- DOMAIN,amp-api.podcasts.apple.com,🔰 节点选择
-- DOMAIN,bookkeeper.itunes.apple.com,🔰 节点选择
-- DOMAIN,gateway.icloud.com,🔰 节点选择
-- DOMAIN-SUFFIX,apple.news,🔰 节点选择
-- DOMAIN,news-assets.apple.com,🔰 节点选择
-- DOMAIN,news-client.apple.com,🔰 节点选择
-- DOMAIN,news-client-search.apple.com,🔰 节点选择
-- DOMAIN,news-edge.apple.com,🔰 节点选择
-- DOMAIN,news-events.apple.com,🔰 节点选择
-- DOMAIN,apple.comscoreresearch.com,🔰 节点选择
+- DOMAIN,apps.apple.com,🔰 节点选择
+- DOMAIN,itunes.apple.com,🔰 节点选择
+- DOMAIN-SUFFIX,smoot.apple.com,🔰 节点选择
+- DOMAIN,lookup-api.apple.com,🔰 节点选择
 - DOMAIN-SUFFIX,go.dev,🔰 节点选择
 - DOMAIN-SUFFIX,golang.org,🔰 节点选择
-- DOMAIN-SUFFIX,aicoin.com,🔰 节点选择
-- DOMAIN-SUFFIX,aimoon.com,🔰 节点选择
 - DOMAIN-SUFFIX,cccat.io,🔰 节点选择
 - DOMAIN-SUFFIX,dubox.com,🔰 节点选择
 - DOMAIN-SUFFIX,duboxcdn.com,🔰 节点选择
 - DOMAIN-SUFFIX,ifixit.com,🔰 节点选择
-- DOMAIN-SUFFIX,linkedin.com,🔰 节点选择
 - DOMAIN-SUFFIX,mangakakalot.com,🔰 节点选择
 - DOMAIN-SUFFIX,shopeemobile.com,🔰 节点选择
 - DOMAIN-SUFFIX,sushi.com,🔰 节点选择
@@ -9243,10 +9203,12 @@ rules:
 - DOMAIN,developer.apple.com,🔰 节点选择
 - DOMAIN,www.icloud.com,🔰 节点选择
 - DOMAIN,ocsp.apple.com,🔰 节点选择
+- DOMAIN,xp.apple.com,🔰 节点选择
 - DOMAIN,cacerts.digicert.com,🔰 节点选择
 - DOMAIN,crl3.digicert.com,🔰 节点选择
 - DOMAIN,crl4.digicert.com,🔰 节点选择
 - DOMAIN,ocsp.digicert.com,🔰 节点选择
+- DOMAIN-SUFFIX,cloudcone.com.cn,🔰 节点选择
 - DOMAIN-SUFFIX,inkbunny.net,🔰 节点选择
 - DOMAIN-SUFFIX,metapix.net,🔰 节点选择
 - DOMAIN-SUFFIX,s3.amazonaws.com,🔰 节点选择
@@ -9290,6 +9252,7 @@ rules:
 - DOMAIN-SUFFIX,tmall.com,🎯 全球直连
 - DOMAIN-SUFFIX,tmall.hk,🎯 全球直连
 - DOMAIN-SUFFIX,ykimg.com,🎯 全球直连
+- DOMAIN-SUFFIX,youku.com,🎯 全球直连
 - DOMAIN-SUFFIX,xiami.com,🎯 全球直连
 - DOMAIN-SUFFIX,xiami.net,🎯 全球直连
 - DOMAIN-SUFFIX,baidu.com,🎯 全球直连
@@ -9301,6 +9264,7 @@ rules:
 - DOMAIN-SUFFIX,yunjiasu-cdn.net,🎯 全球直连
 - DOMAIN-SUFFIX,battle.net,🎯 全球直连
 - DOMAIN-SUFFIX,blizzard.com,🎯 全球直连
+- DOMAIN-SUFFIX,bilibili.tv,🎯 全球直连
 - DOMAIN-SUFFIX,feiliao.com,🎯 全球直连
 - DOMAIN-SUFFIX,pstatp.com,🎯 全球直连
 - DOMAIN-SUFFIX,snssdk.com,🎯 全球直连
@@ -9373,11 +9337,19 @@ rules:
 - DOMAIN-SUFFIX,qqmail.com,🎯 全球直连
 - DOMAIN-SUFFIX,servicewechat.com,🎯 全球直连
 - DOMAIN-SUFFIX,tencent.com,🎯 全球直连
-- DOMAIN-SUFFIX,tencent-cloud.com,🎯 全球直连
 - DOMAIN-SUFFIX,tencent-cloud.net,🎯 全球直连
 - DOMAIN-SUFFIX,tenpay.com,🎯 全球直连
 - DOMAIN-SUFFIX,wechat.com,🎯 全球直连
 - DOMAIN,file-igamecj.akamaized.net,🎯 全球直连
+- IP-CIDR,101.32.104.4/32,🎯 全球直连,no-resolve
+- IP-CIDR,101.32.104.41/32,🎯 全球直连,no-resolve
+- IP-CIDR,101.32.104.56/32,🎯 全球直连,no-resolve
+- IP-CIDR,101.32.118.25/32,🎯 全球直连,no-resolve
+- IP-CIDR,101.32.133.16/32,🎯 全球直连,no-resolve
+- IP-CIDR,101.32.133.53/32,🎯 全球直连,no-resolve
+- IP-CIDR,101.32.133.209/32,🎯 全球直连,no-resolve
+- IP-CIDR,129.226.3.47/32,🎯 全球直连,no-resolve
+- IP-CIDR,129.226.107.244/32,🎯 全球直连,no-resolve
 - IP-CIDR,182.254.116.0/24,🎯 全球直连,no-resolve
 - IP-CIDR,203.205.254.0/23,🎯 全球直连,no-resolve
 - DOMAIN-SUFFIX,ccgslb.com,🎯 全球直连
@@ -9456,7 +9428,6 @@ rules:
 - DOMAIN-SUFFIX,chinaso.com,🎯 全球直连
 - DOMAIN-SUFFIX,chuimg.com,🎯 全球直连
 - DOMAIN-SUFFIX,chunyu.mobi,🎯 全球直连
-- DOMAIN-SUFFIX,cibntv.net,🎯 全球直连
 - DOMAIN-SUFFIX,cmbchina.com,🎯 全球直连
 - DOMAIN-SUFFIX,cmbimg.com,🎯 全球直连
 - DOMAIN-SUFFIX,coolapk.com,🎯 全球直连
@@ -9501,6 +9472,8 @@ rules:
 - DOMAIN-SUFFIX,keepcdn.com,🎯 全球直连
 - DOMAIN-SUFFIX,kkmh.com,🎯 全球直连
 - DOMAIN-SUFFIX,lanzous.com,🎯 全球直连
+- DOMAIN-SUFFIX,licdn.com,🎯 全球直连
+- DOMAIN-SUFFIX,linkedin.com,🎯 全球直连
 - DOMAIN-SUFFIX,luojilab.com,🎯 全球直连
 - DOMAIN-SUFFIX,maoyan.com,🎯 全球直连
 - DOMAIN-SUFFIX,maoyun.tv,🎯 全球直连
@@ -9523,7 +9496,6 @@ rules:
 - DOMAIN-SUFFIX,ruguoapp.com,🎯 全球直连
 - DOMAIN-SUFFIX,sankuai.com,🎯 全球直连
 - DOMAIN-SUFFIX,scomper.me,🎯 全球直连
-- DOMAIN-SUFFIX,shouqianba.com,🎯 全球直连
 - DOMAIN-SUFFIX,sm.ms,🎯 全球直连
 - DOMAIN-SUFFIX,smzdm.com,🎯 全球直连
 - DOMAIN-SUFFIX,snapdrop.net,🎯 全球直连
