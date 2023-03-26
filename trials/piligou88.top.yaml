@@ -51,10 +51,10 @@ proxies:
 - {name: 🇭🇰 微软香港1 ||移动出口 - 霹雳狗加速, server: yd.plggogo.xyz, port: 31612, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: wrxg.plggogo.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 微软香港2 ||电信出口 - 霹雳狗加速, server: dx.plggogo.xyz, port: 31612, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: wrxg.plggogo.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 微软香港3 ||联通出口 - 霹雳狗加速, server: lt.plggogo.xyz, port: 31612, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: wrxg.plggogo.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡Lite0 - 霹雳狗加速, server: xjp.plggogo.xyz, port: 31618, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: xjp.plggogo.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡Lite1 ||移动出口 - 霹雳狗加速, server: yd.plggogo.xyz, port: 31618, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: xjp.plggogo.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡Lite2 ||电信出口 - 霹雳狗加速, server: dx.plggogo.xyz, port: 31618, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: xjp.plggogo.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡Lite3 ||联通出口 - 霹雳狗加速, server: lt.plggogo.xyz, port: 31618, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: xjp.plggogo.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇮🇹 新加坡Lite0 - 霹雳狗加速, server: xjp.plggogo.xyz, port: 31618, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: xjp.plggogo.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇮🇹 新加坡Lite1 ||移动出口 - 霹雳狗加速, server: yd.plggogo.xyz, port: 31618, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: xjp.plggogo.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇮🇹 新加坡Lite2 ||电信出口 - 霹雳狗加速, server: dx.plggogo.xyz, port: 31618, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: xjp.plggogo.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇮🇹 新加坡Lite3 ||联通出口 - 霹雳狗加速, server: lt.plggogo.xyz, port: 31618, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: xjp.plggogo.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国俄亥俄0 ||原生 - 霹雳狗加速, server: mg1.plggogo.xyz, port: 31610, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: mg1.plggogo.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国俄亥俄1 ||移动出口||原生 - 霹雳狗加速, server: yd.plggogo.xyz, port: 31610, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: mg1.plggogo.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国俄亥俄2 ||电信出口||原生 - 霹雳狗加速, server: dx.plggogo.xyz, port: 31610, type: trojan, password: 5320919b-c55a-385d-b05c-ff1ada74ab29, sni: mg1.plggogo.xyz, skip-cert-verify: true, udp: true}
@@ -160,28 +160,11 @@ rules:
 - DOMAIN-SUFFIX,wunderlist.com,Ⓜ️ 微软服务
 - DOMAIN-SUFFIX,yammer.com,Ⓜ️ 微软服务
 - DOMAIN-SUFFIX,yammerusercontent.com,Ⓜ️ 微软服务
+- DOMAIN-SUFFIX,bingapis.com,Ⓜ️ 微软服务
 - DOMAIN,app.adjust.com,🎯 全球直连
 - DOMAIN,bdtj.tagtic.cn,🎯 全球直连
 - DOMAIN,log.mmstat.com,🎯 全球直连
 - DOMAIN,sycm.mmstat.com,🎯 全球直连
-- DOMAIN-SUFFIX,blog.google,🎯 全球直连
-- DOMAIN-SUFFIX,googletraveladservices.com,🎯 全球直连
-- DOMAIN,clientservices.googleapis.com,🎯 全球直连
-- DOMAIN,dl.google.com,🎯 全球直连
-- DOMAIN,dl.l.google.com,🎯 全球直连
-- DOMAIN,update.googleapis.com,🎯 全球直连
-- DOMAIN,translate.googleapis.com,🎯 全球直连
-- DOMAIN,fonts.googleapis.com,🎯 全球直连
-- DOMAIN,fonts.gstatic.com,🎯 全球直连
-- DOMAIN,mtalk.google.com,🎯 全球直连
-- DOMAIN,alt1-mtalk.google.com,🎯 全球直连
-- DOMAIN,alt2-mtalk.google.com,🎯 全球直连
-- DOMAIN,alt3-mtalk.google.com,🎯 全球直连
-- DOMAIN,alt4-mtalk.google.com,🎯 全球直连
-- DOMAIN,alt5-mtalk.google.com,🎯 全球直连
-- DOMAIN,alt6-mtalk.google.com,🎯 全球直连
-- DOMAIN,alt7-mtalk.google.com,🎯 全球直连
-- DOMAIN,alt8-mtalk.google.com,🎯 全球直连
 - DOMAIN,pubads.g.doubleclick.net,🎯 全球直连
 - DOMAIN,fairplay.l.qq.com,🎯 全球直连
 - DOMAIN,livew.l.qq.com,🎯 全球直连
