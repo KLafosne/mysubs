@@ -668,7 +668,8 @@ rules:
 - DOMAIN-SUFFIX,adcolony.com,💩 ‍广告
 - DOMAIN-SUFFIX,addthis.com,💩 ‍广告
 - DOMAIN-SUFFIX,adfurikun.jp,💩 ‍广告
-- DOMAIN-SUFFIX,adhigh.net,💩 DOMAIN-SUFFIDOMAIN-SUFFIX,adhood.com,💩 ‍广告
+- DOMAIN-SUFFIX,adhigh.net,💩 ‍广告
+- DOMAIN-SUFFIX,adhood.com,💩 ‍广告
 - DOMAIN-SUFFIX,adinall.com,💩 ‍广告
 - DOMAIN-SUFFIX,adition.com,💩 ‍广告
 - DOMAIN-SUFFIX,adk2x.com,💩 ‍广告
@@ -760,7 +761,7 @@ rules:
 - DOMAIN-SUFFIX,mobadme.jp,💩 ‍广告
 - DOMAIN-SUFFIX,mobfox.com,💩 ‍广告
 - DOMAIN-SUFFIX,mobileadtrading.com,💩 ‍广告
-- DOMAIN-SUFFIX,mobilityware.c- DOMAIN‍广告
+- DOMAIN-SUFFIX,mobilityware.com,💩 ‍广告
 - DOMAIN-SUFFIX,mojiva.com,💩 ‍广告
 - DOMAIN-SUFFIX,mookie1.com,💩 ‍广告
 - DOMAIN-SUFFIX,msads.net,💩 ‍广告
@@ -1105,7 +1106,7 @@ rules:
 - DOMAIN-SUFFIX,rj.baidu.cn,💩 ‍广告
 - DOMAIN-SUFFIX,rj.baidu.com,💩 ‍广告
 - DOMAIN-SUFFIX,rp.baidu.cn,💩 ‍广告
-- DOMAIN-SUFFIX,rp.baidu.com,�DOMAIN-SUFFIX,rp.baidu.com,💩 ‍广告
+- DOMAIN-SUFFIX,rp.baidu.com,💩 ‍广告
 - DOMAIN-SUFFIX,rplog.baidu.com,💩 ‍广告
 - DOMAIN-SUFFIX,s.baidu.com,💩 ‍广告
 - DOMAIN-SUFFIX,sclick.baidu.com,💩 ‍广告
@@ -4603,7 +4604,7 @@ rules:
 - DOMAIN-SUFFIX,mingjinglishi.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mingjingnews.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mingjingtimes.com,✈️ ‍起飞
-- DOM‍起飞
+- DOMAIN-SUFFIX,mingpao.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mingpaocanada.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mingpaomonthly.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mingpaonews.com,✈️ ‍起飞
@@ -6628,7 +6629,7 @@ rules:
 - DOMAIN-SUFFIX,windowsphoneme.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,windscribe.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,windy.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,wingamestore.comDOMAIN-SUFFIX,wingamestore.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,wingamestore.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,wingy.site,✈️ ‍起飞
 - DOMAIN-SUFFIX,winning11.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,winwhispers.info,✈️ ‍起飞
@@ -6718,7 +6719,8 @@ rules:
 - DOMAIN-SUFFIX,xhamster.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,xianba.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,xianchawang.net,✈️ ‍起飞
-- DOMAIN-SUFFIX,x DOMAIN-SUFFIX,xiaobaiwu.com,� DOMAIN-SUFFIX,xiaobaiwu.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,xianqiao.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,xiaobaiwu.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,xiaochuncnjp.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,xiaod.in,✈️ ‍起飞
 - DOMAIN-SUFFIX,xiaohexie.com,✈️ ‍起飞
@@ -6807,8 +6809,7 @@ rules:
 - DOMAIN-SUFFIX,yes.xxx,✈️ ‍起飞
 - DOMAIN-SUFFIX,yesasia.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,yeyeclub.com,✈️ ‍起飞
-- DOMAIN-SU
-- DOMAIN-SUFFIX,yhcw.net,✈�
+- DOMAIN-SUFFIX,ygto.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,yhcw.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,yibada.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,yibaochina.com,✈️ ‍起飞
@@ -7066,7 +7067,8 @@ rules:
 - DOMAIN-SUFFIX,teraboxcdn.com,✈️ ‍起飞
 - IP-CIDR,34.224.0.0/12,✈️ ‍起飞,no-resolve
 - IP-CIDR,54.242.0.0/15,✈️ ‍起飞,no-resolve
-- IP-CIDR,50.22.198.204/3- IP-CIDR,208.43.122.128/27,✈️ ‍起飞,no-resolve
+- IP-CIDR,50.22.198.204/30,✈️ ‍起飞,no-resolve
+- IP-CIDR,208.43.122.128/27,✈️ ‍起飞,no-resolve
 - IP-CIDR,108.168.174.0/16,✈️ ‍起飞,no-resolve
 - IP-CIDR,173.192.231.32/27,✈️ ‍起飞,no-resolve
 - IP-CIDR,158.85.5.192/27,✈️ ‍起飞,no-resolve
@@ -7332,7 +7334,7 @@ rules:
 - DOMAIN-SUFFIX,qqmail.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,qqurl.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,smtcdns.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,soso.com,🛩️DOMAIN-SUFFIX,soso.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,soso.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,tencent-cloud.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,tencent.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,tencentmind.com,🛩️ ‍墙内
@@ -7886,4 +7888,6 @@ rules:
 - PROCESS-NAME,Weiyun.exe,🛩️ ‍墙内
 - PROCESS-NAME,baidunetdisk.exe,🛩️ ‍墙内
 - GEOIP,CN,🛩️ ‍墙内
+- MATCH,🌐 ‍未知站点
+
 - MATCH,🌐 ‍未知站点
