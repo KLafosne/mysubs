@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇰🇷 游戏专线 华南1-韩国1 @2倍流量 - Portals, server: 1-sc-gamer.importal.top, port: 8390, type: ssr, cipher: dummy, password: JRC32i, protocol: auth_chain_a, obfs: plain, protocol-param: 134:UAk6do, obfs-param: ccb6d134.zzz, udp: true}
-- {name: 🇰🇷 韩国 1直连 三网推荐 - Portals, server: 1-kr.importal.top, port: 443, type: vmess, uuid: 9ccd99a3-c175-3a04-a705-994ab6af9ca2, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /portals, headers: {Host: 1-kr.importal.top}}, udp: true}

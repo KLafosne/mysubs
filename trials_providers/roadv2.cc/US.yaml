@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国 01 - Roadv2, server: dg.roadv2.top, port: 26701, type: ss, cipher: aes-128-gcm, password: 465a5add-9edf-46d7-9040-689f543f942c, udp: true}
-- {name: 🇺🇸 美国 02 - Roadv2, server: dg.roadv2.top, port: 30092, type: ss, cipher: aes-128-gcm, password: 465a5add-9edf-46d7-9040-689f543f942c, udp: true}
-- {name: 🇺🇸 美国 03 - Roadv2, server: dg.roadv2.top, port: 30093, type: ss, cipher: aes-128-gcm, password: 465a5add-9edf-46d7-9040-689f543f942c, udp: true}

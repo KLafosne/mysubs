@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵 JP丨Test - 锐云, server: gd-cn-01.1024.com.s1024.cc, port: 38009, type: ss, cipher: aes-128-gcm, password: 9660f0c6-13a9-415f-a98c-7db367ea69a0, udp: true}
-- {name: 🇯🇵 JP 02丨广日 - 锐云, server: gd-cn-01.1024.com.s1024.cc, port: 15760, type: ss, cipher: aes-128-gcm, password: 9660f0c6-13a9-415f-a98c-7db367ea69a0, udp: true}
-- {name: 🇯🇵 JP 03丨苏日 - 锐云, server: js.xyzxyz8.xyz, port: 10269, type: ss, cipher: aes-128-gcm, password: 9660f0c6-13a9-415f-a98c-7db367ea69a0, udp: true}

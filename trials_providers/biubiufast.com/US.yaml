@@ -1,8 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国 | 直连 - BIUBIU FAST, server: sfo4.biubiufast.quest, port: 5201, client-fingerprint: chrome, type: trojan, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, tfo: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 | 直连2 - BIUBIU FAST, server: sfo6.biubiufast.quest, port: 5203, client-fingerprint: chrome, type: trojan, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, tfo: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 | 直连二线 - BIUBIU FAST, server: sfo1.biubiufast.quest, port: 3721, client-fingerprint: chrome, type: trojan, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, tfo: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国|直连SS - BIUBIU FAST, server: sfo4.biubiufast.quest, port: 5202, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, tfo: false, udp: true}
-- {name: 🇺🇸 美国|直连SS2 - BIUBIU FAST, server: sfo6.biubiufast.quest, port: 5204, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: bd2adbd4-3946-4278-bdf7-fd389734d4e0, tfo: false, udp: true}

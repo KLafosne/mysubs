@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇹🇼 vip1 台湾-01 - FastFly, server: gzdx.jcnode.top, port: 42000, type: vmess, uuid: d28b3fbb-7e3d-4f0d-bbf5-6f63fbc0e97f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
-- {name: 🇹🇼 vip1 台湾-03 - FastFly, server: gzyd02.jcnode.top, port: 42000, type: vmess, uuid: d28b3fbb-7e3d-4f0d-bbf5-6f63fbc0e97f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /fly, headers: {Host: gzyd02.jcnode.top}}, udp: true}

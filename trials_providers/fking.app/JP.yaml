@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵日本-免费 - FreeKing ⚠️限速 2, server: 43.sking.app, port: 464, type: vmess, uuid: d10e6f73-fcac-4b37-bbb3-3486390b686e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 43.sking.app}}, udp: true}

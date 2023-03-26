@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 SG 新加坡01 | 隧道 | 电信 | 1.0x | V1 - 猪猪, server: suidao2.sexavv.com, port: 48097, type: vmess, uuid: 29256b2d-aca4-35e5-bcf1-8f2587be8b05, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: suidao2.sexavv.com}}, udp: true}
-- {name: 🇸🇬 SG 新加坡03 | 隧道 | 联通 | 1.0x | V1 - 猪猪, server: suidao2.sexavv.com, port: 48099, type: vmess, uuid: 29256b2d-aca4-35e5-bcf1-8f2587be8b05, alterId: 10, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: suidao2.sexavv.com}}, udp: true}
-- {name: 🇸🇬 SG 新加坡 | 隧道 | 2.0x | V1 - 猪猪, server: suidao.sexavv.com, port: 31688, type: vmess, uuid: 29256b2d-aca4-35e5-bcf1-8f2587be8b05, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /adobe, headers: {Host: suidao.sexavv.com}}, udp: true}

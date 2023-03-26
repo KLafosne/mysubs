@@ -1,8 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇰🇷Korea 01 - Lime 青柠, server: ahyd.pangupy.com, port: 49774, type: ss, cipher: aes-256-gcm, password: 1c668908-cfbc-454b-8e41-10280305a4c1, udp: true}
-- {name: 🇩🇪Germany 01 - Lime 青柠, server: ahyd.pangupy.com, port: 37301, type: ss, cipher: aes-256-gcm, password: 1c668908-cfbc-454b-8e41-10280305a4c1, udp: true}
-- {name: 🇩🇪Germany 02 - Lime 青柠, server: hzdx.pangupy.com, port: 37301, type: ss, cipher: aes-256-gcm, password: 1c668908-cfbc-454b-8e41-10280305a4c1, udp: true}
-- {name: 🇮🇳India 01 - Lime 青柠, server: hzdx.pangupy.com, port: 40670, type: ss, cipher: aes-256-gcm, password: 1c668908-cfbc-454b-8e41-10280305a4c1, udp: true}
-- {name: 🇹🇷Turkey 01 - Lime 青柠, server: hzdx.pangupy.com, port: 59029, type: ss, cipher: aes-256-gcm, password: 1c668908-cfbc-454b-8e41-10280305a4c1, udp: true}

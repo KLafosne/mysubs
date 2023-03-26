@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国｜中转｜杭日 - 花栗鼠, server: hzyd.donghui.tech, port: 25288, type: ss, cipher: chacha20-ietf-poly1305, password: 76e95449-a972-4e34-b7f0-254aec4dcc2d, udp: true}
-- {name: 🇺🇸 美国｜沪港 - 花栗鼠, server: shdx.donghui.tech, port: 25301, type: ss, cipher: chacha20-ietf-poly1305, password: 76e95449-a972-4e34-b7f0-254aec4dcc2d, udp: true}

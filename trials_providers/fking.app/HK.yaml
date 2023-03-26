@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇭🇰香港-官网-www.freeking1.app - FreeKing ⚠️限速 2, server: 41.sking.app, port: 448, type: vmess, uuid: d10e6f73-fcac-4b37-bbb3-3486390b686e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 41.sking.app}}, udp: true}
-- {name: 🇭🇰香港-免费02 - FreeKing ⚠️限速 2, server: 44.sking.app, port: 481, type: vmess, uuid: d10e6f73-fcac-4b37-bbb3-3486390b686e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 44.sking.app}}, udp: true}

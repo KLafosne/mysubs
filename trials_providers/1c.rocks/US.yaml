@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 LA① | 共用通常版サーバ - 1coinVPN, server: 45.63.51.13, port: 44443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: la01.1coinvp.vip, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 LA② | 共用通常版サーバ - 1coinVPN, server: 207.246.111.180, port: 443, type: trojan, password: 65ca9c8f-8a24-4182-ac40-079f45212992, sni: la02.1coinvp.vip, skip-cert-verify: true, udp: true}

@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵 VIP 日本 BGP - 雷云加速, server: bgp.ijsfq.xyz, port: 47662, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
-- {name: 🇯🇵 VIP 日本 v6 - 雷云加速, server: v6.ijsfq.xyz, port: 6401, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
-- {name: 🇯🇵 VIP 日本 v6X GPT - 雷云加速, server: bgp.ijsfq.xyz, port: 55669, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
