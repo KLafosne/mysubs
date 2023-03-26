@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 VIP 台湾 解锁流媒体 - 雷云加速, server: bgp.ijsfq.xyz, port: 55667, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, tfo: false, udp: true}
-- {name: 🇭🇰 VIP 香港 解锁流媒体X - 雷云加速, server: bgp.ijsfq.xyz, port: 45436, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, tfo: false, udp: true}
-- {name: 🇭🇰 香港v6 - 雷云加速, server: hkv6.ijsfq.xyz, port: 443, client-fingerprint: chrome, type: vmess, uuid: ec27d454-3096-458b-b769-2de83bd0c011, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: hkv6.ijsfq.xyz, network: ws, ws-opts: {path: /, headers: {Host: hkv6.ijsfq.xyz}}, udp: true}
+- {name: 🇹🇼 VIP 台湾 解锁流媒体 - 雷云加速, server: bgp.ijsfq.xyz, port: 55667, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
+- {name: 🇭🇰 VIP 香港 解锁流媒体X - 雷云加速, server: bgp.ijsfq.xyz, port: 45436, type: ss, cipher: chacha20-ietf-poly1305, password: ec27d454-3096-458b-b769-2de83bd0c011, udp: true}
+- {name: 🇭🇰 香港v6 - 雷云加速, server: hkv6.ijsfq.xyz, port: 443, type: vmess, uuid: ec27d454-3096-458b-b769-2de83bd0c011, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hkv6.ijsfq.xyz, network: ws, ws-opts: {path: /, headers: {Host: hkv6.ijsfq.xyz}}, udp: true}

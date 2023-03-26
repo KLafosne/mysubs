@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本01| bbtec - 花栗鼠, server: wyyry.evansdev.xyz, port: 28289, type: vmess, uuid: 76e95449-a972-4e34-b7f0-254aec4dcc2d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /sometimesnaive, headers: {Host: wyyry.evansdev.xyz}}, udp: true}
-- {name: 🇯🇵 日本 02| bbtec - 花栗鼠, server: wyyrb22.evansdev.xyz, port: 28282, type: vmess, uuid: 76e95449-a972-4e34-b7f0-254aec4dcc2d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /sometimesnaive, headers: {Host: wyyrb22.evansdev.xyz}}, udp: true}
+- {name: 🇯🇵 日本01| bbtec - 花栗鼠, server: wyyry.evansdev.xyz, port: 28289, client-fingerprint: chrome, type: vmess, uuid: 76e95449-a972-4e34-b7f0-254aec4dcc2d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sometimesnaive, headers: {Host: wyyry.evansdev.xyz}}, udp: true}
+- {name: 🇯🇵 日本 02| bbtec - 花栗鼠, server: wyyrb22.evansdev.xyz, port: 28282, client-fingerprint: chrome, type: vmess, uuid: 76e95449-a972-4e34-b7f0-254aec4dcc2d, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sometimesnaive, headers: {Host: wyyrb22.evansdev.xyz}}, udp: true}

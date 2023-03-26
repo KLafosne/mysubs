@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾｜沪港 - 花栗鼠, server: shdx.donghui.tech, port: 55125, type: trojan, password: 76e95449-a972-4e34-b7f0-254aec4dcc2d, sni: nnctw.evansdev.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾｜沪港 - 花栗鼠, server: shdx.donghui.tech, port: 55125, client-fingerprint: chrome, type: trojan, password: 76e95449-a972-4e34-b7f0-254aec4dcc2d, tfo: false, sni: nnctw.evansdev.xyz, skip-cert-verify: true, udp: true}
