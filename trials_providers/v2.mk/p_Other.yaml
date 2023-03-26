@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '官网: v2.mk - 白给加速器', server: 120-241-236-24.nhost.00cdn.com, port: 30806, type: vmess, uuid: c2a6b18d-6dbf-41ad-ae69-52239b836c59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '官网: v2.mk - 白给加速器', server: 120-241-236-24.nhost.00cdn.com, port: 30806, type: vmess, uuid: 979da2a1-869a-479b-92e8-05e23bf27999, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

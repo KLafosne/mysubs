@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 极速|美国06 - 探索者, server: 603diyb.donghui.tech, port: 32331, type: vmess, uuid: 9400200e-6aad-48ed-be94-32dd2fa2ec6a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 🇺🇸 极速|美国07 - 探索者, server: 603diyb.donghui.tech, port: 32332, type: vmess, uuid: 9400200e-6aad-48ed-be94-32dd2fa2ec6a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
-- {name: 🇺🇸 极速|美国08 - 探索者, server: 603diyb.donghui.tech, port: 23334, type: vmess, uuid: 9400200e-6aad-48ed-be94-32dd2fa2ec6a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇺🇸 极速|美国06 - 探索者, server: 603diyb.donghui.tech, port: 32331, type: vmess, uuid: 81dffcad-5aa5-4181-85d1-a6ac994a9c67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇺🇸 极速|美国07 - 探索者, server: 603diyb.donghui.tech, port: 32332, type: vmess, uuid: 81dffcad-5aa5-4181-85d1-a6ac994a9c67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}
+- {name: 🇺🇸 极速|美国08 - 探索者, server: 603diyb.donghui.tech, port: 23334, type: vmess, uuid: 81dffcad-5aa5-4181-85d1-a6ac994a9c67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diyb.donghui.tech}}, udp: true}

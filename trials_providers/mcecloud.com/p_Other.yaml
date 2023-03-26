@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 防失联官网：help.mcecloud.net - 至云互联, server: mcecloud.com, port: 10086, type: vmess, uuid: d7bb1f9a-1dd6-3a96-87e9-db71f08858fc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 使用前更新订阅 - 至云互联, server: mcecloud.com, port: 10086, type: vmess, uuid: d7bb1f9a-1dd6-3a96-87e9-db71f08858fc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 防失联官网：help.mcecloud.net - 至云互联, server: mcecloud.com, port: 10086, type: vmess, uuid: 8cf83283-54b4-35b2-a6b9-5e0878fa4485, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 使用前更新订阅 - 至云互联, server: mcecloud.com, port: 10086, type: vmess, uuid: 8cf83283-54b4-35b2-a6b9-5e0878fa4485, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

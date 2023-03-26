@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 标准|美国01解锁IPV6|x1 - 黑洞云 Pro, server: cm1-hd.go001.buzz, port: 17261, type: vmess, uuid: 19fcb05b-79de-4be9-b26c-46b9f8f8f82c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 标准|美国02解锁IPV6|x1 - 黑洞云 Pro, server: ct1-hd.go001.buzz, port: 17161, type: vmess, uuid: 19fcb05b-79de-4be9-b26c-46b9f8f8f82c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 标准|美国03解锁IPV6|x1 - 黑洞云 Pro, server: cn2-1-hd.go001.buzz, port: 17062, type: vmess, uuid: 19fcb05b-79de-4be9-b26c-46b9f8f8f82c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 标准|美国01解锁IPV6|x1 - 黑洞云 Pro, server: cm1-hd.go001.buzz, port: 17261, type: vmess, uuid: 911acc96-3f3a-4f67-b7e4-ce8212e7dd6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 标准|美国02解锁IPV6|x1 - 黑洞云 Pro, server: ct1-hd.go001.buzz, port: 17161, type: vmess, uuid: 911acc96-3f3a-4f67-b7e4-ce8212e7dd6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 标准|美国03解锁IPV6|x1 - 黑洞云 Pro, server: cn2-1-hd.go001.buzz, port: 17062, type: vmess, uuid: 911acc96-3f3a-4f67-b7e4-ce8212e7dd6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

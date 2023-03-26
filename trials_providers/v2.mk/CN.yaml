@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 专线 N 香港 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 46935, type: vmess, uuid: c2a6b18d-6dbf-41ad-ae69-52239b836c59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中转 T 香港 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 38002, type: vmess, uuid: c2a6b18d-6dbf-41ad-ae69-52239b836c59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转 D 沪台 1.5x - 白给加速器, server: snode-oss-sh2.nmp.pw, port: 39001, type: vmess, uuid: c2a6b18d-6dbf-41ad-ae69-52239b836c59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中转 D 沪港 1.5x - 白给加速器, server: snode-oss-sh2.nmp.pw, port: 37000, type: vmess, uuid: c2a6b18d-6dbf-41ad-ae69-52239b836c59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转 C 台湾 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 38008, type: vmess, uuid: c2a6b18d-6dbf-41ad-ae69-52239b836c59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 专线 A 深港80m 3x - 白给加速器, server: snode-14.nmp.pw, port: 11328, type: vmess, uuid: c2a6b18d-6dbf-41ad-ae69-52239b836c59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 中转 B 台湾 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 38005, type: vmess, uuid: c2a6b18d-6dbf-41ad-ae69-52239b836c59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 专线 N 香港 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 46935, type: vmess, uuid: 979da2a1-869a-479b-92e8-05e23bf27999, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转 T 香港 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 38002, type: vmess, uuid: 979da2a1-869a-479b-92e8-05e23bf27999, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转 D 沪台 1.5x - 白给加速器, server: snode-oss-sh2.nmp.pw, port: 39001, type: vmess, uuid: 979da2a1-869a-479b-92e8-05e23bf27999, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转 D 沪港 1.5x - 白给加速器, server: snode-oss-sh2.nmp.pw, port: 37000, type: vmess, uuid: 979da2a1-869a-479b-92e8-05e23bf27999, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转 C 台湾 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 38008, type: vmess, uuid: 979da2a1-869a-479b-92e8-05e23bf27999, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 专线 A 深港80m 3x - 白给加速器, server: snode-14.nmp.pw, port: 11328, type: vmess, uuid: 979da2a1-869a-479b-92e8-05e23bf27999, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转 B 台湾 1.5x - 白给加速器, server: snode-cn-g1.nmp.pw, port: 38005, type: vmess, uuid: 979da2a1-869a-479b-92e8-05e23bf27999, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

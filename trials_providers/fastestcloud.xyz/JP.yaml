@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 vip1 日本-01 - FastFly, server: gzdx.jcnode.top, port: 41002, type: ss, cipher: aes-256-gcm, password: d28b3fbb-7e3d-4f0d-bbf5-6f63fbc0e97f, udp: true}
-- {name: 🇯🇵 vip2 日本-02 - FastFly, server: gzyd.jcnode.top, port: 41002, type: ss, cipher: aes-256-gcm, password: d28b3fbb-7e3d-4f0d-bbf5-6f63fbc0e97f, udp: true}
-- {name: 🇯🇵 vip1 日本-04 - FastFly, server: gzdx.jcnode.top, port: 41000, type: ss, cipher: aes-256-gcm, password: d28b3fbb-7e3d-4f0d-bbf5-6f63fbc0e97f, udp: true}
-- {name: 🇯🇵 vip1 日本-10 - FastFly, server: gzdx.jcnode.top, port: 41003, type: trojan, password: d28b3fbb-7e3d-4f0d-bbf5-6f63fbc0e97f, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 vip1 日本-01 - FastFly, server: gzdx.jcnode.top, port: 41002, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: d28b3fbb-7e3d-4f0d-bbf5-6f63fbc0e97f, tfo: false, udp: true}
+- {name: 🇯🇵 vip2 日本-02 - FastFly, server: gzyd.jcnode.top, port: 41002, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: d28b3fbb-7e3d-4f0d-bbf5-6f63fbc0e97f, tfo: false, udp: true}
+- {name: 🇯🇵 vip1 日本-04 - FastFly, server: gzdx.jcnode.top, port: 41000, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: d28b3fbb-7e3d-4f0d-bbf5-6f63fbc0e97f, tfo: false, udp: true}
+- {name: 🇯🇵 vip1 日本-10 - FastFly, server: gzdx.jcnode.top, port: 41003, client-fingerprint: chrome, type: trojan, password: d28b3fbb-7e3d-4f0d-bbf5-6f63fbc0e97f, tfo: false, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}

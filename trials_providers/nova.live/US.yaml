@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 US000 - NovaLive, server: 54.189.110.172, port: 443, client-fingerprint: chrome, type: trojan, password: 89f5038f-c02c-3ea7-b69b-7f39afdf57cf, tfo: false, sni: d1--ov-gotcha05.bilivideo.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US021|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 107.173.84.225, port: 5241, client-fingerprint: chrome, type: trojan, password: 89f5038f-c02c-3ea7-b69b-7f39afdf57cf, tfo: false, sni: d1--ov-gotcha05.bilivideo.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5447, client-fingerprint: chrome, type: trojan, password: 89f5038f-c02c-3ea7-b69b-7f39afdf57cf, tfo: false, sni: d1--ov-gotcha05.bilivideo.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3471, client-fingerprint: chrome, type: trojan, password: 89f5038f-c02c-3ea7-b69b-7f39afdf57cf, tfo: false, sni: d1--ov-gotcha05.bilivideo.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000 - NovaLive, server: 54.189.110.172, port: 443, type: trojan, password: 89f5038f-c02c-3ea7-b69b-7f39afdf57cf, sni: d1--ov-gotcha05.bilivideo.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US021|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 107.173.84.225, port: 5241, type: trojan, password: 89f5038f-c02c-3ea7-b69b-7f39afdf57cf, sni: d1--ov-gotcha05.bilivideo.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5447, type: trojan, password: 89f5038f-c02c-3ea7-b69b-7f39afdf57cf, sni: d1--ov-gotcha05.bilivideo.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3471, type: trojan, password: 89f5038f-c02c-3ea7-b69b-7f39afdf57cf, sni: d1--ov-gotcha05.bilivideo.com, skip-cert-verify: true, udp: true}

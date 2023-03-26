@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港01流媒体解锁【SS】「1.5X」 - 柚子酱, server: a.karyl.cc, port: 32004, type: ss, cipher: chacha20-ietf-poly1305, password: 86000b4c-dacc-43d3-8a35-77fbb2c5f4e2, udp: true}
-- {name: 🇭🇰 香港02流媒体解锁【SS】「1.5X」 - 柚子酱, server: b.karyl.cc, port: 32005, type: ss, cipher: chacha20-ietf-poly1305, password: 86000b4c-dacc-43d3-8a35-77fbb2c5f4e2, udp: true}
-- {name: 🇭🇰 深港IPLC-游戏专用【SS】「10X」 - 柚子酱, server: iplc.karyl.cc, port: 64888, type: ss, cipher: chacha20-ietf-poly1305, password: 86000b4c-dacc-43d3-8a35-77fbb2c5f4e2, udp: true}
+- {name: 🇭🇰 香港01流媒体解锁【SS】「1.5X」 - 柚子酱, server: a.karyl.cc, port: 32004, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 86000b4c-dacc-43d3-8a35-77fbb2c5f4e2, tfo: false, udp: true}
+- {name: 🇭🇰 香港02流媒体解锁【SS】「1.5X」 - 柚子酱, server: b.karyl.cc, port: 32005, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 86000b4c-dacc-43d3-8a35-77fbb2c5f4e2, tfo: false, udp: true}
+- {name: 🇭🇰 深港IPLC-游戏专用【SS】「10X」 - 柚子酱, server: iplc.karyl.cc, port: 64888, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 86000b4c-dacc-43d3-8a35-77fbb2c5f4e2, tfo: false, udp: true}

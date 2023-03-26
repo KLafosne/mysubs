@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 极速|韩国02 - 探索者, server: 603diya.donghui.tech, port: 34645, type: vmess, uuid: 9400200e-6aad-48ed-be94-32dd2fa2ec6a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 🇰🇷 极速|韩国03 - 探索者, server: 603diya.donghui.tech, port: 34656, type: vmess, uuid: 9400200e-6aad-48ed-be94-32dd2fa2ec6a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
-- {name: 🇰🇷 极速|韩国04 - 探索者, server: 603diya.donghui.tech, port: 34646, type: vmess, uuid: 9400200e-6aad-48ed-be94-32dd2fa2ec6a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🇰🇷 极速|韩国02 - 探索者, server: 603diya.donghui.tech, port: 34645, type: vmess, uuid: 81dffcad-5aa5-4181-85d1-a6ac994a9c67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🇰🇷 极速|韩国03 - 探索者, server: 603diya.donghui.tech, port: 34656, type: vmess, uuid: 81dffcad-5aa5-4181-85d1-a6ac994a9c67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}
+- {name: 🇰🇷 极速|韩国04 - 探索者, server: 603diya.donghui.tech, port: 34646, type: vmess, uuid: 81dffcad-5aa5-4181-85d1-a6ac994a9c67, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 603diya.donghui.tech}}, udp: true}

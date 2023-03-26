@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇲 美国-TV-1x - TTK, server: lv2.ttkcloud.xyz, port: 59021, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇺🇲 公网|美国|1x - TTK, server: cs.ttkcloud.xyz, port: 59021, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 路由器|美国|1x - TTK, server: lv2.ttkcloud.xyz, port: 10942, type: vmess, uuid: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 74.120.175.243, udp: true}
-- {name: 🇺🇲 海外|美国|1x - TTK, server: outline-us.ttkcloud.buzz, port: 33333, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国-TV-1x - TTK, server: lv2.ttkcloud.xyz, port: 59021, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 公网|美国|1x - TTK, server: cs.ttkcloud.xyz, port: 59021, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 路由器|美国|1x - TTK, server: lv2.ttkcloud.xyz, port: 10942, client-fingerprint: chrome, type: vmess, uuid: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: 74.120.175.243, udp: true}
+- {name: 🇺🇲 海外|美国|1x - TTK, server: outline-us.ttkcloud.buzz, port: 33333, client-fingerprint: chrome, type: trojan, password: fa8c7bc0-782d-4552-b4d5-c14d78bb547e, tfo: false, sni: 74.120.175.243, skip-cert-verify: true, udp: true}
