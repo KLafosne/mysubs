@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 防失联官网：help.mcecloud.net - 至云互联, server: mcecloud.com, port: 10086, client-fingerprint: chrome, type: vmess, uuid: 9c482ad5-3195-330c-8be5-f187c89fd9d8, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
-- {name: 使用前更新订阅 - 至云互联, server: mcecloud.com, port: 10086, client-fingerprint: chrome, type: vmess, uuid: 9c482ad5-3195-330c-8be5-f187c89fd9d8, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
-- {name: 🇷🇺 Lv.1 | 俄罗斯 |IEPL | 1.0× - 至云互联, server: x1.mceee.xyz, port: 21911, client-fingerprint: chrome, type: vmess, uuid: 9c482ad5-3195-330c-8be5-f187c89fd9d8, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
-- {name: 🇦🇷 Lv.1 | 阿根廷 | IEPL | 1.0× - 至云互联, server: x2.mceee.xyz, port: 21914, client-fingerprint: chrome, type: vmess, uuid: 9c482ad5-3195-330c-8be5-f187c89fd9d8, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
+- {name: 防失联官网：help.mcecloud.net - 至云互联, server: mcecloud.com, port: 10086, type: vmess, uuid: 9c482ad5-3195-330c-8be5-f187c89fd9d8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 使用前更新订阅 - 至云互联, server: mcecloud.com, port: 10086, type: vmess, uuid: 9c482ad5-3195-330c-8be5-f187c89fd9d8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇷🇺 Lv.1 | 俄罗斯 |IEPL | 1.0× - 至云互联, server: x1.mceee.xyz, port: 21911, type: vmess, uuid: 9c482ad5-3195-330c-8be5-f187c89fd9d8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇦🇷 Lv.1 | 阿根廷 | IEPL | 1.0× - 至云互联, server: x2.mceee.xyz, port: 21914, type: vmess, uuid: 9c482ad5-3195-330c-8be5-f187c89fd9d8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
