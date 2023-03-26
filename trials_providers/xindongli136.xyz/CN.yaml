@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 F1(注册登录xd228.xyz) - XD Cloud, server: xhkf1.102ctc.xyz, port: 20301, client-fingerprint: chrome, type: trojan, password: f1c185f8-fc9c-31ed-a247-b0e043d06106, tfo: false, sni: xhkf1.102ctc.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 F1(注册登录xd228.xyz) - XD Cloud, server: xhkf1.102ctc.xyz, port: 20301, type: trojan, password: f1c185f8-fc9c-31ed-a247-b0e043d06106, sni: xhkf1.102ctc.xyz, skip-cert-verify: true, udp: true}

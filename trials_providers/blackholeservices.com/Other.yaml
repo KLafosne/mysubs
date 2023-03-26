@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇦🇺 标准|澳大利亚01|x1倍率 - 黑洞云 Pro, server: cn2-1-hd.go001.buzz, port: 17090, type: vmess, uuid: 272b515e-bb72-409b-8b67-4c9d2cefe6dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦 标准|加拿大01|x1倍率 - 黑洞云 Pro, server: cn2-1-hd.go001.buzz, port: 17092, type: vmess, uuid: 272b515e-bb72-409b-8b67-4c9d2cefe6dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 标准|英国01|x1倍率 - 黑洞云 Pro, server: cn2-1-hd.go001.buzz, port: 17091, type: vmess, uuid: 272b515e-bb72-409b-8b67-4c9d2cefe6dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 标准|德国01|x1倍率 - 黑洞云 Pro, server: cn2-1-hd.go001.buzz, port: 17093, type: vmess, uuid: 272b515e-bb72-409b-8b67-4c9d2cefe6dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇦🇺 标准|澳大利亚01|x1倍率 - 黑洞云 Pro, server: cn2-1-hd.go001.buzz, port: 17090, client-fingerprint: chrome, type: vmess, uuid: 272b515e-bb72-409b-8b67-4c9d2cefe6dc, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦 标准|加拿大01|x1倍率 - 黑洞云 Pro, server: cn2-1-hd.go001.buzz, port: 17092, client-fingerprint: chrome, type: vmess, uuid: 272b515e-bb72-409b-8b67-4c9d2cefe6dc, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 标准|英国01|x1倍率 - 黑洞云 Pro, server: cn2-1-hd.go001.buzz, port: 17091, client-fingerprint: chrome, type: vmess, uuid: 272b515e-bb72-409b-8b67-4c9d2cefe6dc, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 标准|德国01|x1倍率 - 黑洞云 Pro, server: cn2-1-hd.go001.buzz, port: 17093, client-fingerprint: chrome, type: vmess, uuid: 272b515e-bb72-409b-8b67-4c9d2cefe6dc, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, udp: true}

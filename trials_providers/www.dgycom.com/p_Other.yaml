@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：1 天 - 大哥云, server: v02.gutingting.com, port: 30015, client-fingerprint: chrome, type: vmess, uuid: 179690f2-786f-46e9-804a-3f5bd1db073a, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aceamedv, headers: {Host: gz.fastcloud.club}}, udp: true}
+- {name: 距离下次重置剩余：1 天 - 大哥云, server: v02.gutingting.com, port: 30015, type: vmess, uuid: 179690f2-786f-46e9-804a-3f5bd1db073a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aceamedv, headers: {Host: gz.fastcloud.club}}, udp: true}

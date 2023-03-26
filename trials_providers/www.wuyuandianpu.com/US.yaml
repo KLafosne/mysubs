@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国圣何塞 - 五元店, server: jscm.r1u.cn, port: 49607, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, tfo: false, udp: true}
-- {name: 🇺🇸 美国新泽西 - 五元店, server: gzcm.xzcloud.pro, port: 24055, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, tfo: false, udp: true}
+- {name: 🇺🇸 美国圣何塞 - 五元店, server: jscm.r1u.cn, port: 49607, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, udp: true}
+- {name: 🇺🇸 美国新泽西 - 五元店, server: gzcm.xzcloud.pro, port: 24055, type: ss, cipher: chacha20-ietf-poly1305, password: ced5c848-565f-472f-81fb-883db22d3668, udp: true}

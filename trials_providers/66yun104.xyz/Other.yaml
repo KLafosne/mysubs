@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: A4.入门版年租套餐限时6折仅138/2T/年(非节点勿连) - 六六云, server: www.66yun106.xyz, port: 10086, type: trojan, password: JqfKBjbkcgeeHlbN, skip-cert-verify: true, udp: true}
+- {name: A4.入门版年租套餐限时6折仅138/2T/年(非节点勿连) - 六六云, server: www.66yun106.xyz, port: 10086, client-fingerprint: chrome, type: trojan, password: JqfKBjbkcgeeHlbN, tfo: false, skip-cert-verify: true, udp: true}

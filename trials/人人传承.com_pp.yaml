@@ -7889,5 +7889,3 @@ rules:
 - PROCESS-NAME,baidunetdisk.exe,🛩️ ‍墙内
 - GEOIP,CN,🛩️ ‍墙内
 - MATCH,🌐 ‍未知站点
-
-- MATCH,🌐 ‍未知站点
