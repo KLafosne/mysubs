@@ -207,33 +207,33 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇭🇰 香港|scloud|隧道中转 - 锐星云, server: sd.ruistar.info, port: 30116, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港|湘港隧道 - 锐星云, server: sd.ruistar.info, port: 30115, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 IEPL|香港 - 锐星云, server: xg.ruixingy.xyz, port: 41875, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡|do|隧道中转 - 锐星云, server: gy.ruistar.info, port: 50320, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 韩国|scloud|隧道中转 - 锐星云, server: gy.ruistar.info, port: 45399, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港|S|scloud|隧道中转 - 锐星云, server: gy.ruistar.info, port: 50994, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾|湘港隧道 - 锐星云, server: sd.ruistar.info, port: 30125, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇧🇷 巴西|隧道中转 - 锐星云, server: z5.ruistar.info, port: 50666, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡|F|隧道中转 - 锐星云, server: sd.ruistar.info, port: 30245, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡|S|隧道中转 - 锐星云, server: sd.ruistar.info, port: 30246, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡|T|隧道中转 - 锐星云, server: sd.ruistar.info, port: 30247, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本东京A|隧道中转 - 锐星云, server: sd.ruistar.info, port: 30241, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本东京B|隧道中转 - 锐星云, server: sd.ruistar.info, port: 30242, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本东京C|隧道中转 - 锐星云, server: sd.ruistar.info, port: 30230, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国|隧道中转 - 锐星云, server: z5.ruistar.info, port: 49099, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国|洛杉矶|隧道中转 - 锐星云, server: z5.ruistar.info, port: 18869, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦 多伦多|隧道 - 锐星云, server: gy.ruistar.info, port: 50330, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 土耳其|隧道 - 锐星云, server: gy.ruistar.info, port: 50350, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡|F|广移中转 - 锐星云, server: gy.ruistar.info, port: 50260, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡|S|广移中转 - 锐星云, server: gy.ruistar.info, port: 50270, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港A|广移|Scloud - 锐星云, server: gy.ruistar.info, port: 50210, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾A|广移|Scloud - 锐星云, server: gy.ruistar.info, port: 50230, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港B|广移|Scloud - 锐星云, server: z5.ruistar.info, port: 50280, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾B|广移|Scloud - 锐星云, server: gy.ruistar.info, port: 50240, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 土耳其|直连 - 锐星云, server: teq.ruistar.info, port: 20600, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇨🇦 多伦多|直连 - 锐星云, server: mg.ruistar.info, port: 20600, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇧🇷 巴西|直连1 - 锐星云, server: bx.ruistar.info, port: 1008, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|scloud|隧道中转 - 锐星云, server: sd.ruistar.info, port: 30116, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|湘港隧道 - 锐星云, server: sd.ruistar.info, port: 30115, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 IEPL|香港 - 锐星云, server: xg.ruixingy.xyz, port: 41875, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡|do|隧道中转 - 锐星云, server: gy.ruistar.info, port: 50320, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国|scloud|隧道中转 - 锐星云, server: gy.ruistar.info, port: 45399, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|S|scloud|隧道中转 - 锐星云, server: gy.ruistar.info, port: 50994, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾|湘港隧道 - 锐星云, server: sd.ruistar.info, port: 30125, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇧🇷 巴西|隧道中转 - 锐星云, server: z5.ruistar.info, port: 50666, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡|F|隧道中转 - 锐星云, server: sd.ruistar.info, port: 30245, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡|S|隧道中转 - 锐星云, server: sd.ruistar.info, port: 30246, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡|T|隧道中转 - 锐星云, server: sd.ruistar.info, port: 30247, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本东京A|隧道中转 - 锐星云, server: sd.ruistar.info, port: 30241, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本东京B|隧道中转 - 锐星云, server: sd.ruistar.info, port: 30242, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本东京C|隧道中转 - 锐星云, server: sd.ruistar.info, port: 30230, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国|隧道中转 - 锐星云, server: z5.ruistar.info, port: 49099, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国|洛杉矶|隧道中转 - 锐星云, server: z5.ruistar.info, port: 18869, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦 多伦多|隧道 - 锐星云, server: gy.ruistar.info, port: 50330, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 土耳其|隧道 - 锐星云, server: gy.ruistar.info, port: 50350, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡|F|广移中转 - 锐星云, server: gy.ruistar.info, port: 50260, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡|S|广移中转 - 锐星云, server: gy.ruistar.info, port: 50270, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港A|广移|Scloud - 锐星云, server: gy.ruistar.info, port: 50210, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾A|广移|Scloud - 锐星云, server: gy.ruistar.info, port: 50230, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港B|广移|Scloud - 锐星云, server: z5.ruistar.info, port: 50280, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾B|广移|Scloud - 锐星云, server: gy.ruistar.info, port: 50240, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇷 土耳其|直连 - 锐星云, server: teq.ruistar.info, port: 20600, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦 多伦多|直连 - 锐星云, server: mg.ruistar.info, port: 20600, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇧🇷 巴西|直连1 - 锐星云, server: bx.ruistar.info, port: 1008, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

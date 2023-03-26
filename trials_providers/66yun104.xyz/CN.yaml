@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 F1(限速) - 六六云, server: 6hkf1.102ctc.xyz, port: 32558, client-fingerprint: chrome, type: trojan, password: f1c185f8-fc9c-31ed-a247-b0e043d06106, tfo: false, sni: 6hkf1.102ctc.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 F1(限速) - 六六云, server: 6hkf1.102ctc.xyz, port: 32558, type: trojan, password: f1c185f8-fc9c-31ed-a247-b0e043d06106, sni: 6hkf1.102ctc.xyz, skip-cert-verify: true, udp: true}

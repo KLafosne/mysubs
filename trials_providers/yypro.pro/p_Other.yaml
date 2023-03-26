@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: K00【官 网】yywl.org - 云翼网络, server: gtm-sg-6wr31eq5o8g.gtm-i1d8.com, port: 42338, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: w5UveP, tfo: false, udp: true}
+- {name: K00【官 网】yywl.org - 云翼网络, server: gtm-sg-6wr31eq5o8g.gtm-i1d8.com, port: 42338, type: ss, cipher: aes-128-gcm, password: w5UveP, udp: true}

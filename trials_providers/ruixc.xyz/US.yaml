@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国|隧道中转 - 锐星云, server: z5.ruistar.info, port: 49099, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国|洛杉矶|隧道中转 - 锐星云, server: z5.ruistar.info, port: 18869, type: vmess, uuid: 7f339778-3e3c-4797-97d4-74268c710cd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国|隧道中转 - 锐星云, server: z5.ruistar.info, port: 49099, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国|洛杉矶|隧道中转 - 锐星云, server: z5.ruistar.info, port: 18869, type: vmess, uuid: 4de82779-09d2-4981-87cd-0adad060ee7a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
