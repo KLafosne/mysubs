@@ -39,8 +39,8 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 剩余流量：97MB - 至云互联, server: mcecloud.net, port: 10086, type: vmess, uuid: 4f8b022d-b9a7-3336-8346-95101360e273, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 过期时间：2024-01-30 - 至云互联, server: mcecloud.net, port: 10086, type: vmess, uuid: 4f8b022d-b9a7-3336-8346-95101360e273, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 剩余流量：9MB - 至云互联, server: mcecloud.net, port: 10086, type: vmess, uuid: ea47beeb-67b7-363d-b368-96b2f33930b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 过期时间：2024-01-30 - 至云互联, server: mcecloud.net, port: 10086, type: vmess, uuid: ea47beeb-67b7-363d-b368-96b2f33930b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,17gouwuba.com,REJECT
 - DOMAIN-SUFFIX,186078.com,REJECT
