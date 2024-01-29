@@ -1,9 +1,11 @@
 name: get_trial.py
 on:
-  workflow_dispatch:
+  # push:
+  #   branches:
+  #     - main  # 替换为你的默认分支
   schedule:
     - cron: 2/5 * * * *
-permissions: write-all
+  workflow_dispatch:  # 触发手动事件
 jobs:
   main:
     runs-on: ubuntu-latest
