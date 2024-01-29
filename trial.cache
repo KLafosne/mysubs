@@ -1,22 +1,21 @@
 [www.ckcloud.xyz]
 email  ttrqanyyg721@gmail.com
 node_n  56
-sub_info  0B  1G  2024-01-30 16:11:59+08:00  (剩余 1G 15:18:55.942214)
+sub_info  0B  1G  2024-01-30 16:11:59+08:00  (剩余 1G 15:12:30.850539)
 sub_url  https://www.jcbbsub.top:21600/api/v1/client/subscribe?token=c0f1c7af55dfdecf694330a533309f42
 time  2024-01-29 16:11:59.635280+08:00
 
 [fastestcloud.xyz]
 email  ttrqanyyg721@gmail.com
-node_n  61
-sub_info  0B  1G  2024-01-30 16:12:00+08:00  (剩余 1G 15:38:24.948703)
+node_n  1
+sub_info  0B  1G  2024-01-30 16:12:00+08:00  (剩余 1G 15:11:51.898019)
 sub_url  https://sub.flyyydds.top:21600/api/v1/client/subscribe?token=26bf255bf6ae51ac5045a05626242968
 time  2024-01-29 16:12:00.935240+08:00
-更新旧订阅失败  could not convert string to float: '1;'
 
 [biubiufast.com]
 email  ttrqanyyg721@gmail.com
 node_n  12
-sub_info  0B  1G  2024-01-30 16:12:00+08:00  (剩余 1G 15:18:21.219885)
+sub_info  0B  1G  2024-01-30 16:12:00+08:00  (剩余 1G 15:12:36.455640)
 sub_url  https://biubiufast.website/api/v1/client/subscribe?token=7ad566785e9ea5b26119f3ea7ff2c91f
 time  2024-01-29 16:12:00.409682+08:00
 
@@ -24,7 +23,7 @@ time  2024-01-29 16:12:00.409682+08:00
 email  ttrqanyyg721@localjobsnearme.com
 last_checkin  2024-01-30 00:33:30.096824+08:00
 node_n  98
-sub_info  0B  1.632G  2024-01-30 16:12:13+08:00  (剩余 1.632G 15:19:07.963222)
+sub_info  0B  1.632G  2024-01-30 16:12:13+08:00  (剩余 1.632G 15:12:42.872914)
 sub_url  https://network.ayucloud.nl/link/cZSlHaRicIW3t7fx?clash=1
 time  2024-01-29 16:12:14.552360+08:00
 
@@ -33,7 +32,7 @@ email  ttrqanyyg721@localjobsnearme.com
 invite_code  1XSK  10000
 last_checkin  2024-01-30 00:33:30.097880+08:00
 node_n  48
-sub_info  0B  10.16G  2024-01-30 16:12:11+08:00  (剩余 10.16G 15:19:13.438130)
+sub_info  0B  10.16G  2024-01-30 16:12:11+08:00  (剩余 10.16G 15:12:45.860974)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/iUIU6R6jVgdzI2aJ?sub=3
 time  2024-01-29 16:12:12.952301+08:00
 
@@ -41,9 +40,10 @@ time  2024-01-29 16:12:12.952301+08:00
 email  ttrqanyyg721@localjobsnearme.com
 last_checkin  2024-01-30 00:33:30.098573+08:00
 node_n  28
-sub_info  0B  888G  2024-01-30 16:12:11+08:00  (剩余 888G 15:18:28.282423)
+sub_info  0B  888G  2024-01-30 16:12:11+08:00  (剩余 888G 15:12:41.872915)
 sub_url  https://www.qlgq.top/link/c374c505d174fdbb?clash=1
 time  2024-01-29 16:12:12.658504+08:00
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [nova.live]
 email  ttrqanyyg721@localjobsnearme.com
@@ -56,15 +56,15 @@ time  2024-01-29 16:13:14.685588+08:00
 [www.duguletian.com]
 email  ttrqanyyg721@localjobsnearme.com
 last_checkin  2024-01-30 00:33:30.100662+08:00
-node_n  21
-sub_info  0B  1.079G  2024-01-30 16:12:13+08:00  (剩余 1.079G 15:19:14.811215)
+node_n  19
+sub_info  0B  1.079G  2024-01-30 16:12:13+08:00  (剩余 1.079G 15:12:08.879064)
 sub_url  https://dugusite.cyou/link/ftlbmzuLrDgf2FfS?sub=3
 time  2024-01-29 16:12:14.216401+08:00
 
 [mcecloud.com]
-email  tjaibstg698@gmail.com
-last_checkin  2024-01-30 00:52:59.861344+08:00
-node_n  1
-sub_info  0B  9M  2024-01-30 00:52:59+08:00  (剩余 9M -1 day, 23:59:43.455098)
-sub_url  https://st-sub.fly.dev/ssp/mce/link/tLIQqLPAZL5I5bcM?sub=3
-time  2024-01-30 00:53:01.192619+08:00
+email  dtuabmxv365@gmail.com
+last_checkin  2024-01-30 01:00:06.678679+08:00
+node_n  2
+sub_info  0B  82M  2024-01-30 01:00:06+08:00  (剩余 82M -1 day, 23:57:48.364685)
+sub_url  https://st-sub.fly.dev/ssp/mce/link/fyQMXDrAqibIkOoL?sub=3
+time  2024-01-30 01:00:07.375388+08:00
