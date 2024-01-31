@@ -13,11 +13,12 @@ sub_info  0B  1G  2024-02-01 15:21:37+08:00  (剩余 1G 18:05:41.607307)
 sub_url  https://sub.flyyydds.top:21600/api/v1/client/subscribe?token=380ba3d3b999378b4b6a7f78e0d35bc9
 time  2024-01-31 15:21:38.095889+08:00
 保存base64/clash订阅失败  'NoneType' object is not iterable
+更新旧订阅失败  could not convert string to float: '1;'
 
 [biubiufast.com]
 email  pugpslqqs84@gmail.com
 node_n  12
-sub_info  0B  1G  2024-02-01 15:01:31+08:00  (剩余 1G 17:45:38.455601)
+sub_info  0B  1G  2024-02-01 15:01:31+08:00  (剩余 1G 17:36:50.154653)
 sub_url  https://biubiufast.website/api/v1/client/subscribe?token=e144d3c446584923660343dd4aca4b06
 time  2024-01-31 15:01:31.634618+08:00
 
@@ -25,7 +26,7 @@ time  2024-01-31 15:01:31.634618+08:00
 email  pugpslqqs84@end.tw
 last_checkin  2024-01-31 15:00:20.828464+08:00
 node_n  98
-sub_info  0B  1.152G  2024-02-01 15:00:20+08:00  (剩余 1.152G 17:44:17.146281)
+sub_info  0B  1.152G  2024-02-01 15:00:20+08:00  (剩余 1.152G 17:36:19.475181)
 sub_url  https://network.ayucloud.nl/link/ESr9hjUguosCkizk?clash=1
 time  2024-01-31 15:00:21.708165+08:00
 
@@ -34,7 +35,7 @@ email  pugpslqqs84@end.tw
 invite_code  t1Sj  9999
 last_checkin  2024-01-31 15:00:22.153708+08:00
 node_n  48
-sub_info  0B  10.13G  2024-02-01 15:00:22+08:00  (剩余 10.13G 17:43:47.781672)
+sub_info  0B  10.13G  2024-02-01 15:00:22+08:00  (剩余 10.13G 17:36:19.992084)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/U69Wl7DBm4kFglC6?sub=3
 time  2024-01-31 15:00:22.971343+08:00
 
@@ -42,9 +43,10 @@ time  2024-01-31 15:00:22.971343+08:00
 email  uloeksaek400@xxxhi.cc
 last_checkin  2024-01-31 00:36:37.657241+08:00
 node_n  28
-sub_info  0B  888G  2024-02-06 15:38:10+08:00  (剩余 888G 5 days, 18:22:14.629601)
+sub_info  0B  888G  2024-02-06 15:38:10+08:00  (剩余 888G 5 days, 18:14:12.916213)
 sub_url  https://www.qlgq.top/link/40a2cd367b892adc?clash=1
 time  2024-01-30 15:38:11.589953+08:00
+保存base64/clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
 
 [nova.live]
 email  ttrqanyyg721@localjobsnearme.com
@@ -57,15 +59,15 @@ time  2024-01-29 16:13:14.685588+08:00
 [www.duguletian.com]
 email  pugpslqqs84@end.tw
 last_checkin  2024-01-31 15:00:10.120586+08:00
-node_n  19
-sub_info  55.05M  1.024G  2024-02-01 15:00:10+08:00  (剩余 993.9M 17:44:12.848646)
+node_n  21
+sub_info  56.36M  1.024G  2024-02-01 15:00:10+08:00  (剩余 992.6M 17:34:50.766444)
 sub_url  https://dugusite.cyou/link/yVcUFOCsKFwrP9wH?sub=3
 time  2024-01-31 15:00:10.786016+08:00
 
 [mcecloud.com]
-email  jogklfdm503@gmail.com
-last_checkin  2024-01-31 21:15:56.685033+08:00
+email  ziomdsv125@gmail.com
+last_checkin  2024-01-31 21:24:01.186543+08:00
 node_n  2
-sub_info  0B  91M  2024-01-31 21:15:56+08:00  (剩余 91M -1 day, 23:59:52.191000)
-sub_url  https://st-sub.fly.dev/ssp/mce/link/OdE5fLWBc1Twz9oF?sub=3
-time  2024-01-31 21:15:58.092792+08:00
+sub_info  0B  18M  2024-01-31 21:24:00+08:00  (剩余 18M -1 day, 23:59:54.846696)
+sub_url  https://st-sub.fly.dev/ssp/mce/link/06Ib9FTfsm8ypHjx?sub=3
+time  2024-01-31 21:24:02.128163+08:00
