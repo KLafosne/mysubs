@@ -39,7 +39,6 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 💣 剩余流量：1 GB - JCBB, server: gdct003.theyydsnode.top, port: 26681, type: trojan, password: 636508fb-f47f-4e16-a176-2d3d5248d1c6, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：28 天 - JCBB, server: gdct003.theyydsnode.top, port: 26681, type: trojan, password: 636508fb-f47f-4e16-a176-2d3d5248d1c6, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
 - {name: JCBB永久跳转地址 jcbb.cc - JCBB, server: gdct003.theyydsnode.top, port: 26681, type: trojan, password: 636508fb-f47f-4e16-a176-2d3d5248d1c6, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB, server: shcm002.theyydsnode.top, port: 51031, type: trojan, password: 636508fb-f47f-4e16-a176-2d3d5248d1c6, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
