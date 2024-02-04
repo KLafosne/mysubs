@@ -4,6 +4,7 @@ node_n  57
 sub_info  0B  1G  2024-02-05 14:24:07+08:00  (剩余 1G 22:23:26.512725)
 sub_url  https://www.jcbbsub.top:21600/api/v1/client/subscribe?token=43380657233bad18d34e39cd30b44220
 time  2024-02-04 14:24:08.370461+08:00
+更新旧订阅失败  could not convert string to float: '1;'
 
 [fastestcloud.xyz]
 email  ttwvonx271@gmail.com
@@ -16,7 +17,7 @@ time  2024-02-04 13:24:02.922772+08:00
 [biubiufast.com]
 email  ulfydjo358@gmail.com
 node_n  12
-sub_info  0B  1G  2024-02-05 12:43:52+08:00  (剩余 1G 20:43:54.364927)
+sub_info  0B  1G  2024-02-05 12:43:52+08:00  (剩余 1G 20:26:23.368035)
 sub_url  https://biubiufast.website/api/v1/client/subscribe?token=8bf7ad90d663addba1ada697a779c565
 time  2024-02-04 12:43:53.091589+08:00
 
@@ -24,7 +25,7 @@ time  2024-02-04 12:43:53.091589+08:00
 email  ystdtigpj924@liteprompter.com
 last_checkin  2024-02-04 12:50:39.562257+08:00
 node_n  98
-sub_info  0B  1.149G  2024-02-05 12:50:39+08:00  (剩余 1.149G 20:50:36.064773)
+sub_info  0B  1.149G  2024-02-05 12:50:39+08:00  (剩余 1.149G 20:33:09.837257)
 sub_url  https://network.ayucloud.nl/link/2EjCp4Zjg9Jrh101?clash=1
 time  2024-02-04 12:50:40.267905+08:00
 
@@ -33,15 +34,16 @@ email  ystdtigpj924@liteprompter.com
 invite_code  1okO  10000
 last_checkin  2024-02-04 12:50:35.627228+08:00
 node_n  48
-sub_info  0B  10.1G  2024-02-05 12:50:35+08:00  (剩余 10.1G 20:50:35.982114)
+sub_info  0B  10.1G  2024-02-05 12:50:35+08:00  (剩余 10.1G 20:32:58.565936)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/nhfeec1Pdh7C6NRc?sub=3
 time  2024-02-04 12:50:36.205682+08:00
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [qlgq.top]
 email  uloeksaek400@xxxhi.cc
 last_checkin  2024-02-04 00:35:29.212640+08:00
 node_n  28
-sub_info  0B  888.1G  2024-02-06 15:38:10+08:00  (剩余 888.1G 1 day, 23:38:12.733074)
+sub_info  0B  888.1G  2024-02-06 15:38:10+08:00  (剩余 888.1G 1 day, 23:20:42.155405)
 sub_url  https://www.qlgq.top/link/40a2cd367b892adc?clash=1
 time  2024-01-30 15:38:11.589953+08:00
 
@@ -56,15 +58,15 @@ time  2024-01-29 16:13:14.685588+08:00
 [www.duguletian.com]
 email  orrsoin144@logodesignex.com
 last_checkin  2024-02-04 00:14:17.936070+08:00
-node_n  20
-sub_info  0B  1.021G  2024-02-05 00:14:17+08:00  (剩余 1.021G 8:14:20.487787)
+node_n  19
+sub_info  0B  1.021G  2024-02-05 00:14:17+08:00  (剩余 1.021G 7:56:50.098964)
 sub_url  https://dugusite.cyou/link/ek2ZvJCLipif8vvz?sub=3
 time  2024-02-04 00:14:19.031727+08:00
 
 [mcecloud.com]
-email  ultrghw138@gmail.com
-last_checkin  2024-02-04 16:01:23.920881+08:00
+email  iewduda678@gmail.com
+last_checkin  2024-02-04 16:17:49.080094+08:00
 node_n  1
-sub_info  0B  61M  2024-02-04 16:01:23+08:00  (剩余 61M -1 day, 23:59:54.404929)
-sub_url  https://st-sub.fly.dev/ssp/mce/link/McrSm41QD0jkAjQl?sub=3
-time  2024-02-04 16:01:24.663934+08:00
+sub_info  0B  27M  2024-02-04 16:17:48+08:00  (剩余 27M -1 day, 23:59:56.360974)
+sub_url  https://st-sub.fly.dev/ssp/mce/link/mBksxX6x31pd5d3E?sub=3
+time  2024-02-04 16:17:50.036461+08:00
