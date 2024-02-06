@@ -1,23 +1,21 @@
 [www.ckcloud.xyz]
 email  kqjdiby846@gmail.com
-node_n  57
-sub_info  0B  1G  2024-02-07 13:28:50+08:00  (剩余 1G 14:57:01.975727)
+node_n  58
+sub_info  0B  1G  2024-02-07 13:28:50+08:00  (剩余 1G 14:06:27.507468)
 sub_url  https://www.jcbbsub.top:21600/api/v1/client/subscribe?token=f0a96874b62ae2ee79be807ecc88ec87
 time  2024-02-06 13:28:51.158169+08:00
-保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  could not convert string to float: '1;'
 
 [fastestcloud.xyz]
 email  uieigbvk135@gmail.com
-node_n  65
-sub_info  0B  1G  2024-02-07 12:55:21+08:00  (剩余 1G 13:44:01.504633)
+node_n  64
+sub_info  0B  1G  2024-02-07 12:55:21+08:00  (剩余 1G 13:32:15.402584)
 sub_url  https://sub.flyyydds.top:21600/api/v1/client/subscribe?token=3db2a7ae32abd2e8f1d0f2ff2df978dd
 time  2024-02-06 12:55:21.974937+08:00
 
 [biubiufast.com]
 email  eeovhzzhr866@gmail.com
 node_n  12
-sub_info  0B  1G  2024-02-07 11:35:43+08:00  (剩余 1G 12:25:04.736764)
+sub_info  0B  1G  2024-02-07 11:35:43+08:00  (剩余 1G 12:13:21.361329)
 sub_url  https://biubiufast.website/api/v1/client/subscribe?token=93fa2bb6835c4549c0b76207537875a8
 time  2024-02-06 11:35:43.464114+08:00
 
@@ -25,25 +23,25 @@ time  2024-02-06 11:35:43.464114+08:00
 email  delnvtovj421@xxxhi.cc
 last_checkin  2024-02-06 11:48:12.315862+08:00
 node_n  98
-sub_info  0B  1.167G  2024-02-07 11:48:11+08:00  (剩余 1.167G 12:37:24.953530)
+sub_info  0B  1.167G  2024-02-07 11:48:11+08:00  (剩余 1.167G 12:25:47.301904)
 sub_url  https://network.ayucloud.nl/link/9VW00uJQtlcXtGp0?clash=1
 time  2024-02-06 11:48:13.248882+08:00
-保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [人人传承.com]
 email  delnvtovj421@xxxhi.cc
 invite_code  rgi4  10000
 last_checkin  2024-02-06 11:48:00.649889+08:00
 node_n  48
-sub_info  20.17M  10.13G  2024-02-07 11:48:00+08:00  (剩余 10.11G 12:37:22.087746)
+sub_info  26.12M  10.13G  2024-02-07 11:48:00+08:00  (剩余 10.11G 12:25:35.405985)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/irNFJW2gZQiHJtNy?sub=3
 time  2024-02-06 11:48:01.312680+08:00
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [qlgq.top]
 email  aegjxexy609@logodesignex.com
 last_checkin  2024-02-06 15:10:14.996849+08:00
 node_n  28
-sub_info  0B  888G  2024-02-13 15:10:14+08:00  (剩余 888G 6 days, 15:59:38.042571)
+sub_info  0B  888G  2024-02-13 15:10:14+08:00  (剩余 888G 6 days, 15:47:54.066925)
 sub_url  https://www.qlgq.top/link/f0621d29449f0d54?clash=1
 time  2024-02-06 15:10:15.719151+08:00
 
@@ -59,15 +57,14 @@ time  2024-01-29 16:13:14.685588+08:00
 email  zwsqfvp555@logodesignex.com
 last_checkin  2024-02-06 22:31:07.372486+08:00
 node_n  19
-sub_info  0B  1.03G  2024-02-07 22:31:07+08:00  (剩余 1.03G 23:19:50.735796)
+sub_info  0B  1.03G  2024-02-07 22:31:07+08:00  (剩余 1.03G 23:08:45.546623)
 sub_url  https://dugusite.cyou/link/K7a8slG6sl6mDATW?sub=3
 time  2024-02-06 22:31:08.042306+08:00
 
 [mcecloud.com]
-email  dqgbejdwf749@gmail.com
-last_checkin  2024-02-06 23:11:20.525880+08:00
-node_n  1
-sub_info  0B  22M  2024-02-06 23:11:20+08:00  (剩余 22M -1 day, 23:59:06.144183)
-sub_url  https://st-sub.fly.dev/ssp/mce/link/zoMJvYRDTPk8JeGv?sub=3
-time  2024-02-06 23:11:21.348907+08:00
-保存base64/clash订阅失败  'NoneType' object is not iterable
+email  dkuigzmk250@gmail.com
+last_checkin  2024-02-06 23:23:51.362568+08:00
+node_n  2
+sub_info  0B  19M  2024-02-06 23:23:51+08:00  (剩余 19M -1 day, 23:59:10.715785)
+sub_url  https://st-sub.fly.dev/ssp/mce/link/7yoUinBmb9JUyiiB?sub=3
+time  2024-02-06 23:23:52.341288+08:00
