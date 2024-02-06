@@ -45,12 +45,12 @@ proxies:
 - {name: 🇩🇪 德国|高速德国SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 12012, type: ss, cipher: chacha20-ietf-poly1305, password: 2e6b2084-0bd5-4059-87f2-6a67aca251f4, udp: true}
 - {name: 🇭🇰 香港|高速香港SS2（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 35005, type: ss, cipher: chacha20-ietf-poly1305, password: 2e6b2084-0bd5-4059-87f2-6a67aca251f4, udp: true}
 - {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 35001, type: ss, cipher: chacha20-ietf-poly1305, password: 2e6b2084-0bd5-4059-87f2-6a67aca251f4, udp: true}
-- {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: 2e6b2084-0bd5-4059-87f2-6a67aca251f4, udp: true}
+- {name: 🇺🇲 美国|高速2SS（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 34002, type: ss, cipher: chacha20-ietf-poly1305, password: 2e6b2084-0bd5-4059-87f2-6a67aca251f4, udp: true}
 - {name: 🇯🇵 日本 | 高速日本（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 32101, type: trojan, password: 2e6b2084-0bd5-4059-87f2-6a67aca251f4, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 | 高速香港（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 32111, type: trojan, password: 2e6b2084-0bd5-4059-87f2-6a67aca251f4, sni: hk1.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 德国 | 德国高速（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 12011, type: trojan, password: 2e6b2084-0bd5-4059-87f2-6a67aca251f4, sni: dg5.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 | 高速二（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 32102, type: trojan, password: 2e6b2084-0bd5-4059-87f2-6a67aca251f4, sni: hk15.biubiufast.quest, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 32103, type: trojan, password: 2e6b2084-0bd5-4059-87f2-6a67aca251f4, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国 | 高速2（会员） - BIUBIU FAST, server: dl.biubiufast.quest, port: 32103, type: trojan, password: 2e6b2084-0bd5-4059-87f2-6a67aca251f4, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,local,🎯 全球直连
 - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
