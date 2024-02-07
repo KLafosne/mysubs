@@ -39,7 +39,6 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 💣 剩余流量：1 GB - FastFly, server: gdct001.theyydsnode.top, port: 14374, type: ss, cipher: chacha20-ietf-poly1305, password: 0f8bb2dc-eee4-4556-a156-c9ae62ea8b67, udp: true}
 - {name: 距离下次重置剩余：21 天 - FastFly, server: gdct001.theyydsnode.top, port: 14374, type: ss, cipher: chacha20-ietf-poly1305, password: 0f8bb2dc-eee4-4556-a156-c9ae62ea8b67, udp: true}
 - {name: 🇰🇷 vip1 韩国-01 - FastFly, server: gdct001.theyydsnode.top, port: 14374, type: ss, cipher: chacha20-ietf-poly1305, password: 0f8bb2dc-eee4-4556-a156-c9ae62ea8b67, udp: true}
 - {name: 🇰🇷 vip1 韩国-02 - FastFly, server: shcm002.theyydsnode.top, port: 14374, type: ss, cipher: chacha20-ietf-poly1305, password: 0f8bb2dc-eee4-4556-a156-c9ae62ea8b67, udp: true}
