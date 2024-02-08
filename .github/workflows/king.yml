@@ -23,11 +23,11 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run king
+      - name: Run ip
         run: wget https://github.com/KLafosne/action/raw/main/GeoLite2-City.mmdb
         
       - name: Run king
-        run: python king.py  
+        run: python kings.py  
       
       - name: Commit Changes
         run: |
