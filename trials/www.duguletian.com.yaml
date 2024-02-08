@@ -39,6 +39,8 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
+- {name: 💣 剩余流量：1.01GB - 独孤乐天, server: www.duguletian.com, port: 10086, type: vmess, uuid: 11e4abc7-c19a-31eb-a99b-7e37d91da8dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 💣 过期时间：2024-02-09 - 独孤乐天, server: www.duguletian.com, port: 10086, type: vmess, uuid: 11e4abc7-c19a-31eb-a99b-7e37d91da8dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 德国 *3 - 独孤乐天, server: de-1.anewstart.cyou, port: 5061, type: vmess, uuid: 11e4abc7-c19a-31eb-a99b-7e37d91da8dc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 德国 *3 IPv6 - 独孤乐天, server: de6-1.anewstart.cyou, port: 5061, type: vmess, uuid: 11e4abc7-c19a-31eb-a99b-7e37d91da8dc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.anewstart.cyou, port: 5061, type: vmess, uuid: 11e4abc7-c19a-31eb-a99b-7e37d91da8dc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
