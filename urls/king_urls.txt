@@ -5,5 +5,3 @@ https://raw.githubusercontent.com/KLafosne/mysubs/main/trials/mcecloud.com.yaml
 https://raw.githubusercontent.com/KLafosne/mysubs/main/trials/nova.live.yaml
 https://raw.githubusercontent.com/KLafosne/mysubs/main/trials/qlgq.top.yaml
 https://raw.githubusercontent.com/KLafosne/mysubs/main/trials/www.ckcloud.xyz.yaml
-https://raw.githubusercontent.com/KLafosne/mysubs/main/trials/www.duguletian.com.yaml
-https://raw.githubusercontent.com/KLafosne/mysubs/main/trials/人人传承.com.yaml
