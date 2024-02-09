@@ -25,6 +25,13 @@ jobs:
           pip install requests beautifulsoup4 undetected-chromedriver ruamel.yaml
       - name: Run get_trial.py
         run: xvfb-run --auto-servernum python get_trial.py
+      
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run king
+        run: python kings.py  
+   
       - name: Commit
         id: commit
         continue-on-error: true
