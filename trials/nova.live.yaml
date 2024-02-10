@@ -39,9 +39,9 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: US000高速 - NovaLive, server: 54.191.73.127, port: 443, type: trojan, password: a9ea887a-a0e1-3b66-9fc2-2556a69efb1b, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5471, type: trojan, password: a9ea887a-a0e1-3b66-9fc2-2556a69efb1b, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3490, type: trojan, password: a9ea887a-a0e1-3b66-9fc2-2556a69efb1b, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US000高速 - NovaLive, server: 54.191.73.127, port: 443, type: trojan, password: a9ea887a-a0e1-3b66-9fc2-2556a69efb1b, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5471, type: trojan, password: a9ea887a-a0e1-3b66-9fc2-2556a69efb1b, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3490, type: trojan, password: a9ea887a-a0e1-3b66-9fc2-2556a69efb1b, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,local,🎯 全球直连
 - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
