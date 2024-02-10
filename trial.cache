@@ -1,7 +1,7 @@
 [www.ckcloud.xyz]
 email  imliqesc8@gmail.com
-node_n  57
-sub_info  0B  1G  2024-02-11 11:33:48+08:00  (剩余 1G 15:38:40.448846)
+node_n  58
+sub_info  0B  1G  2024-02-11 11:33:48+08:00  (剩余 1G 15:22:54.669605)
 sub_url  https://www.jcbbsub.top:21600/api/v1/client/subscribe?token=5263a3ff9bff17f48b9dbfbb7fd183eb
 time  2024-02-10 11:33:49.066423+08:00
 
@@ -11,6 +11,7 @@ node_n  64
 sub_info  0B  1G  2024-02-11 10:35:41+08:00  (剩余 1G 14:40:37.597373)
 sub_url  https://sub.flyyydds.top:21600/api/v1/client/subscribe?token=f9ca2850c2d2e2b979015f4b06196471
 time  2024-02-10 10:35:42.283751+08:00
+更新旧订阅失败  could not convert string to float: '1;'
 
 [biubiufast.com]
 email  fzvoqwwm497@gmail.com
@@ -24,7 +25,7 @@ time  2024-02-09 10:11:19.240788+08:00
 email  rjdbgjl474@snapmail.cc
 last_checkin  2024-02-10 09:43:26.922990+08:00
 node_n  98
-sub_info  0B  1.121G  2024-02-11 09:43:26+08:00  (剩余 1.121G 13:47:37.941244)
+sub_info  0B  1.121G  2024-02-11 09:43:26+08:00  (剩余 1.121G 13:31:48.283735)
 sub_url  https://network.ayucloud.nl/link/3WStMC9Hdrdn6BmG?clash=1
 time  2024-02-10 09:43:27.792999+08:00
 
@@ -33,17 +34,19 @@ email  rjdbgjl474@snapmail.cc
 invite_code  JRbU  9999
 last_checkin  2024-02-10 09:43:37.496262+08:00
 node_n  48
-sub_info  0B  10.15G  2024-02-11 09:43:37+08:00  (剩余 10.15G 13:48:32.814332)
+sub_info  0B  10.15G  2024-02-11 09:43:37+08:00  (剩余 10.15G 13:32:02.990884)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/d2UkUPB0ns3iM9e7?sub=3
 time  2024-02-10 09:43:38.171102+08:00
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [qlgq.top]
 email  aegjxexy609@logodesignex.com
 last_checkin  2024-02-10 00:36:49.837972+08:00
 node_n  28
-sub_info  2.825K  888.1G  2024-02-13 15:10:14+08:00  (剩余 888.1G 2 days, 19:15:11.305419)
+sub_info  2.825K  888.1G  2024-02-13 15:10:14+08:00  (剩余 888.1G 2 days, 18:58:36.525119)
 sub_url  https://www.qlgq.top/link/f0621d29449f0d54?clash=1
 time  2024-02-06 15:10:15.719151+08:00
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [nova.live]
 email  ttrqanyyg721@localjobsnearme.com
@@ -57,14 +60,15 @@ time  2024-01-29 16:13:14.685588+08:00
 email  mumkuskaq218@yzm.de
 last_checkin  2024-02-10 00:36:49.840082+08:00
 node_n  20
-sub_info  0B  1.067G  2024-02-10 20:52:17+08:00  (剩余 1.067G 0:57:14.395239)
+sub_info  0B  1.067G  2024-02-10 20:52:17+08:00  (剩余 1.067G 0:41:22.514382)
 sub_url  https://dugusite.cyou/link/BF5khU4cUoQ99U38?sub=3
 time  2024-02-09 20:52:18.276589+08:00
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [mcecloud.com]
-email  scznoxxxb153@gmail.com
-last_checkin  2024-02-10 19:55:49.126601+08:00
-node_n  2
-sub_info  0B  15M  2024-02-10 19:55:48+08:00  (剩余 15M -1 day, 23:59:54.349659)
-sub_url  https://st-sub.fly.dev/ssp/mce/link/3Q0Ykf3xF7hDn8mt?sub=3
-time  2024-02-10 19:55:50.119490+08:00
+email  nyndhsy504@gmail.com
+last_checkin  2024-02-10 20:10:52.570790+08:00
+node_n  1
+sub_info  0B  40M  2024-02-10 20:10:52+08:00  (剩余 40M -1 day, 23:59:46.894225)
+sub_url  https://st-sub.fly.dev/ssp/mce/link/uGj4xIGdzaMcuGgJ?sub=3
+time  2024-02-10 20:10:53.500036+08:00
