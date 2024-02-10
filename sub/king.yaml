@@ -1964,7 +1964,7 @@ proxies:
   password: fbc0bee9-e8ff-4703-a402-d6018d5067e2
   tfo: false
   udp: true
-- name: AFOSNE_United States_vmess_31
+- name: AFOSNE_None_vmess_31
   server: mcecloud.net
   port: 10086
   type: vmess
@@ -3012,7 +3012,7 @@ proxy-groups:
   - AFOSNE_China_ss_262
   - AFOSNE_China_ss_263
   - AFOSNE_China_ss_264
-  - AFOSNE_United States_vmess_31
+  - AFOSNE_None_vmess_31
   - AFOSNE_United States_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
@@ -3282,7 +3282,7 @@ proxy-groups:
   - AFOSNE_China_ss_262
   - AFOSNE_China_ss_263
   - AFOSNE_China_ss_264
-  - AFOSNE_United States_vmess_31
+  - AFOSNE_None_vmess_31
   - AFOSNE_United States_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
