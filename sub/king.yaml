@@ -1647,11 +1647,11 @@ proxies:
   cipher: chacha20-ietf-poly1305
   password: c57fca8b-6888-4b9e-971d-be48b94193e0
   udp: true
-- name: AFOSNE_United States_vmess_31
+- name: AFOSNE_None_vmess_31
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: 7c831ccd-3f83-3900-a346-74c359f94676
+  uuid: ebaf7163-ca2f-3477-a68d-f247fa0e4f72
   alterId: 0
   cipher: auto
   tls: false
@@ -2654,7 +2654,7 @@ proxy-groups:
   - AFOSNE_China_ss_263
   - AFOSNE_China_ss_264
   - AFOSNE_China_ss_265
-  - AFOSNE_United States_vmess_31
+  - AFOSNE_None_vmess_31
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
@@ -2924,7 +2924,7 @@ proxy-groups:
   - AFOSNE_China_ss_263
   - AFOSNE_China_ss_264
   - AFOSNE_China_ss_265
-  - AFOSNE_United States_vmess_31
+  - AFOSNE_None_vmess_31
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
