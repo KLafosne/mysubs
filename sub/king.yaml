@@ -1653,6 +1653,7 @@ proxies:
 - name: AFOSNE_United States_trojan_41
   server: 34.213.222.122
   port: 443
+  client-fingerprint: chrome
   type: trojan
   password: a9ea887a-a0e1-3b66-9fc2-2556a69efb1b
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -1661,6 +1662,7 @@ proxies:
 - name: AFOSNE_United States_trojan_42
   server: 103.136.185.27
   port: 5471
+  client-fingerprint: chrome
   type: trojan
   password: a9ea887a-a0e1-3b66-9fc2-2556a69efb1b
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -1669,6 +1671,7 @@ proxies:
 - name: AFOSNE_United States_trojan_43
   server: 103.136.185.28
   port: 3491
+  client-fingerprint: chrome
   type: trojan
   password: a9ea887a-a0e1-3b66-9fc2-2556a69efb1b
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -1677,7 +1680,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_51
   server: fkvip101.qlgq1.pw
   port: 10443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: fkvip101.qlgq1.pw
@@ -1689,7 +1691,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_52
   server: fkvip101.qlgq1.pw
   port: 20443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: fkvip101.qlgq1.pw
@@ -1701,7 +1702,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_53
   server: fkvip101.qlgq1.pw
   port: 30443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: fkvip101.qlgq1.pw
@@ -1713,7 +1713,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_54
   server: fkvip101.qlgq1.pw
   port: 40443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: fkvip101.qlgq1.pw
@@ -1725,7 +1724,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_55
   server: fkvip101.qlgq1.pw
   port: 50443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: fkvip101.qlgq1.pw
@@ -1737,7 +1735,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_56
   server: sgvip101.qlgq1.pw
   port: 10443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: sgvip101.qlgq1.pw
@@ -1749,7 +1746,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_57
   server: sgvip101.qlgq1.pw
   port: 20443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: sgvip101.qlgq1.pw
@@ -1761,7 +1757,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_58
   server: sgvip101.qlgq1.pw
   port: 30443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: sgvip101.qlgq1.pw
@@ -1773,7 +1768,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_59
   server: sgvip101.qlgq1.pw
   port: 40443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: sgvip101.qlgq1.pw
@@ -1785,7 +1779,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_510
   server: sgvip101.qlgq1.pw
   port: 50443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: sgvip101.qlgq1.pw
@@ -1797,7 +1790,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_511
   server: jpvip102.qlgq1.pw
   port: 10443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: jpvip102.qlgq1.pw
@@ -1809,7 +1801,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_512
   server: jpvip102.qlgq1.pw
   port: 20443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: jpvip102.qlgq1.pw
@@ -1821,7 +1812,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_513
   server: jpvip102.qlgq1.pw
   port: 30443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: jpvip102.qlgq1.pw
@@ -1833,7 +1823,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_514
   server: jpvip102.qlgq1.pw
   port: 40443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: jpvip102.qlgq1.pw
@@ -1845,7 +1834,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_515
   server: jpvip102.qlgq1.pw
   port: 50443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: jpvip102.qlgq1.pw
@@ -1857,7 +1845,6 @@ proxies:
 - name: AFOSNE_United States_trojan_516
   server: lavip101.qlgq1.pw
   port: 10443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: lavip101.qlgq1.pw
@@ -1869,7 +1856,6 @@ proxies:
 - name: AFOSNE_United States_trojan_517
   server: lavip101.qlgq1.pw
   port: 20443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: lavip101.qlgq1.pw
@@ -1881,7 +1867,6 @@ proxies:
 - name: AFOSNE_United States_trojan_518
   server: lavip101.qlgq1.pw
   port: 30443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: lavip101.qlgq1.pw
@@ -1893,7 +1878,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_519
   server: hkvip102.qlgq1.pw
   port: 10443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: hkvip102.qlgq1.pw
@@ -1905,7 +1889,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_520
   server: hkvip102.qlgq1.pw
   port: 20443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: hkvip102.qlgq1.pw
@@ -1917,7 +1900,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_521
   server: hkvip102.qlgq1.pw
   port: 30443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: hkvip102.qlgq1.pw
@@ -1929,7 +1911,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_522
   server: hkvip102.qlgq1.pw
   port: 40443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: hkvip102.qlgq1.pw
@@ -1941,7 +1922,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_523
   server: hkvip102.qlgq1.pw
   port: 50443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: hkvip102.qlgq1.pw
@@ -1953,7 +1933,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_524
   server: hkvip103.qlgq1.pw
   port: 10444
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: hkvip103.qlgq1.pw
@@ -1965,7 +1944,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_525
   server: hkvip103.qlgq1.pw
   port: 20443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: hkvip103.qlgq1.pw
@@ -1977,7 +1955,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_526
   server: hkvip103.qlgq1.pw
   port: 30443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: hkvip103.qlgq1.pw
@@ -1989,7 +1966,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_527
   server: hkvip103.qlgq1.pw
   port: 40443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: hkvip103.qlgq1.pw
@@ -2001,7 +1977,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_528
   server: hkvip103.qlgq1.pw
   port: 50443
-  client-fingerprint: chrome
   type: trojan
   password: 9cff60d4-8b76-3de3-840f-d818d0fa7007
   sni: hkvip103.qlgq1.pw
@@ -2013,6 +1988,7 @@ proxies:
 - name: AFOSNE_China_trojan_61
   server: gdct003.theyydsnode.top
   port: 26681
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: gdct003.jcnode.top
@@ -2021,6 +1997,7 @@ proxies:
 - name: AFOSNE_China_trojan_62
   server: gdct003.theyydsnode.top
   port: 26681
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: gdct003.jcnode.top
@@ -2029,6 +2006,7 @@ proxies:
 - name: AFOSNE_China_trojan_63
   server: gdct001.theyydsnode.top
   port: 16343
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: vn01.ckcloud.info
@@ -2037,6 +2015,7 @@ proxies:
 - name: AFOSNE_China_trojan_64
   server: shcm002.theyydsnode.top
   port: 51031
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: sg01.ckcloud.info
@@ -2045,6 +2024,7 @@ proxies:
 - name: AFOSNE_China_trojan_65
   server: gdct001.theyydsnode.top
   port: 51031
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: sg01.ckcloud.info
@@ -2053,6 +2033,7 @@ proxies:
 - name: AFOSNE_China_trojan_66
   server: gdct003.theyydsnode.top
   port: 51031
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: sg01.ckcloud.info
@@ -2061,6 +2042,7 @@ proxies:
 - name: AFOSNE_China_trojan_67
   server: gdct003.theyydsnode.top
   port: 58464
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: sg03.ckcloud.info
@@ -2069,6 +2051,7 @@ proxies:
 - name: AFOSNE_China_trojan_68
   server: shcm002.theyydsnode.top
   port: 58464
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: sg03.ckcloud.info
@@ -2077,6 +2060,7 @@ proxies:
 - name: AFOSNE_China_trojan_69
   server: gdct001.theyydsnode.top
   port: 58464
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: sg03.ckcloud.info
@@ -2085,6 +2069,7 @@ proxies:
 - name: AFOSNE_China_trojan_610
   server: shcm002.theyydsnode.top
   port: 25974
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: hk05.ckcloud.info
@@ -2093,6 +2078,7 @@ proxies:
 - name: AFOSNE_China_trojan_611
   server: gdct001.theyydsnode.top
   port: 25974
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: hk05.ckcloud.info
@@ -2101,6 +2087,7 @@ proxies:
 - name: AFOSNE_China_trojan_612
   server: gdct003.theyydsnode.top
   port: 25974
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: hk05.ckcloud.info
@@ -2109,6 +2096,7 @@ proxies:
 - name: AFOSNE_China_trojan_613
   server: gdct003.theyydsnode.top
   port: 35257
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: hk03.ckcloud.info
@@ -2117,6 +2105,7 @@ proxies:
 - name: AFOSNE_China_trojan_614
   server: gdct001.theyydsnode.top
   port: 35257
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: hk03.ckcloud.info
@@ -2125,6 +2114,7 @@ proxies:
 - name: AFOSNE_China_trojan_615
   server: gdct002.theyydsnode.top
   port: 35257
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: hk03.ckcloud.info
@@ -2133,6 +2123,7 @@ proxies:
 - name: AFOSNE_China_trojan_616
   server: gdct003.theyydsnode.top
   port: 26023
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: hk02.ckcloud.info
@@ -2141,6 +2132,7 @@ proxies:
 - name: AFOSNE_China_trojan_617
   server: shcm002.theyydsnode.top
   port: 26023
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: hk02.ckcloud.info
@@ -2149,6 +2141,7 @@ proxies:
 - name: AFOSNE_China_trojan_618
   server: gdct001.theyydsnode.top
   port: 26023
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: hk02.ckcloud.info
@@ -2157,6 +2150,7 @@ proxies:
 - name: AFOSNE_China_trojan_619
   server: gdct003.theyydsnode.top
   port: 15485
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: hk04.ckcloud.info
@@ -2165,6 +2159,7 @@ proxies:
 - name: AFOSNE_China_trojan_620
   server: shcm002.theyydsnode.top
   port: 15485
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: hk04.ckcloud.info
@@ -2173,6 +2168,7 @@ proxies:
 - name: AFOSNE_China_trojan_621
   server: gdct001.theyydsnode.top
   port: 15485
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: hk04.ckcloud.info
@@ -2181,6 +2177,7 @@ proxies:
 - name: AFOSNE_China_trojan_622
   server: shcm002.theyydsnode.top
   port: 10327
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: jp01.ckcloud.info
@@ -2189,6 +2186,7 @@ proxies:
 - name: AFOSNE_China_trojan_623
   server: gdct001.theyydsnode.top
   port: 10327
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: jp01.ckcloud.info
@@ -2197,6 +2195,7 @@ proxies:
 - name: AFOSNE_China_trojan_624
   server: gdct003.theyydsnode.top
   port: 10327
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: jp01.ckcloud.info
@@ -2205,6 +2204,7 @@ proxies:
 - name: AFOSNE_China_trojan_625
   server: shcm002.theyydsnode.top
   port: 16483
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: jp03.ckcloud.info
@@ -2213,6 +2213,7 @@ proxies:
 - name: AFOSNE_China_trojan_626
   server: gdct001.theyydsnode.top
   port: 16483
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: jp03.ckcloud.info
@@ -2221,6 +2222,7 @@ proxies:
 - name: AFOSNE_China_trojan_627
   server: gdct003.theyydsnode.top
   port: 16483
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: jp03.ckcloud.info
@@ -2229,6 +2231,7 @@ proxies:
 - name: AFOSNE_China_trojan_628
   server: gdct001.theyydsnode.top
   port: 64850
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: tw01.ckcloud.info
@@ -2237,6 +2240,7 @@ proxies:
 - name: AFOSNE_China_trojan_629
   server: gdct003.theyydsnode.top
   port: 64850
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: tw01.ckcloud.info
@@ -2245,6 +2249,7 @@ proxies:
 - name: AFOSNE_China_trojan_630
   server: shcm002.theyydsnode.top
   port: 64850
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: tw01.ckcloud.info
@@ -2253,6 +2258,7 @@ proxies:
 - name: AFOSNE_China_trojan_631
   server: shcm002.theyydsnode.top
   port: 47557
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: tw02.ckcloud.info
@@ -2261,6 +2267,7 @@ proxies:
 - name: AFOSNE_China_trojan_632
   server: gdct001.theyydsnode.top
   port: 47557
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: tw02.ckcloud.info
@@ -2269,6 +2276,7 @@ proxies:
 - name: AFOSNE_China_trojan_633
   server: gdct003.theyydsnode.top
   port: 47557
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: tw02.ckcloud.info
@@ -2277,6 +2285,7 @@ proxies:
 - name: AFOSNE_China_trojan_634
   server: gdct003.theyydsnode.top
   port: 16343
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: vn01.ckcloud.info
@@ -2285,6 +2294,7 @@ proxies:
 - name: AFOSNE_China_trojan_635
   server: shcm002.theyydsnode.top
   port: 16343
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: vn01.ckcloud.info
@@ -2293,6 +2303,7 @@ proxies:
 - name: AFOSNE_China_trojan_636
   server: gdct001.theyydsnode.top
   port: 16343
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: vn01.ckcloud.info
@@ -2301,6 +2312,7 @@ proxies:
 - name: AFOSNE_China_trojan_637
   server: shcm002.theyydsnode.top
   port: 26094
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: id01.ckcloud.info
@@ -2309,6 +2321,7 @@ proxies:
 - name: AFOSNE_China_trojan_638
   server: gdct001.theyydsnode.top
   port: 26094
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: id01.ckcloud.info
@@ -2317,6 +2330,7 @@ proxies:
 - name: AFOSNE_China_trojan_639
   server: gdct003.theyydsnode.top
   port: 26094
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: id01.ckcloud.info
@@ -2325,6 +2339,7 @@ proxies:
 - name: AFOSNE_China_trojan_640
   server: shcm002.theyydsnode.top
   port: 42840
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: uk01.ckcloud.info
@@ -2333,6 +2348,7 @@ proxies:
 - name: AFOSNE_China_trojan_641
   server: gdct001.theyydsnode.top
   port: 42840
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: uk01.ckcloud.info
@@ -2341,6 +2357,7 @@ proxies:
 - name: AFOSNE_China_trojan_642
   server: gdct003.theyydsnode.top
   port: 42840
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: uk01.ckcloud.info
@@ -2349,6 +2366,7 @@ proxies:
 - name: AFOSNE_China_trojan_643
   server: gdct003.theyydsnode.top
   port: 53279
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: de01.ckcloud.info
@@ -2357,6 +2375,7 @@ proxies:
 - name: AFOSNE_China_trojan_644
   server: shcm002.theyydsnode.top
   port: 53279
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: de01.ckcloud.info
@@ -2365,6 +2384,7 @@ proxies:
 - name: AFOSNE_China_trojan_645
   server: gdct001.theyydsnode.top
   port: 53279
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: de01.ckcloud.info
@@ -2373,6 +2393,7 @@ proxies:
 - name: AFOSNE_China_trojan_646
   server: gdct001.theyydsnode.top
   port: 60293
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: tur01.ckcloud.info
@@ -2381,6 +2402,7 @@ proxies:
 - name: AFOSNE_China_trojan_647
   server: gdct003.theyydsnode.top
   port: 60293
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: tur01.ckcloud.info
@@ -2389,6 +2411,7 @@ proxies:
 - name: AFOSNE_China_trojan_648
   server: shcm002.theyydsnode.top
   port: 60293
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: tur01.ckcloud.info
@@ -2397,6 +2420,7 @@ proxies:
 - name: AFOSNE_China_trojan_649
   server: gdct001.theyydsnode.top
   port: 48560
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: us03.ckcloud.info
@@ -2405,6 +2429,7 @@ proxies:
 - name: AFOSNE_China_trojan_650
   server: gdct003.theyydsnode.top
   port: 48560
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: us03.ckcloud.info
@@ -2413,6 +2438,7 @@ proxies:
 - name: AFOSNE_China_trojan_651
   server: shcm002.theyydsnode.top
   port: 48560
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: us03.ckcloud.info
@@ -2421,6 +2447,7 @@ proxies:
 - name: AFOSNE_China_trojan_652
   server: shcm002.theyydsnode.top
   port: 10658
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: us2.ckcloud.info
@@ -2429,6 +2456,7 @@ proxies:
 - name: AFOSNE_China_trojan_653
   server: gdct003.theyydsnode.top
   port: 10658
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: us2.ckcloud.info
@@ -2437,6 +2465,7 @@ proxies:
 - name: AFOSNE_China_trojan_654
   server: gdct001.theyydsnode.top
   port: 10658
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: us2.ckcloud.info
@@ -2445,6 +2474,7 @@ proxies:
 - name: AFOSNE_China_trojan_655
   server: shcm002.theyydsnode.top
   port: 26681
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: us04.ckcloud.info
@@ -2453,6 +2483,7 @@ proxies:
 - name: AFOSNE_China_trojan_656
   server: gdct003.theyydsnode.top
   port: 26681
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: us04.ckcloud.info
@@ -2461,6 +2492,7 @@ proxies:
 - name: AFOSNE_China_trojan_657
   server: gdct001.theyydsnode.top
   port: 26681
+  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: us04.ckcloud.info
