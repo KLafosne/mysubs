@@ -1640,11 +1640,21 @@ proxies:
   cipher: chacha20-ietf-poly1305
   password: 23aaa6b2-695a-4ef9-91fe-76402527022e
   udp: true
-- name: AFOSNE_United States_vmess_31
+- name: AFOSNE_None_vmess_31
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: 36ef75d7-e37e-3de7-bd09-6f1a2b26cccc
+  uuid: 7065a96d-6072-3418-9de8-d8e1cc54ff4a
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_United States_vmess_32
+  server: mcecloud.net
+  port: 10086
+  type: vmess
+  uuid: 7065a96d-6072-3418-9de8-d8e1cc54ff4a
   alterId: 0
   cipher: auto
   tls: false
@@ -1985,7 +1995,6 @@ proxies:
 - name: AFOSNE_China_trojan_61
   server: gdct003.theyydsnode.top
   port: 26681
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: gdct003.jcnode.top
@@ -1994,43 +2003,38 @@ proxies:
 - name: AFOSNE_China_trojan_62
   server: gdct003.theyydsnode.top
   port: 26681
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: gdct003.jcnode.top
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_63
+  server: gdct003.theyydsnode.top
+  port: 26681
+  type: trojan
+  password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
+  sni: gdct003.jcnode.top
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_China_trojan_64
   server: gdct001.theyydsnode.top
   port: 16343
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_China_trojan_64
+- name: AFOSNE_China_trojan_65
   server: shcm002.theyydsnode.top
   port: 51031
-  client-fingerprint: chrome
-  type: trojan
-  password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
-  sni: sg01.ckcloud.info
-  skip-cert-verify: true
-  udp: true
-- name: AFOSNE_China_trojan_65
-  server: gdct001.theyydsnode.top
-  port: 51031
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_66
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 51031
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: sg01.ckcloud.info
@@ -2038,53 +2042,47 @@ proxies:
   udp: true
 - name: AFOSNE_China_trojan_67
   server: gdct003.theyydsnode.top
-  port: 58464
-  client-fingerprint: chrome
+  port: 51031
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
-  sni: sg03.ckcloud.info
+  sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_68
-  server: shcm002.theyydsnode.top
+  server: gdct003.theyydsnode.top
   port: 58464
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: sg03.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_69
-  server: gdct001.theyydsnode.top
+  server: shcm002.theyydsnode.top
   port: 58464
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: sg03.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_610
-  server: shcm002.theyydsnode.top
-  port: 25974
-  client-fingerprint: chrome
+  server: gdct001.theyydsnode.top
+  port: 58464
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
-  sni: hk05.ckcloud.info
+  sni: sg03.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_611
-  server: gdct001.theyydsnode.top
+  server: shcm002.theyydsnode.top
   port: 25974
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_612
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 25974
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: hk05.ckcloud.info
@@ -2092,161 +2090,143 @@ proxies:
   udp: true
 - name: AFOSNE_China_trojan_613
   server: gdct003.theyydsnode.top
-  port: 35257
-  client-fingerprint: chrome
+  port: 25974
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
-  sni: hk03.ckcloud.info
+  sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_614
-  server: gdct001.theyydsnode.top
+  server: gdct003.theyydsnode.top
   port: 35257
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_615
-  server: gdct002.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 35257
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_616
-  server: gdct003.theyydsnode.top
-  port: 26023
-  client-fingerprint: chrome
+  server: gdct002.theyydsnode.top
+  port: 35257
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
-  sni: hk02.ckcloud.info
+  sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_617
-  server: shcm002.theyydsnode.top
+  server: gdct003.theyydsnode.top
   port: 26023
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_618
-  server: gdct001.theyydsnode.top
+  server: shcm002.theyydsnode.top
   port: 26023
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_619
-  server: gdct003.theyydsnode.top
-  port: 15485
-  client-fingerprint: chrome
+  server: gdct001.theyydsnode.top
+  port: 26023
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
-  sni: hk04.ckcloud.info
+  sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_620
-  server: shcm002.theyydsnode.top
+  server: gdct003.theyydsnode.top
   port: 15485
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_621
-  server: gdct001.theyydsnode.top
+  server: shcm002.theyydsnode.top
   port: 15485
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_622
-  server: shcm002.theyydsnode.top
-  port: 10327
-  client-fingerprint: chrome
+  server: gdct001.theyydsnode.top
+  port: 15485
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
-  sni: jp01.ckcloud.info
+  sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_623
-  server: gdct001.theyydsnode.top
+  server: shcm002.theyydsnode.top
   port: 10327
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_624
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 10327
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_625
-  server: shcm002.theyydsnode.top
-  port: 16483
-  client-fingerprint: chrome
+  server: gdct003.theyydsnode.top
+  port: 10327
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
-  sni: jp03.ckcloud.info
+  sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_626
-  server: gdct001.theyydsnode.top
+  server: shcm002.theyydsnode.top
   port: 16483
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_627
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 16483
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_628
-  server: gdct001.theyydsnode.top
-  port: 64850
-  client-fingerprint: chrome
+  server: gdct003.theyydsnode.top
+  port: 16483
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
-  sni: tw01.ckcloud.info
+  sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_629
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 64850
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_630
-  server: shcm002.theyydsnode.top
+  server: gdct003.theyydsnode.top
   port: 64850
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: tw01.ckcloud.info
@@ -2254,26 +2234,23 @@ proxies:
   udp: true
 - name: AFOSNE_China_trojan_631
   server: shcm002.theyydsnode.top
-  port: 47557
-  client-fingerprint: chrome
+  port: 64850
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
-  sni: tw02.ckcloud.info
+  sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_632
-  server: gdct001.theyydsnode.top
+  server: shcm002.theyydsnode.top
   port: 47557
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_633
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 47557
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: tw02.ckcloud.info
@@ -2281,80 +2258,71 @@ proxies:
   udp: true
 - name: AFOSNE_China_trojan_634
   server: gdct003.theyydsnode.top
-  port: 16343
-  client-fingerprint: chrome
+  port: 47557
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
-  sni: vn01.ckcloud.info
+  sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_635
-  server: shcm002.theyydsnode.top
+  server: gdct003.theyydsnode.top
   port: 16343
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_636
-  server: gdct001.theyydsnode.top
+  server: shcm002.theyydsnode.top
   port: 16343
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_637
-  server: shcm002.theyydsnode.top
-  port: 26094
-  client-fingerprint: chrome
+  server: gdct001.theyydsnode.top
+  port: 16343
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
-  sni: id01.ckcloud.info
+  sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_638
-  server: gdct001.theyydsnode.top
+  server: shcm002.theyydsnode.top
   port: 26094
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: id01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_639
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 26094
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: id01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_640
-  server: shcm002.theyydsnode.top
-  port: 42840
-  client-fingerprint: chrome
+  server: gdct003.theyydsnode.top
+  port: 26094
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
-  sni: uk01.ckcloud.info
+  sni: id01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_641
-  server: gdct001.theyydsnode.top
+  server: shcm002.theyydsnode.top
   port: 42840
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: uk01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_642
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 42840
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: uk01.ckcloud.info
@@ -2362,26 +2330,23 @@ proxies:
   udp: true
 - name: AFOSNE_China_trojan_643
   server: gdct003.theyydsnode.top
-  port: 53279
-  client-fingerprint: chrome
+  port: 42840
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
-  sni: de01.ckcloud.info
+  sni: uk01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_644
-  server: shcm002.theyydsnode.top
+  server: gdct003.theyydsnode.top
   port: 53279
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: de01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_645
-  server: gdct001.theyydsnode.top
+  server: shcm002.theyydsnode.top
   port: 53279
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: de01.ckcloud.info
@@ -2389,53 +2354,47 @@ proxies:
   udp: true
 - name: AFOSNE_China_trojan_646
   server: gdct001.theyydsnode.top
-  port: 60293
-  client-fingerprint: chrome
+  port: 53279
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
-  sni: tur01.ckcloud.info
+  sni: de01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_647
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 60293
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_648
-  server: shcm002.theyydsnode.top
+  server: gdct003.theyydsnode.top
   port: 60293
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_649
-  server: gdct001.theyydsnode.top
-  port: 48560
-  client-fingerprint: chrome
+  server: shcm002.theyydsnode.top
+  port: 60293
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
-  sni: us03.ckcloud.info
+  sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_650
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 48560
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: us03.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_651
-  server: shcm002.theyydsnode.top
+  server: gdct003.theyydsnode.top
   port: 48560
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: us03.ckcloud.info
@@ -2443,53 +2402,55 @@ proxies:
   udp: true
 - name: AFOSNE_China_trojan_652
   server: shcm002.theyydsnode.top
-  port: 10658
-  client-fingerprint: chrome
+  port: 48560
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
-  sni: us2.ckcloud.info
+  sni: us03.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_653
-  server: gdct003.theyydsnode.top
+  server: shcm002.theyydsnode.top
   port: 10658
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: us2.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_654
-  server: gdct001.theyydsnode.top
+  server: gdct003.theyydsnode.top
   port: 10658
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: us2.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_655
-  server: shcm002.theyydsnode.top
-  port: 26681
-  client-fingerprint: chrome
+  server: gdct001.theyydsnode.top
+  port: 10658
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
-  sni: us04.ckcloud.info
+  sni: us2.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_656
-  server: gdct003.theyydsnode.top
+  server: shcm002.theyydsnode.top
   port: 26681
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: us04.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_657
+  server: gdct003.theyydsnode.top
+  port: 26681
+  type: trojan
+  password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
+  sni: us04.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_China_trojan_658
   server: gdct001.theyydsnode.top
   port: 26681
-  client-fingerprint: chrome
   type: trojan
   password: 35f3cce2-2bce-4525-b2c0-baa211dc89fd
   sni: us04.ckcloud.info
@@ -2675,7 +2636,8 @@ proxy-groups:
   - AFOSNE_China_ss_262
   - AFOSNE_China_ss_263
   - AFOSNE_China_ss_264
-  - AFOSNE_United States_vmess_31
+  - AFOSNE_None_vmess_31
+  - AFOSNE_United States_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
@@ -2764,6 +2726,7 @@ proxy-groups:
   - AFOSNE_China_trojan_655
   - AFOSNE_China_trojan_656
   - AFOSNE_China_trojan_657
+  - AFOSNE_China_trojan_658
 - name: 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
@@ -2944,7 +2907,8 @@ proxy-groups:
   - AFOSNE_China_ss_262
   - AFOSNE_China_ss_263
   - AFOSNE_China_ss_264
-  - AFOSNE_United States_vmess_31
+  - AFOSNE_None_vmess_31
+  - AFOSNE_United States_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
@@ -3033,6 +2997,7 @@ proxy-groups:
   - AFOSNE_China_trojan_655
   - AFOSNE_China_trojan_656
   - AFOSNE_China_trojan_657
+  - AFOSNE_China_trojan_658
 rules:
 - DOMAIN,clash.razord.top,DIRECT
 - DOMAIN,yacd.haishan.me,DIRECT
