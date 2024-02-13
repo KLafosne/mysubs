@@ -4,6 +4,7 @@ node_n  57
 sub_info  0B  1G  2024-02-14 10:50:27+08:00  (剩余 1G 19:11:28.405816)
 sub_url  https://www.jcbbsub.top:21600/api/v1/client/subscribe?token=7b2b2fec837402b4e167390f30b2002a
 time  2024-02-13 10:50:28.025414+08:00
+更新旧订阅失败  could not convert string to float: '1;'
 
 [fastestcloud.xyz]
 email  umffaorq68@gmail.com
@@ -25,7 +26,7 @@ time  2024-02-09 10:11:19.240788+08:00
 email  rigzcicrn151@yzm.de
 last_checkin  2024-02-13 08:59:53.062932+08:00
 node_n  98
-sub_info  0B  1.048G  2024-02-14 08:59:52+08:00  (剩余 1.048G 17:20:46.587568)
+sub_info  0B  1.048G  2024-02-14 08:59:52+08:00  (剩余 1.048G 17:14:26.905524)
 sub_url  https://network.ayucloud.nl/link/wuvW4fP2ODRNQEVq?clash=1
 time  2024-02-13 08:59:53.920660+08:00
 
@@ -34,7 +35,7 @@ email  rigzcicrn151@yzm.de
 invite_code  BRkd  9998
 last_checkin  2024-02-13 08:59:52.749547+08:00
 node_n  48
-sub_info  0B  10.14G  2024-02-14 08:59:52+08:00  (剩余 10.14G 17:20:53.100224)
+sub_info  0B  10.14G  2024-02-14 08:59:52+08:00  (剩余 10.14G 17:14:26.254661)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/h3BzuYDdlJRlc4H1?sub=3
 time  2024-02-13 08:59:53.367088+08:00
 
@@ -42,7 +43,7 @@ time  2024-02-13 08:59:53.367088+08:00
 email  ocyakql479@lista.cc
 last_checkin  2024-02-13 14:36:39.686845+08:00
 node_n  28
-sub_info  0B  888G  2024-02-20 14:36:39+08:00  (剩余 888G 6 days, 22:57:02.140339)
+sub_info  0B  888G  2024-02-20 14:36:39+08:00  (剩余 888G 6 days, 22:51:13.150568)
 sub_url  https://www.qlgq.top/link/d7059054d5fa7ee2?clash=1
 time  2024-02-13 14:36:40.575592+08:00
 
@@ -58,15 +59,14 @@ time  2024-01-29 16:13:14.685588+08:00
 email  jqanigj869@logodesignex.com
 last_checkin  2024-02-13 00:38:37.564700+08:00
 node_n  19
-sub_info  0B  1.073G  2024-02-13 19:36:59+08:00  (剩余 1.073G 3:58:03.205598)
+sub_info  0B  1.073G  2024-02-13 19:36:59+08:00  (剩余 1.073G 3:51:32.838876)
 sub_url  https://dugusite.cyou/link/eP1H4ujcm6uIcX1o?sub=3
 time  2024-02-12 19:37:00.136665+08:00
-保存base64/clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
 
 [mcecloud.com]
-email  psnrjql619@gmail.com
-last_checkin  2024-02-13 15:38:57.412589+08:00
+email  uppqsfvq465@gmail.com
+last_checkin  2024-02-13 15:46:11.365280+08:00
 node_n  2
-sub_info  0B  77M  2024-02-13 15:38:57+08:00  (剩余 77M -1 day, 23:59:48.605681)
-sub_url  https://st-sub.fly.dev/ssp/mce/link/H43TkTW3VkNE4uRL?sub=3
-time  2024-02-13 15:38:58.310159+08:00
+sub_info  0B  44M  2024-02-13 15:46:11+08:00  (剩余 44M -1 day, 23:59:55.088109)
+sub_url  https://st-sub.fly.dev/ssp/mce/link/yzbOSNXVC0Jrfjln?sub=3
+time  2024-02-13 15:46:12.053354+08:00
