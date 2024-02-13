@@ -1640,11 +1640,11 @@ proxies:
   cipher: chacha20-ietf-poly1305
   password: fbd6e642-b0aa-4339-ad1c-bf6ae9529fcf
   udp: true
-- name: AFOSNE_None_vmess_31
+- name: AFOSNE_United States_vmess_31
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: 1cec55d6-dbdd-398a-83cf-eed1dc686bf6
+  uuid: 1dfcd7be-8f27-3951-86f0-ae691de2b43c
   alterId: 0
   cipher: auto
   tls: false
@@ -1654,7 +1654,7 @@ proxies:
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: 1cec55d6-dbdd-398a-83cf-eed1dc686bf6
+  uuid: 1dfcd7be-8f27-3951-86f0-ae691de2b43c
   alterId: 0
   cipher: auto
   tls: false
@@ -2037,14 +2037,6 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_63
-  server: gdct003.theyydsnode.top
-  port: 26681
-  type: trojan
-  password: 02c08036-7b9b-413c-a965-e9d259ef5f81
-  sni: gdct003.jcnode.top
-  skip-cert-verify: true
-  udp: true
-- name: AFOSNE_China_trojan_64
   server: gdct001.theyydsnode.top
   port: 16343
   type: trojan
@@ -2052,7 +2044,7 @@ proxies:
   sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_China_trojan_65
+- name: AFOSNE_China_trojan_64
   server: shcm002.theyydsnode.top
   port: 51031
   type: trojan
@@ -2060,8 +2052,16 @@ proxies:
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_China_trojan_66
+- name: AFOSNE_China_trojan_65
   server: gdct001.theyydsnode.top
+  port: 51031
+  type: trojan
+  password: 02c08036-7b9b-413c-a965-e9d259ef5f81
+  sni: sg01.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_China_trojan_66
+  server: gdct003.theyydsnode.top
   port: 51031
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
@@ -2070,14 +2070,14 @@ proxies:
   udp: true
 - name: AFOSNE_China_trojan_67
   server: gdct003.theyydsnode.top
-  port: 51031
+  port: 58464
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
-  sni: sg01.ckcloud.info
+  sni: sg03.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_68
-  server: gdct003.theyydsnode.top
+  server: shcm002.theyydsnode.top
   port: 58464
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
@@ -2085,7 +2085,7 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_69
-  server: shcm002.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 58464
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
@@ -2093,14 +2093,6 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_610
-  server: gdct001.theyydsnode.top
-  port: 58464
-  type: trojan
-  password: 02c08036-7b9b-413c-a965-e9d259ef5f81
-  sni: sg03.ckcloud.info
-  skip-cert-verify: true
-  udp: true
-- name: AFOSNE_China_trojan_611
   server: shcm002.theyydsnode.top
   port: 25974
   type: trojan
@@ -2108,8 +2100,16 @@ proxies:
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_China_trojan_612
+- name: AFOSNE_China_trojan_611
   server: gdct001.theyydsnode.top
+  port: 25974
+  type: trojan
+  password: 02c08036-7b9b-413c-a965-e9d259ef5f81
+  sni: hk05.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_China_trojan_612
+  server: gdct003.theyydsnode.top
   port: 25974
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
@@ -2118,14 +2118,14 @@ proxies:
   udp: true
 - name: AFOSNE_China_trojan_613
   server: gdct003.theyydsnode.top
-  port: 25974
+  port: 35257
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
-  sni: hk05.ckcloud.info
+  sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_614
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 35257
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
@@ -2133,14 +2133,6 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_615
-  server: gdct001.theyydsnode.top
-  port: 35257
-  type: trojan
-  password: 02c08036-7b9b-413c-a965-e9d259ef5f81
-  sni: hk03.ckcloud.info
-  skip-cert-verify: true
-  udp: true
-- name: AFOSNE_China_trojan_616
   server: gdct002.theyydsnode.top
   port: 35257
   type: trojan
@@ -2148,8 +2140,16 @@ proxies:
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_China_trojan_617
+- name: AFOSNE_China_trojan_616
   server: gdct003.theyydsnode.top
+  port: 26023
+  type: trojan
+  password: 02c08036-7b9b-413c-a965-e9d259ef5f81
+  sni: hk02.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_China_trojan_617
+  server: shcm002.theyydsnode.top
   port: 26023
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
@@ -2157,7 +2157,7 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_618
-  server: shcm002.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 26023
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
@@ -2165,15 +2165,15 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_619
-  server: gdct001.theyydsnode.top
-  port: 26023
+  server: gdct003.theyydsnode.top
+  port: 15485
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
-  sni: hk02.ckcloud.info
+  sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_620
-  server: gdct003.theyydsnode.top
+  server: shcm002.theyydsnode.top
   port: 15485
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
@@ -2181,7 +2181,7 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_621
-  server: shcm002.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 15485
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
@@ -2189,15 +2189,15 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_622
-  server: gdct001.theyydsnode.top
-  port: 15485
+  server: shcm002.theyydsnode.top
+  port: 10327
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
-  sni: hk04.ckcloud.info
+  sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_623
-  server: shcm002.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 10327
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
@@ -2205,7 +2205,7 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_624
-  server: gdct001.theyydsnode.top
+  server: gdct003.theyydsnode.top
   port: 10327
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
@@ -2213,14 +2213,6 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_625
-  server: gdct003.theyydsnode.top
-  port: 10327
-  type: trojan
-  password: 02c08036-7b9b-413c-a965-e9d259ef5f81
-  sni: jp01.ckcloud.info
-  skip-cert-verify: true
-  udp: true
-- name: AFOSNE_China_trojan_626
   server: shcm002.theyydsnode.top
   port: 16483
   type: trojan
@@ -2228,8 +2220,16 @@ proxies:
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_China_trojan_627
+- name: AFOSNE_China_trojan_626
   server: gdct001.theyydsnode.top
+  port: 16483
+  type: trojan
+  password: 02c08036-7b9b-413c-a965-e9d259ef5f81
+  sni: jp03.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_China_trojan_627
+  server: gdct003.theyydsnode.top
   port: 16483
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
@@ -2237,14 +2237,6 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_628
-  server: gdct003.theyydsnode.top
-  port: 16483
-  type: trojan
-  password: 02c08036-7b9b-413c-a965-e9d259ef5f81
-  sni: jp03.ckcloud.info
-  skip-cert-verify: true
-  udp: true
-- name: AFOSNE_China_trojan_629
   server: gdct001.theyydsnode.top
   port: 64850
   type: trojan
@@ -2252,8 +2244,16 @@ proxies:
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_China_trojan_630
+- name: AFOSNE_China_trojan_629
   server: gdct003.theyydsnode.top
+  port: 64850
+  type: trojan
+  password: 02c08036-7b9b-413c-a965-e9d259ef5f81
+  sni: tw01.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_China_trojan_630
+  server: shcm002.theyydsnode.top
   port: 64850
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
@@ -2262,14 +2262,14 @@ proxies:
   udp: true
 - name: AFOSNE_China_trojan_631
   server: shcm002.theyydsnode.top
-  port: 64850
+  port: 47557
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
-  sni: tw01.ckcloud.info
+  sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_632
-  server: shcm002.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 47557
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
@@ -2277,7 +2277,7 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_633
-  server: gdct001.theyydsnode.top
+  server: gdct003.theyydsnode.top
   port: 47557
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
@@ -2286,14 +2286,14 @@ proxies:
   udp: true
 - name: AFOSNE_China_trojan_634
   server: gdct003.theyydsnode.top
-  port: 47557
+  port: 16343
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
-  sni: tw02.ckcloud.info
+  sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_635
-  server: gdct003.theyydsnode.top
+  server: shcm002.theyydsnode.top
   port: 16343
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
@@ -2301,7 +2301,7 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_636
-  server: shcm002.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 16343
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
@@ -2309,15 +2309,15 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_637
-  server: gdct001.theyydsnode.top
-  port: 16343
+  server: shcm002.theyydsnode.top
+  port: 26094
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
-  sni: vn01.ckcloud.info
+  sni: id01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_638
-  server: shcm002.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 26094
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
@@ -2325,14 +2325,6 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_639
-  server: gdct001.theyydsnode.top
-  port: 26094
-  type: trojan
-  password: 02c08036-7b9b-413c-a965-e9d259ef5f81
-  sni: id01.ckcloud.info
-  skip-cert-verify: true
-  udp: true
-- name: AFOSNE_China_trojan_640
   server: gdct003.theyydsnode.top
   port: 26094
   type: trojan
@@ -2340,7 +2332,7 @@ proxies:
   sni: id01.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_China_trojan_641
+- name: AFOSNE_China_trojan_640
   server: shcm002.theyydsnode.top
   port: 42840
   type: trojan
@@ -2348,8 +2340,16 @@ proxies:
   sni: uk01.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_China_trojan_642
+- name: AFOSNE_China_trojan_641
   server: gdct001.theyydsnode.top
+  port: 42840
+  type: trojan
+  password: 02c08036-7b9b-413c-a965-e9d259ef5f81
+  sni: uk01.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_China_trojan_642
+  server: gdct003.theyydsnode.top
   port: 42840
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
@@ -2358,14 +2358,14 @@ proxies:
   udp: true
 - name: AFOSNE_China_trojan_643
   server: gdct003.theyydsnode.top
-  port: 42840
+  port: 53279
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
-  sni: uk01.ckcloud.info
+  sni: de01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_644
-  server: gdct003.theyydsnode.top
+  server: shcm002.theyydsnode.top
   port: 53279
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
@@ -2373,7 +2373,7 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_645
-  server: shcm002.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 53279
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
@@ -2382,14 +2382,14 @@ proxies:
   udp: true
 - name: AFOSNE_China_trojan_646
   server: gdct001.theyydsnode.top
-  port: 53279
+  port: 60293
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
-  sni: de01.ckcloud.info
+  sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_647
-  server: gdct001.theyydsnode.top
+  server: gdct003.theyydsnode.top
   port: 60293
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
@@ -2397,14 +2397,6 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_648
-  server: gdct003.theyydsnode.top
-  port: 60293
-  type: trojan
-  password: 02c08036-7b9b-413c-a965-e9d259ef5f81
-  sni: tur01.ckcloud.info
-  skip-cert-verify: true
-  udp: true
-- name: AFOSNE_China_trojan_649
   server: shcm002.theyydsnode.top
   port: 60293
   type: trojan
@@ -2412,7 +2404,7 @@ proxies:
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_China_trojan_650
+- name: AFOSNE_China_trojan_649
   server: gdct001.theyydsnode.top
   port: 48560
   type: trojan
@@ -2420,8 +2412,16 @@ proxies:
   sni: us03.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_China_trojan_651
+- name: AFOSNE_China_trojan_650
   server: gdct003.theyydsnode.top
+  port: 48560
+  type: trojan
+  password: 02c08036-7b9b-413c-a965-e9d259ef5f81
+  sni: us03.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_China_trojan_651
+  server: shcm002.theyydsnode.top
   port: 48560
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
@@ -2430,14 +2430,14 @@ proxies:
   udp: true
 - name: AFOSNE_China_trojan_652
   server: shcm002.theyydsnode.top
-  port: 48560
+  port: 10658
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
-  sni: us03.ckcloud.info
+  sni: us2.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_653
-  server: shcm002.theyydsnode.top
+  server: gdct003.theyydsnode.top
   port: 10658
   type: trojan
   password: 02c08036-7b9b-413c-a965-e9d259ef5f81
@@ -2445,14 +2445,6 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_654
-  server: gdct003.theyydsnode.top
-  port: 10658
-  type: trojan
-  password: 02c08036-7b9b-413c-a965-e9d259ef5f81
-  sni: us2.ckcloud.info
-  skip-cert-verify: true
-  udp: true
-- name: AFOSNE_China_trojan_655
   server: gdct001.theyydsnode.top
   port: 10658
   type: trojan
@@ -2460,7 +2452,7 @@ proxies:
   sni: us2.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_China_trojan_656
+- name: AFOSNE_China_trojan_655
   server: shcm002.theyydsnode.top
   port: 26681
   type: trojan
@@ -2468,7 +2460,7 @@ proxies:
   sni: us04.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_China_trojan_657
+- name: AFOSNE_China_trojan_656
   server: gdct003.theyydsnode.top
   port: 26681
   type: trojan
@@ -2476,7 +2468,7 @@ proxies:
   sni: us04.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_China_trojan_658
+- name: AFOSNE_China_trojan_657
   server: gdct001.theyydsnode.top
   port: 26681
   type: trojan
@@ -2664,7 +2656,7 @@ proxy-groups:
   - AFOSNE_China_ss_262
   - AFOSNE_China_ss_263
   - AFOSNE_China_ss_264
-  - AFOSNE_None_vmess_31
+  - AFOSNE_United States_vmess_31
   - AFOSNE_United States_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
@@ -2754,7 +2746,6 @@ proxy-groups:
   - AFOSNE_China_trojan_655
   - AFOSNE_China_trojan_656
   - AFOSNE_China_trojan_657
-  - AFOSNE_China_trojan_658
 - name: 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
@@ -2935,7 +2926,7 @@ proxy-groups:
   - AFOSNE_China_ss_262
   - AFOSNE_China_ss_263
   - AFOSNE_China_ss_264
-  - AFOSNE_None_vmess_31
+  - AFOSNE_United States_vmess_31
   - AFOSNE_United States_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
@@ -3025,7 +3016,6 @@ proxy-groups:
   - AFOSNE_China_trojan_655
   - AFOSNE_China_trojan_656
   - AFOSNE_China_trojan_657
-  - AFOSNE_China_trojan_658
 rules:
 - DOMAIN,clash.razord.top,DIRECT
 - DOMAIN,yacd.haishan.me,DIRECT
