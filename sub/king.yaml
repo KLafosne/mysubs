@@ -1644,7 +1644,7 @@ proxies:
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: b04c8dfa-689b-35c8-8aab-296e095e78ed
+  uuid: 70a84a61-417c-327e-97cf-ab7d9fd3c5f9
   alterId: 0
   cipher: auto
   tls: false
@@ -1654,7 +1654,7 @@ proxies:
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: b04c8dfa-689b-35c8-8aab-296e095e78ed
+  uuid: 70a84a61-417c-327e-97cf-ab7d9fd3c5f9
   alterId: 0
   cipher: auto
   tls: false
@@ -1703,7 +1703,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_51
   server: fkvip101.qlgq1.pw
   port: 10443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: fkvip101.qlgq1.pw
@@ -1715,7 +1714,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_52
   server: fkvip101.qlgq1.pw
   port: 20443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: fkvip101.qlgq1.pw
@@ -1727,7 +1725,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_53
   server: fkvip101.qlgq1.pw
   port: 30443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: fkvip101.qlgq1.pw
@@ -1739,7 +1736,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_54
   server: fkvip101.qlgq1.pw
   port: 40443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: fkvip101.qlgq1.pw
@@ -1751,7 +1747,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_55
   server: fkvip101.qlgq1.pw
   port: 50443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: fkvip101.qlgq1.pw
@@ -1763,7 +1758,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_56
   server: sgvip101.qlgq1.pw
   port: 10443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: sgvip101.qlgq1.pw
@@ -1775,7 +1769,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_57
   server: sgvip101.qlgq1.pw
   port: 20443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: sgvip101.qlgq1.pw
@@ -1787,7 +1780,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_58
   server: sgvip101.qlgq1.pw
   port: 30443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: sgvip101.qlgq1.pw
@@ -1799,7 +1791,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_59
   server: sgvip101.qlgq1.pw
   port: 40443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: sgvip101.qlgq1.pw
@@ -1811,7 +1802,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_510
   server: sgvip101.qlgq1.pw
   port: 50443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: sgvip101.qlgq1.pw
@@ -1823,7 +1813,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_511
   server: jpvip102.qlgq1.pw
   port: 10443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: jpvip102.qlgq1.pw
@@ -1835,7 +1824,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_512
   server: jpvip102.qlgq1.pw
   port: 20443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: jpvip102.qlgq1.pw
@@ -1847,7 +1835,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_513
   server: jpvip102.qlgq1.pw
   port: 30443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: jpvip102.qlgq1.pw
@@ -1859,7 +1846,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_514
   server: jpvip102.qlgq1.pw
   port: 40443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: jpvip102.qlgq1.pw
@@ -1871,7 +1857,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_515
   server: jpvip102.qlgq1.pw
   port: 50443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: jpvip102.qlgq1.pw
@@ -1883,7 +1868,6 @@ proxies:
 - name: AFOSNE_United States_trojan_516
   server: lavip101.qlgq1.pw
   port: 10443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: lavip101.qlgq1.pw
@@ -1895,7 +1879,6 @@ proxies:
 - name: AFOSNE_United States_trojan_517
   server: lavip101.qlgq1.pw
   port: 20443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: lavip101.qlgq1.pw
@@ -1907,7 +1890,6 @@ proxies:
 - name: AFOSNE_United States_trojan_518
   server: lavip101.qlgq1.pw
   port: 30443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: lavip101.qlgq1.pw
@@ -1919,7 +1901,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_519
   server: hkvip102.qlgq1.pw
   port: 10443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: hkvip102.qlgq1.pw
@@ -1931,7 +1912,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_520
   server: hkvip102.qlgq1.pw
   port: 20443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: hkvip102.qlgq1.pw
@@ -1943,7 +1923,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_521
   server: hkvip102.qlgq1.pw
   port: 30443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: hkvip102.qlgq1.pw
@@ -1955,7 +1934,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_522
   server: hkvip102.qlgq1.pw
   port: 40443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: hkvip102.qlgq1.pw
@@ -1967,7 +1945,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_523
   server: hkvip102.qlgq1.pw
   port: 50443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: hkvip102.qlgq1.pw
@@ -1979,7 +1956,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_524
   server: hkvip103.qlgq1.pw
   port: 10444
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: hkvip103.qlgq1.pw
@@ -1991,7 +1967,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_525
   server: hkvip103.qlgq1.pw
   port: 20443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: hkvip103.qlgq1.pw
@@ -2003,7 +1978,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_526
   server: hkvip103.qlgq1.pw
   port: 30443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: hkvip103.qlgq1.pw
@@ -2015,7 +1989,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_527
   server: hkvip103.qlgq1.pw
   port: 40443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: hkvip103.qlgq1.pw
@@ -2027,7 +2000,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_528
   server: hkvip103.qlgq1.pw
   port: 50443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: hkvip103.qlgq1.pw
