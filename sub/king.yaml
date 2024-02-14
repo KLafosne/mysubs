@@ -1657,28 +1657,41 @@ proxies:
   tls: false
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_United States_trojan_41
-  server: 34.213.222.122
+- name: AFOSNE_Japan_trojan_41
+  server: 54.95.145.74
   port: 443
-  client-fingerprint: chrome
   type: trojan
   password: a9ea887a-a0e1-3b66-9fc2-2556a69efb1b
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_United States_trojan_42
-  server: 103.136.185.27
-  port: 5472
-  client-fingerprint: chrome
+- name: AFOSNE_Japan_trojan_42
+  server: 43.206.113.108
+  port: 443
   type: trojan
   password: a9ea887a-a0e1-3b66-9fc2-2556a69efb1b
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_United States_trojan_43
+  server: 34.213.222.122
+  port: 443
+  type: trojan
+  password: a9ea887a-a0e1-3b66-9fc2-2556a69efb1b
+  sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_United States_trojan_44
+  server: 103.136.185.27
+  port: 5472
+  type: trojan
+  password: a9ea887a-a0e1-3b66-9fc2-2556a69efb1b
+  sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_United States_trojan_45
   server: 103.136.185.28
   port: 3491
-  client-fingerprint: chrome
   type: trojan
   password: a9ea887a-a0e1-3b66-9fc2-2556a69efb1b
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -2630,9 +2643,11 @@ proxy-groups:
   - AFOSNE_China_ss_264
   - AFOSNE_China_ss_265
   - AFOSNE_None_vmess_31
-  - AFOSNE_United States_trojan_41
-  - AFOSNE_United States_trojan_42
+  - AFOSNE_Japan_trojan_41
+  - AFOSNE_Japan_trojan_42
   - AFOSNE_United States_trojan_43
+  - AFOSNE_United States_trojan_44
+  - AFOSNE_United States_trojan_45
   - AFOSNE_Germany_trojan_51
   - AFOSNE_Germany_trojan_52
   - AFOSNE_Germany_trojan_53
@@ -2900,9 +2915,11 @@ proxy-groups:
   - AFOSNE_China_ss_264
   - AFOSNE_China_ss_265
   - AFOSNE_None_vmess_31
-  - AFOSNE_United States_trojan_41
-  - AFOSNE_United States_trojan_42
+  - AFOSNE_Japan_trojan_41
+  - AFOSNE_Japan_trojan_42
   - AFOSNE_United States_trojan_43
+  - AFOSNE_United States_trojan_44
+  - AFOSNE_United States_trojan_45
   - AFOSNE_Germany_trojan_51
   - AFOSNE_Germany_trojan_52
   - AFOSNE_Germany_trojan_53
