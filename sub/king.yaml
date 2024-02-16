@@ -31,7 +31,6 @@ proxies:
   client-fingerprint: chrome
   type: trojan
   password: 0c232c69-e46c-4563-ba87-d5bd680dff07
-  sni: jp1.biubiufast.quest
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_Japan_ss_02
@@ -142,7 +141,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_12
   server: 231103level3.unclemanco.com
@@ -153,7 +152,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_13
   server: 231103level3.unclemanco.com
@@ -164,7 +163,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_14
   server: 231103level3.unclemanco.com
@@ -175,7 +174,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_15
   server: 231103level3.unclemanco.com
@@ -186,7 +185,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_16
   server: 231103level3.unclemanco.com
@@ -197,7 +196,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_17
   server: 231103level3.unclemanco.com
@@ -208,7 +207,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_18
   server: 231103level3.unclemanco.com
@@ -219,7 +218,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_19
   server: 231103level3.unclemanco.com
@@ -230,7 +229,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_110
   server: 231103level3.unclemanco.com
@@ -241,7 +240,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_111
   server: 231103level3.unclemanco.com
@@ -252,7 +251,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_112
   server: 231103level3.unclemanco.com
@@ -263,7 +262,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_113
   server: 231103level3.unclemanco.com
@@ -274,7 +273,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_114
   server: 231103level3.unclemanco.com
@@ -285,7 +284,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_115
   server: 231103level3.unclemanco.com
@@ -296,7 +295,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_116
   server: 231103level3.unclemanco.com
@@ -307,7 +306,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_117
   server: 231103level3.unclemanco.com
@@ -318,7 +317,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_118
   server: 231103level3.unclemanco.com
@@ -329,7 +328,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_119
   server: 231103level3.unclemanco.com
@@ -340,7 +339,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_120
   server: 231103level3.unclemanco.com
@@ -351,7 +350,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_121
   server: 231103level3.unclemanco.com
@@ -362,7 +361,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_122
   server: 231103level3.unclemanco.com
@@ -373,7 +372,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_123
   server: 231103level3.unclemanco.com
@@ -384,7 +383,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_124
   server: 231103level3.unclemanco.com
@@ -395,7 +394,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_125
   server: 231103level3.unclemanco.com
@@ -406,7 +405,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_126
   server: 231103level3.unclemanco.com
@@ -417,7 +416,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_127
   server: 231103level3.unclemanco.com
@@ -428,7 +427,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_128
   server: 231103level3.unclemanco.com
@@ -439,7 +438,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_129
   server: 231103level3.unclemanco.com
@@ -450,7 +449,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_130
   server: 231103level3.unclemanco.com
@@ -461,7 +460,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_131
   server: 231103level3.unclemanco.com
@@ -472,7 +471,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_132
   server: 231103level3.unclemanco.com
@@ -483,7 +482,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_133
   server: 231103level3.unclemanco.com
@@ -494,7 +493,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_134
   server: 231103level3.unclemanco.com
@@ -505,7 +504,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_135
   server: 231103level3.unclemanco.com
@@ -516,7 +515,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_136
   server: 231103level3.unclemanco.com
@@ -527,7 +526,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_137
   server: 231103level3.unclemanco.com
@@ -538,7 +537,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_138
   server: 231103level3.unclemanco.com
@@ -549,7 +548,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_139
   server: 231103level3.unclemanco.com
@@ -560,7 +559,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_140
   server: 231103level3.unclemanco.com
@@ -571,7 +570,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_141
   server: 231103level3.unclemanco.com
@@ -582,7 +581,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_142
   server: 231103level3.unclemanco.com
@@ -593,7 +592,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_143
   server: 231103level3.unclemanco.com
@@ -604,7 +603,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_144
   server: 231103level3.unclemanco.com
@@ -615,7 +614,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_145
   server: 231103level3.unclemanco.com
@@ -626,7 +625,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_146
   server: 231103level3.unclemanco.com
@@ -637,7 +636,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_147
   server: 231103level2.unclemanco.com
@@ -648,7 +647,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_148
   server: 231103level2.unclemanco.com
@@ -659,7 +658,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_149
   server: 231103level2.unclemanco.com
@@ -670,7 +669,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_150
   server: 231103level2.unclemanco.com
@@ -681,7 +680,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_151
   server: 231103level2.unclemanco.com
@@ -692,7 +691,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_152
   server: 231103level2.unclemanco.com
@@ -703,7 +702,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_153
   server: 231103level2.unclemanco.com
@@ -714,7 +713,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_154
   server: 231103level2.unclemanco.com
@@ -725,7 +724,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_155
   server: 231103level2.unclemanco.com
@@ -736,7 +735,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_156
   server: 231103level2.unclemanco.com
@@ -747,7 +746,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_157
   server: 231103level2.unclemanco.com
@@ -758,7 +757,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_158
   server: 231103level2.unclemanco.com
@@ -769,7 +768,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_159
   server: 231103level2.unclemanco.com
@@ -780,7 +779,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_160
   server: 231103level2.unclemanco.com
@@ -791,7 +790,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_161
   server: 231103level2.unclemanco.com
@@ -802,7 +801,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_162
   server: 231103level2.unclemanco.com
@@ -813,7 +812,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_163
   server: 231103level2.unclemanco.com
@@ -824,7 +823,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_164
   server: 231103level2.unclemanco.com
@@ -835,7 +834,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_165
   server: 231103level2.unclemanco.com
@@ -846,7 +845,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_166
   server: 231103level2.unclemanco.com
@@ -857,7 +856,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_167
   server: 231103level2.unclemanco.com
@@ -868,7 +867,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_168
   server: 231103levelx.unclemanco.com
@@ -879,7 +878,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_169
   server: 231103levelx.unclemanco.com
@@ -890,7 +889,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_170
   server: 231103level2.unclemanco.com
@@ -901,7 +900,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_171
   server: 231103level2.unclemanco.com
@@ -912,7 +911,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_172
   server: 231103level2.unclemanco.com
@@ -923,7 +922,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_173
   server: 231103level2.unclemanco.com
@@ -934,7 +933,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_174
   server: 231103level2.unclemanco.com
@@ -945,7 +944,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_175
   server: 231103level2.unclemanco.com
@@ -956,7 +955,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_176
   server: 231103level2.unclemanco.com
@@ -967,7 +966,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_177
   server: 231103level2.unclemanco.com
@@ -978,7 +977,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_178
   server: 231103level2.unclemanco.com
@@ -989,7 +988,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_179
   server: 231103level2.unclemanco.com
@@ -1000,7 +999,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_180
   server: 231103level2.unclemanco.com
@@ -1011,7 +1010,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_181
   server: 231103level2.unclemanco.com
@@ -1022,7 +1021,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_182
   server: 231103level1.unclemanco.com
@@ -1033,7 +1032,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_183
   server: 231103level1.unclemanco.com
@@ -1044,7 +1043,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_184
   server: 231103level1.unclemanco.com
@@ -1055,7 +1054,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_185
   server: 231103level1.unclemanco.com
@@ -1066,7 +1065,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_186
   server: 231103level1.unclemanco.com
@@ -1077,7 +1076,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_187
   server: 231103level1.unclemanco.com
@@ -1088,7 +1087,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_188
   server: 231103level1.unclemanco.com
@@ -1099,7 +1098,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_189
   server: 231103level1.unclemanco.com
@@ -1110,7 +1109,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_190
   server: 231103level1.unclemanco.com
@@ -1121,7 +1120,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_191
   server: 231103level1.unclemanco.com
@@ -1132,7 +1131,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_192
   server: 231103levelx.unclemanco.com
@@ -1143,7 +1142,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_193
   server: 231103levelx.unclemanco.com
@@ -1154,7 +1153,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_194
   server: 231103level1.unclemanco.com
@@ -1165,7 +1164,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_195
   server: 231103level1.unclemanco.com
@@ -1176,7 +1175,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_196
   server: 231103level1.unclemanco.com
@@ -1187,7 +1186,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_197
   server: 231103level1.unclemanco.com
@@ -1198,7 +1197,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_198
   server: 231103level1.unclemanco.com
@@ -1209,495 +1208,525 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: d8d2388418.download.windowsupdate.com
+    host: 11d7788484.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_21
   server: gdct001.theyydsnode.top
   port: 14374
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_22
   server: gdct001.theyydsnode.top
   port: 14374
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_23
   server: gdct001.theyydsnode.top
   port: 14374
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_24
-  server: shcm002.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 14374
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_25
+  server: shcm002.theyydsnode.top
+  port: 14374
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
+  udp: true
+- name: AFOSNE_China_ss_26
   server: gdct003.theyydsnode.top
   port: 14374
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
-  udp: true
-- name: AFOSNE_China_ss_26
-  server: gdct001.theyydsnode.top
-  port: 20356
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_27
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 20356
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_28
+  server: gdct003.theyydsnode.top
+  port: 20356
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
+  udp: true
+- name: AFOSNE_China_ss_29
   server: shcm002.theyydsnode.top
   port: 20356
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
-  udp: true
-- name: AFOSNE_China_ss_29
-  server: gdct001.theyydsnode.top
-  port: 37581
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_210
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 37581
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_211
+  server: gdct003.theyydsnode.top
+  port: 37581
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
+  udp: true
+- name: AFOSNE_China_ss_212
   server: shcm002.theyydsnode.top
   port: 37581
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
-  udp: true
-- name: AFOSNE_China_ss_212
-  server: gdct001.theyydsnode.top
-  port: 22704
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_213
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 22704
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_214
+  server: gdct003.theyydsnode.top
+  port: 22704
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
+  udp: true
+- name: AFOSNE_China_ss_215
   server: shcm002.theyydsnode.top
   port: 22704
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
-  udp: true
-- name: AFOSNE_China_ss_215
-  server: gdct001.theyydsnode.top
-  port: 14490
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_216
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 14490
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_217
+  server: gdct003.theyydsnode.top
+  port: 14490
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
+  udp: true
+- name: AFOSNE_China_ss_218
   server: shcm002.theyydsnode.top
   port: 14490
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
-  udp: true
-- name: AFOSNE_China_ss_218
-  server: gdct001.theyydsnode.top
-  port: 46912
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_219
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 46912
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_220
+  server: gdct003.theyydsnode.top
+  port: 46912
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
+  udp: true
+- name: AFOSNE_China_ss_221
   server: shcm002.theyydsnode.top
   port: 46912
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
-  udp: true
-- name: AFOSNE_China_ss_221
-  server: gdct001.theyydsnode.top
-  port: 15976
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_222
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 15976
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_223
+  server: gdct003.theyydsnode.top
+  port: 15976
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
+  udp: true
+- name: AFOSNE_China_ss_224
   server: shcm002.theyydsnode.top
   port: 15976
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
-  udp: true
-- name: AFOSNE_China_ss_224
-  server: gdct001.theyydsnode.top
-  port: 25074
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_225
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 25074
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_226
+  server: gdct003.theyydsnode.top
+  port: 25074
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
+  udp: true
+- name: AFOSNE_China_ss_227
   server: shcm002.theyydsnode.top
   port: 25074
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
-  udp: true
-- name: AFOSNE_China_ss_227
-  server: gdct001.theyydsnode.top
-  port: 35672
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_228
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 35672
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_229
+  server: gdct003.theyydsnode.top
+  port: 35672
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
+  udp: true
+- name: AFOSNE_China_ss_230
   server: shcm002.theyydsnode.top
   port: 35672
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
-  udp: true
-- name: AFOSNE_China_ss_230
-  server: gdct001.theyydsnode.top
-  port: 21526
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_231
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 21526
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_232
+  server: gdct003.theyydsnode.top
+  port: 21526
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
+  udp: true
+- name: AFOSNE_China_ss_233
   server: shcm002.theyydsnode.top
   port: 21526
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
-  udp: true
-- name: AFOSNE_China_ss_233
-  server: gdct001.theyydsnode.top
-  port: 40276
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_234
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 40276
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_235
+  server: gdct003.theyydsnode.top
+  port: 40276
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
+  udp: true
+- name: AFOSNE_China_ss_236
   server: shcm002.theyydsnode.top
   port: 40276
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
-  udp: true
-- name: AFOSNE_China_ss_236
-  server: gdct001.theyydsnode.top
-  port: 25881
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_237
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 25881
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_238
+  server: gdct003.theyydsnode.top
+  port: 25881
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
+  udp: true
+- name: AFOSNE_China_ss_239
   server: shcm002.theyydsnode.top
   port: 25881
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
-  udp: true
-- name: AFOSNE_China_ss_239
-  server: gdct001.theyydsnode.top
-  port: 10598
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_240
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 10598
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_241
+  server: gdct003.theyydsnode.top
+  port: 10598
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
+  udp: true
+- name: AFOSNE_China_ss_242
   server: shcm002.theyydsnode.top
   port: 10598
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
-  udp: true
-- name: AFOSNE_China_ss_242
-  server: gdct001.theyydsnode.top
-  port: 10519
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_243
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 10519
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_244
+  server: gdct003.theyydsnode.top
+  port: 10519
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
+  udp: true
+- name: AFOSNE_China_ss_245
   server: shcm002.theyydsnode.top
   port: 10519
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
-  udp: true
-- name: AFOSNE_China_ss_245
-  server: gdct001.theyydsnode.top
-  port: 28625
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_246
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 28625
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_247
+  server: gdct003.theyydsnode.top
+  port: 28625
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
+  udp: true
+- name: AFOSNE_China_ss_248
   server: shcm002.theyydsnode.top
   port: 28625
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
-  udp: true
-- name: AFOSNE_China_ss_248
-  server: gdct001.theyydsnode.top
-  port: 54295
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_249
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 54295
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_250
+  server: gdct003.theyydsnode.top
+  port: 54295
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
+  udp: true
+- name: AFOSNE_China_ss_251
   server: shcm002.theyydsnode.top
   port: 54295
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
-  udp: true
-- name: AFOSNE_China_ss_251
-  server: gdct001.theyydsnode.top
-  port: 45852
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_252
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 45852
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_253
+  server: gdct003.theyydsnode.top
+  port: 45852
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
+  udp: true
+- name: AFOSNE_China_ss_254
   server: shcm002.theyydsnode.top
   port: 45852
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
-  udp: true
-- name: AFOSNE_China_ss_254
-  server: gdct001.theyydsnode.top
-  port: 63640
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_255
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 63640
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_256
+  server: gdct003.theyydsnode.top
+  port: 63640
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
+  udp: true
+- name: AFOSNE_China_ss_257
   server: shcm002.theyydsnode.top
   port: 63640
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
-  udp: true
-- name: AFOSNE_China_ss_257
-  server: gdct001.theyydsnode.top
-  port: 15762
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_258
-  server: gdct003.theyydsnode.top
+  server: gdct001.theyydsnode.top
   port: 15762
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_259
+  server: gdct003.theyydsnode.top
+  port: 15762
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
+  udp: true
+- name: AFOSNE_China_ss_260
   server: shcm002.theyydsnode.top
   port: 15762
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
-  udp: true
-- name: AFOSNE_China_ss_260
-  server: gdct001.theyydsnode.top
-  port: 20943
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
 - name: AFOSNE_China_ss_261
+  server: gdct001.theyydsnode.top
+  port: 20943
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
+  udp: true
+- name: AFOSNE_China_ss_262
   server: gdct003.theyydsnode.top
   port: 20943
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
-- name: AFOSNE_China_ss_262
+- name: AFOSNE_China_ss_263
   server: shcm002.theyydsnode.top
   port: 20943
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
-- name: AFOSNE_China_ss_263
+- name: AFOSNE_China_ss_264
   server: gdct001.theyydsnode.top
   port: 39788
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
-- name: AFOSNE_China_ss_264
+- name: AFOSNE_China_ss_265
   server: gdct003.theyydsnode.top
   port: 39788
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
-- name: AFOSNE_China_ss_265
+- name: AFOSNE_China_ss_266
   server: shcm002.theyydsnode.top
   port: 39788
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 8ce5c0bd-8b25-472d-b857-695a4dcbbd5f
+  password: 976ac94f-fd42-4f11-a46c-b2daf18a70e4
   udp: true
-- name: AFOSNE_United States_vmess_31
+- name: AFOSNE_None_vmess_31
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: 83193eaf-4fcb-33ae-965b-910d4cc3469c
+  uuid: 8ce6e4f2-daca-35ee-bbd4-01485268da1e
   alterId: 0
   cipher: auto
   tls: false
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_United States_trojan_41
-  server: 34.213.222.122
+- name: AFOSNE_United States_vmess_32
+  server: mcecloud.net
+  port: 10086
+  type: vmess
+  uuid: 8ce6e4f2-daca-35ee-bbd4-01485268da1e
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_Japan_trojan_41
+  server: 54.95.145.74
   port: 443
-  client-fingerprint: chrome
   type: trojan
   password: a9ea887a-a0e1-3b66-9fc2-2556a69efb1b
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_United States_trojan_42
-  server: 103.136.185.27
-  port: 5473
-  client-fingerprint: chrome
+- name: AFOSNE_Japan_trojan_42
+  server: 43.206.113.108
+  port: 443
   type: trojan
   password: a9ea887a-a0e1-3b66-9fc2-2556a69efb1b
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_United States_trojan_43
+  server: 34.213.222.122
+  port: 443
+  type: trojan
+  password: a9ea887a-a0e1-3b66-9fc2-2556a69efb1b
+  sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_United States_trojan_44
+  server: 103.136.185.27
+  port: 5473
+  type: trojan
+  password: a9ea887a-a0e1-3b66-9fc2-2556a69efb1b
+  sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_United States_trojan_45
   server: 103.136.185.28
   port: 3491
-  client-fingerprint: chrome
   type: trojan
   password: a9ea887a-a0e1-3b66-9fc2-2556a69efb1b
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -1706,7 +1735,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_51
   server: fkvip101.qlgq1.pw
   port: 10443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: fkvip101.qlgq1.pw
@@ -1718,7 +1746,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_52
   server: fkvip101.qlgq1.pw
   port: 20443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: fkvip101.qlgq1.pw
@@ -1730,7 +1757,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_53
   server: fkvip101.qlgq1.pw
   port: 30443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: fkvip101.qlgq1.pw
@@ -1742,7 +1768,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_54
   server: fkvip101.qlgq1.pw
   port: 40443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: fkvip101.qlgq1.pw
@@ -1754,7 +1779,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_55
   server: fkvip101.qlgq1.pw
   port: 50443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: fkvip101.qlgq1.pw
@@ -1766,7 +1790,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_56
   server: sgvip101.qlgq1.pw
   port: 10443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: sgvip101.qlgq1.pw
@@ -1778,7 +1801,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_57
   server: sgvip101.qlgq1.pw
   port: 20443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: sgvip101.qlgq1.pw
@@ -1790,7 +1812,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_58
   server: sgvip101.qlgq1.pw
   port: 30443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: sgvip101.qlgq1.pw
@@ -1802,7 +1823,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_59
   server: sgvip101.qlgq1.pw
   port: 40443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: sgvip101.qlgq1.pw
@@ -1814,7 +1834,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_510
   server: sgvip101.qlgq1.pw
   port: 50443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: sgvip101.qlgq1.pw
@@ -1826,7 +1845,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_511
   server: jpvip102.qlgq1.pw
   port: 10443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: jpvip102.qlgq1.pw
@@ -1838,7 +1856,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_512
   server: jpvip102.qlgq1.pw
   port: 20443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: jpvip102.qlgq1.pw
@@ -1850,7 +1867,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_513
   server: jpvip102.qlgq1.pw
   port: 30443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: jpvip102.qlgq1.pw
@@ -1862,7 +1878,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_514
   server: jpvip102.qlgq1.pw
   port: 40443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: jpvip102.qlgq1.pw
@@ -1874,7 +1889,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_515
   server: jpvip102.qlgq1.pw
   port: 50443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: jpvip102.qlgq1.pw
@@ -1886,7 +1900,6 @@ proxies:
 - name: AFOSNE_United States_trojan_516
   server: lavip101.qlgq1.pw
   port: 10443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: lavip101.qlgq1.pw
@@ -1898,7 +1911,6 @@ proxies:
 - name: AFOSNE_United States_trojan_517
   server: lavip101.qlgq1.pw
   port: 20443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: lavip101.qlgq1.pw
@@ -1910,7 +1922,6 @@ proxies:
 - name: AFOSNE_United States_trojan_518
   server: lavip101.qlgq1.pw
   port: 30443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: lavip101.qlgq1.pw
@@ -1922,7 +1933,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_519
   server: hkvip102.qlgq1.pw
   port: 10443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: hkvip102.qlgq1.pw
@@ -1934,7 +1944,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_520
   server: hkvip102.qlgq1.pw
   port: 20443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: hkvip102.qlgq1.pw
@@ -1946,7 +1955,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_521
   server: hkvip102.qlgq1.pw
   port: 30443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: hkvip102.qlgq1.pw
@@ -1958,7 +1966,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_522
   server: hkvip102.qlgq1.pw
   port: 40443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: hkvip102.qlgq1.pw
@@ -1970,7 +1977,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_523
   server: hkvip102.qlgq1.pw
   port: 50443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: hkvip102.qlgq1.pw
@@ -1982,7 +1988,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_524
   server: hkvip103.qlgq1.pw
   port: 10444
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: hkvip103.qlgq1.pw
@@ -1994,7 +1999,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_525
   server: hkvip103.qlgq1.pw
   port: 20443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: hkvip103.qlgq1.pw
@@ -2006,7 +2010,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_526
   server: hkvip103.qlgq1.pw
   port: 30443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: hkvip103.qlgq1.pw
@@ -2018,7 +2021,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_527
   server: hkvip103.qlgq1.pw
   port: 40443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: hkvip103.qlgq1.pw
@@ -2030,7 +2032,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_528
   server: hkvip103.qlgq1.pw
   port: 50443
-  client-fingerprint: chrome
   type: trojan
   password: 2a93eea2-a324-3d93-bc92-734f5521feb8
   sni: hkvip103.qlgq1.pw
@@ -2043,7 +2044,7 @@ proxies:
   server: gdct003.theyydsnode.top
   port: 26681
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: gdct003.jcnode.top
   skip-cert-verify: true
   udp: true
@@ -2051,7 +2052,7 @@ proxies:
   server: gdct003.theyydsnode.top
   port: 26681
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: gdct003.jcnode.top
   skip-cert-verify: true
   udp: true
@@ -2059,7 +2060,7 @@ proxies:
   server: gdct001.theyydsnode.top
   port: 16343
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2067,7 +2068,7 @@ proxies:
   server: shcm002.theyydsnode.top
   port: 51031
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2075,7 +2076,7 @@ proxies:
   server: gdct001.theyydsnode.top
   port: 51031
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2083,7 +2084,7 @@ proxies:
   server: gdct003.theyydsnode.top
   port: 51031
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2091,7 +2092,7 @@ proxies:
   server: gdct003.theyydsnode.top
   port: 58464
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: sg03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2099,7 +2100,7 @@ proxies:
   server: shcm002.theyydsnode.top
   port: 58464
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: sg03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2107,7 +2108,7 @@ proxies:
   server: gdct001.theyydsnode.top
   port: 58464
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: sg03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2115,7 +2116,7 @@ proxies:
   server: shcm002.theyydsnode.top
   port: 25974
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2123,7 +2124,7 @@ proxies:
   server: gdct001.theyydsnode.top
   port: 25974
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2131,7 +2132,7 @@ proxies:
   server: gdct003.theyydsnode.top
   port: 25974
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2139,7 +2140,7 @@ proxies:
   server: gdct003.theyydsnode.top
   port: 35257
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2147,7 +2148,7 @@ proxies:
   server: gdct001.theyydsnode.top
   port: 35257
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2155,7 +2156,7 @@ proxies:
   server: gdct002.theyydsnode.top
   port: 35257
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2163,7 +2164,7 @@ proxies:
   server: gdct003.theyydsnode.top
   port: 26023
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2171,7 +2172,7 @@ proxies:
   server: shcm002.theyydsnode.top
   port: 26023
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2179,7 +2180,7 @@ proxies:
   server: gdct001.theyydsnode.top
   port: 26023
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2187,7 +2188,7 @@ proxies:
   server: gdct003.theyydsnode.top
   port: 15485
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2195,7 +2196,7 @@ proxies:
   server: shcm002.theyydsnode.top
   port: 15485
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2203,7 +2204,7 @@ proxies:
   server: gdct001.theyydsnode.top
   port: 15485
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2211,7 +2212,7 @@ proxies:
   server: shcm002.theyydsnode.top
   port: 10327
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2219,7 +2220,7 @@ proxies:
   server: gdct001.theyydsnode.top
   port: 10327
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2227,7 +2228,7 @@ proxies:
   server: gdct003.theyydsnode.top
   port: 10327
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2235,7 +2236,7 @@ proxies:
   server: shcm002.theyydsnode.top
   port: 16483
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2243,7 +2244,7 @@ proxies:
   server: gdct001.theyydsnode.top
   port: 16483
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2251,7 +2252,7 @@ proxies:
   server: gdct003.theyydsnode.top
   port: 16483
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2259,7 +2260,7 @@ proxies:
   server: gdct001.theyydsnode.top
   port: 64850
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2267,7 +2268,7 @@ proxies:
   server: gdct003.theyydsnode.top
   port: 64850
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2275,7 +2276,7 @@ proxies:
   server: shcm002.theyydsnode.top
   port: 64850
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2283,7 +2284,7 @@ proxies:
   server: shcm002.theyydsnode.top
   port: 47557
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2291,7 +2292,7 @@ proxies:
   server: gdct001.theyydsnode.top
   port: 47557
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2299,7 +2300,7 @@ proxies:
   server: gdct003.theyydsnode.top
   port: 47557
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2307,7 +2308,7 @@ proxies:
   server: gdct003.theyydsnode.top
   port: 16343
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2315,7 +2316,7 @@ proxies:
   server: shcm002.theyydsnode.top
   port: 16343
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2323,7 +2324,7 @@ proxies:
   server: gdct001.theyydsnode.top
   port: 16343
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2331,7 +2332,7 @@ proxies:
   server: shcm002.theyydsnode.top
   port: 26094
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: id01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2339,7 +2340,7 @@ proxies:
   server: gdct001.theyydsnode.top
   port: 26094
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: id01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2347,7 +2348,7 @@ proxies:
   server: gdct003.theyydsnode.top
   port: 26094
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: id01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2355,7 +2356,7 @@ proxies:
   server: shcm002.theyydsnode.top
   port: 42840
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: uk01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2363,7 +2364,7 @@ proxies:
   server: gdct001.theyydsnode.top
   port: 42840
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: uk01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2371,7 +2372,7 @@ proxies:
   server: gdct003.theyydsnode.top
   port: 42840
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: uk01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2379,7 +2380,7 @@ proxies:
   server: gdct003.theyydsnode.top
   port: 53279
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: de01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2387,7 +2388,7 @@ proxies:
   server: shcm002.theyydsnode.top
   port: 53279
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: de01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2395,7 +2396,7 @@ proxies:
   server: gdct001.theyydsnode.top
   port: 53279
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: de01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2403,7 +2404,7 @@ proxies:
   server: gdct001.theyydsnode.top
   port: 60293
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2411,7 +2412,7 @@ proxies:
   server: gdct003.theyydsnode.top
   port: 60293
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2419,7 +2420,7 @@ proxies:
   server: shcm002.theyydsnode.top
   port: 60293
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2427,7 +2428,7 @@ proxies:
   server: gdct001.theyydsnode.top
   port: 48560
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: us03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2435,7 +2436,7 @@ proxies:
   server: gdct003.theyydsnode.top
   port: 48560
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: us03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2443,7 +2444,7 @@ proxies:
   server: shcm002.theyydsnode.top
   port: 48560
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: us03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2451,7 +2452,7 @@ proxies:
   server: shcm002.theyydsnode.top
   port: 10658
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: us2.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2459,7 +2460,7 @@ proxies:
   server: gdct003.theyydsnode.top
   port: 10658
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: us2.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2467,7 +2468,7 @@ proxies:
   server: gdct001.theyydsnode.top
   port: 10658
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: us2.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2475,7 +2476,7 @@ proxies:
   server: shcm002.theyydsnode.top
   port: 26681
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: us04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2483,7 +2484,7 @@ proxies:
   server: gdct003.theyydsnode.top
   port: 26681
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: us04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2491,7 +2492,7 @@ proxies:
   server: gdct001.theyydsnode.top
   port: 26681
   type: trojan
-  password: 2291b4e1-b5cd-44e8-8834-a336c94c0487
+  password: e066c76a-9504-46f6-a9a2-22c69e71dcb0
   sni: us04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2676,10 +2677,14 @@ proxy-groups:
   - AFOSNE_China_ss_263
   - AFOSNE_China_ss_264
   - AFOSNE_China_ss_265
-  - AFOSNE_United States_vmess_31
-  - AFOSNE_United States_trojan_41
-  - AFOSNE_United States_trojan_42
+  - AFOSNE_China_ss_266
+  - AFOSNE_None_vmess_31
+  - AFOSNE_United States_vmess_32
+  - AFOSNE_Japan_trojan_41
+  - AFOSNE_Japan_trojan_42
   - AFOSNE_United States_trojan_43
+  - AFOSNE_United States_trojan_44
+  - AFOSNE_United States_trojan_45
   - AFOSNE_Germany_trojan_51
   - AFOSNE_Germany_trojan_52
   - AFOSNE_Germany_trojan_53
@@ -2946,10 +2951,14 @@ proxy-groups:
   - AFOSNE_China_ss_263
   - AFOSNE_China_ss_264
   - AFOSNE_China_ss_265
-  - AFOSNE_United States_vmess_31
-  - AFOSNE_United States_trojan_41
-  - AFOSNE_United States_trojan_42
+  - AFOSNE_China_ss_266
+  - AFOSNE_None_vmess_31
+  - AFOSNE_United States_vmess_32
+  - AFOSNE_Japan_trojan_41
+  - AFOSNE_Japan_trojan_42
   - AFOSNE_United States_trojan_43
+  - AFOSNE_United States_trojan_44
+  - AFOSNE_United States_trojan_45
   - AFOSNE_Germany_trojan_51
   - AFOSNE_Germany_trojan_52
   - AFOSNE_Germany_trojan_53

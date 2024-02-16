@@ -5,6 +5,7 @@ sub_info  66.03K  1G  2024-02-16 10:29:41+08:00  (剩余 1024M 3:12:54.581659)
 sub_url  https://www.jcbbsub.top:21600/api/v1/client/subscribe?token=baea972278ffbe7776dfc2fd08bdaa11
 time  2024-02-16 11:20:53.250692+08:00
 保存订阅信息失败  could not convert string to float: '1;'
+更新旧订阅失败  could not convert string to float: '1;'
 
 [fastestcloud.xyz]
 email  fcfmlbm37@gmail.com
@@ -13,11 +14,12 @@ sub_info  101.1K  1G  2024-02-16 10:05:59+08:00  (剩余 1024M 2:49:11.977941)
 sub_url  https://sub.flyyydds.top:21600/api/v1/client/subscribe?token=32e553205e782061437da0b1584c830e
 time  2024-02-16 11:21:06.916384+08:00
 保存订阅信息失败  could not convert string to float: '1;'
+更新旧订阅失败  could not convert string to float: '1;'
 
 [biubiufast.com]
 email  qniovtvm180@gmail.com
 node_n  12
-sub_info  12.83M  1G  2024-02-16 23:37:52+08:00  (剩余 1011M 12:20:27.047911)
+sub_info  12.83M  1G  2024-02-16 23:37:52+08:00  (剩余 1011M 10:21:36.439611)
 sub_url  https://biubiufast.website/api/v1/client/subscribe?token=ae79088471a18077d548f7b8fd7056ee
 time  2024-02-15 23:37:52.495528+08:00
 
@@ -25,7 +27,7 @@ time  2024-02-15 23:37:52.495528+08:00
 email  beljxfgz195@uuf.me
 last_checkin  2024-02-16 09:53:47.514270+08:00
 node_n  98
-sub_info  0B  1.218G  2024-02-17 09:53:47+08:00  (剩余 1.218G 22:36:22.896127)
+sub_info  0B  1.218G  2024-02-17 09:53:47+08:00  (剩余 1.218G 20:38:08.603727)
 sub_url  https://network.ayucloud.nl/link/Gid8xxMdDz2Wve4K?clash=1
 time  2024-02-16 09:53:48.363586+08:00
 
@@ -34,24 +36,24 @@ email  beljxfgz195@uuf.me
 invite_code  VZ0U  10000
 last_checkin  2024-02-16 09:53:35.439673+08:00
 node_n  48
-sub_info  0B  10.1G  2024-02-17 09:53:34+08:00  (剩余 10.1G 22:35:28.846550)
+sub_info  0B  10.1G  2024-02-17 09:53:34+08:00  (剩余 10.1G 20:37:53.118509)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/e6uQP6jNey3k4KQ9?sub=3
 time  2024-02-16 09:53:36.136256+08:00
-保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [qlgq.top]
 email  ocyakql479@lista.cc
 last_checkin  2024-02-16 01:14:40.409019+08:00
 node_n  28
-sub_info  5.525M  888.1G  2024-02-20 14:36:39+08:00  (剩余 888.1G 4 days, 3:19:15.347200)
+sub_info  93.45M  888.1G  2024-02-20 14:36:39+08:00  (剩余 888G 4 days, 1:21:05.028211)
 sub_url  https://www.qlgq.top/link/d7059054d5fa7ee2?clash=1
 time  2024-02-13 14:36:40.575592+08:00
+保存base64/clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
 
 [nova.live]
 email  ttrqanyyg721@localjobsnearme.com
 last_checkin  2024-02-16 01:14:40.410878+08:00
 node_n  5
-sub_info  1.828G  3.097G  永不过期  (剩余 1.269G)
+sub_info  1.828G  3.097G  永不过期  (剩余 1.268G)
 sub_url  https://new.gfw.news/link/wQbZdQAyoImFnOa1?sub=3
 time  2024-01-29 16:13:14.685588+08:00
 
@@ -59,14 +61,15 @@ time  2024-01-29 16:13:14.685588+08:00
 email  nasdirl709@yzm.de
 last_checkin  2024-02-16 01:14:40.411968+08:00
 node_n  19
-sub_info  0B  1.068G  2024-02-16 17:49:54+08:00  (剩余 1.068G 6:32:30.709009)
+sub_info  0B  1.068G  2024-02-16 17:49:54+08:00  (剩余 1.068G 4:33:34.779537)
 sub_url  https://dugusite.cyou/link/kqZq8VPzAkgOYUNR?sub=3
 time  2024-02-15 17:49:55.816182+08:00
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [mcecloud.com]
-email  fcfmlbm37@gmail.com
-last_checkin  2024-02-16 11:17:29.719790+08:00
-node_n  2
-sub_info  0B  11M  2024-02-16 11:17:29+08:00  (剩余 11M -1 day, 23:59:50.631426)
-sub_url  https://st-sub.fly.dev/ssp/mce/link/n7ZRO8Tr5OqeEe8z?sub=3
-time  2024-02-16 11:17:30.530732+08:00
+email  vbifzohd592@gmail.com
+last_checkin  2024-02-16 13:16:17.236390+08:00
+node_n  1
+sub_info  0B  96M  2024-02-16 13:16:17+08:00  (剩余 96M -1 day, 23:59:57.723937)
+sub_url  https://st-sub.fly.dev/ssp/mce/link/q8zd6gaNlrYWhoaj?sub=3
+time  2024-02-16 13:16:17.945248+08:00
