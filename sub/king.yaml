@@ -1644,7 +1644,7 @@ proxies:
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: 513fc3fe-9b7a-3d63-98d9-6ef9a0804af1
+  uuid: f81eb8d2-8853-3ce9-8375-238567937da0
   alterId: 0
   cipher: auto
   tls: false
@@ -1654,7 +1654,7 @@ proxies:
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: 513fc3fe-9b7a-3d63-98d9-6ef9a0804af1
+  uuid: f81eb8d2-8853-3ce9-8375-238567937da0
   alterId: 0
   cipher: auto
   tls: false
