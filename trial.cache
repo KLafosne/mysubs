@@ -10,14 +10,15 @@ time  2024-02-19 15:16:21.489593+08:00
 [fastestcloud.xyz]
 email  zlkjzat458@gmail.com
 node_n  64
-sub_info  0B  1G  2024-02-20 13:15:26+08:00  (剩余 1G 3:26:52.489775)
+sub_info  165K  1G  2024-02-20 13:15:26+08:00  (剩余 1024M 1:58:46.305843)
 sub_url  https://sub.flyyydds.top:21600/api/v1/client/subscribe?token=7882ba8f0a0e4bcce1481a1cde25ec6a
 time  2024-02-19 13:15:26.694828+08:00
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [biubiufast.com]
 email  rckzvuz681@gmail.com
 node_n  12
-sub_info  0B  1G  2024-02-20 23:16:15+08:00  (剩余 1G 13:27:41.242569)
+sub_info  0B  1G  2024-02-20 23:16:15+08:00  (剩余 1G 11:59:40.250552)
 sub_url  https://biubiufast.website/api/v1/client/subscribe?token=4284102b8eb7b7a30d19dc8aab18e316
 time  2024-02-19 23:16:15.847999+08:00
 
@@ -25,10 +26,9 @@ time  2024-02-19 23:16:15.847999+08:00
 email  ztlboej336@xxxhi.cc
 last_checkin  2024-02-20 09:48:40.814524+08:00
 node_n  98
-sub_info  0B  1.173G  2024-02-21 09:48:40+08:00  (剩余 1.173G 23:59:44.026031)
+sub_info  0B  1.173G  2024-02-21 09:48:40+08:00  (剩余 1.173G 22:32:01.730262)
 sub_url  https://network.ayucloud.nl/link/oIdpbS2X2zGrhVzr?clash=1
 time  2024-02-20 09:48:41.800519+08:00
-保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [人人传承.com]
 email  bkndzuk273@end.tw
@@ -38,13 +38,13 @@ node_n  48
 sub_info  0B  10.3G  2024-02-20 09:51:28+08:00  (剩余 10.3G 0:02:47.648512)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/hwei9sIGNPgDW2s6?sub=3
 time  2024-02-19 09:51:29.654851+08:00
-更新订阅链接/续费续签失败  注册失败(ztlboej336@gmail.com): HTTPSConnectionPool(host='xn--gmqa02ag57d.com', port=443): Max retries exceeded with url: /auth/register (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+更新旧订阅失败  HTTPSConnectionPool(host='xn--gmqa02ag57d.com', port=443): Max retries exceeded with url: /auth/login (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
 
 [qlgq.top]
 email  ocyakql479@lista.cc
 last_checkin  2024-02-20 01:14:18.533995+08:00
 node_n  28
-sub_info  8.028G  888.2G  2024-02-20 14:36:39+08:00  (剩余 880.2G 4:48:07.047441)
+sub_info  8.028G  888.2G  2024-02-20 14:36:39+08:00  (剩余 880.2G 3:20:03.060801)
 sub_url  https://www.qlgq.top/link/d7059054d5fa7ee2?clash=1
 time  2024-02-13 14:36:40.575592+08:00
 
@@ -60,14 +60,14 @@ time  2024-02-20 09:48:52.151600+08:00
 email  egkodhj667@yzm.de
 last_checkin  2024-02-20 01:14:18.535970+08:00
 node_n  19
-sub_info  0B  1.022G  2024-02-20 17:16:17+08:00  (剩余 1.022G 7:27:42.384274)
+sub_info  0B  1.022G  2024-02-20 17:16:17+08:00  (剩余 1.022G 5:59:41.154821)
 sub_url  https://dugusite.cyou/link/Bw4pdnrCzTT5W8Ea?sub=3
 time  2024-02-19 17:16:18.752949+08:00
 
 [mcecloud.com]
-email  ztlboej336@gmail.com
-last_checkin  2024-02-20 09:48:38.224108+08:00
+email  whletxs754@gmail.com
+last_checkin  2024-02-20 11:16:45.589369+08:00
 node_n  2
-sub_info  0B  93M  2024-02-20 09:48:37+08:00  (剩余 93M -1 day, 23:59:55.045620)
-sub_url  https://st-sub.fly.dev/ssp/mce/link/ld5QDX2PSw587sJe?sub=3
-time  2024-02-20 09:48:39.244497+08:00
+sub_info  0B  78M  2024-02-20 11:16:45+08:00  (剩余 78M -1 day, 23:59:14.723192)
+sub_url  https://st-sub.fly.dev/ssp/mce/link/us5c9qxsyDsISAMw?sub=3
+time  2024-02-20 11:16:46.365093+08:00
