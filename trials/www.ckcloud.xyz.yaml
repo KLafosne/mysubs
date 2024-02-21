@@ -39,7 +39,8 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 距离下次重置剩余：8 天 - JCBB, server: node000003.likeone.lol, port: 26681, type: trojan, password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
+- {name: 💣 剩余流量：1 GB - JCBB, server: node000003.likeone.lol, port: 26681, type: trojan, password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：7 天 - JCBB, server: node000003.likeone.lol, port: 26681, type: trojan, password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
 - {name: JCBB大陆永久跳转地址 https://jcbb.cc - JCBB, server: node000003.likeone.lol, port: 26681, type: trojan, password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f, sni: gdct003.jcnode.top, skip-cert-verify: true, udp: true}
 - {name: 国外永久跳转域名 https://jcbbs.shop - JCBB, server: node000001.likeone.lol, port: 16343, type: trojan, password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB, server: node000005.likeone.lol, port: 51031, type: trojan, password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
