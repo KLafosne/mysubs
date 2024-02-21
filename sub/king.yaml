@@ -1195,584 +1195,456 @@ proxies:
 - name: AFOSNE_China_ss_21
   server: node000001.likeone.lol
   port: 14374
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_22
   server: node000001.likeone.lol
   port: 14374
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_23
   server: node000005.likeone.lol
   port: 14374
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_24
   server: node000003.likeone.lol
   port: 14374
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_25
   server: node000001.likeone.lol
   port: 20356
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_26
   server: node000003.likeone.lol
   port: 20356
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_27
   server: node000005.likeone.lol
   port: 20356
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_28
   server: node000001.likeone.lol
   port: 37581
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_29
   server: node000003.likeone.lol
   port: 37581
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_210
   server: node000005.likeone.lol
   port: 37581
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_211
   server: node000001.likeone.lol
   port: 22704
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_212
   server: node000003.likeone.lol
   port: 22704
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_213
   server: node000005.likeone.lol
   port: 22704
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_214
   server: node000001.likeone.lol
   port: 14490
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_215
   server: node000003.likeone.lol
   port: 14490
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_216
   server: node000005.likeone.lol
   port: 14490
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_217
   server: node000001.likeone.lol
   port: 46912
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_218
   server: node000003.likeone.lol
   port: 46912
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_219
   server: node000005.likeone.lol
   port: 46912
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_220
   server: node000001.likeone.lol
   port: 15976
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_221
   server: node000003.likeone.lol
   port: 15976
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_222
   server: node000005.likeone.lol
   port: 15976
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_223
   server: node000001.likeone.lol
   port: 25074
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_224
   server: node000003.likeone.lol
   port: 25074
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_225
   server: node000005.likeone.lol
   port: 25074
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_226
   server: node000001.likeone.lol
   port: 35672
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_227
   server: node000003.likeone.lol
   port: 35672
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_228
   server: node000005.likeone.lol
   port: 35672
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_229
   server: node000001.likeone.lol
   port: 21526
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_230
   server: node000003.likeone.lol
   port: 21526
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_231
   server: node000005.likeone.lol
   port: 21526
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_232
   server: node000001.likeone.lol
   port: 40276
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_233
   server: node000003.likeone.lol
   port: 40276
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_234
   server: node000005.likeone.lol
   port: 40276
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_235
   server: node000001.likeone.lol
   port: 25881
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_236
   server: node000003.likeone.lol
   port: 25881
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_237
   server: node000005.likeone.lol
   port: 25881
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_238
   server: node000001.likeone.lol
   port: 10598
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_239
   server: node000003.likeone.lol
   port: 10598
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_240
   server: node000005.likeone.lol
   port: 10598
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_241
   server: node000001.likeone.lol
   port: 10519
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_242
   server: node000003.likeone.lol
   port: 10519
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_243
   server: node000005.likeone.lol
   port: 10519
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_244
   server: node000001.likeone.lol
   port: 28625
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_245
   server: node000003.likeone.lol
   port: 28625
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_246
   server: node000005.likeone.lol
   port: 28625
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_247
   server: node000001.likeone.lol
   port: 54295
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_248
   server: node000003.likeone.lol
   port: 54295
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_249
   server: node000005.likeone.lol
   port: 54295
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_250
   server: node000001.likeone.lol
   port: 45852
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_251
   server: node000003.likeone.lol
   port: 45852
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_252
   server: node000005.likeone.lol
   port: 45852
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_253
   server: node000001.likeone.lol
   port: 63640
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_254
   server: node000003.likeone.lol
   port: 63640
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_255
   server: node000005.likeone.lol
   port: 63640
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_256
   server: node000001.likeone.lol
   port: 15762
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_257
   server: node000003.likeone.lol
   port: 15762
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_258
   server: node000005.likeone.lol
   port: 15762
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_259
   server: node000001.likeone.lol
   port: 20943
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_260
   server: node000003.likeone.lol
   port: 20943
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_261
   server: node000005.likeone.lol
   port: 20943
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_262
   server: node000001.likeone.lol
   port: 39788
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_263
   server: node000003.likeone.lol
   port: 39788
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_264
   server: node000005.likeone.lol
   port: 39788
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: bdb1b677-2941-42e7-b231-a033559e2457
-  tfo: false
   udp: true
 - name: AFOSNE_United States_vmess_31
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: 64422c0d-6cb2-304e-bba6-8e069eda4b10
+  uuid: f4060fa3-fa3e-3f34-afc5-11be4df8847e
   alterId: 0
   cipher: auto
   tls: false
