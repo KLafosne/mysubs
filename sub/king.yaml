@@ -1768,7 +1768,7 @@ proxies:
   password: bdb1b677-2941-42e7-b231-a033559e2457
   tfo: false
   udp: true
-- name: AFOSNE_None_vmess_31
+- name: AFOSNE_United States_vmess_31
   server: mcecloud.net
   port: 10086
   type: vmess
@@ -2117,7 +2117,7 @@ proxies:
   server: node000003.likeone.lol
   port: 26681
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: gdct003.jcnode.top
   skip-cert-verify: true
   udp: true
@@ -2125,7 +2125,7 @@ proxies:
   server: node000003.likeone.lol
   port: 26681
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: gdct003.jcnode.top
   skip-cert-verify: true
   udp: true
@@ -2133,7 +2133,7 @@ proxies:
   server: node000001.likeone.lol
   port: 16343
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2141,7 +2141,7 @@ proxies:
   server: node000005.likeone.lol
   port: 51031
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2149,7 +2149,7 @@ proxies:
   server: node000001.likeone.lol
   port: 51031
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2157,7 +2157,7 @@ proxies:
   server: node000003.likeone.lol
   port: 51031
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2165,7 +2165,7 @@ proxies:
   server: node000003.likeone.lol
   port: 58464
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: sg02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2173,7 +2173,7 @@ proxies:
   server: node000005.likeone.lol
   port: 58464
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: sg02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2181,7 +2181,7 @@ proxies:
   server: node000001.likeone.lol
   port: 58464
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: sg02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2189,7 +2189,7 @@ proxies:
   server: node000005.likeone.lol
   port: 25974
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2197,7 +2197,7 @@ proxies:
   server: node000001.likeone.lol
   port: 25974
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2205,7 +2205,7 @@ proxies:
   server: node000003.likeone.lol
   port: 25974
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2213,7 +2213,7 @@ proxies:
   server: node000003.likeone.lol
   port: 35257
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2221,7 +2221,7 @@ proxies:
   server: node000001.likeone.lol
   port: 35257
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2229,7 +2229,7 @@ proxies:
   server: node000002.likeone.lol
   port: 35257
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2237,7 +2237,7 @@ proxies:
   server: node000003.likeone.lol
   port: 26023
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2245,7 +2245,7 @@ proxies:
   server: node000005.likeone.lol
   port: 26023
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2253,7 +2253,7 @@ proxies:
   server: node000001.likeone.lol
   port: 26023
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2261,7 +2261,7 @@ proxies:
   server: node000003.likeone.lol
   port: 15485
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2269,7 +2269,7 @@ proxies:
   server: node000005.likeone.lol
   port: 15485
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2277,7 +2277,7 @@ proxies:
   server: node000001.likeone.lol
   port: 15485
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2285,7 +2285,7 @@ proxies:
   server: node000005.likeone.lol
   port: 10327
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2293,7 +2293,7 @@ proxies:
   server: node000001.likeone.lol
   port: 10327
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2301,7 +2301,7 @@ proxies:
   server: node000003.likeone.lol
   port: 10327
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2309,7 +2309,7 @@ proxies:
   server: node000005.likeone.lol
   port: 16483
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2317,7 +2317,7 @@ proxies:
   server: node000001.likeone.lol
   port: 16483
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2325,7 +2325,7 @@ proxies:
   server: node000003.likeone.lol
   port: 16483
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2333,7 +2333,7 @@ proxies:
   server: node000001.likeone.lol
   port: 64850
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2341,7 +2341,7 @@ proxies:
   server: node000003.likeone.lol
   port: 64850
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2349,7 +2349,7 @@ proxies:
   server: node000005.likeone.lol
   port: 64850
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2357,7 +2357,7 @@ proxies:
   server: node000005.likeone.lol
   port: 47557
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2365,7 +2365,7 @@ proxies:
   server: node000001.likeone.lol
   port: 47557
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2373,7 +2373,7 @@ proxies:
   server: node000003.likeone.lol
   port: 47557
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2381,7 +2381,7 @@ proxies:
   server: node000003.likeone.lol
   port: 16343
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2389,7 +2389,7 @@ proxies:
   server: node000005.likeone.lol
   port: 16343
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2397,7 +2397,7 @@ proxies:
   server: node000001.likeone.lol
   port: 16343
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2405,7 +2405,7 @@ proxies:
   server: node000005.likeone.lol
   port: 26094
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: id01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2413,7 +2413,7 @@ proxies:
   server: node000001.likeone.lol
   port: 26094
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: id01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2421,7 +2421,7 @@ proxies:
   server: node000003.likeone.lol
   port: 26094
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: id01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2429,7 +2429,7 @@ proxies:
   server: node000005.likeone.lol
   port: 42840
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: uk01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2437,7 +2437,7 @@ proxies:
   server: node000001.likeone.lol
   port: 42840
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: uk01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2445,7 +2445,7 @@ proxies:
   server: node000003.likeone.lol
   port: 42840
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: uk01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2453,7 +2453,7 @@ proxies:
   server: node000003.likeone.lol
   port: 53279
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: de01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2461,7 +2461,7 @@ proxies:
   server: node000005.likeone.lol
   port: 53279
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: de01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2469,7 +2469,7 @@ proxies:
   server: node000001.likeone.lol
   port: 53279
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: de01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2477,7 +2477,7 @@ proxies:
   server: node000001.likeone.lol
   port: 60293
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2485,7 +2485,7 @@ proxies:
   server: node000003.likeone.lol
   port: 60293
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2493,7 +2493,7 @@ proxies:
   server: node000005.likeone.lol
   port: 60293
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2501,7 +2501,7 @@ proxies:
   server: node000001.likeone.lol
   port: 48560
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: us03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2509,7 +2509,7 @@ proxies:
   server: node000003.likeone.lol
   port: 48560
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: us03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2517,7 +2517,7 @@ proxies:
   server: node000005.likeone.lol
   port: 48560
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: us03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2525,7 +2525,7 @@ proxies:
   server: node000005.likeone.lol
   port: 10658
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: us2.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2533,7 +2533,7 @@ proxies:
   server: node000003.likeone.lol
   port: 10658
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: us2.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2541,7 +2541,7 @@ proxies:
   server: node000001.likeone.lol
   port: 10658
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: us2.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2549,7 +2549,7 @@ proxies:
   server: node000005.likeone.lol
   port: 26681
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: us04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2557,7 +2557,7 @@ proxies:
   server: node000003.likeone.lol
   port: 26681
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: us04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2565,7 +2565,7 @@ proxies:
   server: node000001.likeone.lol
   port: 26681
   type: trojan
-  password: f5f14477-a538-4c4f-a2f4-dedf1dfb6b86
+  password: 9c8e1f15-af19-41e0-8f44-e7dc21b20c2f
   sni: us04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2749,7 +2749,7 @@ proxy-groups:
   - AFOSNE_China_ss_262
   - AFOSNE_China_ss_263
   - AFOSNE_China_ss_264
-  - AFOSNE_None_vmess_31
+  - AFOSNE_United States_vmess_31
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
@@ -3018,7 +3018,7 @@ proxy-groups:
   - AFOSNE_China_ss_262
   - AFOSNE_China_ss_263
   - AFOSNE_China_ss_264
-  - AFOSNE_None_vmess_31
+  - AFOSNE_United States_vmess_31
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
