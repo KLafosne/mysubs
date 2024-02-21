@@ -41,7 +41,7 @@ proxy-groups:
 proxies:
 - {name: US000高速 - NovaLive, server: 34.213.222.122, port: 443, client-fingerprint: chrome, type: trojan, password: 4f72fa15-9b80-3e40-a4f0-919ccaae87b6, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
 - {name: US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5474, client-fingerprint: chrome, type: trojan, password: 4f72fa15-9b80-3e40-a4f0-919ccaae87b6, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3491, client-fingerprint: chrome, type: trojan, password: 4f72fa15-9b80-3e40-a4f0-919ccaae87b6, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3492, client-fingerprint: chrome, type: trojan, password: 4f72fa15-9b80-3e40-a4f0-919ccaae87b6, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,17gouwuba.com,REJECT
 - DOMAIN-SUFFIX,186078.com,REJECT
