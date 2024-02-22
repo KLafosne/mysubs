@@ -1640,11 +1640,11 @@ proxies:
   cipher: chacha20-ietf-poly1305
   password: 592092a2-af49-492f-891f-977643f6040a
   udp: true
-- name: AFOSNE_None_vmess_31
+- name: AFOSNE_United States_vmess_31
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: 498e560e-d575-34e4-af5f-471f43db314a
+  uuid: 32f37a73-d75e-37c3-95ad-e3e0ec29c5a0
   alterId: 0
   cipher: auto
   tls: false
@@ -1654,7 +1654,7 @@ proxies:
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: 498e560e-d575-34e4-af5f-471f43db314a
+  uuid: 32f37a73-d75e-37c3-95ad-e3e0ec29c5a0
   alterId: 0
   cipher: auto
   tls: false
@@ -1670,7 +1670,7 @@ proxies:
   udp: true
 - name: AFOSNE_United States_trojan_42
   server: 103.136.185.27
-  port: 5474
+  port: 5475
   type: trojan
   password: 4f72fa15-9b80-3e40-a4f0-919ccaae87b6
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -2628,7 +2628,7 @@ proxy-groups:
   - AFOSNE_China_ss_262
   - AFOSNE_China_ss_263
   - AFOSNE_China_ss_264
-  - AFOSNE_None_vmess_31
+  - AFOSNE_United States_vmess_31
   - AFOSNE_United States_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
@@ -2898,7 +2898,7 @@ proxy-groups:
   - AFOSNE_China_ss_262
   - AFOSNE_China_ss_263
   - AFOSNE_China_ss_264
-  - AFOSNE_None_vmess_31
+  - AFOSNE_United States_vmess_31
   - AFOSNE_United States_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
