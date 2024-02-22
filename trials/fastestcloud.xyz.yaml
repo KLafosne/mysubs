@@ -39,7 +39,7 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 距离下次重置剩余：7 天 - FastFly, server: node000001.likeone.lol, port: 14374, type: ss, cipher: chacha20-ietf-poly1305, password: 592092a2-af49-492f-891f-977643f6040a, udp: true}
+- {name: 距离下次重置剩余：6 天 - FastFly, server: node000001.likeone.lol, port: 14374, type: ss, cipher: chacha20-ietf-poly1305, password: 592092a2-af49-492f-891f-977643f6040a, udp: true}
 - {name: vip1 韩国-01 - FastFly, server: node000001.likeone.lol, port: 14374, type: ss, cipher: chacha20-ietf-poly1305, password: 592092a2-af49-492f-891f-977643f6040a, udp: true}
 - {name: vip1 韩国-02 - FastFly, server: node000005.likeone.lol, port: 14374, type: ss, cipher: chacha20-ietf-poly1305, password: 592092a2-af49-492f-891f-977643f6040a, udp: true}
 - {name: vip1 韩国-03 - FastFly, server: node000003.likeone.lol, port: 14374, type: ss, cipher: chacha20-ietf-poly1305, password: 592092a2-af49-492f-891f-977643f6040a, udp: true}
