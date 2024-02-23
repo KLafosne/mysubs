@@ -1786,17 +1786,43 @@ proxies:
   password: 8c65c53b-ab38-46f2-92de-cf2779342a5c
   tfo: false
   udp: true
-- name: AFOSNE_None_vmess_31
+- name: AFOSNE_United States_vmess_31
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: 2eda3c7d-c0ee-32f4-a520-768e5131e174
+  uuid: 1dec885d-8a9a-3cb9-be86-1fcce7296e13
   alterId: 0
   cipher: auto
   tls: false
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_United States_trojan_41
+- name: AFOSNE_United States_vmess_32
+  server: mcecloud.net
+  port: 10086
+  type: vmess
+  uuid: 1dec885d-8a9a-3cb9-be86-1fcce7296e13
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_Japan_trojan_41
+  server: 54.95.145.74
+  port: 443
+  type: trojan
+  password: 4f72fa15-9b80-3e40-a4f0-919ccaae87b6
+  sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_Japan_trojan_42
+  server: 43.206.113.108
+  port: 443
+  type: trojan
+  password: 4f72fa15-9b80-3e40-a4f0-919ccaae87b6
+  sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_United States_trojan_43
   server: 34.213.222.122
   port: 443
   type: trojan
@@ -1804,7 +1830,7 @@ proxies:
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_United States_trojan_42
+- name: AFOSNE_United States_trojan_44
   server: 103.136.185.27
   port: 5475
   type: trojan
@@ -1812,9 +1838,9 @@ proxies:
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_United States_trojan_43
+- name: AFOSNE_United States_trojan_45
   server: 103.136.185.28
-  port: 3492
+  port: 3493
   type: trojan
   password: 4f72fa15-9b80-3e40-a4f0-919ccaae87b6
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -2772,10 +2798,13 @@ proxy-groups:
   - AFOSNE_China_ss_262
   - AFOSNE_China_ss_263
   - AFOSNE_China_ss_264
-  - AFOSNE_None_vmess_31
-  - AFOSNE_United States_trojan_41
-  - AFOSNE_United States_trojan_42
+  - AFOSNE_United States_vmess_31
+  - AFOSNE_United States_vmess_32
+  - AFOSNE_Japan_trojan_41
+  - AFOSNE_Japan_trojan_42
   - AFOSNE_United States_trojan_43
+  - AFOSNE_United States_trojan_44
+  - AFOSNE_United States_trojan_45
   - AFOSNE_Germany_trojan_51
   - AFOSNE_Germany_trojan_52
   - AFOSNE_Germany_trojan_53
@@ -3042,10 +3071,13 @@ proxy-groups:
   - AFOSNE_China_ss_262
   - AFOSNE_China_ss_263
   - AFOSNE_China_ss_264
-  - AFOSNE_None_vmess_31
-  - AFOSNE_United States_trojan_41
-  - AFOSNE_United States_trojan_42
+  - AFOSNE_United States_vmess_31
+  - AFOSNE_United States_vmess_32
+  - AFOSNE_Japan_trojan_41
+  - AFOSNE_Japan_trojan_42
   - AFOSNE_United States_trojan_43
+  - AFOSNE_United States_trojan_44
+  - AFOSNE_United States_trojan_45
   - AFOSNE_Germany_trojan_51
   - AFOSNE_Germany_trojan_52
   - AFOSNE_Germany_trojan_53
