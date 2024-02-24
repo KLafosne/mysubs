@@ -29,7 +29,7 @@ proxies:
   server: jp1.biubiufast.quest
   port: 5203
   type: trojan
-  password: c969a7f2-8537-492b-a898-bd3d9d121a86
+  password: 1863cbe5-0130-4bb9-b0c0-8b612cd8f0b9
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_Japan_ss_02
@@ -37,48 +37,48 @@ proxies:
   port: 5204
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c969a7f2-8537-492b-a898-bd3d9d121a86
+  password: 1863cbe5-0130-4bb9-b0c0-8b612cd8f0b9
   udp: true
 - name: AFOSNE_Hong Kong_ss_03
   server: hk1.biubiufast.quest
   port: 5204
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c969a7f2-8537-492b-a898-bd3d9d121a86
+  password: 1863cbe5-0130-4bb9-b0c0-8b612cd8f0b9
   udp: true
 - name: AFOSNE_China_ss_04
   server: dl.biubiufast.quest
   port: 11012
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c969a7f2-8537-492b-a898-bd3d9d121a86
+  password: 1863cbe5-0130-4bb9-b0c0-8b612cd8f0b9
   udp: true
 - name: AFOSNE_China_ss_05
   server: dl.biubiufast.quest
   port: 11005
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c969a7f2-8537-492b-a898-bd3d9d121a86
+  password: 1863cbe5-0130-4bb9-b0c0-8b612cd8f0b9
   udp: true
 - name: AFOSNE_China_ss_06
   server: dl.biubiufast.quest
   port: 22001
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c969a7f2-8537-492b-a898-bd3d9d121a86
+  password: 1863cbe5-0130-4bb9-b0c0-8b612cd8f0b9
   udp: true
 - name: AFOSNE_China_ss_07
   server: dl.biubiufast.quest
   port: 11002
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c969a7f2-8537-492b-a898-bd3d9d121a86
+  password: 1863cbe5-0130-4bb9-b0c0-8b612cd8f0b9
   udp: true
 - name: AFOSNE_China_trojan_08
   server: dl.biubiufast.quest
   port: 11201
   type: trojan
-  password: c969a7f2-8537-492b-a898-bd3d9d121a86
+  password: 1863cbe5-0130-4bb9-b0c0-8b612cd8f0b9
   sni: jp1.biubiufast.quest
   skip-cert-verify: true
   udp: true
@@ -86,7 +86,7 @@ proxies:
   server: dl.biubiufast.quest
   port: 11101
   type: trojan
-  password: c969a7f2-8537-492b-a898-bd3d9d121a86
+  password: 1863cbe5-0130-4bb9-b0c0-8b612cd8f0b9
   sni: hk1.biubiufast.quest
   skip-cert-verify: true
   udp: true
@@ -94,7 +94,7 @@ proxies:
   server: dl.biubiufast.quest
   port: 12311
   type: trojan
-  password: c969a7f2-8537-492b-a898-bd3d9d121a86
+  password: 1863cbe5-0130-4bb9-b0c0-8b612cd8f0b9
   sni: dg5.biubiufast.quest
   skip-cert-verify: true
   udp: true
@@ -102,7 +102,7 @@ proxies:
   server: dl.biubiufast.quest
   port: 11302
   type: trojan
-  password: c969a7f2-8537-492b-a898-bd3d9d121a86
+  password: 1863cbe5-0130-4bb9-b0c0-8b612cd8f0b9
   sni: hk15.biubiufast.quest
   skip-cert-verify: true
   udp: true
@@ -110,7 +110,7 @@ proxies:
   server: dl.biubiufast.quest
   port: 11303
   type: trojan
-  password: c969a7f2-8537-492b-a898-bd3d9d121a86
+  password: 1863cbe5-0130-4bb9-b0c0-8b612cd8f0b9
   sni: sfo6.biubiufast.quest
   skip-cert-verify: true
   udp: true
@@ -1644,7 +1644,7 @@ proxies:
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: e520b5eb-af07-3b66-b5d2-1c50931c13e1
+  uuid: 0f734a10-5abc-3c88-8d9b-d5fb165b1f95
   alterId: 0
   cipher: auto
   tls: false
@@ -1653,6 +1653,7 @@ proxies:
 - name: AFOSNE_United States_trojan_41
   server: 34.213.222.122
   port: 443
+  client-fingerprint: chrome
   type: trojan
   password: ec338bf7-331e-3ee5-89d1-947479162d92
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -1661,6 +1662,7 @@ proxies:
 - name: AFOSNE_United States_trojan_42
   server: 103.136.185.27
   port: 5475
+  client-fingerprint: chrome
   type: trojan
   password: ec338bf7-331e-3ee5-89d1-947479162d92
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -1669,6 +1671,7 @@ proxies:
 - name: AFOSNE_United States_trojan_43
   server: 103.136.185.28
   port: 3493
+  client-fingerprint: chrome
   type: trojan
   password: ec338bf7-331e-3ee5-89d1-947479162d92
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
