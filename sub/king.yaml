@@ -142,7 +142,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_12
   server: 231103level3.unclemanco.com
@@ -153,7 +153,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_13
   server: 231103level3.unclemanco.com
@@ -164,7 +164,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_14
   server: 231103level3.unclemanco.com
@@ -175,7 +175,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_15
   server: 231103level3.unclemanco.com
@@ -186,7 +186,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_16
   server: 231103level3.unclemanco.com
@@ -197,7 +197,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_17
   server: 231103level3.unclemanco.com
@@ -208,7 +208,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_18
   server: 231103level3.unclemanco.com
@@ -219,7 +219,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_19
   server: 231103level3.unclemanco.com
@@ -230,7 +230,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_110
   server: 231103level3.unclemanco.com
@@ -241,7 +241,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_111
   server: 231103level3.unclemanco.com
@@ -252,7 +252,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_112
   server: 231103level3.unclemanco.com
@@ -263,7 +263,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_113
   server: 231103level3.unclemanco.com
@@ -274,7 +274,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_114
   server: 231103level3.unclemanco.com
@@ -285,7 +285,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_115
   server: 231103level3.unclemanco.com
@@ -296,7 +296,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_116
   server: 231103level3.unclemanco.com
@@ -307,7 +307,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_117
   server: 231103level3.unclemanco.com
@@ -318,7 +318,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_118
   server: 231103level3.unclemanco.com
@@ -329,7 +329,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_119
   server: 231103level3.unclemanco.com
@@ -340,7 +340,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_120
   server: 231103level3.unclemanco.com
@@ -351,7 +351,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_121
   server: 231103level3.unclemanco.com
@@ -362,7 +362,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_122
   server: 231103level3.unclemanco.com
@@ -373,7 +373,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_123
   server: 231103level3.unclemanco.com
@@ -384,7 +384,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_124
   server: 231103level3.unclemanco.com
@@ -395,7 +395,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_125
   server: 231103level3.unclemanco.com
@@ -406,7 +406,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_126
   server: 231103level3.unclemanco.com
@@ -417,7 +417,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_127
   server: 231103level3.unclemanco.com
@@ -428,7 +428,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_128
   server: 231103level3.unclemanco.com
@@ -439,7 +439,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_129
   server: 231103level3.unclemanco.com
@@ -450,7 +450,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_130
   server: 231103level3.unclemanco.com
@@ -461,7 +461,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_131
   server: 231103level3.unclemanco.com
@@ -472,7 +472,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_132
   server: 231103level3.unclemanco.com
@@ -483,7 +483,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_133
   server: 231103level3.unclemanco.com
@@ -494,7 +494,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_134
   server: 231103level3.unclemanco.com
@@ -505,7 +505,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_135
   server: 231103level3.unclemanco.com
@@ -516,7 +516,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_136
   server: 231103level3.unclemanco.com
@@ -527,7 +527,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_137
   server: 231103level3.unclemanco.com
@@ -538,7 +538,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_138
   server: 231103level3.unclemanco.com
@@ -549,7 +549,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_139
   server: 231103level3.unclemanco.com
@@ -560,7 +560,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_140
   server: 231103level3.unclemanco.com
@@ -571,7 +571,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_141
   server: 231103level3.unclemanco.com
@@ -582,7 +582,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_142
   server: 231103level3.unclemanco.com
@@ -593,7 +593,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_143
   server: 231103level3.unclemanco.com
@@ -604,7 +604,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_144
   server: 231103level3.unclemanco.com
@@ -615,7 +615,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_145
   server: 231103level3.unclemanco.com
@@ -626,7 +626,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_146
   server: 231103level3.unclemanco.com
@@ -637,7 +637,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_147
   server: 231103level2.unclemanco.com
@@ -648,7 +648,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_148
   server: 231103level2.unclemanco.com
@@ -659,7 +659,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_149
   server: 231103level2.unclemanco.com
@@ -670,7 +670,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_150
   server: 231103level2.unclemanco.com
@@ -681,7 +681,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_151
   server: 231103level2.unclemanco.com
@@ -692,7 +692,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_152
   server: 231103level2.unclemanco.com
@@ -703,7 +703,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_153
   server: 231103level2.unclemanco.com
@@ -714,7 +714,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_154
   server: 231103level2.unclemanco.com
@@ -725,7 +725,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_155
   server: 231103level2.unclemanco.com
@@ -736,7 +736,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_156
   server: 231103level2.unclemanco.com
@@ -747,7 +747,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_157
   server: 231103level2.unclemanco.com
@@ -758,7 +758,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_158
   server: 231103level2.unclemanco.com
@@ -769,7 +769,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_159
   server: 231103level2.unclemanco.com
@@ -780,7 +780,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_160
   server: 231103level2.unclemanco.com
@@ -791,7 +791,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_161
   server: 231103level2.unclemanco.com
@@ -802,7 +802,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_162
   server: 231103level2.unclemanco.com
@@ -813,7 +813,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_163
   server: 231103level2.unclemanco.com
@@ -824,7 +824,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_164
   server: 231103level2.unclemanco.com
@@ -835,7 +835,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_165
   server: 231103level2.unclemanco.com
@@ -846,7 +846,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_166
   server: 231103level2.unclemanco.com
@@ -857,7 +857,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_167
   server: 231103level2.unclemanco.com
@@ -868,7 +868,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_168
   server: 231103levelx.unclemanco.com
@@ -879,7 +879,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_169
   server: 231103levelx.unclemanco.com
@@ -890,7 +890,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_170
   server: 231103level2.unclemanco.com
@@ -901,7 +901,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_171
   server: 231103level2.unclemanco.com
@@ -912,7 +912,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_172
   server: 231103level2.unclemanco.com
@@ -923,7 +923,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_173
   server: 231103level2.unclemanco.com
@@ -934,7 +934,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_174
   server: 231103level2.unclemanco.com
@@ -945,7 +945,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_175
   server: 231103level2.unclemanco.com
@@ -956,7 +956,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_176
   server: 231103level2.unclemanco.com
@@ -967,7 +967,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_177
   server: 231103level2.unclemanco.com
@@ -978,7 +978,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_178
   server: 231103level2.unclemanco.com
@@ -989,7 +989,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_179
   server: 231103level2.unclemanco.com
@@ -1000,7 +1000,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_180
   server: 231103level2.unclemanco.com
@@ -1011,7 +1011,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_181
   server: 231103level2.unclemanco.com
@@ -1022,7 +1022,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_182
   server: 231103level1.unclemanco.com
@@ -1033,7 +1033,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_183
   server: 231103level1.unclemanco.com
@@ -1044,7 +1044,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_184
   server: 231103level1.unclemanco.com
@@ -1055,7 +1055,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_185
   server: 231103level1.unclemanco.com
@@ -1066,7 +1066,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_186
   server: 231103level1.unclemanco.com
@@ -1077,7 +1077,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_187
   server: 231103level1.unclemanco.com
@@ -1088,7 +1088,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_188
   server: 231103level1.unclemanco.com
@@ -1099,7 +1099,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_189
   server: 231103level1.unclemanco.com
@@ -1110,7 +1110,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_190
   server: 231103level1.unclemanco.com
@@ -1121,7 +1121,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_191
   server: 231103level1.unclemanco.com
@@ -1132,7 +1132,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_192
   server: 231103levelx.unclemanco.com
@@ -1143,7 +1143,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_193
   server: 231103levelx.unclemanco.com
@@ -1154,7 +1154,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_194
   server: 231103level1.unclemanco.com
@@ -1165,7 +1165,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_195
   server: 231103level1.unclemanco.com
@@ -1176,7 +1176,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_196
   server: 231103level1.unclemanco.com
@@ -1187,7 +1187,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_197
   server: 231103level1.unclemanco.com
@@ -1198,7 +1198,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_198
   server: 231103level1.unclemanco.com
@@ -1209,7 +1209,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: de30e88826.download.windowsupdate.com
+    host: 565a488884.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_21
   server: node000001.likeone.lol
@@ -1659,7 +1659,7 @@ proxies:
   cipher: chacha20-ietf-poly1305
   password: 8c65c53b-ab38-46f2-92de-cf2779342a5c
   udp: true
-- name: AFOSNE_United States_vmess_31
+- name: AFOSNE_None_vmess_31
   server: mcecloud.net
   port: 10086
   type: vmess
@@ -2648,7 +2648,7 @@ proxy-groups:
   - AFOSNE_China_ss_262
   - AFOSNE_China_ss_263
   - AFOSNE_China_ss_264
-  - AFOSNE_United States_vmess_31
+  - AFOSNE_None_vmess_31
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
@@ -2918,7 +2918,7 @@ proxy-groups:
   - AFOSNE_China_ss_262
   - AFOSNE_China_ss_263
   - AFOSNE_China_ss_264
-  - AFOSNE_United States_vmess_31
+  - AFOSNE_None_vmess_31
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
