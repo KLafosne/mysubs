@@ -28,55 +28,70 @@ proxies:
 - name: AFOSNE_Japan_trojan_01
   server: jp1.biubiufast.quest
   port: 5203
+  client-fingerprint: chrome
   type: trojan
   password: d7058229-6659-4cb0-8cbf-0abc28078b5d
+  sni: jp1.biubiufast.quest
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_Japan_ss_02
   server: jp1.biubiufast.quest
   port: 5204
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: d7058229-6659-4cb0-8cbf-0abc28078b5d
+  tfo: false
   udp: true
 - name: AFOSNE_Hong Kong_ss_03
   server: hk1.biubiufast.quest
   port: 5204
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: d7058229-6659-4cb0-8cbf-0abc28078b5d
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_04
   server: dl.biubiufast.quest
   port: 11012
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: d7058229-6659-4cb0-8cbf-0abc28078b5d
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_05
   server: dl.biubiufast.quest
   port: 11005
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: d7058229-6659-4cb0-8cbf-0abc28078b5d
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_06
   server: dl.biubiufast.quest
   port: 22001
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: d7058229-6659-4cb0-8cbf-0abc28078b5d
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_07
   server: dl.biubiufast.quest
   port: 11002
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: d7058229-6659-4cb0-8cbf-0abc28078b5d
+  tfo: false
   udp: true
 - name: AFOSNE_China_trojan_08
   server: dl.biubiufast.quest
   port: 11201
+  client-fingerprint: chrome
   type: trojan
   password: d7058229-6659-4cb0-8cbf-0abc28078b5d
   sni: jp1.biubiufast.quest
@@ -85,6 +100,7 @@ proxies:
 - name: AFOSNE_China_trojan_09
   server: dl.biubiufast.quest
   port: 11101
+  client-fingerprint: chrome
   type: trojan
   password: d7058229-6659-4cb0-8cbf-0abc28078b5d
   sni: hk1.biubiufast.quest
@@ -93,6 +109,7 @@ proxies:
 - name: AFOSNE_China_trojan_010
   server: dl.biubiufast.quest
   port: 12311
+  client-fingerprint: chrome
   type: trojan
   password: d7058229-6659-4cb0-8cbf-0abc28078b5d
   sni: dg5.biubiufast.quest
@@ -101,6 +118,7 @@ proxies:
 - name: AFOSNE_China_trojan_011
   server: dl.biubiufast.quest
   port: 11302
+  client-fingerprint: chrome
   type: trojan
   password: d7058229-6659-4cb0-8cbf-0abc28078b5d
   sni: hk15.biubiufast.quest
@@ -109,6 +127,7 @@ proxies:
 - name: AFOSNE_China_trojan_012
   server: dl.biubiufast.quest
   port: 11303
+  client-fingerprint: chrome
   type: trojan
   password: d7058229-6659-4cb0-8cbf-0abc28078b5d
   sni: sfo6.biubiufast.quest
@@ -1861,7 +1880,7 @@ proxies:
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: dd28a3ba-63ae-3f6e-a253-a5c1606bdb4e
+  uuid: 3d12a9d8-c140-386b-880f-41390b8ff77a
   alterId: 0
   cipher: auto
   tls: false
@@ -1871,34 +1890,47 @@ proxies:
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: dd28a3ba-63ae-3f6e-a253-a5c1606bdb4e
+  uuid: 3d12a9d8-c140-386b-880f-41390b8ff77a
   alterId: 0
   cipher: auto
   tls: false
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_United States_trojan_41
-  server: 34.213.222.122
+- name: AFOSNE_Japan_trojan_41
+  server: 54.95.145.74
   port: 443
-  client-fingerprint: chrome
   type: trojan
   password: ec338bf7-331e-3ee5-89d1-947479162d92
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_United States_trojan_42
-  server: 103.136.185.27
-  port: 5478
-  client-fingerprint: chrome
+- name: AFOSNE_Japan_trojan_42
+  server: 43.206.113.108
+  port: 443
   type: trojan
   password: ec338bf7-331e-3ee5-89d1-947479162d92
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_United States_trojan_43
+  server: 34.213.222.122
+  port: 443
+  type: trojan
+  password: ec338bf7-331e-3ee5-89d1-947479162d92
+  sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_United States_trojan_44
+  server: 103.136.185.27
+  port: 5478
+  type: trojan
+  password: ec338bf7-331e-3ee5-89d1-947479162d92
+  sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_United States_trojan_45
   server: 103.136.185.28
   port: 3494
-  client-fingerprint: chrome
   type: trojan
   password: ec338bf7-331e-3ee5-89d1-947479162d92
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -2861,9 +2893,11 @@ proxy-groups:
   - AFOSNE_China_ss_267
   - AFOSNE_United States_vmess_31
   - AFOSNE_None_vmess_32
-  - AFOSNE_United States_trojan_41
-  - AFOSNE_United States_trojan_42
+  - AFOSNE_Japan_trojan_41
+  - AFOSNE_Japan_trojan_42
   - AFOSNE_United States_trojan_43
+  - AFOSNE_United States_trojan_44
+  - AFOSNE_United States_trojan_45
   - AFOSNE_Germany_trojan_51
   - AFOSNE_Germany_trojan_52
   - AFOSNE_Germany_trojan_53
@@ -3135,9 +3169,11 @@ proxy-groups:
   - AFOSNE_China_ss_267
   - AFOSNE_United States_vmess_31
   - AFOSNE_None_vmess_32
-  - AFOSNE_United States_trojan_41
-  - AFOSNE_United States_trojan_42
+  - AFOSNE_Japan_trojan_41
+  - AFOSNE_Japan_trojan_42
   - AFOSNE_United States_trojan_43
+  - AFOSNE_United States_trojan_44
+  - AFOSNE_United States_trojan_45
   - AFOSNE_Germany_trojan_51
   - AFOSNE_Germany_trojan_52
   - AFOSNE_Germany_trojan_53
