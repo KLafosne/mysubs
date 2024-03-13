@@ -39,7 +39,6 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 💣 剩余流量：1 GB - FastFly, server: gcdddd0001.likeone.lol, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 2bad2008-339e-40c9-a6e3-c9beac53e91c, udp: true}
 - {name: 距离下次重置剩余：17 天 - FastFly, server: gcdddd0001.likeone.lol, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 2bad2008-339e-40c9-a6e3-c9beac53e91c, udp: true}
 - {name: FastFly 永久跳转地址 https://fastfly.club - FastFly, server: gcdddd0001.likeone.lol, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 2bad2008-339e-40c9-a6e3-c9beac53e91c, udp: true}
 - {name: FastFly 国外地址： https://cloud.fastfly.top - FastFly, server: gcdddd0001.likeone.lol, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 2bad2008-339e-40c9-a6e3-c9beac53e91c, udp: true}
