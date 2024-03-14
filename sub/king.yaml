@@ -1411,450 +1411,439 @@ proxies:
   udp: true
 - name: AFOSNE_China_ss_24
   server: gcdddd0001.likeone.lol
-  port: 14374
+  port: 20356
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_25
-  server: gcdddd0005.likeone.lol
-  port: 14374
+  server: gcdddd0003.likeone.lol
+  port: 20356
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_26
-  server: gcdddd0003.likeone.lol
-  port: 14374
+  server: gcdddd0005.likeone.lol
+  port: 20356
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_27
   server: gcdddd0001.likeone.lol
-  port: 20356
+  port: 37581
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_28
   server: gcdddd0003.likeone.lol
-  port: 20356
+  port: 37581
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_29
   server: gcdddd0005.likeone.lol
-  port: 20356
+  port: 37581
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_210
   server: gcdddd0001.likeone.lol
-  port: 37581
+  port: 15976
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_211
   server: gcdddd0003.likeone.lol
-  port: 37581
+  port: 15976
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_212
   server: gcdddd0005.likeone.lol
-  port: 37581
+  port: 15976
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_213
   server: gcdddd0001.likeone.lol
-  port: 22704
+  port: 14490
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_214
   server: gcdddd0003.likeone.lol
-  port: 22704
+  port: 14490
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_215
   server: gcdddd0005.likeone.lol
-  port: 22704
+  port: 14490
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_216
   server: gcdddd0001.likeone.lol
-  port: 14490
+  port: 46912
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_217
   server: gcdddd0003.likeone.lol
-  port: 14490
+  port: 46912
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_218
   server: gcdddd0005.likeone.lol
-  port: 14490
+  port: 46912
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_219
   server: gcdddd0001.likeone.lol
-  port: 46912
+  port: 22704
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_220
   server: gcdddd0003.likeone.lol
-  port: 46912
+  port: 22704
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_221
   server: gcdddd0005.likeone.lol
-  port: 46912
+  port: 22704
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_222
   server: gcdddd0001.likeone.lol
-  port: 15976
+  port: 25074
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_223
   server: gcdddd0003.likeone.lol
-  port: 15976
+  port: 25074
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_224
   server: gcdddd0005.likeone.lol
-  port: 15976
+  port: 25074
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_225
   server: gcdddd0001.likeone.lol
-  port: 25074
+  port: 35672
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_226
   server: gcdddd0003.likeone.lol
-  port: 25074
+  port: 35672
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_227
   server: gcdddd0005.likeone.lol
-  port: 25074
+  port: 35672
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_228
   server: gcdddd0001.likeone.lol
-  port: 35672
+  port: 21526
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_229
   server: gcdddd0003.likeone.lol
-  port: 35672
+  port: 21526
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_230
   server: gcdddd0005.likeone.lol
-  port: 35672
+  port: 21526
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_231
   server: gcdddd0001.likeone.lol
-  port: 21526
+  port: 40276
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_232
   server: gcdddd0003.likeone.lol
-  port: 21526
+  port: 40276
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_233
   server: gcdddd0005.likeone.lol
-  port: 21526
+  port: 40276
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_234
   server: gcdddd0001.likeone.lol
-  port: 40276
+  port: 25881
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_235
   server: gcdddd0003.likeone.lol
-  port: 40276
+  port: 25881
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_236
   server: gcdddd0005.likeone.lol
-  port: 40276
+  port: 25881
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_237
   server: gcdddd0001.likeone.lol
-  port: 25881
+  port: 10598
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_238
   server: gcdddd0003.likeone.lol
-  port: 25881
+  port: 10598
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_239
   server: gcdddd0005.likeone.lol
-  port: 25881
+  port: 10598
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_240
   server: gcdddd0001.likeone.lol
-  port: 10598
+  port: 10519
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_241
   server: gcdddd0003.likeone.lol
-  port: 10598
+  port: 10519
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_242
   server: gcdddd0005.likeone.lol
-  port: 10598
+  port: 10519
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_243
   server: gcdddd0001.likeone.lol
-  port: 10519
+  port: 28625
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_244
   server: gcdddd0003.likeone.lol
-  port: 10519
+  port: 28625
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_245
   server: gcdddd0005.likeone.lol
-  port: 10519
+  port: 28625
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_246
   server: gcdddd0001.likeone.lol
-  port: 28625
+  port: 54295
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_247
   server: gcdddd0003.likeone.lol
-  port: 28625
+  port: 54295
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_248
   server: gcdddd0005.likeone.lol
-  port: 28625
+  port: 54295
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_249
   server: gcdddd0001.likeone.lol
-  port: 54295
+  port: 45852
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_250
   server: gcdddd0003.likeone.lol
-  port: 54295
+  port: 45852
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_251
   server: gcdddd0005.likeone.lol
-  port: 54295
+  port: 45852
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_252
   server: gcdddd0001.likeone.lol
-  port: 45852
+  port: 63640
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_253
   server: gcdddd0003.likeone.lol
-  port: 45852
+  port: 63640
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_254
   server: gcdddd0005.likeone.lol
-  port: 45852
+  port: 63640
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_255
   server: gcdddd0001.likeone.lol
-  port: 63640
+  port: 15762
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_256
   server: gcdddd0003.likeone.lol
-  port: 63640
+  port: 15762
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_257
   server: gcdddd0005.likeone.lol
-  port: 63640
+  port: 15762
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_258
   server: gcdddd0001.likeone.lol
-  port: 15762
+  port: 20943
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_259
   server: gcdddd0003.likeone.lol
-  port: 15762
+  port: 20943
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_260
   server: gcdddd0005.likeone.lol
-  port: 15762
+  port: 20943
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_261
   server: gcdddd0001.likeone.lol
-  port: 20943
+  port: 39788
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_262
   server: gcdddd0003.likeone.lol
-  port: 20943
+  port: 39788
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
 - name: AFOSNE_China_ss_263
   server: gcdddd0005.likeone.lol
-  port: 20943
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 59b92549-f2ff-4779-981f-76d4e7693889
-  udp: true
-- name: AFOSNE_China_ss_264
-  server: gcdddd0001.likeone.lol
   port: 39788
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 59b92549-f2ff-4779-981f-76d4e7693889
   udp: true
-- name: AFOSNE_China_ss_265
-  server: gcdddd0003.likeone.lol
-  port: 39788
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 59b92549-f2ff-4779-981f-76d4e7693889
-  udp: true
-- name: AFOSNE_China_ss_266
-  server: gcdddd0005.likeone.lol
-  port: 39788
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 59b92549-f2ff-4779-981f-76d4e7693889
-  udp: true
-- name: AFOSNE_United States_vmess_31
+- name: AFOSNE_None_vmess_31
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: 7d6c08bc-421a-3ebf-ab77-d53d06272925
+  uuid: 99cc495b-d64e-3bc8-950a-20ab8365a932
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_United States_vmess_32
+  server: mcecloud.net
+  port: 10086
+  type: vmess
+  uuid: 99cc495b-d64e-3bc8-950a-20ab8365a932
   alterId: 0
   cipher: auto
   tls: false
@@ -2811,10 +2800,8 @@ proxy-groups:
   - AFOSNE_China_ss_261
   - AFOSNE_China_ss_262
   - AFOSNE_China_ss_263
-  - AFOSNE_China_ss_264
-  - AFOSNE_China_ss_265
-  - AFOSNE_China_ss_266
-  - AFOSNE_United States_vmess_31
+  - AFOSNE_None_vmess_31
+  - AFOSNE_United States_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
@@ -3080,10 +3067,8 @@ proxy-groups:
   - AFOSNE_China_ss_261
   - AFOSNE_China_ss_262
   - AFOSNE_China_ss_263
-  - AFOSNE_China_ss_264
-  - AFOSNE_China_ss_265
-  - AFOSNE_China_ss_266
-  - AFOSNE_United States_vmess_31
+  - AFOSNE_None_vmess_31
+  - AFOSNE_United States_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
