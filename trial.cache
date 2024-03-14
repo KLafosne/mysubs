@@ -1,48 +1,47 @@
 [www.ckcloud.xyz]
-email  tzfzyrmtx669@gmail.com
+email  jrvtwia527@gmail.com
 node_n  55
-sub_info  0B  1G  2024-03-14 09:56:12+08:00  (剩余 1G 6:43:01.307897)
-sub_url  https://www.jcbbsub.top:21600/api/v1/client/subscribe?token=0527843db28f921fafad7a9418953a0f
-time  2024-03-13 09:56:13.123119+08:00
-更新旧订阅失败  could not convert string to float: '1;'
+sub_info  0B  1G  2024-03-15 09:49:41+08:00  (剩余 1G 23:59:52.476084)
+sub_url  https://www.jcbbsub.top:21600/api/v1/client/subscribe?token=9d4a88953400dd53efc283ab7650fd83
+time  2024-03-14 09:49:42.118400+08:00
 
 [fastestcloud.xyz]
-email  tzfzyrmtx669@gmail.com
+email  jrvtwia527@gmail.com
 node_n  66
 sub_info  0B  1G  2024-03-14 09:55:28+08:00  (剩余 1G 6:42:24.688853)
-sub_url  https://sub.flyyydds.top:21600/api/v1/client/subscribe?token=ad7ed8816f1554328f4961cd52b67834
-time  2024-03-13 09:55:29.557085+08:00
-更新旧订阅失败  could not convert string to float: '1;'
+sub_url  https://sub.flyyydds.top:21600/api/v1/client/subscribe?token=d592fc2f2181c5ed9fd9ad4bdb879be7
+time  2024-03-14 09:49:57.023609+08:00
+保存订阅信息失败  could not convert string to float: '1;'
 
 [biubiufast.com]
-email  tzfzyrmtx669@gmail.com
+email  jrvtwia527@gmail.com
 node_n  12
-sub_info  0B  1G  2024-03-14 09:55:16+08:00  (剩余 1G 2:38:49.838253)
-sub_url  https://biubiufast.website/api/v1/client/subscribe?token=c8b54e0232eae1f38c75cc13c50d300c
-time  2024-03-13 09:55:17.005753+08:00
+sub_info  0B  1G  2024-03-15 09:49:42+08:00  (剩余 1G 23:59:56.831949)
+sub_url  https://biubiufast.website/api/v1/client/subscribe?token=825309e495d6e531bddf399e71ca2ffe
+time  2024-03-14 09:49:42.458984+08:00
 
 [ayucloud.services]
-email  tzfzyrmtx669@yzm.de
-last_checkin  2024-03-14 01:15:06.474526+08:00
+email  jrvtwia527@mynanaimohomes.com
+last_checkin  2024-03-14 09:49:47.389721+08:00
 node_n  98
-sub_info  0B  1.837G  2024-03-14 09:56:20+08:00  (剩余 1.837G 2:40:32.181103)
-sub_url  https://network.ayucloud.nl/link/P15s9dcuub7volF8?clash=1
-time  2024-03-13 09:56:21.305987+08:00
+sub_info  0B  1.233G  2024-03-15 09:49:47+08:00  (剩余 1.233G 23:59:53.389503)
+sub_url  https://network.ayucloud.nl/link/vnmGBtqOvjtenkRp?clash=1
+time  2024-03-14 09:49:48.183928+08:00
 
 [人人传承.com]
-email  tzfzyrmtx669@yzm.de
-invite_code  8C4s  10000
-last_checkin  2024-03-14 01:15:06.476643+08:00
+email  jrvtwia527@mynanaimohomes.com
+invite_code  VXkx  10000
+last_checkin  2024-03-14 09:49:48.806700+08:00
 node_n  47
-sub_info  0B  10.33G  2024-03-14 09:56:22+08:00  (剩余 10.33G 2:40:31.806119)
-sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/Z0yghDN3DGdT1chC?sub=3
-time  2024-03-13 09:56:26.011792+08:00
+sub_info  0B  10.15G  2024-03-15 09:49:47+08:00  (剩余 10.15G 23:59:53.434820)
+sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/t6UW45hTpmgag9MK?sub=3
+time  2024-03-14 09:49:50.246863+08:00
 
 [qlgq.top]
 email  zvtuxzn235@snapmail.cc
 last_checkin  2024-03-14 01:15:06.477281+08:00
 node_n  28
-sub_info  3.761M  888.1G  2024-03-19 09:49:58+08:00  (剩余 888.1G 5 days, 2:34:11.741161)
+sub_info  24.08M  888.1G  2024-03-19 09:49:58+08:00  (剩余 888.1G 5 days, 0:00:18.976488)
 sub_url  https://www.qlgq.top/link/5edf0dc45579f787?clash=1
 time  2024-03-12 09:49:59.380929+08:00
 
@@ -50,30 +49,28 @@ time  2024-03-12 09:49:59.380929+08:00
 email  boqtgjyon717@liteprompter.com
 last_checkin  2024-03-14 01:15:06.478091+08:00
 node_n  3
-sub_info  5.127M  1.8G  永不过期  (剩余 1.795G)
+sub_info  5.954M  1.8G  永不过期  (剩余 1.794G)
 sub_url  https://new.gfw.news/link/YcIxFjz0ktUVnG5q?sub=3
 time  2024-02-24 15:14:52.581026+08:00
-保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [www.duguletian.com]
-email  tzfzyrmtx669@yzm.de
-last_checkin  2024-03-14 01:15:06.479460+08:00
+email  jrvtwia527@mynanaimohomes.com
+last_checkin  2024-03-14 09:50:24.505560+08:00
 node_n  19
-sub_info  0B  1.061G  2024-03-14 09:55:22+08:00  (剩余 1.061G 2:39:35.345807)
-sub_url  https://dugusite2.top/link/vbTC4M55YY9t9E14?sub=3
-time  2024-03-13 09:55:23.192775+08:00
+sub_info  0B  1.008G  2024-03-15 09:50:24+08:00  (剩余 1.008G 23:59:56.031959)
+sub_url  https://dugusite2.top/link/Z1anlmZVL0c2RdKG?sub=3
+time  2024-03-14 09:50:25.335288+08:00
 
 [mcecloud.com]
-email  vysucxhw744@gmail.com
-last_checkin  2024-03-14 07:15:46.212830+08:00
+email  jrvtwia527@gmail.com
+last_checkin  2024-03-14 09:49:42.274926+08:00
 node_n  2
-sub_info  0B  11M  2024-03-14 07:15:46+08:00  (剩余 11M -1 day, 23:59:54.672476)
-sub_url  https://st-sub.fly.dev/ssp/mce/link/eNXYkPRZBizAhneE?sub=3
-time  2024-03-14 07:15:47.141253+08:00
-保存base64/clash订阅失败  'NoneType' object is not iterable
+sub_info  0B  14M  2024-03-14 09:49:42+08:00  (剩余 14M -1 day, 23:59:52.953049)
+sub_url  https://st-sub.fly.dev/ssp/mce/link/sgEjJAjtCMRskrFU?sub=3
+time  2024-03-14 09:49:43.078192+08:00
 
 [cloud.speedypro.xyz name Speedypro]
-更新订阅链接/续费续签失败  注册失败(vysucxhw744@gmail.com): HTTPSConnectionPool(host='cloud.speedypro.xyz%20name%20speedypro', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x783a22229480>: Failed to resolve 'cloud.speedypro.xyz%20name%20speedypro' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(jrvtwia527@gmail.com): HTTPSConnectionPool(host='cloud.speedypro.xyz%20name%20speedypro', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x705db81f5d80>: Failed to resolve 'cloud.speedypro.xyz%20name%20speedypro' ([Errno -2] Name or service not known)"))
 
 [ikuuu.me name ikuuu]
-更新订阅链接/续费续签失败  注册失败(vysucxhw744@gmail.com): HTTPSConnectionPool(host='ikuuu.me%20name%20ikuuu', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x783a220593f0>: Failed to resolve 'ikuuu.me%20name%20ikuuu' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(jrvtwia527@gmail.com): HTTPSConnectionPool(host='ikuuu.me%20name%20ikuuu', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x705db81f6080>: Failed to resolve 'ikuuu.me%20name%20ikuuu' ([Errno -2] Name or service not known)"))
