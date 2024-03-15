@@ -39,6 +39,7 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
+- {name: 💣 剩余流量：1 GB - FastFly, server: n00001.bzdqsmzngpyyng.sbs, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 3c17afa4-9c9b-4038-bc2b-3047fbe6021e, udp: true}
 - {name: 距离下次重置剩余：16 天 - FastFly, server: n00001.bzdqsmzngpyyng.sbs, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 3c17afa4-9c9b-4038-bc2b-3047fbe6021e, udp: true}
 - {name: FastFly 永久跳转地址 https://fastfly.club - FastFly, server: n00001.bzdqsmzngpyyng.sbs, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 3c17afa4-9c9b-4038-bc2b-3047fbe6021e, udp: true}
 - {name: FastFly 国外地址： https://cloud.fastfly.top - FastFly, server: n00001.bzdqsmzngpyyng.sbs, port: 22704, type: ss, cipher: chacha20-ietf-poly1305, password: 3c17afa4-9c9b-4038-bc2b-3047fbe6021e, udp: true}
