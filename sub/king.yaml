@@ -1981,7 +1981,6 @@ proxies:
 - name: AFOSNE_China_trojan_61
   server: gcdddd0005.likeone.lol
   port: 51031
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: sg01.ckcloud.info
@@ -1990,7 +1989,6 @@ proxies:
 - name: AFOSNE_China_trojan_62
   server: gcdddd0005.likeone.lol
   port: 51031
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: sg01.ckcloud.info
@@ -1999,7 +1997,6 @@ proxies:
 - name: AFOSNE_China_trojan_63
   server: gcdddd0001.likeone.lol
   port: 51031
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: sg01.ckcloud.info
@@ -2008,7 +2005,6 @@ proxies:
 - name: AFOSNE_China_trojan_64
   server: gcdddd0003.likeone.lol
   port: 51031
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: sg01.ckcloud.info
@@ -2017,7 +2013,6 @@ proxies:
 - name: AFOSNE_China_trojan_65
   server: gcdddd0003.likeone.lol
   port: 58464
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: sg02.ckcloud.info
@@ -2026,7 +2021,6 @@ proxies:
 - name: AFOSNE_China_trojan_66
   server: gcdddd0005.likeone.lol
   port: 58464
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: sg02.ckcloud.info
@@ -2035,7 +2029,6 @@ proxies:
 - name: AFOSNE_China_trojan_67
   server: gcdddd0001.likeone.lol
   port: 58464
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: sg02.ckcloud.info
@@ -2044,7 +2037,6 @@ proxies:
 - name: AFOSNE_China_trojan_68
   server: gcdddd0005.likeone.lol
   port: 25974
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: hk05.ckcloud.info
@@ -2053,7 +2045,6 @@ proxies:
 - name: AFOSNE_China_trojan_69
   server: gcdddd0001.likeone.lol
   port: 25974
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: hk05.ckcloud.info
@@ -2062,7 +2053,6 @@ proxies:
 - name: AFOSNE_China_trojan_610
   server: gcdddd0003.likeone.lol
   port: 25974
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: hk05.ckcloud.info
@@ -2071,7 +2061,6 @@ proxies:
 - name: AFOSNE_China_trojan_611
   server: gcdddd0003.likeone.lol
   port: 35257
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: hk03.ckcloud.info
@@ -2080,7 +2069,6 @@ proxies:
 - name: AFOSNE_China_trojan_612
   server: gcdddd0001.likeone.lol
   port: 35257
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: hk03.ckcloud.info
@@ -2089,7 +2077,6 @@ proxies:
 - name: AFOSNE_China_trojan_613
   server: gcdddd0002.likeone.lol
   port: 35257
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: hk03.ckcloud.info
@@ -2098,7 +2085,6 @@ proxies:
 - name: AFOSNE_China_trojan_614
   server: gcdddd0003.likeone.lol
   port: 26023
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: hk02.ckcloud.info
@@ -2107,7 +2093,6 @@ proxies:
 - name: AFOSNE_China_trojan_615
   server: gcdddd0005.likeone.lol
   port: 26023
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: hk02.ckcloud.info
@@ -2116,7 +2101,6 @@ proxies:
 - name: AFOSNE_China_trojan_616
   server: gcdddd0001.likeone.lol
   port: 26023
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: hk02.ckcloud.info
@@ -2125,7 +2109,6 @@ proxies:
 - name: AFOSNE_China_trojan_617
   server: gcdddd0003.likeone.lol
   port: 15485
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: hk04.ckcloud.info
@@ -2134,7 +2117,6 @@ proxies:
 - name: AFOSNE_China_trojan_618
   server: gcdddd0005.likeone.lol
   port: 15485
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: hk04.ckcloud.info
@@ -2143,7 +2125,6 @@ proxies:
 - name: AFOSNE_China_trojan_619
   server: gcdddd0001.likeone.lol
   port: 15485
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: hk04.ckcloud.info
@@ -2152,7 +2133,6 @@ proxies:
 - name: AFOSNE_China_trojan_620
   server: gcdddd0005.likeone.lol
   port: 10327
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: jp01.ckcloud.info
@@ -2161,7 +2141,6 @@ proxies:
 - name: AFOSNE_China_trojan_621
   server: gcdddd0001.likeone.lol
   port: 10327
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: jp01.ckcloud.info
@@ -2170,7 +2149,6 @@ proxies:
 - name: AFOSNE_China_trojan_622
   server: gcdddd0003.likeone.lol
   port: 10327
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: jp01.ckcloud.info
@@ -2179,7 +2157,6 @@ proxies:
 - name: AFOSNE_China_trojan_623
   server: gcdddd0005.likeone.lol
   port: 16483
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: jp03.ckcloud.info
@@ -2188,7 +2165,6 @@ proxies:
 - name: AFOSNE_China_trojan_624
   server: gcdddd0001.likeone.lol
   port: 16483
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: jp03.ckcloud.info
@@ -2197,7 +2173,6 @@ proxies:
 - name: AFOSNE_China_trojan_625
   server: gcdddd0003.likeone.lol
   port: 16483
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: jp03.ckcloud.info
@@ -2206,7 +2181,6 @@ proxies:
 - name: AFOSNE_China_trojan_626
   server: gcdddd0001.likeone.lol
   port: 64850
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: tw01.ckcloud.info
@@ -2215,7 +2189,6 @@ proxies:
 - name: AFOSNE_China_trojan_627
   server: gcdddd0003.likeone.lol
   port: 64850
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: tw01.ckcloud.info
@@ -2224,7 +2197,6 @@ proxies:
 - name: AFOSNE_China_trojan_628
   server: gcdddd0005.likeone.lol
   port: 64850
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: tw01.ckcloud.info
@@ -2233,7 +2205,6 @@ proxies:
 - name: AFOSNE_China_trojan_629
   server: gcdddd0005.likeone.lol
   port: 47557
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: tw02.ckcloud.info
@@ -2242,7 +2213,6 @@ proxies:
 - name: AFOSNE_China_trojan_630
   server: gcdddd0001.likeone.lol
   port: 47557
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: tw02.ckcloud.info
@@ -2251,7 +2221,6 @@ proxies:
 - name: AFOSNE_China_trojan_631
   server: gcdddd0003.likeone.lol
   port: 47557
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: tw02.ckcloud.info
@@ -2260,7 +2229,6 @@ proxies:
 - name: AFOSNE_China_trojan_632
   server: gcdddd0003.likeone.lol
   port: 16343
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: vn01.ckcloud.info
@@ -2269,7 +2237,6 @@ proxies:
 - name: AFOSNE_China_trojan_633
   server: gcdddd0005.likeone.lol
   port: 16343
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: vn01.ckcloud.info
@@ -2278,7 +2245,6 @@ proxies:
 - name: AFOSNE_China_trojan_634
   server: gcdddd0001.likeone.lol
   port: 16343
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: vn01.ckcloud.info
@@ -2287,7 +2253,6 @@ proxies:
 - name: AFOSNE_China_trojan_635
   server: gcdddd0005.likeone.lol
   port: 26094
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: id01.ckcloud.info
@@ -2296,7 +2261,6 @@ proxies:
 - name: AFOSNE_China_trojan_636
   server: gcdddd0001.likeone.lol
   port: 26094
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: id01.ckcloud.info
@@ -2305,7 +2269,6 @@ proxies:
 - name: AFOSNE_China_trojan_637
   server: gcdddd0003.likeone.lol
   port: 26094
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: id01.ckcloud.info
@@ -2314,7 +2277,6 @@ proxies:
 - name: AFOSNE_China_trojan_638
   server: gcdddd0005.likeone.lol
   port: 42840
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: uk01.ckcloud.info
@@ -2323,7 +2285,6 @@ proxies:
 - name: AFOSNE_China_trojan_639
   server: gcdddd0001.likeone.lol
   port: 42840
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: uk01.ckcloud.info
@@ -2332,7 +2293,6 @@ proxies:
 - name: AFOSNE_China_trojan_640
   server: gcdddd0003.likeone.lol
   port: 42840
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: uk01.ckcloud.info
@@ -2341,7 +2301,6 @@ proxies:
 - name: AFOSNE_China_trojan_641
   server: gcdddd0003.likeone.lol
   port: 53279
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: de01.ckcloud.info
@@ -2350,7 +2309,6 @@ proxies:
 - name: AFOSNE_China_trojan_642
   server: gcdddd0005.likeone.lol
   port: 53279
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: de01.ckcloud.info
@@ -2359,7 +2317,6 @@ proxies:
 - name: AFOSNE_China_trojan_643
   server: gcdddd0001.likeone.lol
   port: 53279
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: de01.ckcloud.info
@@ -2368,7 +2325,6 @@ proxies:
 - name: AFOSNE_China_trojan_644
   server: gcdddd0001.likeone.lol
   port: 60293
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: tur01.ckcloud.info
@@ -2377,7 +2333,6 @@ proxies:
 - name: AFOSNE_China_trojan_645
   server: gcdddd0003.likeone.lol
   port: 60293
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: tur01.ckcloud.info
@@ -2386,7 +2341,6 @@ proxies:
 - name: AFOSNE_China_trojan_646
   server: gcdddd0005.likeone.lol
   port: 60293
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: tur01.ckcloud.info
@@ -2395,7 +2349,6 @@ proxies:
 - name: AFOSNE_China_trojan_647
   server: gcdddd0001.likeone.lol
   port: 48560
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: us03.ckcloud.info
@@ -2404,7 +2357,6 @@ proxies:
 - name: AFOSNE_China_trojan_648
   server: gcdddd0003.likeone.lol
   port: 48560
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: us03.ckcloud.info
@@ -2413,7 +2365,6 @@ proxies:
 - name: AFOSNE_China_trojan_649
   server: gcdddd0005.likeone.lol
   port: 48560
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: us03.ckcloud.info
@@ -2422,7 +2373,6 @@ proxies:
 - name: AFOSNE_China_trojan_650
   server: gcdddd0005.likeone.lol
   port: 10658
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: us2.ckcloud.info
@@ -2431,7 +2381,6 @@ proxies:
 - name: AFOSNE_China_trojan_651
   server: gcdddd0003.likeone.lol
   port: 10658
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: us2.ckcloud.info
@@ -2440,7 +2389,6 @@ proxies:
 - name: AFOSNE_China_trojan_652
   server: gcdddd0001.likeone.lol
   port: 10658
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: us2.ckcloud.info
@@ -2449,7 +2397,6 @@ proxies:
 - name: AFOSNE_China_trojan_653
   server: gcdddd0005.likeone.lol
   port: 26681
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: us04.ckcloud.info
@@ -2458,7 +2405,6 @@ proxies:
 - name: AFOSNE_China_trojan_654
   server: gcdddd0003.likeone.lol
   port: 26681
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: us04.ckcloud.info
@@ -2467,7 +2413,6 @@ proxies:
 - name: AFOSNE_China_trojan_655
   server: gcdddd0001.likeone.lol
   port: 26681
-  client-fingerprint: chrome
   type: trojan
   password: a54cd618-00a5-4eb7-917a-2f8f0b336f8e
   sni: us04.ckcloud.info
