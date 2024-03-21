@@ -1763,7 +1763,6 @@ proxies:
 - name: AFOSNE_United States_trojan_41
   server: 52.88.80.155
   port: 443
-  client-fingerprint: chrome
   type: trojan
   password: ec338bf7-331e-3ee5-89d1-947479162d92
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -1772,7 +1771,6 @@ proxies:
 - name: AFOSNE_United States_trojan_42
   server: 103.136.185.27
   port: 5491
-  client-fingerprint: chrome
   type: trojan
   password: ec338bf7-331e-3ee5-89d1-947479162d92
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -1781,11 +1779,318 @@ proxies:
 - name: AFOSNE_United States_trojan_43
   server: 103.136.185.28
   port: 3500
-  client-fingerprint: chrome
   type: trojan
   password: ec338bf7-331e-3ee5-89d1-947479162d92
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
   skip-cert-verify: true
+  udp: true
+- name: AFOSNE_Germany_trojan_51
+  server: fkvip101.qlgq.fun
+  port: 11237
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: fkvip101.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: fkvip101
+  udp: true
+- name: AFOSNE_Germany_trojan_52
+  server: fkvip101.qlgq.fun
+  port: 21236
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: fkvip101.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: fkvip101
+  udp: true
+- name: AFOSNE_Germany_trojan_53
+  server: fkvip101.qlgq.fun
+  port: 31236
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: fkvip101.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: fkvip101
+  udp: true
+- name: AFOSNE_Germany_trojan_54
+  server: fkvip101.qlgq.fun
+  port: 41236
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: fkvip101.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: fkvip101
+  udp: true
+- name: AFOSNE_Germany_trojan_55
+  server: fkvip101.qlgq.fun
+  port: 51236
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: fkvip101.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: fkvip101
+  udp: true
+- name: AFOSNE_Singapore_trojan_56
+  server: sgvip101.qlgq.fun
+  port: 11223
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: sgvip101.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: sgvip101
+  udp: true
+- name: AFOSNE_Singapore_trojan_57
+  server: sgvip101.qlgq.fun
+  port: 21223
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: sgvip101.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: sgvip101
+  udp: true
+- name: AFOSNE_Singapore_trojan_58
+  server: sgvip101.qlgq.fun
+  port: 31223
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: sgvip101.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: sgvip101
+  udp: true
+- name: AFOSNE_Singapore_trojan_59
+  server: sgvip101.qlgq.fun
+  port: 41223
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: sgvip101.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: sgvip101
+  udp: true
+- name: AFOSNE_Singapore_trojan_510
+  server: sgvip101.qlgq.fun
+  port: 51223
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: sgvip101.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: sgvip101
+  udp: true
+- name: AFOSNE_Japan_trojan_511
+  server: jpvip102.qlgq.fun
+  port: 12443
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: jpvip102.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: jpvip102
+  udp: true
+- name: AFOSNE_Japan_trojan_512
+  server: jpvip102.qlgq.fun
+  port: 62283
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: jpvip102.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: jpvip102
+  udp: true
+- name: AFOSNE_Japan_trojan_513
+  server: jpvip102.qlgq.fun
+  port: 62273
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: jpvip102.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: jpvip102
+  udp: true
+- name: AFOSNE_Japan_trojan_514
+  server: jpvip102.qlgq.fun
+  port: 62263
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: jpvip102.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: jpvip102
+  udp: true
+- name: AFOSNE_Japan_trojan_515
+  server: jpvip102.qlgq.fun
+  port: 60003
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: jpvip102.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: jpvip102
+  udp: true
+- name: AFOSNE_United States_trojan_516
+  server: lavip101.qlgq.fun
+  port: 11156
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: lavip101.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: lavip101
+  udp: true
+- name: AFOSNE_United States_trojan_517
+  server: lavip101.qlgq.fun
+  port: 21156
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: lavip101.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: lavip101
+  udp: true
+- name: AFOSNE_United States_trojan_518
+  server: lavip101.qlgq.fun
+  port: 31156
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: lavip101.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: lavip101
+  udp: true
+- name: AFOSNE_Hong Kong_trojan_519
+  server: hkvip102.qlgq.fun
+  port: 12249
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: hkvip102.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: hkvip102
+  udp: true
+- name: AFOSNE_Hong Kong_trojan_520
+  server: hkvip102.qlgq.fun
+  port: 22249
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: hkvip102.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: hkvip102
+  udp: true
+- name: AFOSNE_Hong Kong_trojan_521
+  server: hkvip102.qlgq.fun
+  port: 32249
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: hkvip102.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: hkvip102
+  udp: true
+- name: AFOSNE_Hong Kong_trojan_522
+  server: hkvip102.qlgq.fun
+  port: 42249
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: hkvip102.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: hkvip102
+  udp: true
+- name: AFOSNE_Hong Kong_trojan_523
+  server: hkvip102.qlgq.fun
+  port: 52249
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: hkvip102.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: hkvip102
+  udp: true
+- name: AFOSNE_Hong Kong_trojan_524
+  server: hkvip103.qlgq.fun
+  port: 11116
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: hkvip103.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: hkvip103
+  udp: true
+- name: AFOSNE_Hong Kong_trojan_525
+  server: hkvip103.qlgq.fun
+  port: 21116
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: hkvip103.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: hkvip103
+  udp: true
+- name: AFOSNE_Hong Kong_trojan_526
+  server: hkvip103.qlgq.fun
+  port: 31116
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: hkvip103.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: hkvip103
+  udp: true
+- name: AFOSNE_Hong Kong_trojan_527
+  server: hkvip103.qlgq.fun
+  port: 41116
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: hkvip103.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: hkvip103
+  udp: true
+- name: AFOSNE_Hong Kong_trojan_528
+  server: hkvip103.qlgq.fun
+  port: 51116
+  type: trojan
+  password: 68c0f7d0-c4c4-3fe8-a7c4-b3105b60bde3
+  sni: hkvip103.qlgq.fun
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: hkvip103
   udp: true
 - name: AFOSNE_China_trojan_61
   server: gcdddd0005.likeone.lol
@@ -2409,6 +2714,34 @@ proxy-groups:
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
+  - AFOSNE_Germany_trojan_51
+  - AFOSNE_Germany_trojan_52
+  - AFOSNE_Germany_trojan_53
+  - AFOSNE_Germany_trojan_54
+  - AFOSNE_Germany_trojan_55
+  - AFOSNE_Singapore_trojan_56
+  - AFOSNE_Singapore_trojan_57
+  - AFOSNE_Singapore_trojan_58
+  - AFOSNE_Singapore_trojan_59
+  - AFOSNE_Singapore_trojan_510
+  - AFOSNE_Japan_trojan_511
+  - AFOSNE_Japan_trojan_512
+  - AFOSNE_Japan_trojan_513
+  - AFOSNE_Japan_trojan_514
+  - AFOSNE_Japan_trojan_515
+  - AFOSNE_United States_trojan_516
+  - AFOSNE_United States_trojan_517
+  - AFOSNE_United States_trojan_518
+  - AFOSNE_Hong Kong_trojan_519
+  - AFOSNE_Hong Kong_trojan_520
+  - AFOSNE_Hong Kong_trojan_521
+  - AFOSNE_Hong Kong_trojan_522
+  - AFOSNE_Hong Kong_trojan_523
+  - AFOSNE_Hong Kong_trojan_524
+  - AFOSNE_Hong Kong_trojan_525
+  - AFOSNE_Hong Kong_trojan_526
+  - AFOSNE_Hong Kong_trojan_527
+  - AFOSNE_Hong Kong_trojan_528
   - AFOSNE_China_trojan_61
   - AFOSNE_China_trojan_62
   - AFOSNE_China_trojan_63
@@ -2646,6 +2979,34 @@ proxy-groups:
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
+  - AFOSNE_Germany_trojan_51
+  - AFOSNE_Germany_trojan_52
+  - AFOSNE_Germany_trojan_53
+  - AFOSNE_Germany_trojan_54
+  - AFOSNE_Germany_trojan_55
+  - AFOSNE_Singapore_trojan_56
+  - AFOSNE_Singapore_trojan_57
+  - AFOSNE_Singapore_trojan_58
+  - AFOSNE_Singapore_trojan_59
+  - AFOSNE_Singapore_trojan_510
+  - AFOSNE_Japan_trojan_511
+  - AFOSNE_Japan_trojan_512
+  - AFOSNE_Japan_trojan_513
+  - AFOSNE_Japan_trojan_514
+  - AFOSNE_Japan_trojan_515
+  - AFOSNE_United States_trojan_516
+  - AFOSNE_United States_trojan_517
+  - AFOSNE_United States_trojan_518
+  - AFOSNE_Hong Kong_trojan_519
+  - AFOSNE_Hong Kong_trojan_520
+  - AFOSNE_Hong Kong_trojan_521
+  - AFOSNE_Hong Kong_trojan_522
+  - AFOSNE_Hong Kong_trojan_523
+  - AFOSNE_Hong Kong_trojan_524
+  - AFOSNE_Hong Kong_trojan_525
+  - AFOSNE_Hong Kong_trojan_526
+  - AFOSNE_Hong Kong_trojan_527
+  - AFOSNE_Hong Kong_trojan_528
   - AFOSNE_China_trojan_61
   - AFOSNE_China_trojan_62
   - AFOSNE_China_trojan_63
