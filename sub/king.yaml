@@ -28,79 +28,63 @@ proxies:
 - name: AFOSNE_Japan_trojan_01
   server: jp1.biubiufast.quest
   port: 5203
-  client-fingerprint: chrome
   type: trojan
   password: 9d5e66af-2075-4751-84bd-669e43d34d0e
-  sni: jp1.biubiufast.quest
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_Japan_ss_02
   server: jp1.biubiufast.quest
-  port: 5204
-  client-fingerprint: chrome
+  port: 5205
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 9d5e66af-2075-4751-84bd-669e43d34d0e
-  tfo: false
   udp: true
 - name: AFOSNE_Hong Kong_ss_03
   server: hk1.biubiufast.quest
   port: 5204
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 9d5e66af-2075-4751-84bd-669e43d34d0e
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_04
   server: dl.biubiufast.quest
   port: 11012
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 9d5e66af-2075-4751-84bd-669e43d34d0e
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_05
   server: dl.biubiufast.quest
   port: 11005
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 9d5e66af-2075-4751-84bd-669e43d34d0e
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_06
   server: dl.biubiufast.quest
   port: 22001
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 9d5e66af-2075-4751-84bd-669e43d34d0e
-  tfo: false
   udp: true
 - name: AFOSNE_China_ss_07
   server: dl.biubiufast.quest
   port: 11002
-  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 9d5e66af-2075-4751-84bd-669e43d34d0e
-  tfo: false
   udp: true
 - name: AFOSNE_China_trojan_08
   server: dl.biubiufast.quest
   port: 11201
-  client-fingerprint: chrome
   type: trojan
   password: 9d5e66af-2075-4751-84bd-669e43d34d0e
   sni: jp1.biubiufast.quest
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_09
-  server: dl.biubiufast.quest
+  server: shct.yunnode.win
   port: 11101
-  client-fingerprint: chrome
   type: trojan
   password: 9d5e66af-2075-4751-84bd-669e43d34d0e
   sni: hk1.biubiufast.quest
@@ -109,7 +93,6 @@ proxies:
 - name: AFOSNE_China_trojan_010
   server: dl.biubiufast.quest
   port: 12311
-  client-fingerprint: chrome
   type: trojan
   password: 9d5e66af-2075-4751-84bd-669e43d34d0e
   sni: dg5.biubiufast.quest
@@ -118,7 +101,6 @@ proxies:
 - name: AFOSNE_China_trojan_011
   server: dl.biubiufast.quest
   port: 11302
-  client-fingerprint: chrome
   type: trojan
   password: 9d5e66af-2075-4751-84bd-669e43d34d0e
   sni: hk15.biubiufast.quest
@@ -127,7 +109,6 @@ proxies:
 - name: AFOSNE_China_trojan_012
   server: dl.biubiufast.quest
   port: 11303
-  client-fingerprint: chrome
   type: trojan
   password: 9d5e66af-2075-4751-84bd-669e43d34d0e
   sni: sfo6.biubiufast.quest
@@ -1769,7 +1750,7 @@ proxies:
   password: 6815c101-9edd-40a6-9b90-60f4ba55460c
   tfo: false
   udp: true
-- name: AFOSNE_None_vmess_31
+- name: AFOSNE_United States_vmess_31
   server: mcecloud.net
   port: 10086
   type: vmess
@@ -1782,6 +1763,7 @@ proxies:
 - name: AFOSNE_United States_trojan_41
   server: 52.88.80.155
   port: 443
+  client-fingerprint: chrome
   type: trojan
   password: ec338bf7-331e-3ee5-89d1-947479162d92
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -1790,6 +1772,7 @@ proxies:
 - name: AFOSNE_United States_trojan_42
   server: 103.136.185.27
   port: 5491
+  client-fingerprint: chrome
   type: trojan
   password: ec338bf7-331e-3ee5-89d1-947479162d92
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -1798,6 +1781,7 @@ proxies:
 - name: AFOSNE_United States_trojan_43
   server: 103.136.185.28
   port: 3500
+  client-fingerprint: chrome
   type: trojan
   password: ec338bf7-331e-3ee5-89d1-947479162d92
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -2421,7 +2405,7 @@ proxy-groups:
   - AFOSNE_China_ss_260
   - AFOSNE_China_ss_261
   - AFOSNE_China_ss_262
-  - AFOSNE_None_vmess_31
+  - AFOSNE_United States_vmess_31
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
@@ -2658,7 +2642,7 @@ proxy-groups:
   - AFOSNE_China_ss_260
   - AFOSNE_China_ss_261
   - AFOSNE_China_ss_262
-  - AFOSNE_None_vmess_31
+  - AFOSNE_United States_vmess_31
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
