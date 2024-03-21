@@ -1630,17 +1630,7 @@ proxies:
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: 5089260c-bde4-3d02-8f5c-56a80d129691
-  alterId: 0
-  cipher: auto
-  tls: false
-  skip-cert-verify: true
-  udp: true
-- name: AFOSNE_United States_vmess_32
-  server: mcecloud.net
-  port: 10086
-  type: vmess
-  uuid: 5089260c-bde4-3d02-8f5c-56a80d129691
+  uuid: 146efbe1-d51c-3d9d-88c8-2b623630de31
   alterId: 0
   cipher: auto
   tls: false
@@ -2289,7 +2279,6 @@ proxy-groups:
   - AFOSNE_China_ss_261
   - AFOSNE_China_ss_262
   - AFOSNE_None_vmess_31
-  - AFOSNE_United States_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
@@ -2527,7 +2516,6 @@ proxy-groups:
   - AFOSNE_China_ss_261
   - AFOSNE_China_ss_262
   - AFOSNE_None_vmess_31
-  - AFOSNE_United States_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
