@@ -31,7 +31,8 @@ def get_short_url(path: str):
 
 
 def get_alias(name: str):
-    if GITHUB_REPOSITORY == 'zsokami/sub':
+    # if GITHUB_REPOSITORY == 'zsokami/sub':
+    if GITHUB_REPOSITORY == 'KLafosne/sub':
         if name == 'clash-hardcode':
             return 'trial'
         if name == 'clash-proxy-providers':
