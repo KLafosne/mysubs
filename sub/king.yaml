@@ -29,7 +29,7 @@ proxies:
   server: jp1.biubiufast.quest
   port: 5203
   type: trojan
-  password: 80f29af1-67f1-4cfb-ba4b-ccd192a761ce
+  password: b95acd77-fc14-49e3-a1d6-67e2122bd78b
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_Japan_ss_02
@@ -37,48 +37,48 @@ proxies:
   port: 5205
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 80f29af1-67f1-4cfb-ba4b-ccd192a761ce
+  password: b95acd77-fc14-49e3-a1d6-67e2122bd78b
   udp: true
 - name: AFOSNE_Hong Kong_ss_03
   server: hk1.biubiufast.quest
   port: 5204
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 80f29af1-67f1-4cfb-ba4b-ccd192a761ce
+  password: b95acd77-fc14-49e3-a1d6-67e2122bd78b
   udp: true
 - name: AFOSNE_China_ss_04
   server: dl.biubiufast.quest
   port: 11012
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 80f29af1-67f1-4cfb-ba4b-ccd192a761ce
+  password: b95acd77-fc14-49e3-a1d6-67e2122bd78b
   udp: true
 - name: AFOSNE_China_ss_05
   server: dl.biubiufast.quest
   port: 11005
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 80f29af1-67f1-4cfb-ba4b-ccd192a761ce
+  password: b95acd77-fc14-49e3-a1d6-67e2122bd78b
   udp: true
 - name: AFOSNE_China_ss_06
   server: dl.biubiufast.quest
   port: 22001
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 80f29af1-67f1-4cfb-ba4b-ccd192a761ce
+  password: b95acd77-fc14-49e3-a1d6-67e2122bd78b
   udp: true
 - name: AFOSNE_China_ss_07
   server: dl.biubiufast.quest
   port: 11002
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 80f29af1-67f1-4cfb-ba4b-ccd192a761ce
+  password: b95acd77-fc14-49e3-a1d6-67e2122bd78b
   udp: true
 - name: AFOSNE_China_trojan_08
   server: dl.biubiufast.quest
   port: 11201
   type: trojan
-  password: 80f29af1-67f1-4cfb-ba4b-ccd192a761ce
+  password: b95acd77-fc14-49e3-a1d6-67e2122bd78b
   sni: jp1.biubiufast.quest
   skip-cert-verify: true
   udp: true
@@ -86,7 +86,7 @@ proxies:
   server: shct.yunnode.win
   port: 11101
   type: trojan
-  password: 80f29af1-67f1-4cfb-ba4b-ccd192a761ce
+  password: b95acd77-fc14-49e3-a1d6-67e2122bd78b
   sni: hk1.biubiufast.quest
   skip-cert-verify: true
   udp: true
@@ -94,7 +94,7 @@ proxies:
   server: dl.biubiufast.quest
   port: 11301
   type: trojan
-  password: 80f29af1-67f1-4cfb-ba4b-ccd192a761ce
+  password: b95acd77-fc14-49e3-a1d6-67e2122bd78b
   sni: dg5.biubiufast.quest
   skip-cert-verify: true
   udp: true
@@ -102,7 +102,7 @@ proxies:
   server: dl.biubiufast.quest
   port: 11302
   type: trojan
-  password: 80f29af1-67f1-4cfb-ba4b-ccd192a761ce
+  password: b95acd77-fc14-49e3-a1d6-67e2122bd78b
   sni: hk15.biubiufast.quest
   skip-cert-verify: true
   udp: true
@@ -110,7 +110,7 @@ proxies:
   server: dl.biubiufast.quest
   port: 11303
   type: trojan
-  password: 80f29af1-67f1-4cfb-ba4b-ccd192a761ce
+  password: b95acd77-fc14-49e3-a1d6-67e2122bd78b
   sni: sfo6.biubiufast.quest
   skip-cert-verify: true
   udp: true
@@ -123,7 +123,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_12
   server: 231103level3.unclemanco.com
@@ -134,7 +134,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_13
   server: 231103level3.unclemanco.com
@@ -145,7 +145,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_14
   server: 231103level3.unclemanco.com
@@ -156,7 +156,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_15
   server: 231103level3.unclemanco.com
@@ -167,7 +167,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_16
   server: 231103level3.unclemanco.com
@@ -178,7 +178,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_17
   server: 231103level3.unclemanco.com
@@ -189,7 +189,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_18
   server: 231103level3.unclemanco.com
@@ -200,7 +200,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_19
   server: 231103level3.unclemanco.com
@@ -211,7 +211,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_110
   server: 231103level3.unclemanco.com
@@ -222,7 +222,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_111
   server: 231103level3.unclemanco.com
@@ -233,7 +233,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_112
   server: 231103level3.unclemanco.com
@@ -244,7 +244,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_113
   server: 231103level3.unclemanco.com
@@ -255,7 +255,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_114
   server: 231103level3.unclemanco.com
@@ -266,7 +266,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_115
   server: 231103level3.unclemanco.com
@@ -277,7 +277,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_116
   server: 231103level3.unclemanco.com
@@ -288,7 +288,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_117
   server: 231103level3.unclemanco.com
@@ -299,7 +299,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_118
   server: 231103level3.unclemanco.com
@@ -310,7 +310,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_119
   server: 231103level3.unclemanco.com
@@ -321,7 +321,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_120
   server: 231103level3.unclemanco.com
@@ -332,7 +332,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_121
   server: 231103level3.unclemanco.com
@@ -343,7 +343,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_122
   server: 231103level3.unclemanco.com
@@ -354,7 +354,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_123
   server: 231103level3.unclemanco.com
@@ -365,7 +365,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_124
   server: 231103level3.unclemanco.com
@@ -376,7 +376,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_125
   server: 231103level3.unclemanco.com
@@ -387,7 +387,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_126
   server: 231103level3.unclemanco.com
@@ -398,7 +398,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_127
   server: 231103level3.unclemanco.com
@@ -409,7 +409,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_128
   server: 231103level3.unclemanco.com
@@ -420,7 +420,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_129
   server: 231103level3.unclemanco.com
@@ -431,7 +431,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_130
   server: 231103level3.unclemanco.com
@@ -442,7 +442,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_131
   server: 231103level3.unclemanco.com
@@ -453,7 +453,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_132
   server: 231103level3.unclemanco.com
@@ -464,7 +464,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_133
   server: 231103level3.unclemanco.com
@@ -475,7 +475,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_134
   server: 231103level3.unclemanco.com
@@ -486,7 +486,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_135
   server: 231103level3.unclemanco.com
@@ -497,7 +497,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_136
   server: 231103level3.unclemanco.com
@@ -508,7 +508,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_137
   server: 231103level3.unclemanco.com
@@ -519,7 +519,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_138
   server: 231103level3.unclemanco.com
@@ -530,7 +530,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_139
   server: 231103level3.unclemanco.com
@@ -541,7 +541,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_140
   server: 231103level3.unclemanco.com
@@ -552,7 +552,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_141
   server: 231103level3.unclemanco.com
@@ -563,7 +563,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_142
   server: 231103level3.unclemanco.com
@@ -574,7 +574,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_143
   server: 231103level3.unclemanco.com
@@ -585,7 +585,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_144
   server: 231103level3.unclemanco.com
@@ -596,7 +596,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_145
   server: 231103level3.unclemanco.com
@@ -607,7 +607,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_146
   server: 231103level3.unclemanco.com
@@ -618,7 +618,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_147
   server: 231103level2.unclemanco.com
@@ -629,7 +629,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_148
   server: 231103level2.unclemanco.com
@@ -640,7 +640,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_149
   server: 231103level2.unclemanco.com
@@ -651,7 +651,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_150
   server: 231103level2.unclemanco.com
@@ -662,7 +662,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_151
   server: 231103level2.unclemanco.com
@@ -673,7 +673,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_152
   server: 231103level2.unclemanco.com
@@ -684,7 +684,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_153
   server: 231103level2.unclemanco.com
@@ -695,7 +695,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_154
   server: 231103level2.unclemanco.com
@@ -706,7 +706,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_155
   server: 231103level2.unclemanco.com
@@ -717,7 +717,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_156
   server: 231103level2.unclemanco.com
@@ -728,7 +728,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_157
   server: 231103level2.unclemanco.com
@@ -739,7 +739,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_158
   server: 231103level2.unclemanco.com
@@ -750,7 +750,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_159
   server: 231103level2.unclemanco.com
@@ -761,7 +761,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_160
   server: 231103level2.unclemanco.com
@@ -772,7 +772,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_161
   server: 231103level2.unclemanco.com
@@ -783,7 +783,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_162
   server: 231103level2.unclemanco.com
@@ -794,7 +794,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_163
   server: 231103level2.unclemanco.com
@@ -805,7 +805,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_164
   server: 231103level2.unclemanco.com
@@ -816,7 +816,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_165
   server: 231103level2.unclemanco.com
@@ -827,7 +827,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_166
   server: 231103level2.unclemanco.com
@@ -838,7 +838,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_167
   server: 231103level2.unclemanco.com
@@ -849,7 +849,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_168
   server: 231103levelx.unclemanco.com
@@ -860,7 +860,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_169
   server: 231103levelx.unclemanco.com
@@ -871,7 +871,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_170
   server: 231103level2.unclemanco.com
@@ -882,7 +882,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_171
   server: 231103level2.unclemanco.com
@@ -893,7 +893,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_172
   server: 231103level2.unclemanco.com
@@ -904,7 +904,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_173
   server: 231103level2.unclemanco.com
@@ -915,7 +915,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_174
   server: 231103level2.unclemanco.com
@@ -926,7 +926,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_175
   server: 231103level2.unclemanco.com
@@ -937,7 +937,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_176
   server: 231103level2.unclemanco.com
@@ -948,7 +948,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_177
   server: 231103level2.unclemanco.com
@@ -959,7 +959,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_178
   server: 231103level2.unclemanco.com
@@ -970,7 +970,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_179
   server: 231103level2.unclemanco.com
@@ -981,7 +981,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_180
   server: 231103level2.unclemanco.com
@@ -992,7 +992,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_181
   server: 231103level2.unclemanco.com
@@ -1003,7 +1003,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_182
   server: 231103level1.unclemanco.com
@@ -1014,7 +1014,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_183
   server: 231103level1.unclemanco.com
@@ -1025,7 +1025,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_184
   server: 231103level1.unclemanco.com
@@ -1036,7 +1036,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_185
   server: 231103level1.unclemanco.com
@@ -1047,7 +1047,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_186
   server: 231103level1.unclemanco.com
@@ -1058,7 +1058,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_187
   server: 231103level1.unclemanco.com
@@ -1069,7 +1069,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_188
   server: 231103level1.unclemanco.com
@@ -1080,7 +1080,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_189
   server: 231103level1.unclemanco.com
@@ -1091,7 +1091,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_190
   server: 231103level1.unclemanco.com
@@ -1102,7 +1102,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_191
   server: 231103level1.unclemanco.com
@@ -1113,7 +1113,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_192
   server: 231103levelx.unclemanco.com
@@ -1124,7 +1124,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_193
   server: 231103levelx.unclemanco.com
@@ -1135,7 +1135,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_194
   server: 231103level1.unclemanco.com
@@ -1146,7 +1146,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_195
   server: 231103level1.unclemanco.com
@@ -1157,7 +1157,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_196
   server: 231103level1.unclemanco.com
@@ -1168,7 +1168,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_197
   server: 231103level1.unclemanco.com
@@ -1179,7 +1179,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_198
   server: 231103level1.unclemanco.com
@@ -1190,7 +1190,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 6412190446.download.windowsupdate.com
+    host: 4b0e790597.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_21
   server: n00001.bzdqsmzngpyyng.sbs
@@ -1198,7 +1198,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_22
@@ -1207,7 +1207,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_23
@@ -1216,7 +1216,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_24
@@ -1225,7 +1225,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_25
@@ -1234,7 +1234,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_26
@@ -1243,7 +1243,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_27
@@ -1252,7 +1252,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_28
@@ -1261,7 +1261,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_29
@@ -1270,7 +1270,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_210
@@ -1279,7 +1279,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_211
@@ -1288,7 +1288,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_212
@@ -1297,7 +1297,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_213
@@ -1306,7 +1306,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_214
@@ -1315,7 +1315,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_215
@@ -1324,7 +1324,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_216
@@ -1333,7 +1333,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_217
@@ -1342,7 +1342,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_218
@@ -1351,7 +1351,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_219
@@ -1360,7 +1360,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_220
@@ -1369,7 +1369,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_221
@@ -1378,7 +1378,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_222
@@ -1387,7 +1387,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_223
@@ -1396,7 +1396,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_224
@@ -1405,7 +1405,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_225
@@ -1414,7 +1414,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_226
@@ -1423,7 +1423,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_227
@@ -1432,7 +1432,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_228
@@ -1441,7 +1441,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_229
@@ -1450,7 +1450,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_230
@@ -1459,7 +1459,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_231
@@ -1468,7 +1468,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_232
@@ -1477,7 +1477,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_233
@@ -1486,7 +1486,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_234
@@ -1495,7 +1495,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_235
@@ -1504,7 +1504,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_236
@@ -1513,7 +1513,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_237
@@ -1522,7 +1522,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_238
@@ -1531,7 +1531,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_239
@@ -1540,7 +1540,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_240
@@ -1549,7 +1549,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_241
@@ -1558,7 +1558,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_242
@@ -1567,7 +1567,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_243
@@ -1576,7 +1576,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_244
@@ -1585,7 +1585,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_245
@@ -1594,7 +1594,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_246
@@ -1603,7 +1603,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_247
@@ -1612,7 +1612,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_248
@@ -1621,7 +1621,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_249
@@ -1630,7 +1630,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_250
@@ -1639,7 +1639,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_251
@@ -1648,7 +1648,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_252
@@ -1657,7 +1657,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_253
@@ -1666,7 +1666,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_254
@@ -1675,7 +1675,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_255
@@ -1684,7 +1684,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_256
@@ -1693,7 +1693,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_257
@@ -1702,7 +1702,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_258
@@ -1711,7 +1711,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_259
@@ -1720,7 +1720,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_260
@@ -1729,7 +1729,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_261
@@ -1738,7 +1738,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_262
@@ -1747,10 +1747,10 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 6a9d2acc-80c2-4a7e-bf0f-553d1a458228
+  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
   tfo: false
   udp: true
-- name: AFOSNE_United States_vmess_31
+- name: AFOSNE_None_vmess_31
   server: mcecloud.net
   port: 10086
   type: vmess
@@ -1774,15 +1774,15 @@ proxies:
   server: 52.88.80.155
   port: 443
   type: trojan
-  password: ec338bf7-331e-3ee5-89d1-947479162d92
+  password: b6797d26-11d5-3ddd-9ec3-00f79b48e0bf
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_United States_trojan_42
   server: 103.136.185.27
-  port: 5492
+  port: 5493
   type: trojan
-  password: ec338bf7-331e-3ee5-89d1-947479162d92
+  password: b6797d26-11d5-3ddd-9ec3-00f79b48e0bf
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
   skip-cert-verify: true
   udp: true
@@ -1790,7 +1790,7 @@ proxies:
   server: 103.136.185.28
   port: 3500
   type: trojan
-  password: ec338bf7-331e-3ee5-89d1-947479162d92
+  password: b6797d26-11d5-3ddd-9ec3-00f79b48e0bf
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
   skip-cert-verify: true
   udp: true
@@ -2105,495 +2105,440 @@ proxies:
 - name: AFOSNE_China_trojan_61
   server: gcdddd0005.likeone.lol
   port: 51031
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_62
   server: gcdddd0005.likeone.lol
   port: 51031
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_63
   server: gcdddd0001.likeone.lol
   port: 51031
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_64
   server: gcdddd0003.likeone.lol
   port: 51031
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_65
   server: gcdddd0003.likeone.lol
   port: 58464
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: sg02.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_66
   server: gcdddd0005.likeone.lol
   port: 58464
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: sg02.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_67
   server: gcdddd0001.likeone.lol
   port: 58464
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: sg02.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_68
   server: gcdddd0005.likeone.lol
   port: 25974
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_69
   server: gcdddd0001.likeone.lol
   port: 25974
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_610
   server: gcdddd0003.likeone.lol
   port: 25974
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_611
   server: gcdddd0003.likeone.lol
   port: 35257
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_612
   server: gcdddd0001.likeone.lol
   port: 35257
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_613
   server: gcdddd0002.likeone.lol
   port: 35257
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_614
   server: gcdddd0003.likeone.lol
   port: 26023
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_615
   server: gcdddd0005.likeone.lol
   port: 26023
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_616
   server: gcdddd0001.likeone.lol
   port: 26023
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_617
   server: gcdddd0003.likeone.lol
   port: 15485
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_618
   server: gcdddd0005.likeone.lol
   port: 15485
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_619
   server: gcdddd0001.likeone.lol
   port: 15485
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_620
   server: gcdddd0005.likeone.lol
   port: 10327
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_621
   server: gcdddd0001.likeone.lol
   port: 10327
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_622
   server: gcdddd0003.likeone.lol
   port: 10327
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_623
   server: gcdddd0005.likeone.lol
   port: 16483
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_624
   server: gcdddd0001.likeone.lol
   port: 16483
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_625
   server: gcdddd0003.likeone.lol
   port: 16483
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_626
   server: gcdddd0001.likeone.lol
   port: 64850
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_627
   server: gcdddd0003.likeone.lol
   port: 64850
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_628
   server: gcdddd0005.likeone.lol
   port: 64850
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_629
   server: gcdddd0005.likeone.lol
   port: 47557
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_630
   server: gcdddd0001.likeone.lol
   port: 47557
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_631
   server: gcdddd0003.likeone.lol
   port: 47557
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_632
   server: gcdddd0003.likeone.lol
   port: 16343
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_633
   server: gcdddd0005.likeone.lol
   port: 16343
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_634
   server: gcdddd0001.likeone.lol
   port: 16343
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_635
   server: gcdddd0005.likeone.lol
   port: 26094
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: id01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_636
   server: gcdddd0001.likeone.lol
   port: 26094
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: id01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_637
   server: gcdddd0003.likeone.lol
   port: 26094
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: id01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_638
   server: gcdddd0005.likeone.lol
   port: 42840
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: uk01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_639
   server: gcdddd0001.likeone.lol
   port: 42840
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: uk01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_640
   server: gcdddd0003.likeone.lol
   port: 42840
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: uk01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_641
   server: gcdddd0003.likeone.lol
   port: 53279
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: de01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_642
   server: gcdddd0005.likeone.lol
   port: 53279
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: de01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_643
   server: gcdddd0001.likeone.lol
   port: 53279
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: de01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_644
   server: gcdddd0001.likeone.lol
   port: 60293
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_645
   server: gcdddd0003.likeone.lol
   port: 60293
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_646
   server: gcdddd0005.likeone.lol
   port: 60293
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_647
   server: gcdddd0001.likeone.lol
   port: 48560
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: us03.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_648
   server: gcdddd0003.likeone.lol
   port: 48560
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: us03.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_649
   server: gcdddd0005.likeone.lol
   port: 48560
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: us03.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_650
   server: gcdddd0005.likeone.lol
   port: 10658
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: us2.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_651
   server: gcdddd0003.likeone.lol
   port: 10658
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: us2.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_652
   server: gcdddd0001.likeone.lol
   port: 10658
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: us2.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_653
   server: gcdddd0005.likeone.lol
   port: 26681
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: us04.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_654
   server: gcdddd0003.likeone.lol
   port: 26681
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: us04.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_655
   server: gcdddd0001.likeone.lol
   port: 26681
-  client-fingerprint: chrome
   type: trojan
-  password: 3a380a89-f4a6-4655-8943-158198586659
+  password: 99af69fc-9912-413d-9fb1-2e34974d477d
   sni: us04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2775,7 +2720,7 @@ proxy-groups:
   - AFOSNE_China_ss_260
   - AFOSNE_China_ss_261
   - AFOSNE_China_ss_262
-  - AFOSNE_United States_vmess_31
+  - AFOSNE_None_vmess_31
   - AFOSNE_None_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
@@ -3041,7 +2986,7 @@ proxy-groups:
   - AFOSNE_China_ss_260
   - AFOSNE_China_ss_261
   - AFOSNE_China_ss_262
-  - AFOSNE_United States_vmess_31
+  - AFOSNE_None_vmess_31
   - AFOSNE_None_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
