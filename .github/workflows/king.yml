@@ -2,7 +2,6 @@ name: king
 
 on:
   repository_dispatch:
-    types: helloworld
  
 jobs:
   main:
