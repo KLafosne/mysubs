@@ -3,7 +3,6 @@ name: king
 on: 
   repository_dispatch:
 
-      
 jobs:
   main:
     runs-on: ubuntu-latest
