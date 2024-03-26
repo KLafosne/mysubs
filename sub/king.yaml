@@ -1393,434 +1393,434 @@ proxies:
   port: 22704
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_22
   server: n00001.bzdqsmzngpyyng.sbs
   port: 22704
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_23
   server: n00001.bzdqsmzngpyyng.sbs
   port: 20356
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_24
   server: n00003.bzdqsmzngpyyng.sbs
   port: 20356
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_25
   server: n00005.bzdqsmzngpyyng.sbs
   port: 20356
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_26
   server: n00001.bzdqsmzngpyyng.sbs
   port: 37581
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_27
   server: n00003.bzdqsmzngpyyng.sbs
   port: 37581
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_28
   server: n00005.bzdqsmzngpyyng.sbs
   port: 37581
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_29
   server: n00001.bzdqsmzngpyyng.sbs
   port: 15976
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_210
   server: n00003.bzdqsmzngpyyng.sbs
   port: 15976
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_211
   server: n00005.bzdqsmzngpyyng.sbs
   port: 15976
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_212
   server: n00001.bzdqsmzngpyyng.sbs
   port: 14490
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_213
   server: n00003.bzdqsmzngpyyng.sbs
   port: 14490
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_214
   server: n00005.bzdqsmzngpyyng.sbs
   port: 14490
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_215
   server: n00001.bzdqsmzngpyyng.sbs
   port: 46912
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_216
   server: n00003.bzdqsmzngpyyng.sbs
   port: 46912
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_217
   server: n00005.bzdqsmzngpyyng.sbs
   port: 46912
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_218
   server: n00001.bzdqsmzngpyyng.sbs
   port: 22704
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_219
   server: n00003.bzdqsmzngpyyng.sbs
   port: 22704
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_220
   server: n00005.bzdqsmzngpyyng.sbs
   port: 22704
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_221
   server: n00001.bzdqsmzngpyyng.sbs
   port: 25074
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_222
   server: n00003.bzdqsmzngpyyng.sbs
   port: 25074
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_223
   server: n00005.bzdqsmzngpyyng.sbs
   port: 25074
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_224
   server: n00001.bzdqsmzngpyyng.sbs
   port: 35672
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_225
   server: n00003.bzdqsmzngpyyng.sbs
   port: 35672
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_226
   server: n00005.bzdqsmzngpyyng.sbs
   port: 35672
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_227
   server: n00001.bzdqsmzngpyyng.sbs
   port: 21526
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_228
   server: n00003.bzdqsmzngpyyng.sbs
   port: 21526
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_229
   server: n00005.bzdqsmzngpyyng.sbs
   port: 21526
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_230
   server: n00001.bzdqsmzngpyyng.sbs
   port: 40276
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_231
   server: n00003.bzdqsmzngpyyng.sbs
   port: 40276
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_232
   server: n00005.bzdqsmzngpyyng.sbs
   port: 40276
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_233
   server: n00001.bzdqsmzngpyyng.sbs
   port: 25881
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_234
   server: n00003.bzdqsmzngpyyng.sbs
   port: 25881
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_235
   server: n00005.bzdqsmzngpyyng.sbs
   port: 25881
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_236
   server: n00001.bzdqsmzngpyyng.sbs
   port: 10598
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_237
   server: n00003.bzdqsmzngpyyng.sbs
   port: 10598
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_238
   server: n00005.bzdqsmzngpyyng.sbs
   port: 10598
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_239
   server: n00001.bzdqsmzngpyyng.sbs
   port: 10519
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_240
   server: n00003.bzdqsmzngpyyng.sbs
   port: 10519
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_241
   server: n00005.bzdqsmzngpyyng.sbs
   port: 10519
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_242
   server: n00001.bzdqsmzngpyyng.sbs
   port: 28625
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_243
   server: n00003.bzdqsmzngpyyng.sbs
   port: 28625
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_244
   server: n00005.bzdqsmzngpyyng.sbs
   port: 28625
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_245
   server: n00001.bzdqsmzngpyyng.sbs
   port: 54295
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_246
   server: n00003.bzdqsmzngpyyng.sbs
   port: 54295
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_247
   server: n00005.bzdqsmzngpyyng.sbs
   port: 54295
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_248
   server: n00001.bzdqsmzngpyyng.sbs
   port: 45852
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_249
   server: n00003.bzdqsmzngpyyng.sbs
   port: 45852
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_250
   server: n00005.bzdqsmzngpyyng.sbs
   port: 45852
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_251
   server: n00001.bzdqsmzngpyyng.sbs
   port: 63640
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_252
   server: n00003.bzdqsmzngpyyng.sbs
   port: 63640
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_253
   server: n00005.bzdqsmzngpyyng.sbs
   port: 63640
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_254
   server: n00001.bzdqsmzngpyyng.sbs
   port: 15762
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_255
   server: n00003.bzdqsmzngpyyng.sbs
   port: 15762
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_256
   server: n00005.bzdqsmzngpyyng.sbs
   port: 15762
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_257
   server: n00001.bzdqsmzngpyyng.sbs
   port: 20943
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_258
   server: n00003.bzdqsmzngpyyng.sbs
   port: 20943
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_259
   server: n00005.bzdqsmzngpyyng.sbs
   port: 20943
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_260
   server: n00001.bzdqsmzngpyyng.sbs
   port: 39788
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_261
   server: n00003.bzdqsmzngpyyng.sbs
   port: 39788
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_China_ss_262
   server: n00005.bzdqsmzngpyyng.sbs
   port: 39788
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 26e20367-dcf9-44fa-aa14-93ce4f8e2a9c
+  password: 923d49d5-84a0-461e-a62b-0a76b76cd9d6
   udp: true
 - name: AFOSNE_None_vmess_31
   server: mcecloud.net
@@ -1832,7 +1832,7 @@ proxies:
   tls: false
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_United States_vmess_32
+- name: AFOSNE_None_vmess_32
   server: mcecloud.net
   port: 10086
   type: vmess
@@ -2178,7 +2178,7 @@ proxies:
   server: gcdddd0005.likeone.lol
   port: 51031
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2186,7 +2186,7 @@ proxies:
   server: gcdddd0005.likeone.lol
   port: 51031
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2194,7 +2194,7 @@ proxies:
   server: gcdddd0001.likeone.lol
   port: 51031
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2202,7 +2202,7 @@ proxies:
   server: gcdddd0003.likeone.lol
   port: 51031
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2210,7 +2210,7 @@ proxies:
   server: gcdddd0003.likeone.lol
   port: 58464
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: sg02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2218,7 +2218,7 @@ proxies:
   server: gcdddd0005.likeone.lol
   port: 58464
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: sg02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2226,7 +2226,7 @@ proxies:
   server: gcdddd0001.likeone.lol
   port: 58464
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: sg02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2234,7 +2234,7 @@ proxies:
   server: gcdddd0005.likeone.lol
   port: 25974
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2242,7 +2242,7 @@ proxies:
   server: gcdddd0001.likeone.lol
   port: 25974
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2250,7 +2250,7 @@ proxies:
   server: gcdddd0003.likeone.lol
   port: 25974
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2258,7 +2258,7 @@ proxies:
   server: gcdddd0003.likeone.lol
   port: 35257
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2266,7 +2266,7 @@ proxies:
   server: gcdddd0001.likeone.lol
   port: 35257
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2274,7 +2274,7 @@ proxies:
   server: gcdddd0002.likeone.lol
   port: 35257
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2282,7 +2282,7 @@ proxies:
   server: gcdddd0003.likeone.lol
   port: 26023
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2290,7 +2290,7 @@ proxies:
   server: gcdddd0005.likeone.lol
   port: 26023
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2298,7 +2298,7 @@ proxies:
   server: gcdddd0001.likeone.lol
   port: 26023
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2306,7 +2306,7 @@ proxies:
   server: gcdddd0003.likeone.lol
   port: 15485
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2314,7 +2314,7 @@ proxies:
   server: gcdddd0005.likeone.lol
   port: 15485
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2322,7 +2322,7 @@ proxies:
   server: gcdddd0001.likeone.lol
   port: 15485
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2330,7 +2330,7 @@ proxies:
   server: gcdddd0005.likeone.lol
   port: 10327
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2338,7 +2338,7 @@ proxies:
   server: gcdddd0001.likeone.lol
   port: 10327
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2346,7 +2346,7 @@ proxies:
   server: gcdddd0003.likeone.lol
   port: 10327
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2354,7 +2354,7 @@ proxies:
   server: gcdddd0005.likeone.lol
   port: 16483
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2362,7 +2362,7 @@ proxies:
   server: gcdddd0001.likeone.lol
   port: 16483
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2370,7 +2370,7 @@ proxies:
   server: gcdddd0003.likeone.lol
   port: 16483
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2378,7 +2378,7 @@ proxies:
   server: gcdddd0001.likeone.lol
   port: 64850
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2386,7 +2386,7 @@ proxies:
   server: gcdddd0003.likeone.lol
   port: 64850
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2394,7 +2394,7 @@ proxies:
   server: gcdddd0005.likeone.lol
   port: 64850
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2402,7 +2402,7 @@ proxies:
   server: gcdddd0005.likeone.lol
   port: 47557
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2410,7 +2410,7 @@ proxies:
   server: gcdddd0001.likeone.lol
   port: 47557
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2418,7 +2418,7 @@ proxies:
   server: gcdddd0003.likeone.lol
   port: 47557
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2426,7 +2426,7 @@ proxies:
   server: gcdddd0003.likeone.lol
   port: 16343
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2434,7 +2434,7 @@ proxies:
   server: gcdddd0005.likeone.lol
   port: 16343
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2442,7 +2442,7 @@ proxies:
   server: gcdddd0001.likeone.lol
   port: 16343
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2450,7 +2450,7 @@ proxies:
   server: gcdddd0005.likeone.lol
   port: 26094
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: id01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2458,7 +2458,7 @@ proxies:
   server: gcdddd0001.likeone.lol
   port: 26094
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: id01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2466,7 +2466,7 @@ proxies:
   server: gcdddd0003.likeone.lol
   port: 26094
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: id01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2474,7 +2474,7 @@ proxies:
   server: gcdddd0005.likeone.lol
   port: 42840
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: uk01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2482,7 +2482,7 @@ proxies:
   server: gcdddd0001.likeone.lol
   port: 42840
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: uk01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2490,7 +2490,7 @@ proxies:
   server: gcdddd0003.likeone.lol
   port: 42840
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: uk01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2498,7 +2498,7 @@ proxies:
   server: gcdddd0003.likeone.lol
   port: 53279
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: de01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2506,7 +2506,7 @@ proxies:
   server: gcdddd0005.likeone.lol
   port: 53279
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: de01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2514,7 +2514,7 @@ proxies:
   server: gcdddd0001.likeone.lol
   port: 53279
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: de01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2522,7 +2522,7 @@ proxies:
   server: gcdddd0001.likeone.lol
   port: 60293
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2530,7 +2530,7 @@ proxies:
   server: gcdddd0003.likeone.lol
   port: 60293
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2538,7 +2538,7 @@ proxies:
   server: gcdddd0005.likeone.lol
   port: 60293
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2546,7 +2546,7 @@ proxies:
   server: gcdddd0001.likeone.lol
   port: 48560
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: us03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2554,7 +2554,7 @@ proxies:
   server: gcdddd0003.likeone.lol
   port: 48560
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: us03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2562,7 +2562,7 @@ proxies:
   server: gcdddd0005.likeone.lol
   port: 48560
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: us03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2570,7 +2570,7 @@ proxies:
   server: gcdddd0005.likeone.lol
   port: 10658
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: us2.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2578,7 +2578,7 @@ proxies:
   server: gcdddd0003.likeone.lol
   port: 10658
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: us2.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2586,7 +2586,7 @@ proxies:
   server: gcdddd0001.likeone.lol
   port: 10658
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: us2.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2594,7 +2594,7 @@ proxies:
   server: gcdddd0005.likeone.lol
   port: 26681
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: us04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2602,7 +2602,7 @@ proxies:
   server: gcdddd0003.likeone.lol
   port: 26681
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: us04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2610,7 +2610,7 @@ proxies:
   server: gcdddd0001.likeone.lol
   port: 26681
   type: trojan
-  password: 99af69fc-9912-413d-9fb1-2e34974d477d
+  password: af9443d5-9c26-4fac-97ac-27cc222ebfb2
   sni: us04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2793,7 +2793,7 @@ proxy-groups:
   - AFOSNE_China_ss_261
   - AFOSNE_China_ss_262
   - AFOSNE_None_vmess_31
-  - AFOSNE_United States_vmess_32
+  - AFOSNE_None_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
@@ -3059,7 +3059,7 @@ proxy-groups:
   - AFOSNE_China_ss_261
   - AFOSNE_China_ss_262
   - AFOSNE_None_vmess_31
-  - AFOSNE_United States_vmess_32
+  - AFOSNE_None_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
