@@ -1,8 +1,11 @@
 name: king
 
-on:
+on: 
   repository_dispatch:
- 
+    types:
+      - webhook-1
+      - webhook-2
+      
 jobs:
   main:
     runs-on: ubuntu-latest
