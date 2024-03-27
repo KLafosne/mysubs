@@ -1,21 +1,21 @@
 [www.ckcloud.xyz]
 email  aowapge989@gmail.com
-node_n  55
-sub_info  50.46M  1G  2024-03-28 02:57:05+08:00  (剩余 973.5M 15:23:38.395496)
+node_n  56
+sub_info  50.46M  1G  2024-03-28 02:57:05+08:00  (剩余 973.5M 14:20:05.895922)
 sub_url  https://www.jcbbsub.top:21600/api/v1/client/subscribe?token=94dfa1738b1edca8f3966ebcbf287e16
 time  2024-03-27 02:57:05.291364+08:00
 
 [fastestcloud.xyz]
 email  xxvzbij14@gmail.com
 node_n  62
-sub_info  301.5K  1G  2024-03-28 02:33:14+08:00  (剩余 1024M 14:59:50.002087)
+sub_info  301.5K  1G  2024-03-28 02:33:14+08:00  (剩余 1024M 13:56:51.202091)
 sub_url  https://sub.flyyydds.top:21600/api/v1/client/subscribe?token=094b991e25a349125af9929e79237c66
 time  2024-03-27 02:33:15.301296+08:00
 
 [biubiufast.com]
 email  uncakso328@gmail.com
 node_n  12
-sub_info  111.4M  1G  2024-03-28 00:35:42+08:00  (剩余 912.6M 13:02:20.417279)
+sub_info  111.4M  1G  2024-03-28 00:35:42+08:00  (剩余 912.6M 11:59:24.038090)
 sub_url  https://biubiufast.website/api/v1/client/subscribe?token=c2da67b3f8f9623d2c6fc3103c6d1d5c
 time  2024-03-27 00:35:42.651530+08:00
 
@@ -23,7 +23,7 @@ time  2024-03-27 00:35:42.651530+08:00
 email  xxvzbij14@miteon.com
 last_checkin  2024-03-27 02:33:17.797499+08:00
 node_n  98
-sub_info  39.07M  1.141G  2024-03-28 02:33:17+08:00  (剩余 1.102G 14:59:53.558261)
+sub_info  39.07M  1.141G  2024-03-28 02:33:17+08:00  (剩余 1.102G 13:56:58.883856)
 sub_url  https://network.ayucloud.nl/link/L387J9GqFOZY9agw?clash=1
 time  2024-03-27 02:33:18.554221+08:00
 
@@ -32,7 +32,7 @@ email  xxvzbij14@miteon.com
 invite_code  1VtK  9999
 last_checkin  2024-03-27 02:33:22.458803+08:00
 node_n  47
-sub_info  0B  10.1G  2024-03-28 02:33:22+08:00  (剩余 10.1G 14:59:57.666891)
+sub_info  0B  10.1G  2024-03-28 02:33:22+08:00  (剩余 10.1G 13:56:22.804519)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/Wc9w50wHCIR7G6BE?sub=3
 time  2024-03-27 02:33:22.805314+08:00
 
@@ -40,10 +40,9 @@ time  2024-03-27 02:33:22.805314+08:00
 email  astnzmiaz451@snapmail.cc
 last_checkin  2024-03-27 00:35:39.075114+08:00
 node_n  28
-sub_info  2.892G  888.1G  2024-03-30 05:14:46+08:00  (剩余 885.2G 2 days, 17:40:36.609874)
+sub_info  2.892G  888.1G  2024-03-30 05:14:46+08:00  (剩余 885.2G 2 days, 16:38:27.714591)
 sub_url  https://www.qlgq.top/link/b4fa2e17974fa2a5?clash=1
 time  2024-03-23 05:14:47.119448+08:00
-保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [nova.live]
 email  swgugri403@nespressopixie.com
@@ -63,15 +62,16 @@ time  2024-03-16 09:46:08.596402+08:00
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [mcecloud.com]
-email  lkdkfew786@gmail.com
-last_checkin  2024-03-27 11:33:23.622349+08:00
+email  kfqwtaa26@gmail.com
+last_checkin  2024-03-27 12:36:26.919240+08:00
 node_n  1
-sub_info  0B  31M  2024-03-27 11:33:23+08:00  (剩余 31M -1 day, 23:59:56.940547)
-sub_url  https://st-sub.fly.dev/ssp/mce/link/RqvFv05vSZxhXcE8?sub=3
-time  2024-03-27 11:33:24.637981+08:00
+sub_info  0B  22M  2024-03-27 12:36:26+08:00  (剩余 22M -1 day, 23:59:49.061421)
+sub_url  https://st-sub.fly.dev/ssp/mce/link/tLrvE8c41yQgMcNV?sub=3
+time  2024-03-27 12:36:27.769704+08:00
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [cloud.speedypro.xyz name Speedypro]
-更新订阅链接/续费续签失败  注册失败(lkdkfew786@gmail.com): HTTPSConnectionPool(host='cloud.speedypro.xyz%20name%20speedypro', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f23c2d1dc60>: Failed to resolve 'cloud.speedypro.xyz%20name%20speedypro' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(kfqwtaa26@gmail.com): HTTPSConnectionPool(host='cloud.speedypro.xyz%20name%20speedypro', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f76893aa9b0>: Failed to resolve 'cloud.speedypro.xyz%20name%20speedypro' ([Errno -2] Name or service not known)"))
 
 [ikuuu.me name ikuuu]
-更新订阅链接/续费续签失败  注册失败(lkdkfew786@gmail.com): HTTPSConnectionPool(host='ikuuu.me%20name%20ikuuu', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f23c2d1ee60>: Failed to resolve 'ikuuu.me%20name%20ikuuu' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(kfqwtaa26@gmail.com): HTTPSConnectionPool(host='ikuuu.me%20name%20ikuuu', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f76893aa680>: Failed to resolve 'ikuuu.me%20name%20ikuuu' ([Errno -2] Name or service not known)"))
