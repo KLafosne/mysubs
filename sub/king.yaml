@@ -30,7 +30,8 @@ proxies:
   port: 5203
   client-fingerprint: chrome
   type: trojan
-  password: c2143910-981c-473d-b570-72149155bccb
+  password: cd7186c8-1f20-472e-b115-1bbe9861887c
+  sni: jp1.biubiufast.quest
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_Japan_ss_02
@@ -39,7 +40,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c2143910-981c-473d-b570-72149155bccb
+  password: cd7186c8-1f20-472e-b115-1bbe9861887c
   tfo: false
   udp: true
 - name: AFOSNE_Hong Kong_ss_03
@@ -48,7 +49,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c2143910-981c-473d-b570-72149155bccb
+  password: cd7186c8-1f20-472e-b115-1bbe9861887c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_04
@@ -57,7 +58,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c2143910-981c-473d-b570-72149155bccb
+  password: cd7186c8-1f20-472e-b115-1bbe9861887c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_05
@@ -66,7 +67,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c2143910-981c-473d-b570-72149155bccb
+  password: cd7186c8-1f20-472e-b115-1bbe9861887c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_06
@@ -75,7 +76,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c2143910-981c-473d-b570-72149155bccb
+  password: cd7186c8-1f20-472e-b115-1bbe9861887c
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_07
@@ -84,7 +85,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c2143910-981c-473d-b570-72149155bccb
+  password: cd7186c8-1f20-472e-b115-1bbe9861887c
   tfo: false
   udp: true
 - name: AFOSNE_China_trojan_08
@@ -92,7 +93,7 @@ proxies:
   port: 11201
   client-fingerprint: chrome
   type: trojan
-  password: c2143910-981c-473d-b570-72149155bccb
+  password: cd7186c8-1f20-472e-b115-1bbe9861887c
   sni: jp1.biubiufast.quest
   skip-cert-verify: true
   udp: true
@@ -101,7 +102,7 @@ proxies:
   port: 11101
   client-fingerprint: chrome
   type: trojan
-  password: c2143910-981c-473d-b570-72149155bccb
+  password: cd7186c8-1f20-472e-b115-1bbe9861887c
   sni: hk1.biubiufast.quest
   skip-cert-verify: true
   udp: true
@@ -110,7 +111,7 @@ proxies:
   port: 11301
   client-fingerprint: chrome
   type: trojan
-  password: c2143910-981c-473d-b570-72149155bccb
+  password: cd7186c8-1f20-472e-b115-1bbe9861887c
   sni: dg5.biubiufast.quest
   skip-cert-verify: true
   udp: true
@@ -119,7 +120,7 @@ proxies:
   port: 11302
   client-fingerprint: chrome
   type: trojan
-  password: c2143910-981c-473d-b570-72149155bccb
+  password: cd7186c8-1f20-472e-b115-1bbe9861887c
   sni: hk15.biubiufast.quest
   skip-cert-verify: true
   udp: true
@@ -128,7 +129,7 @@ proxies:
   port: 11303
   client-fingerprint: chrome
   type: trojan
-  password: c2143910-981c-473d-b570-72149155bccb
+  password: cd7186c8-1f20-472e-b115-1bbe9861887c
   sni: sfo6.biubiufast.quest
   skip-cert-verify: true
   udp: true
@@ -1654,7 +1655,7 @@ proxies:
   tls: false
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_None_vmess_32
+- name: AFOSNE_United States_vmess_32
   server: mcecloud.net
   port: 10086
   type: vmess
@@ -2615,7 +2616,7 @@ proxy-groups:
   - AFOSNE_China_ss_261
   - AFOSNE_China_ss_262
   - AFOSNE_None_vmess_31
-  - AFOSNE_None_vmess_32
+  - AFOSNE_United States_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
@@ -2881,7 +2882,7 @@ proxy-groups:
   - AFOSNE_China_ss_261
   - AFOSNE_China_ss_262
   - AFOSNE_None_vmess_31
-  - AFOSNE_None_vmess_32
+  - AFOSNE_United States_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
