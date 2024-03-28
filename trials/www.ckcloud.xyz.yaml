@@ -39,9 +39,7 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 剩余流量：1 GB - JCBB, server: gcdddd0005.likeone.lol, port: 51031, type: trojan, password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：2 天 - JCBB, server: gcdddd0005.likeone.lol, port: 51031, type: trojan, password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 套餐到期：2024-03-30 - JCBB, server: gcdddd0005.likeone.lol, port: 51031, type: trojan, password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: JCBB_ 新加坡 01【vip1 】 - JCBB, server: gcdddd0005.likeone.lol, port: 51031, type: trojan, password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: JCBB_ 新加坡 02【vip1 】 - JCBB, server: gcdddd0001.likeone.lol, port: 51031, type: trojan, password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: JCBB_ 新加坡 03【vip1 】 - JCBB, server: gcdddd0003.likeone.lol, port: 51031, type: trojan, password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
