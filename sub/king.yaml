@@ -1946,7 +1946,7 @@ proxies:
   password: cea7586f-2c71-40da-b07c-002b7ba5360e
   tfo: false
   udp: true
-- name: AFOSNE_United States_vmess_31
+- name: AFOSNE_None_vmess_31
   server: mcecloud.net
   port: 10086
   type: vmess
@@ -1969,6 +1969,7 @@ proxies:
 - name: AFOSNE_United States_trojan_41
   server: 52.88.80.155
   port: 443
+  client-fingerprint: chrome
   type: trojan
   password: b6797d26-11d5-3ddd-9ec3-00f79b48e0bf
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -1977,6 +1978,7 @@ proxies:
 - name: AFOSNE_United States_trojan_42
   server: 103.136.185.27
   port: 5495
+  client-fingerprint: chrome
   type: trojan
   password: b6797d26-11d5-3ddd-9ec3-00f79b48e0bf
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -1985,6 +1987,7 @@ proxies:
 - name: AFOSNE_United States_trojan_43
   server: 103.136.185.28
   port: 3500
+  client-fingerprint: chrome
   type: trojan
   password: b6797d26-11d5-3ddd-9ec3-00f79b48e0bf
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -1993,7 +1996,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_51
   server: fkvip101.qlgq.fun
   port: 11789
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: fkvip101.qlgq.fun
@@ -2005,7 +2007,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_52
   server: fkvip101.qlgq.fun
   port: 21789
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: fkvip101.qlgq.fun
@@ -2017,7 +2018,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_53
   server: fkvip101.qlgq.fun
   port: 31789
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: fkvip101.qlgq.fun
@@ -2029,7 +2029,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_54
   server: fkvip101.qlgq.fun
   port: 41789
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: fkvip101.qlgq.fun
@@ -2041,7 +2040,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_55
   server: fkvip101.qlgq.fun
   port: 51789
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: fkvip101.qlgq.fun
@@ -2053,7 +2051,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_56
   server: sgvip101.qlgq.fun
   port: 11223
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: sgvip101.qlgq.fun
@@ -2065,7 +2062,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_57
   server: sgvip101.qlgq.fun
   port: 21223
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: sgvip101.qlgq.fun
@@ -2077,7 +2073,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_58
   server: sgvip101.qlgq.fun
   port: 31223
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: sgvip101.qlgq.fun
@@ -2089,7 +2084,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_59
   server: sgvip101.qlgq.fun
   port: 41223
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: sgvip101.qlgq.fun
@@ -2101,7 +2095,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_510
   server: sgvip101.qlgq.fun
   port: 51223
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: sgvip101.qlgq.fun
@@ -2113,7 +2106,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_511
   server: jpvip102.qlgq.fun
   port: 61239
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: jpvip102.qlgq.fun
@@ -2125,7 +2117,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_512
   server: jpvip102.qlgq.fun
   port: 61238
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: jpvip102.qlgq.fun
@@ -2137,7 +2128,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_513
   server: jpvip102.qlgq.fun
   port: 61237
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: jpvip102.qlgq.fun
@@ -2149,7 +2139,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_514
   server: jpvip102.qlgq.fun
   port: 61236
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: jpvip102.qlgq.fun
@@ -2161,7 +2150,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_515
   server: jpvip102.qlgq.fun
   port: 61235
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: jpvip102.qlgq.fun
@@ -2173,7 +2161,6 @@ proxies:
 - name: AFOSNE_United States_trojan_516
   server: lavip101.qlgq.fun
   port: 11156
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: lavip101.qlgq.fun
@@ -2185,7 +2172,6 @@ proxies:
 - name: AFOSNE_United States_trojan_517
   server: lavip101.qlgq.fun
   port: 21156
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: lavip101.qlgq.fun
@@ -2197,7 +2183,6 @@ proxies:
 - name: AFOSNE_United States_trojan_518
   server: lavip101.qlgq.fun
   port: 31156
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: lavip101.qlgq.fun
@@ -2209,7 +2194,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_519
   server: hkvip102.qlgq.fun
   port: 12249
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: hkvip102.qlgq.fun
@@ -2221,7 +2205,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_520
   server: hkvip102.qlgq.fun
   port: 22249
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: hkvip102.qlgq.fun
@@ -2233,7 +2216,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_521
   server: hkvip102.qlgq.fun
   port: 32249
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: hkvip102.qlgq.fun
@@ -2245,7 +2227,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_522
   server: hkvip102.qlgq.fun
   port: 42249
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: hkvip102.qlgq.fun
@@ -2257,7 +2238,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_523
   server: hkvip102.qlgq.fun
   port: 52249
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: hkvip102.qlgq.fun
@@ -2269,7 +2249,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_524
   server: hkvip103.qlgq.fun
   port: 11116
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: hkvip103.qlgq.fun
@@ -2281,7 +2260,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_525
   server: hkvip103.qlgq.fun
   port: 21116
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: hkvip103.qlgq.fun
@@ -2293,7 +2271,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_526
   server: hkvip103.qlgq.fun
   port: 31116
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: hkvip103.qlgq.fun
@@ -2305,7 +2282,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_527
   server: hkvip103.qlgq.fun
   port: 41116
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: hkvip103.qlgq.fun
@@ -2317,7 +2293,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_528
   server: hkvip103.qlgq.fun
   port: 51116
-  client-fingerprint: chrome
   type: trojan
   password: 2ecdbfb6-0d94-3a66-9f29-1ffd2425758b
   sni: hkvip103.qlgq.fun
@@ -2343,7 +2318,7 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_63
-  server: gcdddd0001.likeone.lol
+  server: gcdddd0005.likeone.lol
   port: 51031
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2351,7 +2326,7 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_64
-  server: gcdddd0003.likeone.lol
+  server: gcdddd0001.likeone.lol
   port: 51031
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2360,14 +2335,14 @@ proxies:
   udp: true
 - name: AFOSNE_China_trojan_65
   server: gcdddd0003.likeone.lol
-  port: 58464
+  port: 51031
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
-  sni: sg02.ckcloud.info
+  sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_66
-  server: gcdddd0005.likeone.lol
+  server: gcdddd0003.likeone.lol
   port: 58464
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2375,7 +2350,7 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_67
-  server: gcdddd0001.likeone.lol
+  server: gcdddd0005.likeone.lol
   port: 58464
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2383,6 +2358,14 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_68
+  server: gcdddd0001.likeone.lol
+  port: 58464
+  type: trojan
+  password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
+  sni: sg02.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_China_trojan_69
   server: gcdddd0005.likeone.lol
   port: 25974
   type: trojan
@@ -2390,16 +2373,8 @@ proxies:
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_China_trojan_69
-  server: gcdddd0001.likeone.lol
-  port: 25974
-  type: trojan
-  password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
-  sni: hk05.ckcloud.info
-  skip-cert-verify: true
-  udp: true
 - name: AFOSNE_China_trojan_610
-  server: gcdddd0003.likeone.lol
+  server: gcdddd0001.likeone.lol
   port: 25974
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2408,14 +2383,14 @@ proxies:
   udp: true
 - name: AFOSNE_China_trojan_611
   server: gcdddd0003.likeone.lol
-  port: 35257
+  port: 25974
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
-  sni: hk03.ckcloud.info
+  sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_612
-  server: gcdddd0001.likeone.lol
+  server: gcdddd0003.likeone.lol
   port: 35257
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2423,7 +2398,7 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_613
-  server: gcdddd0002.likeone.lol
+  server: gcdddd0001.likeone.lol
   port: 35257
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2431,15 +2406,15 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_614
-  server: gcdddd0003.likeone.lol
-  port: 26023
+  server: gcdddd0002.likeone.lol
+  port: 35257
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
-  sni: hk02.ckcloud.info
+  sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_615
-  server: gcdddd0005.likeone.lol
+  server: gcdddd0003.likeone.lol
   port: 26023
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2447,7 +2422,7 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_616
-  server: gcdddd0001.likeone.lol
+  server: gcdddd0005.likeone.lol
   port: 26023
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2455,15 +2430,15 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_617
-  server: gcdddd0003.likeone.lol
-  port: 15485
+  server: gcdddd0001.likeone.lol
+  port: 26023
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
-  sni: hk04.ckcloud.info
+  sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_618
-  server: gcdddd0005.likeone.lol
+  server: gcdddd0003.likeone.lol
   port: 15485
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2471,7 +2446,7 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_619
-  server: gcdddd0001.likeone.lol
+  server: gcdddd0005.likeone.lol
   port: 15485
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2479,15 +2454,15 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_620
-  server: gcdddd0005.likeone.lol
-  port: 10327
+  server: gcdddd0001.likeone.lol
+  port: 15485
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
-  sni: jp01.ckcloud.info
+  sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_621
-  server: gcdddd0001.likeone.lol
+  server: gcdddd0005.likeone.lol
   port: 10327
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2495,7 +2470,7 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_622
-  server: gcdddd0003.likeone.lol
+  server: gcdddd0001.likeone.lol
   port: 10327
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2503,15 +2478,15 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_623
-  server: gcdddd0005.likeone.lol
-  port: 16483
+  server: gcdddd0003.likeone.lol
+  port: 10327
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
-  sni: jp03.ckcloud.info
+  sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_624
-  server: gcdddd0001.likeone.lol
+  server: gcdddd0005.likeone.lol
   port: 16483
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2519,7 +2494,7 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_625
-  server: gcdddd0003.likeone.lol
+  server: gcdddd0001.likeone.lol
   port: 16483
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2527,6 +2502,14 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_626
+  server: gcdddd0003.likeone.lol
+  port: 16483
+  type: trojan
+  password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
+  sni: jp03.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_China_trojan_627
   server: gcdddd0001.likeone.lol
   port: 64850
   type: trojan
@@ -2534,16 +2517,8 @@ proxies:
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_China_trojan_627
-  server: gcdddd0003.likeone.lol
-  port: 64850
-  type: trojan
-  password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
-  sni: tw01.ckcloud.info
-  skip-cert-verify: true
-  udp: true
 - name: AFOSNE_China_trojan_628
-  server: gcdddd0005.likeone.lol
+  server: gcdddd0003.likeone.lol
   port: 64850
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2552,14 +2527,14 @@ proxies:
   udp: true
 - name: AFOSNE_China_trojan_629
   server: gcdddd0005.likeone.lol
-  port: 47557
+  port: 64850
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
-  sni: tw02.ckcloud.info
+  sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_630
-  server: gcdddd0001.likeone.lol
+  server: gcdddd0005.likeone.lol
   port: 47557
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2567,7 +2542,7 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_631
-  server: gcdddd0003.likeone.lol
+  server: gcdddd0001.likeone.lol
   port: 47557
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2576,14 +2551,14 @@ proxies:
   udp: true
 - name: AFOSNE_China_trojan_632
   server: gcdddd0003.likeone.lol
-  port: 16343
+  port: 47557
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
-  sni: vn01.ckcloud.info
+  sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_633
-  server: gcdddd0005.likeone.lol
+  server: gcdddd0003.likeone.lol
   port: 16343
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2591,7 +2566,7 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_634
-  server: gcdddd0001.likeone.lol
+  server: gcdddd0005.likeone.lol
   port: 16343
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2599,15 +2574,15 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_635
-  server: gcdddd0005.likeone.lol
-  port: 26094
+  server: gcdddd0001.likeone.lol
+  port: 16343
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
-  sni: id01.ckcloud.info
+  sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_636
-  server: gcdddd0001.likeone.lol
+  server: gcdddd0005.likeone.lol
   port: 26094
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2615,7 +2590,7 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_637
-  server: gcdddd0003.likeone.lol
+  server: gcdddd0001.likeone.lol
   port: 26094
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2623,6 +2598,14 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_638
+  server: gcdddd0003.likeone.lol
+  port: 26094
+  type: trojan
+  password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
+  sni: id01.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_China_trojan_639
   server: gcdddd0005.likeone.lol
   port: 42840
   type: trojan
@@ -2630,16 +2613,8 @@ proxies:
   sni: uk01.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_China_trojan_639
-  server: gcdddd0001.likeone.lol
-  port: 42840
-  type: trojan
-  password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
-  sni: uk01.ckcloud.info
-  skip-cert-verify: true
-  udp: true
 - name: AFOSNE_China_trojan_640
-  server: gcdddd0003.likeone.lol
+  server: gcdddd0001.likeone.lol
   port: 42840
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2648,14 +2623,14 @@ proxies:
   udp: true
 - name: AFOSNE_China_trojan_641
   server: gcdddd0003.likeone.lol
-  port: 53279
+  port: 42840
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
-  sni: de01.ckcloud.info
+  sni: uk01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_642
-  server: gcdddd0005.likeone.lol
+  server: gcdddd0003.likeone.lol
   port: 53279
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2663,7 +2638,7 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_643
-  server: gcdddd0001.likeone.lol
+  server: gcdddd0005.likeone.lol
   port: 53279
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2672,14 +2647,14 @@ proxies:
   udp: true
 - name: AFOSNE_China_trojan_644
   server: gcdddd0001.likeone.lol
-  port: 60293
+  port: 53279
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
-  sni: tur01.ckcloud.info
+  sni: de01.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_645
-  server: gcdddd0003.likeone.lol
+  server: gcdddd0001.likeone.lol
   port: 60293
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2687,7 +2662,7 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_646
-  server: gcdddd0005.likeone.lol
+  server: gcdddd0003.likeone.lol
   port: 60293
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2695,6 +2670,14 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_647
+  server: gcdddd0005.likeone.lol
+  port: 60293
+  type: trojan
+  password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
+  sni: tur01.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_China_trojan_648
   server: gcdddd0001.likeone.lol
   port: 48560
   type: trojan
@@ -2702,16 +2685,8 @@ proxies:
   sni: us03.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_China_trojan_648
-  server: gcdddd0003.likeone.lol
-  port: 48560
-  type: trojan
-  password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
-  sni: us03.ckcloud.info
-  skip-cert-verify: true
-  udp: true
 - name: AFOSNE_China_trojan_649
-  server: gcdddd0005.likeone.lol
+  server: gcdddd0003.likeone.lol
   port: 48560
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2720,14 +2695,14 @@ proxies:
   udp: true
 - name: AFOSNE_China_trojan_650
   server: gcdddd0005.likeone.lol
-  port: 10658
+  port: 48560
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
-  sni: us2.ckcloud.info
+  sni: us03.ckcloud.info
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_651
-  server: gcdddd0003.likeone.lol
+  server: gcdddd0005.likeone.lol
   port: 10658
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2735,7 +2710,7 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_652
-  server: gcdddd0001.likeone.lol
+  server: gcdddd0003.likeone.lol
   port: 10658
   type: trojan
   password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
@@ -2743,6 +2718,14 @@ proxies:
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_China_trojan_653
+  server: gcdddd0001.likeone.lol
+  port: 10658
+  type: trojan
+  password: c2b3ffe9-0577-49a1-899c-84b195f8d7e4
+  sni: us2.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_China_trojan_654
   server: gcdddd0005.likeone.lol
   port: 26681
   type: trojan
@@ -2750,7 +2733,7 @@ proxies:
   sni: us04.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_China_trojan_654
+- name: AFOSNE_China_trojan_655
   server: gcdddd0003.likeone.lol
   port: 26681
   type: trojan
@@ -2758,7 +2741,7 @@ proxies:
   sni: us04.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_China_trojan_655
+- name: AFOSNE_China_trojan_656
   server: gcdddd0001.likeone.lol
   port: 26681
   type: trojan
@@ -2944,7 +2927,7 @@ proxy-groups:
   - AFOSNE_China_ss_260
   - AFOSNE_China_ss_261
   - AFOSNE_China_ss_262
-  - AFOSNE_United States_vmess_31
+  - AFOSNE_None_vmess_31
   - AFOSNE_United States_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
@@ -3032,6 +3015,7 @@ proxy-groups:
   - AFOSNE_China_trojan_653
   - AFOSNE_China_trojan_654
   - AFOSNE_China_trojan_655
+  - AFOSNE_China_trojan_656
 - name: 自动选择
   type: url-test
   url: http://www.gstatic.com/generate_204
@@ -3210,7 +3194,7 @@ proxy-groups:
   - AFOSNE_China_ss_260
   - AFOSNE_China_ss_261
   - AFOSNE_China_ss_262
-  - AFOSNE_United States_vmess_31
+  - AFOSNE_None_vmess_31
   - AFOSNE_United States_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
@@ -3298,6 +3282,7 @@ proxy-groups:
   - AFOSNE_China_trojan_653
   - AFOSNE_China_trojan_654
   - AFOSNE_China_trojan_655
+  - AFOSNE_China_trojan_656
 rules:
 - DOMAIN,clash.razord.top,DIRECT
 - DOMAIN,yacd.haishan.me,DIRECT
