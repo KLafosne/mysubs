@@ -1197,436 +1197,436 @@ proxies:
   port: 22704
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_22
   server: n00007.bzdqsmzngpyyng.sbs
   port: 22704
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_23
   server: n00007.bzdqsmzngpyyng.sbs
   port: 20356
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_24
   server: n00003.bzdqsmzngpyyng.sbs
   port: 20356
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_25
   server: n00005.bzdqsmzngpyyng.sbs
   port: 20356
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_26
   server: n00007.bzdqsmzngpyyng.sbs
   port: 37581
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_27
   server: n00003.bzdqsmzngpyyng.sbs
   port: 37581
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_28
   server: n00005.bzdqsmzngpyyng.sbs
   port: 37581
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_29
   server: n00007.bzdqsmzngpyyng.sbs
   port: 15976
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_210
   server: n00003.bzdqsmzngpyyng.sbs
   port: 15976
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_211
   server: n00005.bzdqsmzngpyyng.sbs
   port: 15976
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_212
   server: n00007.bzdqsmzngpyyng.sbs
   port: 14490
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_213
   server: n00003.bzdqsmzngpyyng.sbs
   port: 14490
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_214
   server: n00005.bzdqsmzngpyyng.sbs
   port: 14490
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_215
   server: n00007.bzdqsmzngpyyng.sbs
   port: 46912
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_216
   server: n00003.bzdqsmzngpyyng.sbs
   port: 46912
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_217
   server: n00005.bzdqsmzngpyyng.sbs
   port: 46912
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_218
   server: n00007.bzdqsmzngpyyng.sbs
   port: 22704
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_219
   server: n00003.bzdqsmzngpyyng.sbs
   port: 22704
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_220
   server: n00005.bzdqsmzngpyyng.sbs
   port: 22704
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_221
   server: n00007.bzdqsmzngpyyng.sbs
   port: 25074
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_222
   server: n00003.bzdqsmzngpyyng.sbs
   port: 25074
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_223
   server: n00005.bzdqsmzngpyyng.sbs
   port: 25074
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_224
   server: n00007.bzdqsmzngpyyng.sbs
   port: 35672
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_225
   server: n00003.bzdqsmzngpyyng.sbs
   port: 35672
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_226
   server: n00005.bzdqsmzngpyyng.sbs
   port: 35672
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_227
   server: n00007.bzdqsmzngpyyng.sbs
   port: 21526
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_228
   server: n00003.bzdqsmzngpyyng.sbs
   port: 21526
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_229
   server: n00005.bzdqsmzngpyyng.sbs
   port: 21526
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_230
   server: n00007.bzdqsmzngpyyng.sbs
   port: 40276
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_231
   server: n00003.bzdqsmzngpyyng.sbs
   port: 40276
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_232
   server: n00005.bzdqsmzngpyyng.sbs
   port: 40276
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_233
   server: n00007.bzdqsmzngpyyng.sbs
   port: 25881
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_234
   server: n00003.bzdqsmzngpyyng.sbs
   port: 25881
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_235
   server: n00005.bzdqsmzngpyyng.sbs
   port: 25881
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_236
   server: n00007.bzdqsmzngpyyng.sbs
   port: 10598
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_237
   server: n00003.bzdqsmzngpyyng.sbs
   port: 10598
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_238
   server: n00005.bzdqsmzngpyyng.sbs
   port: 10598
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_239
   server: n00007.bzdqsmzngpyyng.sbs
   port: 10519
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_240
   server: n00003.bzdqsmzngpyyng.sbs
   port: 10519
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_241
   server: n00005.bzdqsmzngpyyng.sbs
   port: 10519
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_242
   server: n00007.bzdqsmzngpyyng.sbs
   port: 28625
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_243
   server: n00003.bzdqsmzngpyyng.sbs
   port: 28625
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_244
   server: n00005.bzdqsmzngpyyng.sbs
   port: 28625
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_245
   server: n00007.bzdqsmzngpyyng.sbs
   port: 54295
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_246
   server: n00003.bzdqsmzngpyyng.sbs
   port: 54295
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_247
   server: n00005.bzdqsmzngpyyng.sbs
   port: 54295
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_248
   server: n00007.bzdqsmzngpyyng.sbs
   port: 45852
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_249
   server: n00003.bzdqsmzngpyyng.sbs
   port: 45852
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_250
   server: n00005.bzdqsmzngpyyng.sbs
   port: 45852
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_251
   server: n00007.bzdqsmzngpyyng.sbs
   port: 63640
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_252
   server: n00003.bzdqsmzngpyyng.sbs
   port: 63640
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_253
   server: n00005.bzdqsmzngpyyng.sbs
   port: 63640
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_254
   server: n00007.bzdqsmzngpyyng.sbs
   port: 15762
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_255
   server: n00003.bzdqsmzngpyyng.sbs
   port: 15762
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_256
   server: n00005.bzdqsmzngpyyng.sbs
   port: 15762
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_257
   server: n00007.bzdqsmzngpyyng.sbs
   port: 20943
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_258
   server: n00003.bzdqsmzngpyyng.sbs
   port: 20943
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_259
   server: n00005.bzdqsmzngpyyng.sbs
   port: 20943
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_260
   server: n00007.bzdqsmzngpyyng.sbs
   port: 39788
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_261
   server: n00003.bzdqsmzngpyyng.sbs
   port: 39788
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
 - name: AFOSNE_China_ss_262
   server: n00005.bzdqsmzngpyyng.sbs
   port: 39788
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: ff7f772f-0c13-4ba7-aef7-ed0597d0ccd8
+  password: 748c2f50-bb83-4664-8662-291dcb2b2236
   udp: true
-- name: AFOSNE_None_vmess_31
+- name: AFOSNE_United States_vmess_31
   server: mcecloud.net
   port: 10086
   type: vmess
@@ -2641,7 +2641,7 @@ proxy-groups:
   - AFOSNE_China_ss_260
   - AFOSNE_China_ss_261
   - AFOSNE_China_ss_262
-  - AFOSNE_None_vmess_31
+  - AFOSNE_United States_vmess_31
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
@@ -2906,7 +2906,7 @@ proxy-groups:
   - AFOSNE_China_ss_260
   - AFOSNE_China_ss_261
   - AFOSNE_China_ss_262
-  - AFOSNE_None_vmess_31
+  - AFOSNE_United States_vmess_31
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
