@@ -28,55 +28,70 @@ proxies:
 - name: AFOSNE_Japan_trojan_01
   server: jp1.biubiufast.quest
   port: 5203
+  client-fingerprint: chrome
   type: trojan
   password: 3bc2cdd8-df72-4761-b145-bb76594ebdbd
+  sni: jp1.biubiufast.quest
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_Japan_ss_02
   server: jp1.biubiufast.quest
   port: 5205
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 3bc2cdd8-df72-4761-b145-bb76594ebdbd
+  tfo: false
   udp: true
 - name: AFOSNE_Hong Kong_ss_03
   server: hk1.biubiufast.quest
   port: 5204
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 3bc2cdd8-df72-4761-b145-bb76594ebdbd
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_04
   server: dl.biubiufast.quest
   port: 11012
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 3bc2cdd8-df72-4761-b145-bb76594ebdbd
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_05
   server: dl.biubiufast.quest
   port: 11005
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 3bc2cdd8-df72-4761-b145-bb76594ebdbd
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_06
   server: dl.biubiufast.quest
   port: 22001
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 3bc2cdd8-df72-4761-b145-bb76594ebdbd
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_07
   server: dl.biubiufast.quest
   port: 11002
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 3bc2cdd8-df72-4761-b145-bb76594ebdbd
+  tfo: false
   udp: true
 - name: AFOSNE_China_trojan_08
   server: dl.biubiufast.quest
   port: 11201
+  client-fingerprint: chrome
   type: trojan
   password: 3bc2cdd8-df72-4761-b145-bb76594ebdbd
   sni: jp1.biubiufast.quest
@@ -85,6 +100,7 @@ proxies:
 - name: AFOSNE_China_trojan_09
   server: dl.biubiufast.quest
   port: 11101
+  client-fingerprint: chrome
   type: trojan
   password: 3bc2cdd8-df72-4761-b145-bb76594ebdbd
   sni: hk1.biubiufast.quest
@@ -93,6 +109,7 @@ proxies:
 - name: AFOSNE_China_trojan_010
   server: dl.biubiufast.quest
   port: 11301
+  client-fingerprint: chrome
   type: trojan
   password: 3bc2cdd8-df72-4761-b145-bb76594ebdbd
   sni: dg5.biubiufast.quest
@@ -101,6 +118,7 @@ proxies:
 - name: AFOSNE_China_trojan_011
   server: dl.biubiufast.quest
   port: 11302
+  client-fingerprint: chrome
   type: trojan
   password: 3bc2cdd8-df72-4761-b145-bb76594ebdbd
   sni: hk15.biubiufast.quest
@@ -109,6 +127,7 @@ proxies:
 - name: AFOSNE_China_trojan_012
   server: dl.biubiufast.quest
   port: 11303
+  client-fingerprint: chrome
   type: trojan
   password: 3bc2cdd8-df72-4761-b145-bb76594ebdbd
   sni: sfo6.biubiufast.quest
@@ -1195,452 +1214,566 @@ proxies:
 - name: AFOSNE_China_ss_21
   server: n00007.bzdqsmzngpyyng.sbs
   port: 22704
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_22
   server: n00007.bzdqsmzngpyyng.sbs
   port: 22704
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_23
   server: n00007.bzdqsmzngpyyng.sbs
   port: 20356
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_24
   server: n00003.bzdqsmzngpyyng.sbs
   port: 20356
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_25
   server: n00005.bzdqsmzngpyyng.sbs
   port: 20356
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_26
   server: n00007.bzdqsmzngpyyng.sbs
   port: 37581
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_27
   server: n00003.bzdqsmzngpyyng.sbs
   port: 37581
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_28
   server: n00005.bzdqsmzngpyyng.sbs
   port: 37581
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_29
   server: n00007.bzdqsmzngpyyng.sbs
   port: 15976
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_210
   server: n00003.bzdqsmzngpyyng.sbs
   port: 15976
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_211
   server: n00005.bzdqsmzngpyyng.sbs
   port: 15976
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_212
   server: n00007.bzdqsmzngpyyng.sbs
   port: 14490
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_213
   server: n00003.bzdqsmzngpyyng.sbs
   port: 14490
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_214
   server: n00005.bzdqsmzngpyyng.sbs
   port: 14490
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_215
   server: n00007.bzdqsmzngpyyng.sbs
   port: 46912
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_216
   server: n00003.bzdqsmzngpyyng.sbs
   port: 46912
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_217
   server: n00005.bzdqsmzngpyyng.sbs
   port: 46912
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_218
   server: n00007.bzdqsmzngpyyng.sbs
   port: 22704
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_219
   server: n00003.bzdqsmzngpyyng.sbs
   port: 22704
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_220
   server: n00005.bzdqsmzngpyyng.sbs
   port: 22704
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_221
   server: n00007.bzdqsmzngpyyng.sbs
   port: 25074
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_222
   server: n00003.bzdqsmzngpyyng.sbs
   port: 25074
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_223
   server: n00005.bzdqsmzngpyyng.sbs
   port: 25074
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_224
   server: n00007.bzdqsmzngpyyng.sbs
   port: 35672
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_225
   server: n00003.bzdqsmzngpyyng.sbs
   port: 35672
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_226
   server: n00005.bzdqsmzngpyyng.sbs
   port: 35672
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_227
   server: n00007.bzdqsmzngpyyng.sbs
   port: 21526
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_228
   server: n00003.bzdqsmzngpyyng.sbs
   port: 21526
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_229
   server: n00005.bzdqsmzngpyyng.sbs
   port: 21526
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_230
   server: n00007.bzdqsmzngpyyng.sbs
   port: 40276
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_231
   server: n00003.bzdqsmzngpyyng.sbs
   port: 40276
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_232
   server: n00005.bzdqsmzngpyyng.sbs
   port: 40276
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_233
   server: n00007.bzdqsmzngpyyng.sbs
   port: 25881
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_234
   server: n00003.bzdqsmzngpyyng.sbs
   port: 25881
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_235
   server: n00005.bzdqsmzngpyyng.sbs
   port: 25881
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_236
   server: n00007.bzdqsmzngpyyng.sbs
   port: 10598
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_237
   server: n00003.bzdqsmzngpyyng.sbs
   port: 10598
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_238
   server: n00005.bzdqsmzngpyyng.sbs
   port: 10598
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_239
   server: n00007.bzdqsmzngpyyng.sbs
   port: 10519
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_240
   server: n00003.bzdqsmzngpyyng.sbs
   port: 10519
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_241
   server: n00005.bzdqsmzngpyyng.sbs
   port: 10519
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_242
   server: n00007.bzdqsmzngpyyng.sbs
   port: 28625
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_243
   server: n00003.bzdqsmzngpyyng.sbs
   port: 28625
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_244
   server: n00005.bzdqsmzngpyyng.sbs
   port: 28625
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_245
   server: n00007.bzdqsmzngpyyng.sbs
   port: 54295
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_246
   server: n00003.bzdqsmzngpyyng.sbs
   port: 54295
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_247
   server: n00005.bzdqsmzngpyyng.sbs
   port: 54295
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_248
   server: n00007.bzdqsmzngpyyng.sbs
   port: 45852
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_249
   server: n00003.bzdqsmzngpyyng.sbs
   port: 45852
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_250
   server: n00005.bzdqsmzngpyyng.sbs
   port: 45852
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_251
   server: n00007.bzdqsmzngpyyng.sbs
   port: 63640
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_252
   server: n00003.bzdqsmzngpyyng.sbs
   port: 63640
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_253
   server: n00005.bzdqsmzngpyyng.sbs
   port: 63640
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_254
   server: n00007.bzdqsmzngpyyng.sbs
   port: 15762
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_255
   server: n00003.bzdqsmzngpyyng.sbs
   port: 15762
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_256
   server: n00005.bzdqsmzngpyyng.sbs
   port: 15762
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_257
   server: n00007.bzdqsmzngpyyng.sbs
   port: 20943
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_258
   server: n00003.bzdqsmzngpyyng.sbs
   port: 20943
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_259
   server: n00005.bzdqsmzngpyyng.sbs
   port: 20943
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_260
   server: n00007.bzdqsmzngpyyng.sbs
   port: 39788
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_261
   server: n00003.bzdqsmzngpyyng.sbs
   port: 39788
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_262
   server: n00005.bzdqsmzngpyyng.sbs
   port: 39788
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: c69f41ba-c4b5-4547-99a4-99fdf6fb4420
+  tfo: false
   udp: true
 - name: AFOSNE_United States_vmess_31
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: a9353270-120b-3558-93a3-2edd1d74adef
-  alterId: 0
-  cipher: auto
-  tls: false
-  skip-cert-verify: true
-  udp: true
-- name: AFOSNE_United States_vmess_32
-  server: mcecloud.net
-  port: 10086
-  type: vmess
-  uuid: a9353270-120b-3558-93a3-2edd1d74adef
+  uuid: 9483d56e-218b-3797-872c-f15207ddfbbc
   alterId: 0
   cipher: auto
   tls: false
@@ -1649,7 +1782,6 @@ proxies:
 - name: AFOSNE_United States_trojan_41
   server: 52.88.80.155
   port: 443
-  client-fingerprint: chrome
   type: trojan
   password: b6797d26-11d5-3ddd-9ec3-00f79b48e0bf
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -1658,7 +1790,6 @@ proxies:
 - name: AFOSNE_United States_trojan_42
   server: 103.136.185.27
   port: 5499
-  client-fingerprint: chrome
   type: trojan
   password: b6797d26-11d5-3ddd-9ec3-00f79b48e0bf
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -1667,7 +1798,6 @@ proxies:
 - name: AFOSNE_United States_trojan_43
   server: 103.136.185.28
   port: 3504
-  client-fingerprint: chrome
   type: trojan
   password: b6797d26-11d5-3ddd-9ec3-00f79b48e0bf
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -2655,7 +2785,6 @@ proxy-groups:
   - AFOSNE_China_ss_261
   - AFOSNE_China_ss_262
   - AFOSNE_United States_vmess_31
-  - AFOSNE_United States_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
@@ -2921,7 +3050,6 @@ proxy-groups:
   - AFOSNE_China_ss_261
   - AFOSNE_China_ss_262
   - AFOSNE_United States_vmess_31
-  - AFOSNE_United States_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
