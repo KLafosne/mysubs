@@ -39,7 +39,8 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 🏳️‍🌈 过期时间：2024-04-04 - 至云互联, server: mcecloud.net, port: 10086, type: vmess, uuid: 31d1db77-3d0b-308c-aec4-075a6b7ee03c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 剩余流量：72MB - 至云互联, server: mcecloud.net, port: 10086, type: vmess, uuid: 4b1e73ca-c3a6-335e-846f-db3291311b37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 过期时间：2024-04-04 - 至云互联, server: mcecloud.net, port: 10086, type: vmess, uuid: 4b1e73ca-c3a6-335e-846f-db3291311b37, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,local,🎯 全球直连
 - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
