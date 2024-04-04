@@ -9,14 +9,14 @@ time  2024-04-04 02:33:22.668055+08:00
 [fastestcloud.xyz]
 email  firrstkn464@gmail.com
 node_n  62
-sub_info  0B  1G  2024-04-05 02:33:23+08:00  (剩余 1G 9:53:56.664695)
+sub_info  0B  1G  2024-04-05 02:33:23+08:00  (剩余 1G 8:58:31.846462)
 sub_url  https://sub.flyyydds.top:21600/api/v1/client/subscribe?token=ff4548f59c8d5facba5fc1078d02caab
 time  2024-04-04 02:33:23.938732+08:00
 
 [biubiufast.com]
 email  cobwwoy496@gmail.com
 node_n  12
-sub_info  0B  1G  2024-04-05 11:33:05+08:00  (剩余 1G 18:59:38.884564)
+sub_info  0B  1G  2024-04-05 11:33:05+08:00  (剩余 1G 17:58:56.262334)
 sub_url  https://biubiufast.website/api/v1/client/subscribe?token=6835294f9397fcceff5ee7affc586761
 time  2024-04-04 11:33:06.176026+08:00
 
@@ -24,7 +24,7 @@ time  2024-04-04 11:33:06.176026+08:00
 email  hiviwxvu950@lista.cc
 last_checkin  2024-04-04 13:33:07.807930+08:00
 node_n  98
-sub_info  0B  1.218G  2024-04-05 13:33:07+08:00  (剩余 1.218G 20:59:41.386135)
+sub_info  0B  1.218G  2024-04-05 13:33:07+08:00  (剩余 1.218G 19:58:58.336945)
 sub_url  https://network.ayucloud.nl/link/qPzytVhLcJUAcVuU?clash=1
 time  2024-04-04 13:33:08.579574+08:00
 
@@ -33,7 +33,7 @@ email  firrstkn464@qabq.com
 invite_code  tRG0  10000
 last_checkin  2024-04-04 02:34:10.945832+08:00
 node_n  47
-sub_info  0B  10.13G  2024-04-05 02:34:10+08:00  (剩余 10.13G 10:00:39.584821)
+sub_info  0B  10.13G  2024-04-05 02:34:10+08:00  (剩余 10.13G 8:59:55.116616)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/b8dw1MSzHiqUDi67?sub=3
 time  2024-04-04 02:34:11.395014+08:00
 
@@ -41,7 +41,7 @@ time  2024-04-04 02:34:11.395014+08:00
 email  beuoluqd557@yzm.de
 last_checkin  2024-04-04 00:37:01.331432+08:00
 node_n  28
-sub_info  2.084G  888.2G  2024-04-06 05:32:47+08:00  (剩余 886.1G 1 day, 12:59:22.527125)
+sub_info  2.084G  888.2G  2024-04-06 05:32:47+08:00  (剩余 886.1G 1 day, 11:58:38.551326)
 sub_url  https://www.qlgq.top/link/a7cfc8bfd1d02435?clash=1
 time  2024-03-30 05:32:48.911286+08:00
 
@@ -63,15 +63,16 @@ time  2024-03-16 09:46:08.596402+08:00
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [mcecloud.com]
-email  rwhffiax468@gmail.com
-last_checkin  2024-04-04 16:33:30.433363+08:00
+email  pwtpjinra777@gmail.com
+last_checkin  2024-04-04 17:34:17.346788+08:00
 node_n  1
-sub_info  0B  34M  2024-04-04 16:33:30+08:00  (剩余 34M -1 day, 23:59:56.670807)
-sub_url  https://st-sub.fly.dev/ssp/mce/link/fP5P4E52utFQEAyA?sub=3
-time  2024-04-04 16:33:31.496425+08:00
+sub_info  0B  1M  2024-04-04 17:34:17+08:00  (剩余 1M -1 day, 23:59:13.252567)
+sub_url  https://st-sub.fly.dev/ssp/mce/link/Rbno502kBZTGRJzQ?sub=3
+time  2024-04-04 17:34:18.194826+08:00
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [cloud.speedypro.xyz name Speedypro]
-更新订阅链接/续费续签失败  注册失败(rwhffiax468@gmail.com): HTTPSConnectionPool(host='cloud.speedypro.xyz%20name%20speedypro', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f77bc998460>: Failed to resolve 'cloud.speedypro.xyz%20name%20speedypro' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(pwtpjinra777@gmail.com): HTTPSConnectionPool(host='cloud.speedypro.xyz%20name%20speedypro', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1c8f6deaa0>: Failed to resolve 'cloud.speedypro.xyz%20name%20speedypro' ([Errno -2] Name or service not known)"))
 
 [ikuuu.me name ikuuu]
-更新订阅链接/续费续签失败  注册失败(rwhffiax468@gmail.com): HTTPSConnectionPool(host='ikuuu.me%20name%20ikuuu', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f77bc99b3a0>: Failed to resolve 'ikuuu.me%20name%20ikuuu' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(pwtpjinra777@gmail.com): HTTPSConnectionPool(host='ikuuu.me%20name%20ikuuu', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1c8f6dfd00>: Failed to resolve 'ikuuu.me%20name%20ikuuu' ([Errno -2] Name or service not known)"))
