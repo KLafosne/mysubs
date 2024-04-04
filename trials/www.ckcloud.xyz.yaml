@@ -39,7 +39,7 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 距离下次重置剩余：26 天 - JCBB, server: gcdddd0005.likeone.lol, port: 51031, client-fingerprint: chrome, type: trojan, password: a2707132-fad6-4f3a-a087-0b26d8c96401, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 距离下次重置剩余：25 天 - JCBB, server: gcdddd0005.likeone.lol, port: 51031, client-fingerprint: chrome, type: trojan, password: a2707132-fad6-4f3a-a087-0b26d8c96401, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: JCBB_ 新加坡 01【vip1 】 - JCBB, server: gcdddd0005.likeone.lol, port: 51031, client-fingerprint: chrome, type: trojan, password: a2707132-fad6-4f3a-a087-0b26d8c96401, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: JCBB_ 新加坡 02【vip1 】 - JCBB, server: gcdddd0001.likeone.lol, port: 51031, client-fingerprint: chrome, type: trojan, password: a2707132-fad6-4f3a-a087-0b26d8c96401, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: JCBB_ 新加坡 03【vip1 】 - JCBB, server: gcdddd0003.likeone.lol, port: 51031, client-fingerprint: chrome, type: trojan, password: a2707132-fad6-4f3a-a087-0b26d8c96401, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
