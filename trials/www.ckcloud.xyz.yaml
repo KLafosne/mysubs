@@ -39,7 +39,6 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 💣 剩余流量：1 GB - JCBB, server: gcdddd0005.likeone.lol, port: 51031, type: trojan, password: 8b2ffd2f-5da8-4d74-8595-bf8c84cfa557, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 距离下次重置剩余：23 天 - JCBB, server: gcdddd0005.likeone.lol, port: 51031, type: trojan, password: 8b2ffd2f-5da8-4d74-8595-bf8c84cfa557, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 01【vip1 】 - JCBB, server: gcdddd0005.likeone.lol, port: 51031, type: trojan, password: 8b2ffd2f-5da8-4d74-8595-bf8c84cfa557, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 JCBB_ 新加坡 02【vip1 】 - JCBB, server: gcdddd0001.likeone.lol, port: 51031, type: trojan, password: 8b2ffd2f-5da8-4d74-8595-bf8c84cfa557, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
