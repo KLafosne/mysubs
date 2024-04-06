@@ -1639,7 +1639,6 @@ proxies:
 - name: AFOSNE_United States_trojan_41
   server: 52.88.80.155
   port: 443
-  client-fingerprint: chrome
   type: trojan
   password: c8239324-ec4e-3df5-bfdc-4f5b37667178
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -1648,7 +1647,6 @@ proxies:
 - name: AFOSNE_United States_trojan_42
   server: 103.136.185.27
   port: 5499
-  client-fingerprint: chrome
   type: trojan
   password: c8239324-ec4e-3df5-bfdc-4f5b37667178
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -1657,7 +1655,6 @@ proxies:
 - name: AFOSNE_United States_trojan_43
   server: 103.136.185.28
   port: 3504
-  client-fingerprint: chrome
   type: trojan
   password: c8239324-ec4e-3df5-bfdc-4f5b37667178
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
