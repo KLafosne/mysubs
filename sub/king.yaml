@@ -141,7 +141,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_12
   server: 231103level3.unclemanco.com
@@ -152,7 +152,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_13
   server: 231103level3.unclemanco.com
@@ -163,7 +163,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_14
   server: 231103level3.unclemanco.com
@@ -174,7 +174,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_15
   server: 231103level3.unclemanco.com
@@ -185,7 +185,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_16
   server: 231103level3.unclemanco.com
@@ -196,7 +196,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_17
   server: 231103level3.unclemanco.com
@@ -207,7 +207,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_18
   server: 231103level3.unclemanco.com
@@ -218,7 +218,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_19
   server: 231103level3.unclemanco.com
@@ -229,7 +229,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_110
   server: 231103level3.unclemanco.com
@@ -240,7 +240,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_111
   server: 231103level3.unclemanco.com
@@ -251,7 +251,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_112
   server: 231103level3.unclemanco.com
@@ -262,7 +262,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_113
   server: 231103level3.unclemanco.com
@@ -273,7 +273,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_114
   server: 231103level3.unclemanco.com
@@ -284,7 +284,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_115
   server: 231103level3.unclemanco.com
@@ -295,7 +295,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_116
   server: 231103level3.unclemanco.com
@@ -306,7 +306,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_117
   server: 231103level3.unclemanco.com
@@ -317,7 +317,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_118
   server: 231103level3.unclemanco.com
@@ -328,7 +328,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_119
   server: 231103level3.unclemanco.com
@@ -339,7 +339,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_120
   server: 231103level3.unclemanco.com
@@ -350,7 +350,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_121
   server: 231103level3.unclemanco.com
@@ -361,7 +361,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_122
   server: 231103level3.unclemanco.com
@@ -372,7 +372,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_123
   server: 231103level3.unclemanco.com
@@ -383,7 +383,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_124
   server: 231103level3.unclemanco.com
@@ -394,7 +394,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_125
   server: 231103level3.unclemanco.com
@@ -405,7 +405,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_126
   server: 231103level3.unclemanco.com
@@ -416,7 +416,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_127
   server: 231103level3.unclemanco.com
@@ -427,7 +427,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_128
   server: 231103level3.unclemanco.com
@@ -438,7 +438,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_129
   server: 231103level3.unclemanco.com
@@ -449,7 +449,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_130
   server: 231103level3.unclemanco.com
@@ -460,7 +460,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_131
   server: 231103level3.unclemanco.com
@@ -471,7 +471,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_132
   server: 231103level3.unclemanco.com
@@ -482,7 +482,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_133
   server: 231103level3.unclemanco.com
@@ -493,7 +493,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_134
   server: 231103level3.unclemanco.com
@@ -504,7 +504,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_135
   server: 231103level3.unclemanco.com
@@ -515,7 +515,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_136
   server: 231103level3.unclemanco.com
@@ -526,7 +526,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_137
   server: 231103level3.unclemanco.com
@@ -537,7 +537,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_138
   server: 231103level3.unclemanco.com
@@ -548,7 +548,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_139
   server: 231103level3.unclemanco.com
@@ -559,7 +559,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_140
   server: 231103level3.unclemanco.com
@@ -570,7 +570,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_141
   server: 231103level3.unclemanco.com
@@ -581,7 +581,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_142
   server: 231103level3.unclemanco.com
@@ -592,7 +592,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_143
   server: 231103level3.unclemanco.com
@@ -603,7 +603,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_144
   server: 231103level3.unclemanco.com
@@ -614,7 +614,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_145
   server: 231103level3.unclemanco.com
@@ -625,7 +625,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_146
   server: 231103level3.unclemanco.com
@@ -636,7 +636,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_147
   server: 231103level2.unclemanco.com
@@ -647,7 +647,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_148
   server: 231103level2.unclemanco.com
@@ -658,7 +658,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_149
   server: 231103level2.unclemanco.com
@@ -669,7 +669,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_150
   server: 231103level2.unclemanco.com
@@ -680,7 +680,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_151
   server: 231103level2.unclemanco.com
@@ -691,7 +691,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_152
   server: 231103level2.unclemanco.com
@@ -702,7 +702,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_153
   server: 231103level2.unclemanco.com
@@ -713,7 +713,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_154
   server: 231103level2.unclemanco.com
@@ -724,7 +724,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_155
   server: 231103level2.unclemanco.com
@@ -735,7 +735,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_156
   server: 231103level2.unclemanco.com
@@ -746,7 +746,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_157
   server: 231103level2.unclemanco.com
@@ -757,7 +757,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_158
   server: 231103level2.unclemanco.com
@@ -768,7 +768,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_159
   server: 231103level2.unclemanco.com
@@ -779,7 +779,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_160
   server: 231103level2.unclemanco.com
@@ -790,7 +790,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_161
   server: 231103level2.unclemanco.com
@@ -801,7 +801,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_162
   server: 231103level2.unclemanco.com
@@ -812,7 +812,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_163
   server: 231103level2.unclemanco.com
@@ -823,7 +823,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_164
   server: 231103level2.unclemanco.com
@@ -834,7 +834,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_165
   server: 231103level2.unclemanco.com
@@ -845,7 +845,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_166
   server: 231103level2.unclemanco.com
@@ -856,7 +856,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_167
   server: 231103level2.unclemanco.com
@@ -867,7 +867,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_168
   server: 231103levelx.unclemanco.com
@@ -878,7 +878,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_169
   server: 231103levelx.unclemanco.com
@@ -889,7 +889,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_170
   server: 231103level2.unclemanco.com
@@ -900,7 +900,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_171
   server: 231103level2.unclemanco.com
@@ -911,7 +911,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_172
   server: 231103level2.unclemanco.com
@@ -922,7 +922,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_173
   server: 231103level2.unclemanco.com
@@ -933,7 +933,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_174
   server: 231103level2.unclemanco.com
@@ -944,7 +944,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_175
   server: 231103level2.unclemanco.com
@@ -955,7 +955,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_176
   server: 231103level2.unclemanco.com
@@ -966,7 +966,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_177
   server: 231103level2.unclemanco.com
@@ -977,7 +977,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_178
   server: 231103level2.unclemanco.com
@@ -988,7 +988,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_179
   server: 231103level2.unclemanco.com
@@ -999,7 +999,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_180
   server: 231103level2.unclemanco.com
@@ -1010,7 +1010,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_181
   server: 231103level2.unclemanco.com
@@ -1021,7 +1021,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_182
   server: 231103level1.unclemanco.com
@@ -1032,7 +1032,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_183
   server: 231103level1.unclemanco.com
@@ -1043,7 +1043,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_184
   server: 231103level1.unclemanco.com
@@ -1054,7 +1054,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_185
   server: 231103level1.unclemanco.com
@@ -1065,7 +1065,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_186
   server: 231103level1.unclemanco.com
@@ -1076,7 +1076,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_187
   server: 231103level1.unclemanco.com
@@ -1087,7 +1087,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_188
   server: 231103level1.unclemanco.com
@@ -1098,7 +1098,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_189
   server: 231103level1.unclemanco.com
@@ -1109,7 +1109,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_190
   server: 231103level1.unclemanco.com
@@ -1120,7 +1120,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_191
   server: 231103level1.unclemanco.com
@@ -1131,7 +1131,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_192
   server: 231103levelx.unclemanco.com
@@ -1142,7 +1142,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_193
   server: 231103levelx.unclemanco.com
@@ -1153,7 +1153,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_194
   server: 231103level1.unclemanco.com
@@ -1164,7 +1164,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_195
   server: 231103level1.unclemanco.com
@@ -1175,7 +1175,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_196
   server: 231103level1.unclemanco.com
@@ -1186,7 +1186,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_197
   server: 231103level1.unclemanco.com
@@ -1197,7 +1197,7 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_198
   server: 231103level1.unclemanco.com
@@ -1208,13 +1208,13 @@ proxies:
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 586db91415.download.windowsupdate.com
+    host: 87c6091470.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_trojan_21
   server: n00007.bzdqsmzngpyyng.sbs
   port: 22704
   type: trojan
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1222,7 +1222,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 22704
   type: trojan
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1231,27 +1231,27 @@ proxies:
   port: 20356
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_24
   server: n00003.bzdqsmzngpyyng.sbs
   port: 20356
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_25
   server: n00005.bzdqsmzngpyyng.sbs
   port: 20356
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_trojan_26
   server: n00007.bzdqsmzngpyyng.sbs
   port: 37581
   type: trojan
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1259,7 +1259,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 37581
   type: trojan
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1267,7 +1267,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 37581
   type: trojan
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1275,7 +1275,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 15976
   type: trojan
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1283,7 +1283,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 15976
   type: trojan
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1291,7 +1291,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 15976
   type: trojan
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1299,7 +1299,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 14490
   type: trojan
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1307,7 +1307,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 14490
   type: trojan
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1315,7 +1315,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 14490
   type: trojan
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1324,27 +1324,27 @@ proxies:
   port: 46912
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_216
   server: n00003.bzdqsmzngpyyng.sbs
   port: 46912
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_217
   server: n00005.bzdqsmzngpyyng.sbs
   port: 46912
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_trojan_218
   server: n00007.bzdqsmzngpyyng.sbs
   port: 22704
   type: trojan
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1352,7 +1352,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 22704
   type: trojan
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1360,7 +1360,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 22704
   type: trojan
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1368,7 +1368,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 25074
   type: trojan
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1376,7 +1376,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 25074
   type: trojan
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1384,7 +1384,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 25074
   type: trojan
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1392,7 +1392,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 35672
   type: trojan
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1400,7 +1400,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 35672
   type: trojan
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1408,7 +1408,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 35672
   type: trojan
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1417,252 +1417,252 @@ proxies:
   port: 21526
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_228
   server: n00003.bzdqsmzngpyyng.sbs
   port: 21526
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_229
   server: n00005.bzdqsmzngpyyng.sbs
   port: 21526
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_230
   server: n00007.bzdqsmzngpyyng.sbs
   port: 40276
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_231
   server: n00003.bzdqsmzngpyyng.sbs
   port: 40276
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_232
   server: n00005.bzdqsmzngpyyng.sbs
   port: 40276
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_233
   server: n00007.bzdqsmzngpyyng.sbs
   port: 25881
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_234
   server: n00003.bzdqsmzngpyyng.sbs
   port: 25881
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_235
   server: n00005.bzdqsmzngpyyng.sbs
   port: 25881
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_236
   server: n00007.bzdqsmzngpyyng.sbs
   port: 10598
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_237
   server: n00003.bzdqsmzngpyyng.sbs
   port: 10598
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_238
   server: n00005.bzdqsmzngpyyng.sbs
   port: 10598
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_239
   server: n00007.bzdqsmzngpyyng.sbs
   port: 10519
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_240
   server: n00003.bzdqsmzngpyyng.sbs
   port: 10519
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_241
   server: n00005.bzdqsmzngpyyng.sbs
   port: 10519
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_242
   server: n00007.bzdqsmzngpyyng.sbs
   port: 28625
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_243
   server: n00003.bzdqsmzngpyyng.sbs
   port: 28625
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_244
   server: n00005.bzdqsmzngpyyng.sbs
   port: 28625
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_245
   server: n00007.bzdqsmzngpyyng.sbs
   port: 54295
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_246
   server: n00003.bzdqsmzngpyyng.sbs
   port: 54295
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_247
   server: n00005.bzdqsmzngpyyng.sbs
   port: 54295
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_248
   server: n00007.bzdqsmzngpyyng.sbs
   port: 45852
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_249
   server: n00003.bzdqsmzngpyyng.sbs
   port: 45852
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_250
   server: n00005.bzdqsmzngpyyng.sbs
   port: 45852
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_251
   server: n00007.bzdqsmzngpyyng.sbs
   port: 63640
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_252
   server: n00003.bzdqsmzngpyyng.sbs
   port: 63640
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_253
   server: n00005.bzdqsmzngpyyng.sbs
   port: 63640
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_254
   server: n00007.bzdqsmzngpyyng.sbs
   port: 15762
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_255
   server: n00003.bzdqsmzngpyyng.sbs
   port: 15762
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_256
   server: n00005.bzdqsmzngpyyng.sbs
   port: 15762
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_257
   server: n00007.bzdqsmzngpyyng.sbs
   port: 20943
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_258
   server: n00003.bzdqsmzngpyyng.sbs
   port: 20943
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_259
   server: n00005.bzdqsmzngpyyng.sbs
   port: 20943
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_260
   server: n00007.bzdqsmzngpyyng.sbs
   port: 39788
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_261
   server: n00003.bzdqsmzngpyyng.sbs
   port: 39788
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_China_ss_262
   server: n00005.bzdqsmzngpyyng.sbs
   port: 39788
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: c4d01c58-0eff-4204-9024-74c48d56ac87
+  password: 8f4a66c2-9a70-4909-bf7c-f60fd1d8a959
   udp: true
 - name: AFOSNE_United States_vmess_31
   server: mcecloud.net
@@ -1687,7 +1687,6 @@ proxies:
 - name: AFOSNE_United States_trojan_41
   server: 52.88.80.155
   port: 443
-  client-fingerprint: chrome
   type: trojan
   password: c8239324-ec4e-3df5-bfdc-4f5b37667178
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -1696,7 +1695,6 @@ proxies:
 - name: AFOSNE_United States_trojan_42
   server: 103.136.185.27
   port: 5499
-  client-fingerprint: chrome
   type: trojan
   password: c8239324-ec4e-3df5-bfdc-4f5b37667178
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -1705,7 +1703,6 @@ proxies:
 - name: AFOSNE_United States_trojan_43
   server: 103.136.185.28
   port: 3504
-  client-fingerprint: chrome
   type: trojan
   password: c8239324-ec4e-3df5-bfdc-4f5b37667178
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
