@@ -7,42 +7,42 @@ time  2024-04-06 03:33:29.832092+08:00
 更新旧订阅失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<!DOCTYPE html>\n<html lang="en">\n<head>\n <meta charset="UTF-8" />\n <meta name="robots" content="noindex,nofollow,noarchive" />\n <title>An Error Occurred: Method Not Allowed</title>\n <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 128 128%22><text y=%221.2em%22 font-size=%2296%22>❌</text></svg>" />\n <style>body { background-color: #fff; color: #222; font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; margin: 0; }\n.container { margin: 30px; max-width: 600px; }\nh1 { color: #dc3545; font-size: 24px; }\nh2 { font-size: 18px; }</style>\n</head>\n<body>\n<div class="container">\n <h1>Oops! An Error Occurred</h1>\n <h2>The server returned a "405 Method Not Allowed".</h2>\n\n <p>\n Something is broken. Please let us know what you were doing when this error occurred.\n We will fix it as soon as possible. Sorry for any inconvenience caused.\n </p>\n</div>\n</body>\n</html>')
 
 [fastestcloud.xyz]
-email  wcuoumbe504@gmail.com
+email  uolozrl127@gmail.com
 node_n  62
-sub_info  0B  1G  2024-04-08 02:32:26+08:00  (剩余 1G 0:59:38.804136)
-sub_url  https://sub.flyyydds.top:21600/api/v1/client/subscribe?token=b70b9ee3d1d8d74da223c335e4ae9951
-time  2024-04-07 02:32:27.601594+08:00
+sub_info  0B  1G  2024-04-09 02:34:16+08:00  (剩余 1G 23:59:55.898366)
+sub_url  https://sub.flyyydds.top:21600/api/v1/client/subscribe?token=f708cd31453dabf3c7d2e3802fd6eff6
+time  2024-04-08 02:34:16.870928+08:00
 
 [biubiufast.com]
 email  osedpzs874@gmail.com
 node_n  12
-sub_info  0B  1G  2024-04-08 11:35:35+08:00  (剩余 1G 10:02:06.332463)
+sub_info  0B  1G  2024-04-08 11:35:35+08:00  (剩余 1G 9:02:04.579517)
 sub_url  https://biubiufast.website/api/v1/client/subscribe?token=8b7c70069bfd7a85e367a58ea78ee6fe
 time  2024-04-07 11:35:35.883962+08:00
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [ayucloud.services]
-email  wcuoumbe504@muatoc.com
-last_checkin  2024-04-08 00:33:10.685241+08:00
+email  uolozrl127@nqmo.com
+last_checkin  2024-04-08 02:34:34.398096+08:00
 node_n  98
-sub_info  0B  1.813G  2024-04-08 02:32:38+08:00  (剩余 1.813G 0:59:49.300843)
-sub_url  https://network.ayucloud.nl/link/A7HgLJUCy76bDdCx?clash=1
-time  2024-04-07 02:32:39.369772+08:00
+sub_info  0B  1.141G  2024-04-09 02:34:34+08:00  (剩余 1.141G 23:58:30.106170)
+sub_url  https://network.ayucloud.nl/link/OT6bSFc7abByJQem?clash=1
+time  2024-04-08 02:34:35.241224+08:00
 
 [人人传承.com]
 email  buakgeutv81@yzm.de
 invite_code  sTlJ  10000
 last_checkin  2024-04-08 00:33:10.687410+08:00
 node_n  47
-sub_info  0B  10.23G  2024-04-08 03:33:02+08:00  (剩余 10.23G 2:00:01.216760)
+sub_info  0B  10.23G  2024-04-08 03:33:02+08:00  (剩余 10.23G 0:59:32.564308)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/AQPDjvdzS1o7CJDH?sub=3
 time  2024-04-07 03:33:03.242669+08:00
-保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [qlgq.top]
 email  sqslqgmh831@uuf.me
 last_checkin  2024-04-08 00:33:10.688628+08:00
 node_n  28
-sub_info  823.2M  888.1G  2024-04-13 06:33:25+08:00  (剩余 887.3G 5 days, 5:00:38.601432)
+sub_info  831.7M  888.1G  2024-04-13 06:33:25+08:00  (剩余 887.3G 5 days, 3:59:55.627714)
 sub_url  https://www.qlgq.top/link/309b1901605cc599?clash=1
 time  2024-04-06 06:33:26.567821+08:00
 
@@ -50,7 +50,7 @@ time  2024-04-06 06:33:26.567821+08:00
 email  gxdmyqoj433@nqmo.com
 last_checkin  2024-04-08 00:33:10.689603+08:00
 node_n  3
-sub_info  89.78M  1.281G  永不过期  (剩余 1.194G)
+sub_info  89.87M  1.281G  永不过期  (剩余 1.193G)
 sub_url  https://new.gfw.news/link/6CwIu4XoMcmQ0slu?sub=3
 time  2024-04-06 00:36:09.196290+08:00
 
@@ -64,15 +64,16 @@ time  2024-03-16 09:46:08.596402+08:00
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [mcecloud.com]
-email  tvacrfqh77@gmail.com
-last_checkin  2024-04-08 01:32:48.624902+08:00
+email  uolozrl127@gmail.com
+last_checkin  2024-04-08 02:33:31.444035+08:00
 node_n  2
-sub_info  0B  89M  2024-04-08 01:32:48+08:00  (剩余 89M -1 day, 23:59:54.525884)
-sub_url  https://st-sub.fly.dev/ssp/mce/link/m5TrQMIErI9UHAmU?sub=3
-time  2024-04-08 01:32:50.129805+08:00
+sub_info  0B  38M  2024-04-08 02:33:31+08:00  (剩余 38M -1 day, 23:59:07.697038)
+sub_url  https://st-sub.fly.dev/ssp/mce/link/7gfPkD0c7gjwnnLw?sub=3
+time  2024-04-08 02:33:32.686171+08:00
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [cloud.speedypro.xyz name Speedypro]
-更新订阅链接/续费续签失败  注册失败(tvacrfqh77@gmail.com): HTTPSConnectionPool(host='cloud.speedypro.xyz%20name%20speedypro', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8f4183a950>: Failed to resolve 'cloud.speedypro.xyz%20name%20speedypro' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(uolozrl127@gmail.com): HTTPSConnectionPool(host='cloud.speedypro.xyz%20name%20speedypro', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fe71cd020e0>: Failed to resolve 'cloud.speedypro.xyz%20name%20speedypro' ([Errno -2] Name or service not known)"))
 
 [ikuuu.me name ikuuu]
-更新订阅链接/续费续签失败  注册失败(tvacrfqh77@gmail.com): HTTPSConnectionPool(host='ikuuu.me%20name%20ikuuu', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8f41838fa0>: Failed to resolve 'ikuuu.me%20name%20ikuuu' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(uolozrl127@gmail.com): HTTPSConnectionPool(host='ikuuu.me%20name%20ikuuu', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fe71cd02350>: Failed to resolve 'ikuuu.me%20name%20ikuuu' ([Errno -2] Name or service not known)"))
