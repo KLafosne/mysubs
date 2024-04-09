@@ -45,12 +45,12 @@ proxies:
 - {name: 🇩🇪 德国|高速德国SS（会员） - BIUBIU, server: dl.biubiufast.quest, port: 11012, type: ss, cipher: chacha20-ietf-poly1305, password: 2e4bc70a-35ff-4c93-8d72-76b3d29be1d7, udp: true}
 - {name: 🇭🇰 香港|高速香港SS2（会员） - BIUBIU, server: dl.biubiufast.quest, port: 11005, type: ss, cipher: chacha20-ietf-poly1305, password: 2e4bc70a-35ff-4c93-8d72-76b3d29be1d7, udp: true}
 - {name: 🇭🇰 香港|高速二SS（会员） - BIUBIU, server: dl.biubiufast.quest, port: 22001, type: ss, cipher: chacha20-ietf-poly1305, password: 2e4bc70a-35ff-4c93-8d72-76b3d29be1d7, udp: true}
-- {name: 🇺🇸 美国|高速2SS（会员） - BIUBIU, server: dl.biubiufast.quest, port: 11002, type: ss, cipher: chacha20-ietf-poly1305, password: 2e4bc70a-35ff-4c93-8d72-76b3d29be1d7, udp: true}
+- {name: 🇺🇲 美国|高速2SS（会员） - BIUBIU, server: dl.biubiufast.quest, port: 11002, type: ss, cipher: chacha20-ietf-poly1305, password: 2e4bc70a-35ff-4c93-8d72-76b3d29be1d7, udp: true}
 - {name: 🇯🇵 日本 | 高速日本（会员） - BIUBIU, server: dl.biubiufast.quest, port: 11201, type: trojan, password: 2e4bc70a-35ff-4c93-8d72-76b3d29be1d7, sni: jp1.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 | 高速香港（会员） - BIUBIU, server: dl.biubiufast.quest, port: 11101, type: trojan, password: 2e4bc70a-35ff-4c93-8d72-76b3d29be1d7, sni: hk1.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 德国 | 德国高速（会员） - BIUBIU, server: dl.biubiufast.quest, port: 11301, type: trojan, password: 2e4bc70a-35ff-4c93-8d72-76b3d29be1d7, sni: dg5.biubiufast.quest, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 | 高速二（会员） - BIUBIU, server: dl.biubiufast.quest, port: 11302, type: trojan, password: 2e4bc70a-35ff-4c93-8d72-76b3d29be1d7, sni: hk15.biubiufast.quest, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 | 高速2（会员） - BIUBIU, server: dl.biubiufast.quest, port: 11303, type: trojan, password: 2e4bc70a-35ff-4c93-8d72-76b3d29be1d7, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国 | 高速2（会员） - BIUBIU, server: dl.biubiufast.quest, port: 11303, type: trojan, password: 2e4bc70a-35ff-4c93-8d72-76b3d29be1d7, sni: sfo6.biubiufast.quest, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,local,🎯 全球直连
 - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
