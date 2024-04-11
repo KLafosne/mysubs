@@ -28,55 +28,70 @@ proxies:
 - name: AFOSNE_Japan_trojan_01
   server: jp1.biubiufast.quest
   port: 5203
+  client-fingerprint: chrome
   type: trojan
   password: 96140adf-0fa7-41fe-8dcb-70e96368896d
+  sni: jp1.biubiufast.quest
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_Japan_ss_02
   server: jp1.biubiufast.quest
   port: 5205
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 96140adf-0fa7-41fe-8dcb-70e96368896d
+  tfo: false
   udp: true
 - name: AFOSNE_Hong Kong_ss_03
   server: hk1.biubiufast.quest
   port: 5204
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 96140adf-0fa7-41fe-8dcb-70e96368896d
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_04
   server: dl.biubiufast.quest
   port: 11012
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 96140adf-0fa7-41fe-8dcb-70e96368896d
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_05
   server: dl.biubiufast.quest
   port: 11005
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 96140adf-0fa7-41fe-8dcb-70e96368896d
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_06
   server: dl.biubiufast.quest
   port: 22001
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 96140adf-0fa7-41fe-8dcb-70e96368896d
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_07
   server: dl.biubiufast.quest
   port: 11002
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 96140adf-0fa7-41fe-8dcb-70e96368896d
+  tfo: false
   udp: true
 - name: AFOSNE_China_trojan_08
   server: dl.biubiufast.quest
   port: 11201
+  client-fingerprint: chrome
   type: trojan
   password: 96140adf-0fa7-41fe-8dcb-70e96368896d
   sni: jp1.biubiufast.quest
@@ -85,6 +100,7 @@ proxies:
 - name: AFOSNE_China_trojan_09
   server: dl.biubiufast.quest
   port: 11101
+  client-fingerprint: chrome
   type: trojan
   password: 96140adf-0fa7-41fe-8dcb-70e96368896d
   sni: hk1.biubiufast.quest
@@ -93,6 +109,7 @@ proxies:
 - name: AFOSNE_China_trojan_010
   server: dl.biubiufast.quest
   port: 11301
+  client-fingerprint: chrome
   type: trojan
   password: 96140adf-0fa7-41fe-8dcb-70e96368896d
   sni: dg5.biubiufast.quest
@@ -101,6 +118,7 @@ proxies:
 - name: AFOSNE_China_trojan_011
   server: dl.biubiufast.quest
   port: 11302
+  client-fingerprint: chrome
   type: trojan
   password: 96140adf-0fa7-41fe-8dcb-70e96368896d
   sni: hk15.biubiufast.quest
@@ -109,6 +127,7 @@ proxies:
 - name: AFOSNE_China_trojan_012
   server: dl.biubiufast.quest
   port: 11303
+  client-fingerprint: chrome
   type: trojan
   password: 96140adf-0fa7-41fe-8dcb-70e96368896d
   sni: sfo6.biubiufast.quest
@@ -1898,6 +1917,7 @@ proxies:
 - name: AFOSNE_Germany_trojan_51
   server: fkvip101.qlgq.fun
   port: 11789
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: fkvip101.qlgq.fun
@@ -1909,6 +1929,7 @@ proxies:
 - name: AFOSNE_Germany_trojan_52
   server: fkvip101.qlgq.fun
   port: 21789
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: fkvip101.qlgq.fun
@@ -1920,6 +1941,7 @@ proxies:
 - name: AFOSNE_Germany_trojan_53
   server: fkvip101.qlgq.fun
   port: 31789
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: fkvip101.qlgq.fun
@@ -1931,6 +1953,7 @@ proxies:
 - name: AFOSNE_Germany_trojan_54
   server: fkvip101.qlgq.fun
   port: 41789
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: fkvip101.qlgq.fun
@@ -1942,6 +1965,7 @@ proxies:
 - name: AFOSNE_Germany_trojan_55
   server: fkvip101.qlgq.fun
   port: 51789
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: fkvip101.qlgq.fun
@@ -1953,6 +1977,7 @@ proxies:
 - name: AFOSNE_Singapore_trojan_56
   server: sgvip101.qlgq.fun
   port: 11223
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: sgvip101.qlgq.fun
@@ -1964,6 +1989,7 @@ proxies:
 - name: AFOSNE_Singapore_trojan_57
   server: sgvip101.qlgq.fun
   port: 21223
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: sgvip101.qlgq.fun
@@ -1975,6 +2001,7 @@ proxies:
 - name: AFOSNE_Singapore_trojan_58
   server: sgvip101.qlgq.fun
   port: 31223
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: sgvip101.qlgq.fun
@@ -1986,6 +2013,7 @@ proxies:
 - name: AFOSNE_Singapore_trojan_59
   server: sgvip101.qlgq.fun
   port: 41223
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: sgvip101.qlgq.fun
@@ -1997,6 +2025,7 @@ proxies:
 - name: AFOSNE_Singapore_trojan_510
   server: sgvip101.qlgq.fun
   port: 51223
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: sgvip101.qlgq.fun
@@ -2008,6 +2037,7 @@ proxies:
 - name: AFOSNE_Japan_trojan_511
   server: jpvip102.qlgq.fun
   port: 61239
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: jpvip102.qlgq.fun
@@ -2019,6 +2049,7 @@ proxies:
 - name: AFOSNE_Japan_trojan_512
   server: jpvip102.qlgq.fun
   port: 61238
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: jpvip102.qlgq.fun
@@ -2030,6 +2061,7 @@ proxies:
 - name: AFOSNE_Japan_trojan_513
   server: jpvip102.qlgq.fun
   port: 61237
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: jpvip102.qlgq.fun
@@ -2041,6 +2073,7 @@ proxies:
 - name: AFOSNE_Japan_trojan_514
   server: jpvip102.qlgq.fun
   port: 61236
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: jpvip102.qlgq.fun
@@ -2052,6 +2085,7 @@ proxies:
 - name: AFOSNE_Japan_trojan_515
   server: jpvip102.qlgq.fun
   port: 61235
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: jpvip102.qlgq.fun
@@ -2063,6 +2097,7 @@ proxies:
 - name: AFOSNE_United States_trojan_516
   server: lavip101.qlgq.fun
   port: 11156
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: lavip101.qlgq.fun
@@ -2074,6 +2109,7 @@ proxies:
 - name: AFOSNE_United States_trojan_517
   server: lavip101.qlgq.fun
   port: 21156
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: lavip101.qlgq.fun
@@ -2085,6 +2121,7 @@ proxies:
 - name: AFOSNE_United States_trojan_518
   server: lavip101.qlgq.fun
   port: 31156
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: lavip101.qlgq.fun
@@ -2096,6 +2133,7 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_519
   server: hkvip102.qlgq.fun
   port: 12249
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: hkvip102.qlgq.fun
@@ -2107,6 +2145,7 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_520
   server: hkvip102.qlgq.fun
   port: 22249
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: hkvip102.qlgq.fun
@@ -2118,6 +2157,7 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_521
   server: hkvip102.qlgq.fun
   port: 32249
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: hkvip102.qlgq.fun
@@ -2129,6 +2169,7 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_522
   server: hkvip102.qlgq.fun
   port: 42249
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: hkvip102.qlgq.fun
@@ -2140,6 +2181,7 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_523
   server: hkvip102.qlgq.fun
   port: 52249
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: hkvip102.qlgq.fun
@@ -2151,6 +2193,7 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_524
   server: hkvip103.qlgq.fun
   port: 11116
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: hkvip103.qlgq.fun
@@ -2162,6 +2205,7 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_525
   server: hkvip103.qlgq.fun
   port: 21116
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: hkvip103.qlgq.fun
@@ -2173,6 +2217,7 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_526
   server: hkvip103.qlgq.fun
   port: 31116
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: hkvip103.qlgq.fun
@@ -2184,6 +2229,7 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_527
   server: hkvip103.qlgq.fun
   port: 41116
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: hkvip103.qlgq.fun
@@ -2195,6 +2241,7 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_528
   server: hkvip103.qlgq.fun
   port: 51116
+  client-fingerprint: chrome
   type: trojan
   password: 0c08be44-fe9e-38d4-b291-f422ce1a0a65
   sni: hkvip103.qlgq.fun
