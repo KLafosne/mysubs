@@ -1393,7 +1393,7 @@ proxies:
   port: 22704
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1402,7 +1402,7 @@ proxies:
   port: 22704
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1411,7 +1411,7 @@ proxies:
   port: 20356
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1420,7 +1420,7 @@ proxies:
   port: 20356
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1429,7 +1429,7 @@ proxies:
   port: 20356
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1438,7 +1438,7 @@ proxies:
   port: 37581
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1447,7 +1447,7 @@ proxies:
   port: 37581
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1456,7 +1456,7 @@ proxies:
   port: 37581
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1465,7 +1465,7 @@ proxies:
   port: 15976
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1474,7 +1474,7 @@ proxies:
   port: 15976
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1483,7 +1483,7 @@ proxies:
   port: 15976
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1492,7 +1492,7 @@ proxies:
   port: 14490
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1501,7 +1501,7 @@ proxies:
   port: 14490
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1510,7 +1510,7 @@ proxies:
   port: 14490
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1519,7 +1519,7 @@ proxies:
   port: 46912
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1528,7 +1528,7 @@ proxies:
   port: 46912
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1537,7 +1537,7 @@ proxies:
   port: 46912
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1546,7 +1546,7 @@ proxies:
   port: 22704
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1555,7 +1555,7 @@ proxies:
   port: 22704
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1564,7 +1564,7 @@ proxies:
   port: 22704
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1573,7 +1573,7 @@ proxies:
   port: 25074
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1582,7 +1582,7 @@ proxies:
   port: 25074
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1591,7 +1591,7 @@ proxies:
   port: 25074
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1600,7 +1600,7 @@ proxies:
   port: 35672
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1609,7 +1609,7 @@ proxies:
   port: 35672
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1618,7 +1618,7 @@ proxies:
   port: 35672
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1627,7 +1627,7 @@ proxies:
   port: 21526
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: sg02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1636,7 +1636,7 @@ proxies:
   port: 21526
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: sg02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1645,7 +1645,7 @@ proxies:
   port: 21526
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: sg02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1654,7 +1654,7 @@ proxies:
   port: 40276
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1663,7 +1663,7 @@ proxies:
   port: 40276
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1672,7 +1672,7 @@ proxies:
   port: 40276
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1681,7 +1681,7 @@ proxies:
   port: 25881
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: my01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1690,7 +1690,7 @@ proxies:
   port: 25881
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: my01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1699,7 +1699,7 @@ proxies:
   port: 25881
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: my01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1709,7 +1709,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_237
@@ -1718,7 +1718,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_238
@@ -1727,7 +1727,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_239
@@ -1736,7 +1736,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_240
@@ -1745,7 +1745,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_241
@@ -1754,7 +1754,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_242
@@ -1763,7 +1763,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_243
@@ -1772,7 +1772,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_244
@@ -1781,7 +1781,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_245
@@ -1790,7 +1790,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_246
@@ -1799,7 +1799,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_247
@@ -1808,7 +1808,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_248
@@ -1817,7 +1817,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_249
@@ -1826,7 +1826,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_250
@@ -1835,7 +1835,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_251
@@ -1844,7 +1844,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_252
@@ -1853,7 +1853,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_253
@@ -1862,7 +1862,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   tfo: false
   udp: true
 - name: AFOSNE_China_trojan_254
@@ -1870,7 +1870,7 @@ proxies:
   port: 15762
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1879,7 +1879,7 @@ proxies:
   port: 15762
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1888,7 +1888,7 @@ proxies:
   port: 15762
   client-fingerprint: chrome
   type: trojan
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1898,7 +1898,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_258
@@ -1907,7 +1907,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_259
@@ -1916,7 +1916,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_260
@@ -1925,7 +1925,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_261
@@ -1934,7 +1934,7 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   tfo: false
   udp: true
 - name: AFOSNE_China_ss_262
@@ -1943,14 +1943,14 @@ proxies:
   client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 607a4291-4f33-4808-b3aa-8bfeeb0b5677
+  password: a7d204f9-4485-4de5-8f8f-6e2f239d8321
   tfo: false
   udp: true
-- name: AFOSNE_None_vmess_31
+- name: AFOSNE_United States_vmess_31
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: 1e79d28a-db60-3b40-a1b3-e7fa0213d40f
+  uuid: 13f50fec-c921-3e57-93e1-6fd146d79ed8
   alterId: 0
   cipher: auto
   tls: false
@@ -2937,7 +2937,7 @@ proxy-groups:
   - AFOSNE_China_ss_260
   - AFOSNE_China_ss_261
   - AFOSNE_China_ss_262
-  - AFOSNE_None_vmess_31
+  - AFOSNE_United States_vmess_31
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
@@ -3202,7 +3202,7 @@ proxy-groups:
   - AFOSNE_China_ss_260
   - AFOSNE_China_ss_261
   - AFOSNE_China_ss_262
-  - AFOSNE_None_vmess_31
+  - AFOSNE_United States_vmess_31
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
