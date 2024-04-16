@@ -1391,6 +1391,7 @@ proxies:
 - name: AFOSNE_China_trojan_21
   server: n00007.bzdqsmzngpyyng.sbs
   port: 22704
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: hk05.ckcloud.info
@@ -1399,6 +1400,7 @@ proxies:
 - name: AFOSNE_China_trojan_22
   server: n00007.bzdqsmzngpyyng.sbs
   port: 22704
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: hk05.ckcloud.info
@@ -1407,6 +1409,7 @@ proxies:
 - name: AFOSNE_China_trojan_23
   server: n00007.bzdqsmzngpyyng.sbs
   port: 20356
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: jp01.ckcloud.info
@@ -1415,6 +1418,7 @@ proxies:
 - name: AFOSNE_China_trojan_24
   server: n00003.bzdqsmzngpyyng.sbs
   port: 20356
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: jp01.ckcloud.info
@@ -1423,6 +1427,7 @@ proxies:
 - name: AFOSNE_China_trojan_25
   server: n00005.bzdqsmzngpyyng.sbs
   port: 20356
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: jp01.ckcloud.info
@@ -1431,6 +1436,7 @@ proxies:
 - name: AFOSNE_China_trojan_26
   server: n00007.bzdqsmzngpyyng.sbs
   port: 37581
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: jp03.ckcloud.info
@@ -1439,6 +1445,7 @@ proxies:
 - name: AFOSNE_China_trojan_27
   server: n00003.bzdqsmzngpyyng.sbs
   port: 37581
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: jp03.ckcloud.info
@@ -1447,6 +1454,7 @@ proxies:
 - name: AFOSNE_China_trojan_28
   server: n00005.bzdqsmzngpyyng.sbs
   port: 37581
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: jp03.ckcloud.info
@@ -1455,6 +1463,7 @@ proxies:
 - name: AFOSNE_China_trojan_29
   server: n00007.bzdqsmzngpyyng.sbs
   port: 15976
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: hk02.ckcloud.info
@@ -1463,6 +1472,7 @@ proxies:
 - name: AFOSNE_China_trojan_210
   server: n00003.bzdqsmzngpyyng.sbs
   port: 15976
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: hk02.ckcloud.info
@@ -1471,6 +1481,7 @@ proxies:
 - name: AFOSNE_China_trojan_211
   server: n00005.bzdqsmzngpyyng.sbs
   port: 15976
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: hk02.ckcloud.info
@@ -1479,6 +1490,7 @@ proxies:
 - name: AFOSNE_China_trojan_212
   server: n00007.bzdqsmzngpyyng.sbs
   port: 14490
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: hk04.ckcloud.info
@@ -1487,6 +1499,7 @@ proxies:
 - name: AFOSNE_China_trojan_213
   server: n00003.bzdqsmzngpyyng.sbs
   port: 14490
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: hk04.ckcloud.info
@@ -1495,6 +1508,7 @@ proxies:
 - name: AFOSNE_China_trojan_214
   server: n00005.bzdqsmzngpyyng.sbs
   port: 14490
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: hk04.ckcloud.info
@@ -1503,6 +1517,7 @@ proxies:
 - name: AFOSNE_China_trojan_215
   server: n00007.bzdqsmzngpyyng.sbs
   port: 46912
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: hk03.ckcloud.info
@@ -1511,6 +1526,7 @@ proxies:
 - name: AFOSNE_China_trojan_216
   server: n00003.bzdqsmzngpyyng.sbs
   port: 46912
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: hk03.ckcloud.info
@@ -1519,6 +1535,7 @@ proxies:
 - name: AFOSNE_China_trojan_217
   server: n00005.bzdqsmzngpyyng.sbs
   port: 46912
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: hk03.ckcloud.info
@@ -1527,6 +1544,7 @@ proxies:
 - name: AFOSNE_China_trojan_218
   server: n00007.bzdqsmzngpyyng.sbs
   port: 22704
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: hk05.ckcloud.info
@@ -1535,6 +1553,7 @@ proxies:
 - name: AFOSNE_China_trojan_219
   server: n00003.bzdqsmzngpyyng.sbs
   port: 22704
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: hk05.ckcloud.info
@@ -1543,6 +1562,7 @@ proxies:
 - name: AFOSNE_China_trojan_220
   server: n00005.bzdqsmzngpyyng.sbs
   port: 22704
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: hk05.ckcloud.info
@@ -1551,6 +1571,7 @@ proxies:
 - name: AFOSNE_China_trojan_221
   server: n00007.bzdqsmzngpyyng.sbs
   port: 25074
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: tw01.ckcloud.info
@@ -1559,6 +1580,7 @@ proxies:
 - name: AFOSNE_China_trojan_222
   server: n00003.bzdqsmzngpyyng.sbs
   port: 25074
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: tw01.ckcloud.info
@@ -1567,6 +1589,7 @@ proxies:
 - name: AFOSNE_China_trojan_223
   server: n00005.bzdqsmzngpyyng.sbs
   port: 25074
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: tw01.ckcloud.info
@@ -1575,6 +1598,7 @@ proxies:
 - name: AFOSNE_China_trojan_224
   server: n00007.bzdqsmzngpyyng.sbs
   port: 35672
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: tw02.ckcloud.info
@@ -1583,6 +1607,7 @@ proxies:
 - name: AFOSNE_China_trojan_225
   server: n00003.bzdqsmzngpyyng.sbs
   port: 35672
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: tw02.ckcloud.info
@@ -1591,6 +1616,7 @@ proxies:
 - name: AFOSNE_China_trojan_226
   server: n00005.bzdqsmzngpyyng.sbs
   port: 35672
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: tw02.ckcloud.info
@@ -1599,6 +1625,7 @@ proxies:
 - name: AFOSNE_China_trojan_227
   server: n00007.bzdqsmzngpyyng.sbs
   port: 21526
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: sg02.ckcloud.info
@@ -1607,6 +1634,7 @@ proxies:
 - name: AFOSNE_China_trojan_228
   server: n00003.bzdqsmzngpyyng.sbs
   port: 21526
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: sg02.ckcloud.info
@@ -1615,6 +1643,7 @@ proxies:
 - name: AFOSNE_China_trojan_229
   server: n00005.bzdqsmzngpyyng.sbs
   port: 21526
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: sg02.ckcloud.info
@@ -1623,6 +1652,7 @@ proxies:
 - name: AFOSNE_China_trojan_230
   server: n00007.bzdqsmzngpyyng.sbs
   port: 40276
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: sg01.ckcloud.info
@@ -1631,6 +1661,7 @@ proxies:
 - name: AFOSNE_China_trojan_231
   server: n00003.bzdqsmzngpyyng.sbs
   port: 40276
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: sg01.ckcloud.info
@@ -1639,6 +1670,7 @@ proxies:
 - name: AFOSNE_China_trojan_232
   server: n00005.bzdqsmzngpyyng.sbs
   port: 40276
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: sg01.ckcloud.info
@@ -1647,6 +1679,7 @@ proxies:
 - name: AFOSNE_China_trojan_233
   server: n00007.bzdqsmzngpyyng.sbs
   port: 25881
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: my01.ckcloud.info
@@ -1655,6 +1688,7 @@ proxies:
 - name: AFOSNE_China_trojan_234
   server: n00003.bzdqsmzngpyyng.sbs
   port: 25881
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: my01.ckcloud.info
@@ -1663,6 +1697,7 @@ proxies:
 - name: AFOSNE_China_trojan_235
   server: n00005.bzdqsmzngpyyng.sbs
   port: 25881
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: my01.ckcloud.info
@@ -1671,132 +1706,169 @@ proxies:
 - name: AFOSNE_China_ss_236
   server: n00007.bzdqsmzngpyyng.sbs
   port: 10598
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_237
   server: n00003.bzdqsmzngpyyng.sbs
   port: 10598
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_238
   server: n00005.bzdqsmzngpyyng.sbs
   port: 10598
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_239
   server: n00007.bzdqsmzngpyyng.sbs
   port: 10519
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_240
   server: n00003.bzdqsmzngpyyng.sbs
   port: 10519
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_241
   server: n00005.bzdqsmzngpyyng.sbs
   port: 10519
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_242
   server: n00007.bzdqsmzngpyyng.sbs
   port: 28625
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_243
   server: n00003.bzdqsmzngpyyng.sbs
   port: 28625
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_244
   server: n00005.bzdqsmzngpyyng.sbs
   port: 28625
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_245
   server: n00007.bzdqsmzngpyyng.sbs
   port: 54295
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_246
   server: n00003.bzdqsmzngpyyng.sbs
   port: 54295
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_247
   server: n00005.bzdqsmzngpyyng.sbs
   port: 54295
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_248
   server: n00007.bzdqsmzngpyyng.sbs
   port: 45852
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_249
   server: n00003.bzdqsmzngpyyng.sbs
   port: 45852
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_250
   server: n00005.bzdqsmzngpyyng.sbs
   port: 45852
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_251
   server: n00007.bzdqsmzngpyyng.sbs
   port: 63640
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_252
   server: n00003.bzdqsmzngpyyng.sbs
   port: 63640
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_253
   server: n00005.bzdqsmzngpyyng.sbs
   port: 63640
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  tfo: false
   udp: true
 - name: AFOSNE_China_trojan_254
   server: n00007.bzdqsmzngpyyng.sbs
   port: 15762
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: tur01.ckcloud.info
@@ -1805,6 +1877,7 @@ proxies:
 - name: AFOSNE_China_trojan_255
   server: n00003.bzdqsmzngpyyng.sbs
   port: 15762
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: tur01.ckcloud.info
@@ -1813,6 +1886,7 @@ proxies:
 - name: AFOSNE_China_trojan_256
   server: n00005.bzdqsmzngpyyng.sbs
   port: 15762
+  client-fingerprint: chrome
   type: trojan
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
   sni: tur01.ckcloud.info
@@ -1821,46 +1895,58 @@ proxies:
 - name: AFOSNE_China_ss_257
   server: n00007.bzdqsmzngpyyng.sbs
   port: 20943
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_258
   server: n00003.bzdqsmzngpyyng.sbs
   port: 20943
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_259
   server: n00005.bzdqsmzngpyyng.sbs
   port: 20943
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_260
   server: n00007.bzdqsmzngpyyng.sbs
   port: 39788
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_261
   server: n00003.bzdqsmzngpyyng.sbs
   port: 39788
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  tfo: false
   udp: true
 - name: AFOSNE_China_ss_262
   server: n00005.bzdqsmzngpyyng.sbs
   port: 39788
+  client-fingerprint: chrome
   type: ss
   cipher: chacha20-ietf-poly1305
   password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  tfo: false
   udp: true
-- name: AFOSNE_United States_vmess_31
+- name: AFOSNE_None_vmess_31
   server: mcecloud.net
   port: 10086
   type: vmess
@@ -2820,7 +2906,7 @@ proxy-groups:
   - AFOSNE_China_ss_260
   - AFOSNE_China_ss_261
   - AFOSNE_China_ss_262
-  - AFOSNE_United States_vmess_31
+  - AFOSNE_None_vmess_31
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
@@ -3085,7 +3171,7 @@ proxy-groups:
   - AFOSNE_China_ss_260
   - AFOSNE_China_ss_261
   - AFOSNE_China_ss_262
-  - AFOSNE_United States_vmess_31
+  - AFOSNE_None_vmess_31
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
