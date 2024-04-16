@@ -1392,7 +1392,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 22704
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1400,7 +1400,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 22704
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1408,7 +1408,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 20356
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1416,7 +1416,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 20356
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1424,7 +1424,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 20356
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1432,7 +1432,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 37581
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1440,7 +1440,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 37581
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1448,7 +1448,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 37581
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1456,7 +1456,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 15976
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1464,7 +1464,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 15976
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1472,7 +1472,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 15976
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1480,7 +1480,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 14490
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1488,7 +1488,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 14490
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1496,7 +1496,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 14490
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1504,7 +1504,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 46912
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1512,7 +1512,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 46912
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1520,7 +1520,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 46912
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1528,7 +1528,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 22704
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1536,7 +1536,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 22704
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1544,7 +1544,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 22704
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1552,7 +1552,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 25074
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1560,7 +1560,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 25074
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1568,7 +1568,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 25074
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1576,7 +1576,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 35672
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1584,7 +1584,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 35672
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1592,7 +1592,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 35672
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1600,7 +1600,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 21526
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: sg02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1608,7 +1608,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 21526
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: sg02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1616,7 +1616,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 21526
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: sg02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1624,7 +1624,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 40276
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1632,7 +1632,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 40276
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1640,7 +1640,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 40276
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1648,7 +1648,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 25881
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: my01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1656,7 +1656,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 25881
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: my01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1664,7 +1664,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 25881
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: my01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1673,132 +1673,132 @@ proxies:
   port: 10598
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   udp: true
 - name: AFOSNE_China_ss_237
   server: n00003.bzdqsmzngpyyng.sbs
   port: 10598
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   udp: true
 - name: AFOSNE_China_ss_238
   server: n00005.bzdqsmzngpyyng.sbs
   port: 10598
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   udp: true
 - name: AFOSNE_China_ss_239
   server: n00007.bzdqsmzngpyyng.sbs
   port: 10519
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   udp: true
 - name: AFOSNE_China_ss_240
   server: n00003.bzdqsmzngpyyng.sbs
   port: 10519
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   udp: true
 - name: AFOSNE_China_ss_241
   server: n00005.bzdqsmzngpyyng.sbs
   port: 10519
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   udp: true
 - name: AFOSNE_China_ss_242
   server: n00007.bzdqsmzngpyyng.sbs
   port: 28625
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   udp: true
 - name: AFOSNE_China_ss_243
   server: n00003.bzdqsmzngpyyng.sbs
   port: 28625
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   udp: true
 - name: AFOSNE_China_ss_244
   server: n00005.bzdqsmzngpyyng.sbs
   port: 28625
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   udp: true
 - name: AFOSNE_China_ss_245
   server: n00007.bzdqsmzngpyyng.sbs
   port: 54295
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   udp: true
 - name: AFOSNE_China_ss_246
   server: n00003.bzdqsmzngpyyng.sbs
   port: 54295
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   udp: true
 - name: AFOSNE_China_ss_247
   server: n00005.bzdqsmzngpyyng.sbs
   port: 54295
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   udp: true
 - name: AFOSNE_China_ss_248
   server: n00007.bzdqsmzngpyyng.sbs
   port: 45852
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   udp: true
 - name: AFOSNE_China_ss_249
   server: n00003.bzdqsmzngpyyng.sbs
   port: 45852
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   udp: true
 - name: AFOSNE_China_ss_250
   server: n00005.bzdqsmzngpyyng.sbs
   port: 45852
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   udp: true
 - name: AFOSNE_China_ss_251
   server: n00007.bzdqsmzngpyyng.sbs
   port: 63640
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   udp: true
 - name: AFOSNE_China_ss_252
   server: n00003.bzdqsmzngpyyng.sbs
   port: 63640
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   udp: true
 - name: AFOSNE_China_ss_253
   server: n00005.bzdqsmzngpyyng.sbs
   port: 63640
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   udp: true
 - name: AFOSNE_China_trojan_254
   server: n00007.bzdqsmzngpyyng.sbs
   port: 15762
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1806,7 +1806,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 15762
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1814,7 +1814,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 15762
   type: trojan
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1823,75 +1823,98 @@ proxies:
   port: 20943
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   udp: true
 - name: AFOSNE_China_ss_258
   server: n00003.bzdqsmzngpyyng.sbs
   port: 20943
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   udp: true
 - name: AFOSNE_China_ss_259
   server: n00005.bzdqsmzngpyyng.sbs
   port: 20943
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   udp: true
 - name: AFOSNE_China_ss_260
   server: n00007.bzdqsmzngpyyng.sbs
   port: 39788
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   udp: true
 - name: AFOSNE_China_ss_261
   server: n00003.bzdqsmzngpyyng.sbs
   port: 39788
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   udp: true
 - name: AFOSNE_China_ss_262
   server: n00005.bzdqsmzngpyyng.sbs
   port: 39788
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: afcfe709-8c6c-4f0a-92c8-08a7dd7cd037
+  password: c2a7b35c-75b8-4c95-8b2e-6ffdfe21a0ce
   udp: true
 - name: AFOSNE_None_vmess_31
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: 87635bee-938c-3dd2-8ff7-d171fe35168b
+  uuid: 8a7d697f-b2a0-315e-be81-d846bb227135
   alterId: 0
   cipher: auto
   tls: false
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_United States_trojan_41
-  server: 52.88.80.155
+- name: AFOSNE_United States_vmess_32
+  server: mcecloud.net
+  port: 10086
+  type: vmess
+  uuid: 8a7d697f-b2a0-315e-be81-d846bb227135
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_Japan_trojan_41
+  server: 35.78.196.235
   port: 443
-  client-fingerprint: chrome
   type: trojan
   password: 233463cb-ea76-30a6-ad6e-154b2c76fa31
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_United States_trojan_42
-  server: 103.136.185.27
-  port: 5499
-  client-fingerprint: chrome
+- name: AFOSNE_Japan_trojan_42
+  server: 35.74.79.234
+  port: 443
   type: trojan
   password: 233463cb-ea76-30a6-ad6e-154b2c76fa31
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_United States_trojan_43
+  server: 52.88.80.155
+  port: 443
+  type: trojan
+  password: 233463cb-ea76-30a6-ad6e-154b2c76fa31
+  sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_United States_trojan_44
+  server: 103.136.185.27
+  port: 5499
+  type: trojan
+  password: 233463cb-ea76-30a6-ad6e-154b2c76fa31
+  sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_United States_trojan_45
   server: 103.136.185.28
   port: 3504
-  client-fingerprint: chrome
   type: trojan
   password: 233463cb-ea76-30a6-ad6e-154b2c76fa31
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -1901,7 +1924,7 @@ proxies:
   server: fkvip101.qlgq.fun
   port: 11789
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: fkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1912,7 +1935,7 @@ proxies:
   server: fkvip101.qlgq.fun
   port: 21789
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: fkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1923,7 +1946,7 @@ proxies:
   server: fkvip101.qlgq.fun
   port: 31789
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: fkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1934,7 +1957,7 @@ proxies:
   server: fkvip101.qlgq.fun
   port: 41789
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: fkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1945,7 +1968,7 @@ proxies:
   server: fkvip101.qlgq.fun
   port: 51789
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: fkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1956,7 +1979,7 @@ proxies:
   server: sgvip101.qlgq.fun
   port: 11223
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1967,7 +1990,7 @@ proxies:
   server: sgvip101.qlgq.fun
   port: 21223
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1978,7 +2001,7 @@ proxies:
   server: sgvip101.qlgq.fun
   port: 31223
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1989,7 +2012,7 @@ proxies:
   server: sgvip101.qlgq.fun
   port: 41223
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2000,7 +2023,7 @@ proxies:
   server: sgvip101.qlgq.fun
   port: 51223
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2011,7 +2034,7 @@ proxies:
   server: jpvip102.qlgq.fun
   port: 61239
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: jpvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2022,7 +2045,7 @@ proxies:
   server: jpvip102.qlgq.fun
   port: 61238
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: jpvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2033,7 +2056,7 @@ proxies:
   server: jpvip102.qlgq.fun
   port: 61237
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: jpvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2044,7 +2067,7 @@ proxies:
   server: jpvip102.qlgq.fun
   port: 61236
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: jpvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2055,7 +2078,7 @@ proxies:
   server: jpvip102.qlgq.fun
   port: 61235
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: jpvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2066,7 +2089,7 @@ proxies:
   server: lavip101.qlgq.fun
   port: 11156
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: lavip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2077,7 +2100,7 @@ proxies:
   server: lavip101.qlgq.fun
   port: 21156
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: lavip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2088,7 +2111,7 @@ proxies:
   server: lavip101.qlgq.fun
   port: 31156
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: lavip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2099,7 +2122,7 @@ proxies:
   server: hkvip102.qlgq.fun
   port: 12249
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: hkvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2110,7 +2133,7 @@ proxies:
   server: hkvip102.qlgq.fun
   port: 22249
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: hkvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2121,7 +2144,7 @@ proxies:
   server: hkvip102.qlgq.fun
   port: 32249
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: hkvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2132,7 +2155,7 @@ proxies:
   server: hkvip102.qlgq.fun
   port: 42249
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: hkvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2143,7 +2166,7 @@ proxies:
   server: hkvip102.qlgq.fun
   port: 52249
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: hkvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2154,7 +2177,7 @@ proxies:
   server: hkvip103.qlgq.fun
   port: 11116
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: hkvip103.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2165,7 +2188,7 @@ proxies:
   server: hkvip103.qlgq.fun
   port: 21116
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: hkvip103.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2176,7 +2199,7 @@ proxies:
   server: hkvip103.qlgq.fun
   port: 31116
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: hkvip103.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2187,7 +2210,7 @@ proxies:
   server: hkvip103.qlgq.fun
   port: 41116
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: hkvip103.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2198,7 +2221,7 @@ proxies:
   server: hkvip103.qlgq.fun
   port: 51116
   type: trojan
-  password: 260f6fa3-1b23-32b3-8989-1fd967341135
+  password: 422b8cca-cffc-3067-9f53-cca6ace37537
   sni: hkvip103.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2824,9 +2847,12 @@ proxy-groups:
   - AFOSNE_China_ss_261
   - AFOSNE_China_ss_262
   - AFOSNE_None_vmess_31
-  - AFOSNE_United States_trojan_41
-  - AFOSNE_United States_trojan_42
+  - AFOSNE_United States_vmess_32
+  - AFOSNE_Japan_trojan_41
+  - AFOSNE_Japan_trojan_42
   - AFOSNE_United States_trojan_43
+  - AFOSNE_United States_trojan_44
+  - AFOSNE_United States_trojan_45
   - AFOSNE_Germany_trojan_51
   - AFOSNE_Germany_trojan_52
   - AFOSNE_Germany_trojan_53
@@ -3089,9 +3115,12 @@ proxy-groups:
   - AFOSNE_China_ss_261
   - AFOSNE_China_ss_262
   - AFOSNE_None_vmess_31
-  - AFOSNE_United States_trojan_41
-  - AFOSNE_United States_trojan_42
+  - AFOSNE_United States_vmess_32
+  - AFOSNE_Japan_trojan_41
+  - AFOSNE_Japan_trojan_42
   - AFOSNE_United States_trojan_43
+  - AFOSNE_United States_trojan_44
+  - AFOSNE_United States_trojan_45
   - AFOSNE_Germany_trojan_51
   - AFOSNE_Germany_trojan_52
   - AFOSNE_Germany_trojan_53
