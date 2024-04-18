@@ -1,16 +1,16 @@
 [www.ckcloud.xyz]
 email  crpwmlnny271@gmail.com
 node_n  55
-sub_info  27.25M  1G  2024-04-07 03:33:29+08:00  (剩余 996.8M -13 days, 21:00:18.894996)
+sub_info  27.25M  1G  2024-04-07 03:33:29+08:00  (剩余 996.8M -13 days, 19:59:16.757285)
 sub_url  https://www.jcbbsub.top:21600/api/v1/client/subscribe?token=1d4d3bf98bee0ed44e6bcf5a40384863
 time  2024-04-06 03:33:29.832092+08:00
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(ufpjewkn573@gmail.com): 本站已关闭注册
+更新订阅链接/续费续签失败  注册失败(ofvzgbe517@gmail.com): 本站已关闭注册
 
 [fastestcloud.xyz]
 email  jggdjjt515@gmail.com
 node_n  62
-sub_info  0B  1G  2024-04-20 05:32:36+08:00  (剩余 1G 22:59:30.204662)
+sub_info  0B  1G  2024-04-20 05:32:36+08:00  (剩余 1G 21:59:09.850277)
 sub_url  https://sbs.fastfly.life:21600/api/v1/client/subscribe?token=9544a8e20b8f747c5c070c3465c5f0db
 time  2024-04-19 05:32:37.199588+08:00
 
@@ -26,7 +26,7 @@ time  2024-04-11 11:32:40.631189+08:00
 email  ufpjewkn573@lista.cc
 last_checkin  2024-04-19 06:32:47.470203+08:00
 node_n  98
-sub_info  0B  1.127G  2024-04-20 06:32:47+08:00  (剩余 1.127G 23:59:51.429056)
+sub_info  0B  1.127G  2024-04-20 06:32:47+08:00  (剩余 1.127G 22:59:22.181574)
 sub_url  https://network.ayucloud.nl/link/uZq0s4T5Xlz6dFuI?clash=1
 time  2024-04-19 06:32:48.349089+08:00
 
@@ -35,7 +35,7 @@ email  vnhtgjs400@miteon.com
 invite_code  6O7q  9999
 last_checkin  2024-04-19 00:35:51.496170+08:00
 node_n  47
-sub_info  0B  10.31G  2024-04-19 22:32:47+08:00  (剩余 10.31G 16:00:22.197455)
+sub_info  0B  10.31G  2024-04-19 22:32:47+08:00  (剩余 10.31G 14:59:21.045963)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/DzgWsYZDL4nnG2i0?sub=3
 time  2024-04-18 22:32:48.023695+08:00
 
@@ -43,9 +43,10 @@ time  2024-04-18 22:32:48.023695+08:00
 email  ufpjewkn573@lista.cc
 last_checkin  2024-04-19 06:33:17.369587+08:00
 node_n  28
-sub_info  0B  888G  2024-04-20 06:33:17+08:00  (剩余 888G 23:59:54.702232)
+sub_info  0B  888G  2024-04-20 06:33:17+08:00  (剩余 888G 22:59:52.758575)
 sub_url  https://www.qlgq.top/link/752e01ab56d5471d?clash=1
 time  2024-04-19 06:33:18.201935+08:00
+保存base64/clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
 
 [nova.live]
 email  pwnlvdd479@miteon.com
@@ -54,6 +55,7 @@ node_n  3
 sub_info  21.34M  2.163G  永不过期  (剩余 2.142G)
 sub_url  https://new.gfw.news/link/wXsCQBylnzdfTRJ2?sub=3
 time  2024-04-10 02:34:17.148948+08:00
+保存base64/clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
 
 [www.duguletian.com]
 email  ktwcojjd257@snapmail.cc
@@ -65,16 +67,15 @@ time  2024-03-16 09:46:08.596402+08:00
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [mcecloud.com]
-email  ufpjewkn573@gmail.com
-last_checkin  2024-04-19 06:32:25.641567+08:00
+email  ofvzgbe517@gmail.com
+last_checkin  2024-04-19 07:33:29.374976+08:00
 node_n  2
-sub_info  0B  12M  2024-04-19 06:32:25+08:00  (剩余 12M -1 day, 23:59:53.139754)
-sub_url  https://st-sub.fly.dev/ssp/mce/link/5bBTuVHs2ZOZY6ri?sub=3
-time  2024-04-19 06:32:26.648708+08:00
-保存base64/clash订阅失败  'NoneType' object is not iterable
+sub_info  0B  23M  2024-04-19 07:33:29+08:00  (剩余 23M -1 day, 23:59:55.546574)
+sub_url  https://st-sub.fly.dev/ssp/mce/link/RGwgYrlUEgdwUQ80?sub=3
+time  2024-04-19 07:33:31.011381+08:00
 
 [cloud.speedypro.xyz name Speedypro]
-更新订阅链接/续费续签失败  注册失败(ufpjewkn573@gmail.com): HTTPSConnectionPool(host='cloud.speedypro.xyz%20name%20speedypro', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fd9fc8fa9b0>: Failed to resolve 'cloud.speedypro.xyz%20name%20speedypro' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(ofvzgbe517@gmail.com): HTTPSConnectionPool(host='cloud.speedypro.xyz%20name%20speedypro', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f9f85c1ef80>: Failed to resolve 'cloud.speedypro.xyz%20name%20speedypro' ([Errno -2] Name or service not known)"))
 
 [ikuuu.me name ikuuu]
-更新订阅链接/续费续签失败  注册失败(ufpjewkn573@gmail.com): HTTPSConnectionPool(host='ikuuu.me%20name%20ikuuu', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fd9fc8fbdc0>: Failed to resolve 'ikuuu.me%20name%20ikuuu' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(ofvzgbe517@gmail.com): HTTPSConnectionPool(host='ikuuu.me%20name%20ikuuu', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f9f85c1d060>: Failed to resolve 'ikuuu.me%20name%20ikuuu' ([Errno -2] Name or service not known)"))
