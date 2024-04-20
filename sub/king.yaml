@@ -1195,41 +1195,34 @@ proxies:
 - name: AFOSNE_China_vmess_21
   server: n00007.bzdqsmzngpyyng.sbs
   port: 62690
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk05.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_22
   server: n00007.bzdqsmzngpyyng.sbs
   port: 62690
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk05.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_23
   server: n00007.bzdqsmzngpyyng.sbs
   port: 20356
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: jp01.ckcloud.info
@@ -1238,7 +1231,6 @@ proxies:
 - name: AFOSNE_China_trojan_24
   server: n00003.bzdqsmzngpyyng.sbs
   port: 20356
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: jp01.ckcloud.info
@@ -1247,7 +1239,6 @@ proxies:
 - name: AFOSNE_China_trojan_25
   server: n00005.bzdqsmzngpyyng.sbs
   port: 20356
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: jp01.ckcloud.info
@@ -1256,58 +1247,48 @@ proxies:
 - name: AFOSNE_China_vmess_26
   server: n00007.bzdqsmzngpyyng.sbs
   port: 57230
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: jp01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_27
   server: n00003.bzdqsmzngpyyng.sbs
   port: 57230
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: jp01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_28
   server: n00005.bzdqsmzngpyyng.sbs
   port: 57230
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: jp01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_29
   server: n00007.bzdqsmzngpyyng.sbs
   port: 37581
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: jp03.ckcloud.info
@@ -1316,7 +1297,6 @@ proxies:
 - name: AFOSNE_China_trojan_210
   server: n00003.bzdqsmzngpyyng.sbs
   port: 37581
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: jp03.ckcloud.info
@@ -1325,7 +1305,6 @@ proxies:
 - name: AFOSNE_China_trojan_211
   server: n00005.bzdqsmzngpyyng.sbs
   port: 37581
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: jp03.ckcloud.info
@@ -1334,58 +1313,48 @@ proxies:
 - name: AFOSNE_China_vmess_212
   server: n00007.bzdqsmzngpyyng.sbs
   port: 16123
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: jp03.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_213
   server: n00003.bzdqsmzngpyyng.sbs
   port: 16123
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: jp03.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_214
   server: n00005.bzdqsmzngpyyng.sbs
   port: 16123
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: jp03.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_215
   server: n00007.bzdqsmzngpyyng.sbs
   port: 15976
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: hk02.ckcloud.info
@@ -1394,7 +1363,6 @@ proxies:
 - name: AFOSNE_China_trojan_216
   server: n00003.bzdqsmzngpyyng.sbs
   port: 15976
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: hk02.ckcloud.info
@@ -1403,7 +1371,6 @@ proxies:
 - name: AFOSNE_China_trojan_217
   server: n00005.bzdqsmzngpyyng.sbs
   port: 15976
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: hk02.ckcloud.info
@@ -1412,58 +1379,48 @@ proxies:
 - name: AFOSNE_China_vmess_218
   server: n00007.bzdqsmzngpyyng.sbs
   port: 27236
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk02.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_219
   server: n00003.bzdqsmzngpyyng.sbs
   port: 27236
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk02.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_220
   server: n00005.bzdqsmzngpyyng.sbs
   port: 27236
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk02.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_221
   server: n00007.bzdqsmzngpyyng.sbs
   port: 14490
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: hk04.ckcloud.info
@@ -1472,7 +1429,6 @@ proxies:
 - name: AFOSNE_China_trojan_222
   server: n00003.bzdqsmzngpyyng.sbs
   port: 14490
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: hk04.ckcloud.info
@@ -1481,7 +1437,6 @@ proxies:
 - name: AFOSNE_China_trojan_223
   server: n00005.bzdqsmzngpyyng.sbs
   port: 14490
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: hk04.ckcloud.info
@@ -1490,58 +1445,48 @@ proxies:
 - name: AFOSNE_China_vmess_224
   server: n00007.bzdqsmzngpyyng.sbs
   port: 34090
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk04.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_225
   server: n00003.bzdqsmzngpyyng.sbs
   port: 34090
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk04.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_226
   server: n00005.bzdqsmzngpyyng.sbs
   port: 34090
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk04.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_227
   server: n00007.bzdqsmzngpyyng.sbs
   port: 46912
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: hk03.ckcloud.info
@@ -1550,7 +1495,6 @@ proxies:
 - name: AFOSNE_China_trojan_228
   server: n00003.bzdqsmzngpyyng.sbs
   port: 46912
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: hk03.ckcloud.info
@@ -1559,7 +1503,6 @@ proxies:
 - name: AFOSNE_China_trojan_229
   server: n00005.bzdqsmzngpyyng.sbs
   port: 46912
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: hk03.ckcloud.info
@@ -1568,7 +1511,6 @@ proxies:
 - name: AFOSNE_China_trojan_230
   server: n00007.bzdqsmzngpyyng.sbs
   port: 22704
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: hk05.ckcloud.info
@@ -1577,7 +1519,6 @@ proxies:
 - name: AFOSNE_China_trojan_231
   server: n00003.bzdqsmzngpyyng.sbs
   port: 22704
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: hk05.ckcloud.info
@@ -1586,7 +1527,6 @@ proxies:
 - name: AFOSNE_China_trojan_232
   server: n00005.bzdqsmzngpyyng.sbs
   port: 22704
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: hk05.ckcloud.info
@@ -1595,58 +1535,48 @@ proxies:
 - name: AFOSNE_China_vmess_233
   server: n00007.bzdqsmzngpyyng.sbs
   port: 62690
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk05.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_234
   server: n00003.bzdqsmzngpyyng.sbs
   port: 62690
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk05.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_235
   server: n00005.bzdqsmzngpyyng.sbs
   port: 62690
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk05.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_236
   server: n00007.bzdqsmzngpyyng.sbs
   port: 25074
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: tw01.ckcloud.info
@@ -1655,7 +1585,6 @@ proxies:
 - name: AFOSNE_China_trojan_237
   server: n00003.bzdqsmzngpyyng.sbs
   port: 25074
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: tw01.ckcloud.info
@@ -1664,7 +1593,6 @@ proxies:
 - name: AFOSNE_China_trojan_238
   server: n00005.bzdqsmzngpyyng.sbs
   port: 25074
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: tw01.ckcloud.info
@@ -1673,58 +1601,48 @@ proxies:
 - name: AFOSNE_China_vmess_239
   server: n00007.bzdqsmzngpyyng.sbs
   port: 29935
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: tw01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_240
   server: n00003.bzdqsmzngpyyng.sbs
   port: 29935
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: tw01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_241
   server: n00005.bzdqsmzngpyyng.sbs
   port: 29935
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: tw01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_242
   server: n00007.bzdqsmzngpyyng.sbs
   port: 35672
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: tw02.ckcloud.info
@@ -1733,7 +1651,6 @@ proxies:
 - name: AFOSNE_China_trojan_243
   server: n00003.bzdqsmzngpyyng.sbs
   port: 35672
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: tw02.ckcloud.info
@@ -1742,7 +1659,6 @@ proxies:
 - name: AFOSNE_China_trojan_244
   server: n00005.bzdqsmzngpyyng.sbs
   port: 35672
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: tw02.ckcloud.info
@@ -1751,58 +1667,48 @@ proxies:
 - name: AFOSNE_China_vmess_245
   server: n00007.bzdqsmzngpyyng.sbs
   port: 38120
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: tw02.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_246
   server: n00003.bzdqsmzngpyyng.sbs
   port: 38120
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: tw02.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_247
   server: n00005.bzdqsmzngpyyng.sbs
   port: 38120
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: tw02.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_248
   server: n00007.bzdqsmzngpyyng.sbs
   port: 21526
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: sg02.ckcloud.info
@@ -1811,7 +1717,6 @@ proxies:
 - name: AFOSNE_China_trojan_249
   server: n00003.bzdqsmzngpyyng.sbs
   port: 21526
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: sg02.ckcloud.info
@@ -1820,7 +1725,6 @@ proxies:
 - name: AFOSNE_China_trojan_250
   server: n00005.bzdqsmzngpyyng.sbs
   port: 21526
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: sg02.ckcloud.info
@@ -1829,58 +1733,48 @@ proxies:
 - name: AFOSNE_China_vmess_251
   server: n00007.bzdqsmzngpyyng.sbs
   port: 33957
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: sg02.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_252
   server: n00003.bzdqsmzngpyyng.sbs
   port: 33957
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: sg02.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_253
   server: n00005.bzdqsmzngpyyng.sbs
   port: 33957
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: sg02.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_254
   server: n00007.bzdqsmzngpyyng.sbs
   port: 40276
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: sg01.ckcloud.info
@@ -1889,7 +1783,6 @@ proxies:
 - name: AFOSNE_China_trojan_255
   server: n00003.bzdqsmzngpyyng.sbs
   port: 40276
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: sg01.ckcloud.info
@@ -1898,7 +1791,6 @@ proxies:
 - name: AFOSNE_China_trojan_256
   server: n00005.bzdqsmzngpyyng.sbs
   port: 40276
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: sg01.ckcloud.info
@@ -1907,58 +1799,48 @@ proxies:
 - name: AFOSNE_China_vmess_257
   server: n00007.bzdqsmzngpyyng.sbs
   port: 43445
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: sg01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_258
   server: n00003.bzdqsmzngpyyng.sbs
   port: 43445
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: sg01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_259
   server: n00005.bzdqsmzngpyyng.sbs
   port: 43445
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: sg01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_260
   server: n00007.bzdqsmzngpyyng.sbs
   port: 25881
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: my01.ckcloud.info
@@ -1967,7 +1849,6 @@ proxies:
 - name: AFOSNE_China_trojan_261
   server: n00003.bzdqsmzngpyyng.sbs
   port: 25881
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: my01.ckcloud.info
@@ -1976,7 +1857,6 @@ proxies:
 - name: AFOSNE_China_trojan_262
   server: n00005.bzdqsmzngpyyng.sbs
   port: 25881
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: my01.ckcloud.info
@@ -1985,58 +1865,48 @@ proxies:
 - name: AFOSNE_China_vmess_263
   server: n00007.bzdqsmzngpyyng.sbs
   port: 55561
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: my01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_264
   server: n00003.bzdqsmzngpyyng.sbs
   port: 55561
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: my01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_265
   server: n00005.bzdqsmzngpyyng.sbs
   port: 55561
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: my01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_266
   server: n00007.bzdqsmzngpyyng.sbs
   port: 10598
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: us2.ckcloud.info
@@ -2045,7 +1915,6 @@ proxies:
 - name: AFOSNE_China_trojan_267
   server: n00003.bzdqsmzngpyyng.sbs
   port: 10598
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: us2.ckcloud.info
@@ -2054,7 +1923,6 @@ proxies:
 - name: AFOSNE_China_trojan_268
   server: n00005.bzdqsmzngpyyng.sbs
   port: 10598
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: us2.ckcloud.info
@@ -2063,58 +1931,48 @@ proxies:
 - name: AFOSNE_China_vmess_269
   server: n00007.bzdqsmzngpyyng.sbs
   port: 10682
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: us2.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_270
   server: n00003.bzdqsmzngpyyng.sbs
   port: 10682
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: us2.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_271
   server: n00005.bzdqsmzngpyyng.sbs
   port: 10682
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: us2.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_272
   server: n00007.bzdqsmzngpyyng.sbs
   port: 10519
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: us03.ckcloud.info
@@ -2123,7 +1981,6 @@ proxies:
 - name: AFOSNE_China_trojan_273
   server: n00003.bzdqsmzngpyyng.sbs
   port: 10519
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: us03.ckcloud.info
@@ -2132,7 +1989,6 @@ proxies:
 - name: AFOSNE_China_trojan_274
   server: n00005.bzdqsmzngpyyng.sbs
   port: 10519
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: us03.ckcloud.info
@@ -2141,58 +1997,48 @@ proxies:
 - name: AFOSNE_China_vmess_275
   server: n00007.bzdqsmzngpyyng.sbs
   port: 46675
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: us03.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_276
   server: n00003.bzdqsmzngpyyng.sbs
   port: 46675
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: us03.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_277
   server: n00005.bzdqsmzngpyyng.sbs
   port: 46675
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: us03.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_278
   server: n00007.bzdqsmzngpyyng.sbs
   port: 28625
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: us04.ckcloud.info
@@ -2201,7 +2047,6 @@ proxies:
 - name: AFOSNE_China_trojan_279
   server: n00003.bzdqsmzngpyyng.sbs
   port: 28625
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: us04.ckcloud.info
@@ -2210,7 +2055,6 @@ proxies:
 - name: AFOSNE_China_trojan_280
   server: n00005.bzdqsmzngpyyng.sbs
   port: 28625
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: us04.ckcloud.info
@@ -2219,58 +2063,48 @@ proxies:
 - name: AFOSNE_China_vmess_281
   server: n00007.bzdqsmzngpyyng.sbs
   port: 46121
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: us04.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_282
   server: n00003.bzdqsmzngpyyng.sbs
   port: 46121
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: us04.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_283
   server: n00005.bzdqsmzngpyyng.sbs
   port: 46121
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: us04.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_284
   server: n00007.bzdqsmzngpyyng.sbs
   port: 54295
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: vn01.ckcloud.info
@@ -2279,7 +2113,6 @@ proxies:
 - name: AFOSNE_China_trojan_285
   server: n00003.bzdqsmzngpyyng.sbs
   port: 54295
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: vn01.ckcloud.info
@@ -2288,7 +2121,6 @@ proxies:
 - name: AFOSNE_China_trojan_286
   server: n00005.bzdqsmzngpyyng.sbs
   port: 54295
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: vn01.ckcloud.info
@@ -2297,58 +2129,48 @@ proxies:
 - name: AFOSNE_China_vmess_287
   server: n00007.bzdqsmzngpyyng.sbs
   port: 39609
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: vn01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_288
   server: n00003.bzdqsmzngpyyng.sbs
   port: 39609
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: vn01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_289
   server: n00005.bzdqsmzngpyyng.sbs
   port: 39609
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: vn01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_290
   server: n00007.bzdqsmzngpyyng.sbs
   port: 45852
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: id01.ckcloud.info
@@ -2357,7 +2179,6 @@ proxies:
 - name: AFOSNE_China_trojan_291
   server: n00003.bzdqsmzngpyyng.sbs
   port: 45852
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: id01.ckcloud.info
@@ -2366,7 +2187,6 @@ proxies:
 - name: AFOSNE_China_trojan_292
   server: n00005.bzdqsmzngpyyng.sbs
   port: 45852
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: id01.ckcloud.info
@@ -2375,58 +2195,48 @@ proxies:
 - name: AFOSNE_China_vmess_293
   server: n00007.bzdqsmzngpyyng.sbs
   port: 44231
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: id01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_294
   server: n00003.bzdqsmzngpyyng.sbs
   port: 44231
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: id01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_295
   server: n00005.bzdqsmzngpyyng.sbs
   port: 44231
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: id01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_296
   server: n00007.bzdqsmzngpyyng.sbs
   port: 63640
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: aus01.ckcloud.info
@@ -2435,7 +2245,6 @@ proxies:
 - name: AFOSNE_China_trojan_297
   server: n00003.bzdqsmzngpyyng.sbs
   port: 63640
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: aus01.ckcloud.info
@@ -2444,7 +2253,6 @@ proxies:
 - name: AFOSNE_China_trojan_298
   server: n00005.bzdqsmzngpyyng.sbs
   port: 63640
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: aus01.ckcloud.info
@@ -2453,58 +2261,48 @@ proxies:
 - name: AFOSNE_China_vmess_299
   server: n00007.bzdqsmzngpyyng.sbs
   port: 12838
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: aus01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_2100
   server: n00003.bzdqsmzngpyyng.sbs
   port: 12838
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: aus01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_2101
   server: n00005.bzdqsmzngpyyng.sbs
   port: 12838
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: aus01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_2102
   server: n00007.bzdqsmzngpyyng.sbs
   port: 15762
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: tur01.ckcloud.info
@@ -2513,7 +2311,6 @@ proxies:
 - name: AFOSNE_China_trojan_2103
   server: n00003.bzdqsmzngpyyng.sbs
   port: 15762
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: tur01.ckcloud.info
@@ -2522,7 +2319,6 @@ proxies:
 - name: AFOSNE_China_trojan_2104
   server: n00005.bzdqsmzngpyyng.sbs
   port: 15762
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: tur01.ckcloud.info
@@ -2531,58 +2327,48 @@ proxies:
 - name: AFOSNE_China_vmess_2105
   server: n00007.bzdqsmzngpyyng.sbs
   port: 29970
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: tur01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_2106
   server: n00003.bzdqsmzngpyyng.sbs
   port: 29970
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: tur01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_2107
   server: n00005.bzdqsmzngpyyng.sbs
   port: 29970
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: tur01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_2108
   server: n00007.bzdqsmzngpyyng.sbs
   port: 20943
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: de01.ckcloud.info
@@ -2591,7 +2377,6 @@ proxies:
 - name: AFOSNE_China_trojan_2109
   server: n00003.bzdqsmzngpyyng.sbs
   port: 20943
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: de01.ckcloud.info
@@ -2600,7 +2385,6 @@ proxies:
 - name: AFOSNE_China_trojan_2110
   server: n00005.bzdqsmzngpyyng.sbs
   port: 20943
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: de01.ckcloud.info
@@ -2609,58 +2393,48 @@ proxies:
 - name: AFOSNE_China_vmess_2111
   server: n00007.bzdqsmzngpyyng.sbs
   port: 26503
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: de01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_2112
   server: n00003.bzdqsmzngpyyng.sbs
   port: 26503
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: de01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_2113
   server: n00005.bzdqsmzngpyyng.sbs
   port: 26503
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: de01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_2114
   server: n00007.bzdqsmzngpyyng.sbs
   port: 39788
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: uk01.ckcloud.info
@@ -2669,7 +2443,6 @@ proxies:
 - name: AFOSNE_China_trojan_2115
   server: n00003.bzdqsmzngpyyng.sbs
   port: 39788
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: uk01.ckcloud.info
@@ -2678,7 +2451,6 @@ proxies:
 - name: AFOSNE_China_trojan_2116
   server: n00005.bzdqsmzngpyyng.sbs
   port: 39788
-  client-fingerprint: chrome
   type: trojan
   password: c727965d-3f89-4582-a954-123fd0cf4329
   sni: uk01.ckcloud.info
@@ -2687,59 +2459,60 @@ proxies:
 - name: AFOSNE_China_vmess_2117
   server: n00007.bzdqsmzngpyyng.sbs
   port: 56394
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: uk01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_2118
   server: n00003.bzdqsmzngpyyng.sbs
   port: 56394
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: uk01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_2119
   server: n00005.bzdqsmzngpyyng.sbs
   port: 56394
-  client-fingerprint: chrome
   type: vmess
   uuid: c727965d-3f89-4582-a954-123fd0cf4329
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: uk01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
-- name: AFOSNE_None_vmess_31
+- name: AFOSNE_United States_vmess_31
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: c04f7f4f-abf3-3a2f-8f89-4fc95675eb75
+  uuid: 182abdd4-d25b-315b-ac7d-103b69191d35
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_None_vmess_32
+  server: mcecloud.net
+  port: 10086
+  type: vmess
+  uuid: 182abdd4-d25b-315b-ac7d-103b69191d35
   alterId: 0
   cipher: auto
   tls: false
@@ -3752,7 +3525,8 @@ proxy-groups:
   - AFOSNE_China_vmess_2117
   - AFOSNE_China_vmess_2118
   - AFOSNE_China_vmess_2119
-  - AFOSNE_None_vmess_31
+  - AFOSNE_United States_vmess_31
+  - AFOSNE_None_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
@@ -4074,7 +3848,8 @@ proxy-groups:
   - AFOSNE_China_vmess_2117
   - AFOSNE_China_vmess_2118
   - AFOSNE_China_vmess_2119
-  - AFOSNE_None_vmess_31
+  - AFOSNE_United States_vmess_31
+  - AFOSNE_None_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
