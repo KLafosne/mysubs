@@ -2518,28 +2518,41 @@ proxies:
   tls: false
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_United States_trojan_41
-  server: 52.88.80.155
+- name: AFOSNE_Japan_trojan_41
+  server: 35.78.196.235
   port: 443
-  client-fingerprint: chrome
   type: trojan
   password: d086a826-5fbd-3ccd-b181-ff76e55768fb
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_United States_trojan_42
-  server: 103.136.185.27
-  port: 5499
-  client-fingerprint: chrome
+- name: AFOSNE_Japan_trojan_42
+  server: 35.74.79.234
+  port: 443
   type: trojan
   password: d086a826-5fbd-3ccd-b181-ff76e55768fb
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_United States_trojan_43
+  server: 52.88.80.155
+  port: 443
+  type: trojan
+  password: d086a826-5fbd-3ccd-b181-ff76e55768fb
+  sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_United States_trojan_44
+  server: 103.136.185.27
+  port: 5499
+  type: trojan
+  password: d086a826-5fbd-3ccd-b181-ff76e55768fb
+  sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
+  skip-cert-verify: true
+  udp: true
+- name: AFOSNE_United States_trojan_45
   server: 103.136.185.28
   port: 3504
-  client-fingerprint: chrome
   type: trojan
   password: d086a826-5fbd-3ccd-b181-ff76e55768fb
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -2549,7 +2562,7 @@ proxies:
   server: fkvip101.qlgq.fun
   port: 11789
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: fkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2560,7 +2573,7 @@ proxies:
   server: fkvip101.qlgq.fun
   port: 21789
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: fkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2571,7 +2584,7 @@ proxies:
   server: fkvip101.qlgq.fun
   port: 31789
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: fkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2582,7 +2595,7 @@ proxies:
   server: fkvip101.qlgq.fun
   port: 41789
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: fkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2593,7 +2606,7 @@ proxies:
   server: fkvip101.qlgq.fun
   port: 51789
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: fkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2604,7 +2617,7 @@ proxies:
   server: sgvip101.qlgq.fun
   port: 11223
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2615,7 +2628,7 @@ proxies:
   server: sgvip101.qlgq.fun
   port: 21223
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2626,7 +2639,7 @@ proxies:
   server: sgvip101.qlgq.fun
   port: 31223
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2637,7 +2650,7 @@ proxies:
   server: sgvip101.qlgq.fun
   port: 41223
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2648,7 +2661,7 @@ proxies:
   server: sgvip101.qlgq.fun
   port: 51223
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2659,7 +2672,7 @@ proxies:
   server: jpvip102.qlgq.fun
   port: 61239
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: jpvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2670,7 +2683,7 @@ proxies:
   server: jpvip102.qlgq.fun
   port: 61238
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: jpvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2681,7 +2694,7 @@ proxies:
   server: jpvip102.qlgq.fun
   port: 61237
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: jpvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2692,7 +2705,7 @@ proxies:
   server: jpvip102.qlgq.fun
   port: 61236
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: jpvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2703,7 +2716,7 @@ proxies:
   server: jpvip102.qlgq.fun
   port: 61235
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: jpvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2714,7 +2727,7 @@ proxies:
   server: lavip101.qlgq.fun
   port: 11156
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: lavip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2725,7 +2738,7 @@ proxies:
   server: lavip101.qlgq.fun
   port: 21156
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: lavip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2736,7 +2749,7 @@ proxies:
   server: lavip101.qlgq.fun
   port: 31156
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: lavip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2747,7 +2760,7 @@ proxies:
   server: hkvip102.qlgq.fun
   port: 12249
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: hkvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2758,7 +2771,7 @@ proxies:
   server: hkvip102.qlgq.fun
   port: 22249
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: hkvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2769,7 +2782,7 @@ proxies:
   server: hkvip102.qlgq.fun
   port: 32249
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: hkvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2780,7 +2793,7 @@ proxies:
   server: hkvip102.qlgq.fun
   port: 42249
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: hkvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2791,7 +2804,7 @@ proxies:
   server: hkvip102.qlgq.fun
   port: 52249
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: hkvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2802,7 +2815,7 @@ proxies:
   server: hkvip103.qlgq.fun
   port: 11116
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: hkvip103.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2813,7 +2826,7 @@ proxies:
   server: hkvip103.qlgq.fun
   port: 21116
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: hkvip103.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2824,7 +2837,7 @@ proxies:
   server: hkvip103.qlgq.fun
   port: 31116
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: hkvip103.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2835,7 +2848,7 @@ proxies:
   server: hkvip103.qlgq.fun
   port: 41116
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: hkvip103.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2846,7 +2859,7 @@ proxies:
   server: hkvip103.qlgq.fun
   port: 51116
   type: trojan
-  password: cdacfd32-4684-3a4a-9bf7-3692744467c4
+  password: fbaaca71-536f-3a3d-a9af-4522b59b2dab
   sni: hkvip103.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -3530,9 +3543,11 @@ proxy-groups:
   - AFOSNE_China_vmess_2119
   - AFOSNE_United States_vmess_31
   - AFOSNE_United States_vmess_32
-  - AFOSNE_United States_trojan_41
-  - AFOSNE_United States_trojan_42
+  - AFOSNE_Japan_trojan_41
+  - AFOSNE_Japan_trojan_42
   - AFOSNE_United States_trojan_43
+  - AFOSNE_United States_trojan_44
+  - AFOSNE_United States_trojan_45
   - AFOSNE_Germany_trojan_51
   - AFOSNE_Germany_trojan_52
   - AFOSNE_Germany_trojan_53
@@ -3853,9 +3868,11 @@ proxy-groups:
   - AFOSNE_China_vmess_2119
   - AFOSNE_United States_vmess_31
   - AFOSNE_United States_vmess_32
-  - AFOSNE_United States_trojan_41
-  - AFOSNE_United States_trojan_42
+  - AFOSNE_Japan_trojan_41
+  - AFOSNE_Japan_trojan_42
   - AFOSNE_United States_trojan_43
+  - AFOSNE_United States_trojan_44
+  - AFOSNE_United States_trojan_45
   - AFOSNE_Germany_trojan_51
   - AFOSNE_Germany_trojan_52
   - AFOSNE_Germany_trojan_53
