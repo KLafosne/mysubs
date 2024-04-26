@@ -2498,11 +2498,11 @@ proxies:
   grpc-opts:
     grpc-service-name: flynwn
   udp: true
-- name: AFOSNE_United States_vmess_31
+- name: AFOSNE_None_vmess_31
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: 95573598-6b55-34d8-a0bc-1e4cf7c61fe3
+  uuid: 4622e0d7-0409-391c-9ff9-06796f96d731
   alterId: 0
   cipher: auto
   tls: false
@@ -2512,7 +2512,7 @@ proxies:
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: 95573598-6b55-34d8-a0bc-1e4cf7c61fe3
+  uuid: 4622e0d7-0409-391c-9ff9-06796f96d731
   alterId: 0
   cipher: auto
   tls: false
@@ -3525,7 +3525,7 @@ proxy-groups:
   - AFOSNE_China_vmess_2117
   - AFOSNE_China_vmess_2118
   - AFOSNE_China_vmess_2119
-  - AFOSNE_United States_vmess_31
+  - AFOSNE_None_vmess_31
   - AFOSNE_United States_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
@@ -3848,7 +3848,7 @@ proxy-groups:
   - AFOSNE_China_vmess_2117
   - AFOSNE_China_vmess_2118
   - AFOSNE_China_vmess_2119
-  - AFOSNE_United States_vmess_31
+  - AFOSNE_None_vmess_31
   - AFOSNE_United States_vmess_32
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
