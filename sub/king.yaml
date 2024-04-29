@@ -2698,7 +2698,7 @@ proxies:
   server: mcecloud.net
   port: 10086
   type: vmess
-  uuid: 29160956-12d1-3605-9581-4968f989683a
+  uuid: 7b72bf66-a820-3b55-acfc-4f06c4e8220e
   alterId: 0
   cipher: auto
   tls: false
@@ -2707,6 +2707,7 @@ proxies:
 - name: AFOSNE_United States_trojan_41
   server: 52.88.80.155
   port: 443
+  client-fingerprint: chrome
   type: trojan
   password: d086a826-5fbd-3ccd-b181-ff76e55768fb
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -2715,6 +2716,7 @@ proxies:
 - name: AFOSNE_United States_trojan_42
   server: 103.136.185.27
   port: 5499
+  client-fingerprint: chrome
   type: trojan
   password: d086a826-5fbd-3ccd-b181-ff76e55768fb
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -2723,6 +2725,7 @@ proxies:
 - name: AFOSNE_United States_trojan_43
   server: 103.136.185.28
   port: 3504
+  client-fingerprint: chrome
   type: trojan
   password: d086a826-5fbd-3ccd-b181-ff76e55768fb
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
