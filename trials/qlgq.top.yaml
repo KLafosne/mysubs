@@ -39,34 +39,34 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 德国 法兰克福101 - 墙了个墙, server: fkvip101.qlgq.fun, port: 11789, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: fkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
-- {name: 德国 法兰克福102 - 墙了个墙, server: fkvip101.qlgq.fun, port: 21789, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: fkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
-- {name: 德国 法兰克福103 - 墙了个墙, server: fkvip101.qlgq.fun, port: 31789, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: fkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
-- {name: 德国 法兰克福104 - 墙了个墙, server: fkvip101.qlgq.fun, port: 41789, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: fkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
-- {name: 德国 法兰克福105 - 墙了个墙, server: fkvip101.qlgq.fun, port: 51789, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: fkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
-- {name: 新加坡 101 - 墙了个墙, server: sgvip101.qlgq.fun, port: 11223, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 新加坡 102 - 墙了个墙, server: sgvip101.qlgq.fun, port: 21223, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 新加坡 103 - 墙了个墙, server: sgvip101.qlgq.fun, port: 31223, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 新加坡 104 - 墙了个墙, server: sgvip101.qlgq.fun, port: 41223, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 新加坡 105 - 墙了个墙, server: sgvip101.qlgq.fun, port: 51223, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
-- {name: 日本 101 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61239, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
-- {name: 日本 102 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61238, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
-- {name: 日本 103 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61237, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
-- {name: 日本 104 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61236, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
-- {name: 日本 105 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61235, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
-- {name: 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 香港 101 - 墙了个墙, server: hkvip102.qlgq.fun, port: 12249, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: hkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
-- {name: 香港 102 - 墙了个墙, server: hkvip102.qlgq.fun, port: 22249, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: hkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
-- {name: 香港 103 - 墙了个墙, server: hkvip102.qlgq.fun, port: 32249, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: hkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
-- {name: 香港 104 - 墙了个墙, server: hkvip102.qlgq.fun, port: 42249, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: hkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
-- {name: 香港 105 - 墙了个墙, server: hkvip102.qlgq.fun, port: 52249, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: hkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
-- {name: 香港 106 - 墙了个墙, server: hkvip103.qlgq.fun, port: 11116, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: hkvip103.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
-- {name: 香港 107 - 墙了个墙, server: hkvip103.qlgq.fun, port: 21116, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: hkvip103.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
-- {name: 香港 108 - 墙了个墙, server: hkvip103.qlgq.fun, port: 31116, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: hkvip103.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
-- {name: 香港 109 - 墙了个墙, server: hkvip103.qlgq.fun, port: 41116, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: hkvip103.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
-- {name: 香港 110 - 墙了个墙, server: hkvip103.qlgq.fun, port: 51116, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: hkvip103.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
+- {name: 🇩🇪 德国 法兰克福101 - 墙了个墙, server: fkvip101.qlgq.fun, port: 11789, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: fkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇩🇪 德国 法兰克福102 - 墙了个墙, server: fkvip101.qlgq.fun, port: 21789, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: fkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇩🇪 德国 法兰克福103 - 墙了个墙, server: fkvip101.qlgq.fun, port: 31789, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: fkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇩🇪 德国 法兰克福104 - 墙了个墙, server: fkvip101.qlgq.fun, port: 41789, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: fkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇩🇪 德国 法兰克福105 - 墙了个墙, server: fkvip101.qlgq.fun, port: 51789, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: fkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇸🇬 新加坡 101 - 墙了个墙, server: sgvip101.qlgq.fun, port: 11223, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 102 - 墙了个墙, server: sgvip101.qlgq.fun, port: 21223, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 103 - 墙了个墙, server: sgvip101.qlgq.fun, port: 31223, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 104 - 墙了个墙, server: sgvip101.qlgq.fun, port: 41223, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 105 - 墙了个墙, server: sgvip101.qlgq.fun, port: 51223, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇯🇵 日本 101 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61239, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
+- {name: 🇯🇵 日本 102 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61238, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
+- {name: 🇯🇵 日本 103 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61237, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
+- {name: 🇯🇵 日本 104 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61236, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
+- {name: 🇯🇵 日本 105 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61235, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇭🇰 香港 101 - 墙了个墙, server: hkvip102.qlgq.fun, port: 12249, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: hkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
+- {name: 🇭🇰 香港 102 - 墙了个墙, server: hkvip102.qlgq.fun, port: 22249, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: hkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
+- {name: 🇭🇰 香港 103 - 墙了个墙, server: hkvip102.qlgq.fun, port: 32249, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: hkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
+- {name: 🇭🇰 香港 104 - 墙了个墙, server: hkvip102.qlgq.fun, port: 42249, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: hkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
+- {name: 🇭🇰 香港 105 - 墙了个墙, server: hkvip102.qlgq.fun, port: 52249, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: hkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
+- {name: 🇭🇰 香港 106 - 墙了个墙, server: hkvip103.qlgq.fun, port: 11116, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: hkvip103.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
+- {name: 🇭🇰 香港 107 - 墙了个墙, server: hkvip103.qlgq.fun, port: 21116, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: hkvip103.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
+- {name: 🇭🇰 香港 108 - 墙了个墙, server: hkvip103.qlgq.fun, port: 31116, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: hkvip103.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
+- {name: 🇭🇰 香港 109 - 墙了个墙, server: hkvip103.qlgq.fun, port: 41116, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: hkvip103.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
+- {name: 🇭🇰 香港 110 - 墙了个墙, server: hkvip103.qlgq.fun, port: 51116, type: trojan, password: 13ca0fb1-b0c6-316d-89e2-64c4912bf8c3, sni: hkvip103.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
 rules:
 - DOMAIN-SUFFIX,local,🎯 全球直连
 - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
@@ -152,7 +152,6 @@ rules:
 - DOMAIN-SUFFIX,wunderlist.com,Ⓜ️ 微软服务
 - DOMAIN-SUFFIX,yammer.com,Ⓜ️ 微软服务
 - DOMAIN-SUFFIX,yammerusercontent.com,Ⓜ️ 微软服务
-- DOMAIN-SUFFIX,bingapis.com,Ⓜ️ 微软服务
 - DOMAIN,app.adjust.com,🎯 全球直连
 - DOMAIN,bdtj.tagtic.cn,🎯 全球直连
 - DOMAIN,log.mmstat.com,🎯 全球直连
@@ -8413,6 +8412,37 @@ rules:
 - DOMAIN-SUFFIX,mindmanager.cn,🛑 全球拦截
 - DOMAIN-SUFFIX,photozoomchina.com,🛑 全球拦截
 - DOMAIN-SUFFIX,xitongqingli.com,🛑 全球拦截
+- DOMAIN-SUFFIX,netflix.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflix.net,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflxext.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflximg.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflximg.net,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflxso.net,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflxvideo.net,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest0.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest1.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest2.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest3.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest4.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest5.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest6.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest7.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest8.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflixdnstest9.com,🎥 NETFLIX
+- DOMAIN-KEYWORD,dualstack.apiproxy-,🎥 NETFLIX
+- DOMAIN-KEYWORD,dualstack.ichnaea-web-,🎥 NETFLIX
+- IP-CIDR,23.246.0.0/18,🎥 NETFLIX,no-resolve
+- IP-CIDR,37.77.184.0/21,🎥 NETFLIX,no-resolve
+- IP-CIDR,45.57.0.0/17,🎥 NETFLIX,no-resolve
+- IP-CIDR,64.120.128.0/17,🎥 NETFLIX,no-resolve
+- IP-CIDR,66.197.128.0/17,🎥 NETFLIX,no-resolve
+- IP-CIDR,108.175.32.0/20,🎥 NETFLIX,no-resolve
+- IP-CIDR,192.173.64.0/18,🎥 NETFLIX,no-resolve
+- IP-CIDR,198.38.96.0/19,🎥 NETFLIX,no-resolve
+- IP-CIDR,198.45.48.0/20,🎥 NETFLIX,no-resolve
+- IP-CIDR,34.210.42.111/32,🎥 NETFLIX,no-resolve
+- IP-CIDR,52.89.124.203/32,🎥 NETFLIX,no-resolve
+- IP-CIDR,54.148.37.5/32,🎥 NETFLIX,no-resolve
 - DOMAIN-SUFFIX,jtvnw.net,🌍 国外媒体
 - DOMAIN-SUFFIX,ttvnw.net,🌍 国外媒体
 - DOMAIN-SUFFIX,twitch.tv,🌍 国外媒体
@@ -8569,37 +8599,6 @@ rules:
 - DOMAIN-SUFFIX,tvb.com,🌍 国外媒体
 - DOMAIN-SUFFIX,naver.com,🌍 国外媒体
 - DOMAIN-SUFFIX,smartmediarep.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflix.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflix.net,🌍 国外媒体
-- DOMAIN-SUFFIX,nflxext.com,🌍 国外媒体
-- DOMAIN-SUFFIX,nflximg.com,🌍 国外媒体
-- DOMAIN-SUFFIX,nflximg.net,🌍 国外媒体
-- DOMAIN-SUFFIX,nflxso.net,🌍 国外媒体
-- DOMAIN-SUFFIX,nflxvideo.net,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest0.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest1.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest2.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest3.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest4.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest5.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest6.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest7.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest8.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflixdnstest9.com,🌍 国外媒体
-- DOMAIN-KEYWORD,dualstack.apiproxy-,🌍 国外媒体
-- DOMAIN-KEYWORD,dualstack.ichnaea-web-,🌍 国外媒体
-- IP-CIDR,23.246.0.0/18,🌍 国外媒体,no-resolve
-- IP-CIDR,37.77.184.0/21,🌍 国外媒体,no-resolve
-- IP-CIDR,45.57.0.0/17,🌍 国外媒体,no-resolve
-- IP-CIDR,64.120.128.0/17,🌍 国外媒体,no-resolve
-- IP-CIDR,66.197.128.0/17,🌍 国外媒体,no-resolve
-- IP-CIDR,108.175.32.0/20,🌍 国外媒体,no-resolve
-- IP-CIDR,192.173.64.0/18,🌍 国外媒体,no-resolve
-- IP-CIDR,198.38.96.0/19,🌍 国外媒体,no-resolve
-- IP-CIDR,198.45.48.0/20,🌍 国外媒体,no-resolve
-- IP-CIDR,34.210.42.111/32,🌍 国外媒体,no-resolve
-- IP-CIDR,52.89.124.203/32,🌍 国外媒体,no-resolve
-- IP-CIDR,54.148.37.5/32,🌍 国外媒体,no-resolve
 - DOMAIN-SUFFIX,dmc.nico,🌍 国外媒体
 - DOMAIN-SUFFIX,nicovideo.jp,🌍 国外媒体
 - DOMAIN-SUFFIX,nimg.jp,🌍 国外媒体
