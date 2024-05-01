@@ -2714,23 +2714,7 @@ proxies:
   tls: false
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_Japan_trojan_41
-  server: 54.238.98.83
-  port: 443
-  type: trojan
-  password: d086a826-5fbd-3ccd-b181-ff76e55768fb
-  sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
-  skip-cert-verify: true
-  udp: true
-- name: AFOSNE_Japan_trojan_42
-  server: 35.77.108.12
-  port: 443
-  type: trojan
-  password: d086a826-5fbd-3ccd-b181-ff76e55768fb
-  sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
-  skip-cert-verify: true
-  udp: true
-- name: AFOSNE_United States_trojan_43
+- name: AFOSNE_United States_trojan_41
   server: 34.221.127.5
   port: 443
   type: trojan
@@ -2738,7 +2722,7 @@ proxies:
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_United States_trojan_44
+- name: AFOSNE_United States_trojan_42
   server: 103.136.185.27
   port: 5499
   type: trojan
@@ -2746,7 +2730,7 @@ proxies:
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_United States_trojan_45
+- name: AFOSNE_United States_trojan_43
   server: 103.136.185.28
   port: 3504
   type: trojan
@@ -3767,11 +3751,9 @@ proxy-groups:
   - AFOSNE_China_vmess_2119
   - AFOSNE_None_vmess_31
   - AFOSNE_United States_vmess_32
-  - AFOSNE_Japan_trojan_41
-  - AFOSNE_Japan_trojan_42
+  - AFOSNE_United States_trojan_41
+  - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
-  - AFOSNE_United States_trojan_44
-  - AFOSNE_United States_trojan_45
   - AFOSNE_Germany_trojan_51
   - AFOSNE_Germany_trojan_52
   - AFOSNE_Germany_trojan_53
@@ -4092,11 +4074,9 @@ proxy-groups:
   - AFOSNE_China_vmess_2119
   - AFOSNE_None_vmess_31
   - AFOSNE_United States_vmess_32
-  - AFOSNE_Japan_trojan_41
-  - AFOSNE_Japan_trojan_42
+  - AFOSNE_United States_trojan_41
+  - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
-  - AFOSNE_United States_trojan_44
-  - AFOSNE_United States_trojan_45
   - AFOSNE_Germany_trojan_51
   - AFOSNE_Germany_trojan_52
   - AFOSNE_Germany_trojan_53
