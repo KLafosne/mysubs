@@ -117,9 +117,11 @@ proxies:
 - name: AFOSNE_China_ss_11
   server: 231103level3.unclemanco.com
   port: 803
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -128,9 +130,11 @@ proxies:
 - name: AFOSNE_China_ss_12
   server: 231103level3.unclemanco.com
   port: 806
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -139,9 +143,11 @@ proxies:
 - name: AFOSNE_China_ss_13
   server: 231103level3.unclemanco.com
   port: 913
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -150,9 +156,11 @@ proxies:
 - name: AFOSNE_China_ss_14
   server: 231103level3.unclemanco.com
   port: 817
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -161,9 +169,11 @@ proxies:
 - name: AFOSNE_China_ss_15
   server: 231103level3.unclemanco.com
   port: 9030
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -172,9 +182,11 @@ proxies:
 - name: AFOSNE_China_ss_16
   server: 231103level3.unclemanco.com
   port: 920
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -183,9 +195,11 @@ proxies:
 - name: AFOSNE_China_ss_17
   server: 231103level3.unclemanco.com
   port: 9035
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -194,9 +208,11 @@ proxies:
 - name: AFOSNE_China_ss_18
   server: 231103level3.unclemanco.com
   port: 917
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -205,9 +221,11 @@ proxies:
 - name: AFOSNE_China_ss_19
   server: 231103level3.unclemanco.com
   port: 9019
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -216,9 +234,11 @@ proxies:
 - name: AFOSNE_China_ss_110
   server: 231103level3.unclemanco.com
   port: 9001
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucew2
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -227,9 +247,11 @@ proxies:
 - name: AFOSNE_China_ss_111
   server: 231103level3.unclemanco.com
   port: 807
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayuclsaa
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -238,9 +260,11 @@ proxies:
 - name: AFOSNE_China_ss_112
   server: 231103level3.unclemanco.com
   port: 810
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -249,9 +273,11 @@ proxies:
 - name: AFOSNE_China_ss_113
   server: 231103level3.unclemanco.com
   port: 921
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucl243113
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -260,9 +286,11 @@ proxies:
 - name: AFOSNE_China_ss_114
   server: 231103level3.unclemanco.com
   port: 919
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -271,9 +299,11 @@ proxies:
 - name: AFOSNE_China_ss_115
   server: 231103level3.unclemanco.com
   port: 825
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -282,9 +312,11 @@ proxies:
 - name: AFOSNE_China_ss_116
   server: 231103level3.unclemanco.com
   port: 834
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -293,9 +325,11 @@ proxies:
 - name: AFOSNE_China_ss_117
   server: 231103level3.unclemanco.com
   port: 908
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -304,9 +338,11 @@ proxies:
 - name: AFOSNE_China_ss_118
   server: 231103level3.unclemanco.com
   port: 9040
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -315,9 +351,11 @@ proxies:
 - name: AFOSNE_China_ss_119
   server: 231103level3.unclemanco.com
   port: 835
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -326,9 +364,11 @@ proxies:
 - name: AFOSNE_China_ss_120
   server: 231103level3.unclemanco.com
   port: 905
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -337,9 +377,11 @@ proxies:
 - name: AFOSNE_China_ss_121
   server: 231103level3.unclemanco.com
   port: 904
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: a12cloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -348,9 +390,11 @@ proxies:
 - name: AFOSNE_China_ss_122
   server: 231103level3.unclemanco.com
   port: 824
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayu1245
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -359,9 +403,11 @@ proxies:
 - name: AFOSNE_China_ss_123
   server: 231103level3.unclemanco.com
   port: 9054
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -370,9 +416,11 @@ proxies:
 - name: AFOSNE_China_ss_124
   server: 231103level3.unclemanco.com
   port: 9063
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -381,9 +429,11 @@ proxies:
 - name: AFOSNE_China_ss_125
   server: 231103level3.unclemanco.com
   port: 20012
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -392,9 +442,11 @@ proxies:
 - name: AFOSNE_China_ss_126
   server: 231103level3.unclemanco.com
   port: 907
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucles1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -403,9 +455,11 @@ proxies:
 - name: AFOSNE_China_ss_127
   server: 231103level3.unclemanco.com
   port: 823
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -414,9 +468,11 @@ proxies:
 - name: AFOSNE_China_ss_128
   server: 231103level3.unclemanco.com
   port: 9059
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -425,9 +481,11 @@ proxies:
 - name: AFOSNE_China_ss_129
   server: 231103level3.unclemanco.com
   port: 9062
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -436,9 +494,11 @@ proxies:
 - name: AFOSNE_China_ss_130
   server: 231103level3.unclemanco.com
   port: 819
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -447,9 +507,11 @@ proxies:
 - name: AFOSNE_China_ss_131
   server: 231103level3.unclemanco.com
   port: 9021
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -458,9 +520,11 @@ proxies:
 - name: AFOSNE_China_ss_132
   server: 231103level3.unclemanco.com
   port: 914
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -469,9 +533,11 @@ proxies:
 - name: AFOSNE_China_ss_133
   server: 231103level3.unclemanco.com
   port: 909
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayu1245
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -480,9 +546,11 @@ proxies:
 - name: AFOSNE_China_ss_134
   server: 231103level3.unclemanco.com
   port: 918
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -491,9 +559,11 @@ proxies:
 - name: AFOSNE_China_ss_135
   server: 231103level3.unclemanco.com
   port: 811
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ay2dsd1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -502,9 +572,11 @@ proxies:
 - name: AFOSNE_China_ss_136
   server: 231103level3.unclemanco.com
   port: 1313
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: fjlfjafl231303831
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -513,9 +585,11 @@ proxies:
 - name: AFOSNE_China_ss_137
   server: 231103level3.unclemanco.com
   port: 901
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ay21d1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -524,9 +598,11 @@ proxies:
 - name: AFOSNE_China_ss_138
   server: 231103level3.unclemanco.com
   port: 9873
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -535,9 +611,11 @@ proxies:
 - name: AFOSNE_China_ss_139
   server: 231103level3.unclemanco.com
   port: 821
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -546,9 +624,11 @@ proxies:
 - name: AFOSNE_China_ss_140
   server: 231103level3.unclemanco.com
   port: 903
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ay2l23ud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -557,9 +637,11 @@ proxies:
 - name: AFOSNE_China_ss_141
   server: 231103level3.unclemanco.com
   port: 910
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -568,9 +650,11 @@ proxies:
 - name: AFOSNE_China_ss_142
   server: 231103level3.unclemanco.com
   port: 906
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ay2loud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -579,9 +663,11 @@ proxies:
 - name: AFOSNE_China_ss_143
   server: 231103level3.unclemanco.com
   port: 9060
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -590,9 +676,11 @@ proxies:
 - name: AFOSNE_China_ss_144
   server: 231103level3.unclemanco.com
   port: 9037
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -601,9 +689,11 @@ proxies:
 - name: AFOSNE_China_ss_145
   server: 231103level3.unclemanco.com
   port: 902
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayuc211
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -612,9 +702,11 @@ proxies:
 - name: AFOSNE_China_ss_146
   server: 231103level3.unclemanco.com
   port: 37863
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: dajkdkjda&dja*/?
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -623,9 +715,11 @@ proxies:
 - name: AFOSNE_China_ss_147
   server: 231103level2.unclemanco.com
   port: 804
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: wedsa
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -634,9 +728,11 @@ proxies:
 - name: AFOSNE_China_ss_148
   server: 231103level2.unclemanco.com
   port: 9048
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -645,9 +741,11 @@ proxies:
 - name: AFOSNE_China_ss_149
   server: 231103level2.unclemanco.com
   port: 9022
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -656,9 +754,11 @@ proxies:
 - name: AFOSNE_China_ss_150
   server: 231103level2.unclemanco.com
   port: 916
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: fsfal2
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -667,9 +767,11 @@ proxies:
 - name: AFOSNE_China_ss_151
   server: 231103level2.unclemanco.com
   port: 926
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -678,9 +780,11 @@ proxies:
 - name: AFOSNE_China_ss_152
   server: 231103level2.unclemanco.com
   port: 39004
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayds23sd1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -689,9 +793,11 @@ proxies:
 - name: AFOSNE_China_ss_153
   server: 231103level2.unclemanco.com
   port: 9053
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -700,9 +806,11 @@ proxies:
 - name: AFOSNE_China_ss_154
   server: 231103level2.unclemanco.com
   port: 8001
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -711,9 +819,11 @@ proxies:
 - name: AFOSNE_China_ss_155
   server: 231103level2.unclemanco.com
   port: 9052
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -722,9 +832,11 @@ proxies:
 - name: AFOSNE_China_ss_156
   server: 231103level2.unclemanco.com
   port: 818
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -733,9 +845,11 @@ proxies:
 - name: AFOSNE_China_ss_157
   server: 231103level2.unclemanco.com
   port: 813
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -744,9 +858,11 @@ proxies:
 - name: AFOSNE_China_ss_158
   server: 231103level2.unclemanco.com
   port: 4321
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ay232sffssd1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -755,9 +871,11 @@ proxies:
 - name: AFOSNE_China_ss_159
   server: 231103level2.unclemanco.com
   port: 820
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -766,9 +884,11 @@ proxies:
 - name: AFOSNE_China_ss_160
   server: 231103level2.unclemanco.com
   port: 809
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucjrsll
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -777,9 +897,11 @@ proxies:
 - name: AFOSNE_China_ss_161
   server: 231103level2.unclemanco.com
   port: 911
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -788,9 +910,11 @@ proxies:
 - name: AFOSNE_China_ss_162
   server: 231103level2.unclemanco.com
   port: 857
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -799,9 +923,11 @@ proxies:
 - name: AFOSNE_China_ss_163
   server: 231103level2.unclemanco.com
   port: 2201
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: dajsdkdkjda&dja*/?
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -810,9 +936,11 @@ proxies:
 - name: AFOSNE_China_ss_164
   server: 231103level2.unclemanco.com
   port: 39201
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: dadk2jat*/?
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -821,9 +949,11 @@ proxies:
 - name: AFOSNE_China_ss_165
   server: 231103level2.unclemanco.com
   port: 2789
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -832,9 +962,11 @@ proxies:
 - name: AFOSNE_China_ss_166
   server: 231103level2.unclemanco.com
   port: 9038
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -843,9 +975,11 @@ proxies:
 - name: AFOSNE_China_ss_167
   server: 231103level2.unclemanco.com
   port: 19999
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: dajkdkjda&dja*/?
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -854,9 +988,11 @@ proxies:
 - name: AFOSNE_China_ss_168
   server: 231103levelx.unclemanco.com
   port: 3033
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayugfsd
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -865,9 +1001,11 @@ proxies:
 - name: AFOSNE_China_ss_169
   server: 231103levelx.unclemanco.com
   port: 1549
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -876,9 +1014,11 @@ proxies:
 - name: AFOSNE_China_ss_170
   server: 231103level2.unclemanco.com
   port: 6041
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayds232sffssd1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -887,9 +1027,11 @@ proxies:
 - name: AFOSNE_China_ss_171
   server: 231103level2.unclemanco.com
   port: 44444
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayds232sffssd1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -898,9 +1040,11 @@ proxies:
 - name: AFOSNE_China_ss_172
   server: 231103level2.unclemanco.com
   port: 38011
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: dajkdr&dja*/?
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -909,9 +1053,11 @@ proxies:
 - name: AFOSNE_China_ss_173
   server: 231103level2.unclemanco.com
   port: 10058
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: 2sa2/1a
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -920,9 +1066,11 @@ proxies:
 - name: AFOSNE_China_ss_174
   server: 231103level2.unclemanco.com
   port: 37865
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: dajkdkjdsa&dja*/?
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -931,9 +1079,11 @@ proxies:
 - name: AFOSNE_China_ss_175
   server: 231103level2.unclemanco.com
   port: 39073
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: dajkbgja*/?
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -942,9 +1092,11 @@ proxies:
 - name: AFOSNE_China_ss_176
   server: 231103level2.unclemanco.com
   port: 38002
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: dajkdkjdssa&dja*/?
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -953,9 +1105,11 @@ proxies:
 - name: AFOSNE_China_ss_177
   server: 231103level2.unclemanco.com
   port: 6559
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: dajkdkjda&dja*/?
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -964,9 +1118,11 @@ proxies:
 - name: AFOSNE_China_ss_178
   server: 231103level2.unclemanco.com
   port: 36203
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: Vdssf.mj/2Zr
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -975,9 +1131,11 @@ proxies:
 - name: AFOSNE_China_ss_179
   server: 231103level2.unclemanco.com
   port: 36454
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: 1mj21sr
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -986,9 +1144,11 @@ proxies:
 - name: AFOSNE_China_ss_180
   server: 231103level2.unclemanco.com
   port: 36452
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: 1mj21sr
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -997,9 +1157,11 @@ proxies:
 - name: AFOSNE_China_ss_181
   server: 231103level2.unclemanco.com
   port: 36243
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: Vdss1samj/2Zr
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1008,9 +1170,11 @@ proxies:
 - name: AFOSNE_China_ss_182
   server: 231103level1.unclemanco.com
   port: 9047
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1019,9 +1183,11 @@ proxies:
 - name: AFOSNE_China_ss_183
   server: 231103level1.unclemanco.com
   port: 912
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1030,9 +1196,11 @@ proxies:
 - name: AFOSNE_China_ss_184
   server: 231103level1.unclemanco.com
   port: 840
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1041,9 +1209,11 @@ proxies:
 - name: AFOSNE_China_ss_185
   server: 231103level1.unclemanco.com
   port: 9051
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1052,9 +1222,11 @@ proxies:
 - name: AFOSNE_China_ss_186
   server: 231103level1.unclemanco.com
   port: 925
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1063,9 +1235,11 @@ proxies:
 - name: AFOSNE_China_ss_187
   server: 231103level1.unclemanco.com
   port: 812
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1074,9 +1248,11 @@ proxies:
 - name: AFOSNE_China_ss_188
   server: 231103level1.unclemanco.com
   port: 837
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucl12s1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1085,9 +1261,11 @@ proxies:
 - name: AFOSNE_China_ss_189
   server: 231103level1.unclemanco.com
   port: 816
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1096,9 +1274,11 @@ proxies:
 - name: AFOSNE_China_ss_190
   server: 231103level1.unclemanco.com
   port: 2688
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: fs23l/
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1107,9 +1287,11 @@ proxies:
 - name: AFOSNE_China_ss_191
   server: 231103level1.unclemanco.com
   port: 915
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1118,9 +1300,11 @@ proxies:
 - name: AFOSNE_China_ss_192
   server: 231103levelx.unclemanco.com
   port: 2205
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: dajkdkjda&dja*/?
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1129,9 +1313,11 @@ proxies:
 - name: AFOSNE_China_ss_193
   server: 231103levelx.unclemanco.com
   port: 9020
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1140,9 +1326,11 @@ proxies:
 - name: AFOSNE_China_ss_194
   server: 231103level1.unclemanco.com
   port: 924
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1151,9 +1339,11 @@ proxies:
 - name: AFOSNE_China_ss_195
   server: 231103level1.unclemanco.com
   port: 6879
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1162,9 +1352,11 @@ proxies:
 - name: AFOSNE_China_ss_196
   server: 231103level1.unclemanco.com
   port: 9044
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1173,9 +1365,11 @@ proxies:
 - name: AFOSNE_China_ss_197
   server: 231103level1.unclemanco.com
   port: 36201
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: Vdssf.mj/2Zr
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1184,9 +1378,11 @@ proxies:
 - name: AFOSNE_China_ss_198
   server: 231103level1.unclemanco.com
   port: 10021
+  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: aa2x2sa2/1a
+  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1195,13 +1391,11 @@ proxies:
 - name: AFOSNE_China_vmess_21
   server: n00007.bzdqsmzngpyyng.sbs
   port: 62690
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk05.ckcloud.info
   network: grpc
@@ -1211,13 +1405,11 @@ proxies:
 - name: AFOSNE_China_vmess_22
   server: n00007.bzdqsmzngpyyng.sbs
   port: 62690
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk05.ckcloud.info
   network: grpc
@@ -1227,7 +1419,6 @@ proxies:
 - name: AFOSNE_China_trojan_23
   server: n00007.bzdqsmzngpyyng.sbs
   port: 20356
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: jp01.ckcloud.info
@@ -1236,7 +1427,6 @@ proxies:
 - name: AFOSNE_China_trojan_24
   server: n00003.bzdqsmzngpyyng.sbs
   port: 20356
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: jp01.ckcloud.info
@@ -1245,7 +1435,6 @@ proxies:
 - name: AFOSNE_China_trojan_25
   server: n00005.bzdqsmzngpyyng.sbs
   port: 20356
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: jp01.ckcloud.info
@@ -1254,13 +1443,11 @@ proxies:
 - name: AFOSNE_China_vmess_26
   server: n00007.bzdqsmzngpyyng.sbs
   port: 57230
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: jp01.ckcloud.info
   network: grpc
@@ -1270,13 +1457,11 @@ proxies:
 - name: AFOSNE_China_vmess_27
   server: n00003.bzdqsmzngpyyng.sbs
   port: 57230
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: jp01.ckcloud.info
   network: grpc
@@ -1286,13 +1471,11 @@ proxies:
 - name: AFOSNE_China_vmess_28
   server: n00005.bzdqsmzngpyyng.sbs
   port: 57230
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: jp01.ckcloud.info
   network: grpc
@@ -1302,7 +1485,6 @@ proxies:
 - name: AFOSNE_China_trojan_29
   server: n00007.bzdqsmzngpyyng.sbs
   port: 37581
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: jp03.ckcloud.info
@@ -1311,7 +1493,6 @@ proxies:
 - name: AFOSNE_China_trojan_210
   server: n00003.bzdqsmzngpyyng.sbs
   port: 37581
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: jp03.ckcloud.info
@@ -1320,7 +1501,6 @@ proxies:
 - name: AFOSNE_China_trojan_211
   server: n00005.bzdqsmzngpyyng.sbs
   port: 37581
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: jp03.ckcloud.info
@@ -1329,13 +1509,11 @@ proxies:
 - name: AFOSNE_China_vmess_212
   server: n00007.bzdqsmzngpyyng.sbs
   port: 16123
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: jp03.ckcloud.info
   network: grpc
@@ -1345,13 +1523,11 @@ proxies:
 - name: AFOSNE_China_vmess_213
   server: n00003.bzdqsmzngpyyng.sbs
   port: 16123
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: jp03.ckcloud.info
   network: grpc
@@ -1361,13 +1537,11 @@ proxies:
 - name: AFOSNE_China_vmess_214
   server: n00005.bzdqsmzngpyyng.sbs
   port: 16123
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: jp03.ckcloud.info
   network: grpc
@@ -1377,7 +1551,6 @@ proxies:
 - name: AFOSNE_China_trojan_215
   server: n00007.bzdqsmzngpyyng.sbs
   port: 15976
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: hk02.ckcloud.info
@@ -1386,7 +1559,6 @@ proxies:
 - name: AFOSNE_China_trojan_216
   server: n00003.bzdqsmzngpyyng.sbs
   port: 15976
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: hk02.ckcloud.info
@@ -1395,7 +1567,6 @@ proxies:
 - name: AFOSNE_China_trojan_217
   server: n00005.bzdqsmzngpyyng.sbs
   port: 15976
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: hk02.ckcloud.info
@@ -1404,13 +1575,11 @@ proxies:
 - name: AFOSNE_China_vmess_218
   server: n00007.bzdqsmzngpyyng.sbs
   port: 27236
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk02.ckcloud.info
   network: grpc
@@ -1420,13 +1589,11 @@ proxies:
 - name: AFOSNE_China_vmess_219
   server: n00003.bzdqsmzngpyyng.sbs
   port: 27236
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk02.ckcloud.info
   network: grpc
@@ -1436,13 +1603,11 @@ proxies:
 - name: AFOSNE_China_vmess_220
   server: n00005.bzdqsmzngpyyng.sbs
   port: 27236
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk02.ckcloud.info
   network: grpc
@@ -1452,7 +1617,6 @@ proxies:
 - name: AFOSNE_China_trojan_221
   server: n00007.bzdqsmzngpyyng.sbs
   port: 14490
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: hk04.ckcloud.info
@@ -1461,7 +1625,6 @@ proxies:
 - name: AFOSNE_China_trojan_222
   server: n00003.bzdqsmzngpyyng.sbs
   port: 14490
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: hk04.ckcloud.info
@@ -1470,7 +1633,6 @@ proxies:
 - name: AFOSNE_China_trojan_223
   server: n00005.bzdqsmzngpyyng.sbs
   port: 14490
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: hk04.ckcloud.info
@@ -1479,13 +1641,11 @@ proxies:
 - name: AFOSNE_China_vmess_224
   server: n00007.bzdqsmzngpyyng.sbs
   port: 34090
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk04.ckcloud.info
   network: grpc
@@ -1495,13 +1655,11 @@ proxies:
 - name: AFOSNE_China_vmess_225
   server: n00003.bzdqsmzngpyyng.sbs
   port: 34090
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk04.ckcloud.info
   network: grpc
@@ -1511,13 +1669,11 @@ proxies:
 - name: AFOSNE_China_vmess_226
   server: n00005.bzdqsmzngpyyng.sbs
   port: 34090
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk04.ckcloud.info
   network: grpc
@@ -1527,7 +1683,6 @@ proxies:
 - name: AFOSNE_China_trojan_227
   server: n00007.bzdqsmzngpyyng.sbs
   port: 46912
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: hk03.ckcloud.info
@@ -1536,7 +1691,6 @@ proxies:
 - name: AFOSNE_China_trojan_228
   server: n00003.bzdqsmzngpyyng.sbs
   port: 46912
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: hk03.ckcloud.info
@@ -1545,7 +1699,6 @@ proxies:
 - name: AFOSNE_China_trojan_229
   server: n00005.bzdqsmzngpyyng.sbs
   port: 46912
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: hk03.ckcloud.info
@@ -1554,7 +1707,6 @@ proxies:
 - name: AFOSNE_China_trojan_230
   server: n00007.bzdqsmzngpyyng.sbs
   port: 22704
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: hk05.ckcloud.info
@@ -1563,7 +1715,6 @@ proxies:
 - name: AFOSNE_China_trojan_231
   server: n00003.bzdqsmzngpyyng.sbs
   port: 22704
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: hk05.ckcloud.info
@@ -1572,7 +1723,6 @@ proxies:
 - name: AFOSNE_China_trojan_232
   server: n00005.bzdqsmzngpyyng.sbs
   port: 22704
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: hk05.ckcloud.info
@@ -1581,13 +1731,11 @@ proxies:
 - name: AFOSNE_China_vmess_233
   server: n00007.bzdqsmzngpyyng.sbs
   port: 62690
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk05.ckcloud.info
   network: grpc
@@ -1597,13 +1745,11 @@ proxies:
 - name: AFOSNE_China_vmess_234
   server: n00003.bzdqsmzngpyyng.sbs
   port: 62690
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk05.ckcloud.info
   network: grpc
@@ -1613,13 +1759,11 @@ proxies:
 - name: AFOSNE_China_vmess_235
   server: n00005.bzdqsmzngpyyng.sbs
   port: 62690
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk05.ckcloud.info
   network: grpc
@@ -1629,7 +1773,6 @@ proxies:
 - name: AFOSNE_China_trojan_236
   server: n00007.bzdqsmzngpyyng.sbs
   port: 25074
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: tw01.ckcloud.info
@@ -1638,7 +1781,6 @@ proxies:
 - name: AFOSNE_China_trojan_237
   server: n00003.bzdqsmzngpyyng.sbs
   port: 25074
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: tw01.ckcloud.info
@@ -1647,7 +1789,6 @@ proxies:
 - name: AFOSNE_China_trojan_238
   server: n00005.bzdqsmzngpyyng.sbs
   port: 25074
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: tw01.ckcloud.info
@@ -1656,13 +1797,11 @@ proxies:
 - name: AFOSNE_China_vmess_239
   server: n00007.bzdqsmzngpyyng.sbs
   port: 29935
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: tw01.ckcloud.info
   network: grpc
@@ -1672,13 +1811,11 @@ proxies:
 - name: AFOSNE_China_vmess_240
   server: n00003.bzdqsmzngpyyng.sbs
   port: 29935
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: tw01.ckcloud.info
   network: grpc
@@ -1688,13 +1825,11 @@ proxies:
 - name: AFOSNE_China_vmess_241
   server: n00005.bzdqsmzngpyyng.sbs
   port: 29935
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: tw01.ckcloud.info
   network: grpc
@@ -1704,7 +1839,6 @@ proxies:
 - name: AFOSNE_China_trojan_242
   server: n00007.bzdqsmzngpyyng.sbs
   port: 35672
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: tw02.ckcloud.info
@@ -1713,7 +1847,6 @@ proxies:
 - name: AFOSNE_China_trojan_243
   server: n00003.bzdqsmzngpyyng.sbs
   port: 35672
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: tw02.ckcloud.info
@@ -1722,7 +1855,6 @@ proxies:
 - name: AFOSNE_China_trojan_244
   server: n00005.bzdqsmzngpyyng.sbs
   port: 35672
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: tw02.ckcloud.info
@@ -1731,13 +1863,11 @@ proxies:
 - name: AFOSNE_China_vmess_245
   server: n00007.bzdqsmzngpyyng.sbs
   port: 38120
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: tw02.ckcloud.info
   network: grpc
@@ -1747,13 +1877,11 @@ proxies:
 - name: AFOSNE_China_vmess_246
   server: n00003.bzdqsmzngpyyng.sbs
   port: 38120
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: tw02.ckcloud.info
   network: grpc
@@ -1763,13 +1891,11 @@ proxies:
 - name: AFOSNE_China_vmess_247
   server: n00005.bzdqsmzngpyyng.sbs
   port: 38120
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: tw02.ckcloud.info
   network: grpc
@@ -1779,7 +1905,6 @@ proxies:
 - name: AFOSNE_China_trojan_248
   server: n00007.bzdqsmzngpyyng.sbs
   port: 21526
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: sg02.ckcloud.info
@@ -1788,7 +1913,6 @@ proxies:
 - name: AFOSNE_China_trojan_249
   server: n00003.bzdqsmzngpyyng.sbs
   port: 21526
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: sg02.ckcloud.info
@@ -1797,7 +1921,6 @@ proxies:
 - name: AFOSNE_China_trojan_250
   server: n00005.bzdqsmzngpyyng.sbs
   port: 21526
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: sg02.ckcloud.info
@@ -1806,13 +1929,11 @@ proxies:
 - name: AFOSNE_China_vmess_251
   server: n00007.bzdqsmzngpyyng.sbs
   port: 33957
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: sg02.ckcloud.info
   network: grpc
@@ -1822,13 +1943,11 @@ proxies:
 - name: AFOSNE_China_vmess_252
   server: n00003.bzdqsmzngpyyng.sbs
   port: 33957
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: sg02.ckcloud.info
   network: grpc
@@ -1838,13 +1957,11 @@ proxies:
 - name: AFOSNE_China_vmess_253
   server: n00005.bzdqsmzngpyyng.sbs
   port: 33957
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: sg02.ckcloud.info
   network: grpc
@@ -1854,7 +1971,6 @@ proxies:
 - name: AFOSNE_China_trojan_254
   server: n00007.bzdqsmzngpyyng.sbs
   port: 40276
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: sg01.ckcloud.info
@@ -1863,7 +1979,6 @@ proxies:
 - name: AFOSNE_China_trojan_255
   server: n00003.bzdqsmzngpyyng.sbs
   port: 40276
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: sg01.ckcloud.info
@@ -1872,7 +1987,6 @@ proxies:
 - name: AFOSNE_China_trojan_256
   server: n00005.bzdqsmzngpyyng.sbs
   port: 40276
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: sg01.ckcloud.info
@@ -1881,13 +1995,11 @@ proxies:
 - name: AFOSNE_China_vmess_257
   server: n00007.bzdqsmzngpyyng.sbs
   port: 43445
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: sg01.ckcloud.info
   network: grpc
@@ -1897,13 +2009,11 @@ proxies:
 - name: AFOSNE_China_vmess_258
   server: n00003.bzdqsmzngpyyng.sbs
   port: 43445
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: sg01.ckcloud.info
   network: grpc
@@ -1913,13 +2023,11 @@ proxies:
 - name: AFOSNE_China_vmess_259
   server: n00005.bzdqsmzngpyyng.sbs
   port: 43445
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: sg01.ckcloud.info
   network: grpc
@@ -1929,7 +2037,6 @@ proxies:
 - name: AFOSNE_China_trojan_260
   server: n00007.bzdqsmzngpyyng.sbs
   port: 25881
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: my01.ckcloud.info
@@ -1938,7 +2045,6 @@ proxies:
 - name: AFOSNE_China_trojan_261
   server: n00003.bzdqsmzngpyyng.sbs
   port: 25881
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: my01.ckcloud.info
@@ -1947,7 +2053,6 @@ proxies:
 - name: AFOSNE_China_trojan_262
   server: n00005.bzdqsmzngpyyng.sbs
   port: 25881
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: my01.ckcloud.info
@@ -1956,13 +2061,11 @@ proxies:
 - name: AFOSNE_China_vmess_263
   server: n00007.bzdqsmzngpyyng.sbs
   port: 55561
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: my01.ckcloud.info
   network: grpc
@@ -1972,13 +2075,11 @@ proxies:
 - name: AFOSNE_China_vmess_264
   server: n00003.bzdqsmzngpyyng.sbs
   port: 55561
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: my01.ckcloud.info
   network: grpc
@@ -1988,13 +2089,11 @@ proxies:
 - name: AFOSNE_China_vmess_265
   server: n00005.bzdqsmzngpyyng.sbs
   port: 55561
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: my01.ckcloud.info
   network: grpc
@@ -2004,7 +2103,6 @@ proxies:
 - name: AFOSNE_China_trojan_266
   server: n00007.bzdqsmzngpyyng.sbs
   port: 10598
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: us2.ckcloud.info
@@ -2013,7 +2111,6 @@ proxies:
 - name: AFOSNE_China_trojan_267
   server: n00003.bzdqsmzngpyyng.sbs
   port: 10598
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: us2.ckcloud.info
@@ -2022,7 +2119,6 @@ proxies:
 - name: AFOSNE_China_trojan_268
   server: n00005.bzdqsmzngpyyng.sbs
   port: 10598
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: us2.ckcloud.info
@@ -2031,13 +2127,11 @@ proxies:
 - name: AFOSNE_China_vmess_269
   server: n00007.bzdqsmzngpyyng.sbs
   port: 10682
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: us2.ckcloud.info
   network: grpc
@@ -2047,13 +2141,11 @@ proxies:
 - name: AFOSNE_China_vmess_270
   server: n00003.bzdqsmzngpyyng.sbs
   port: 10682
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: us2.ckcloud.info
   network: grpc
@@ -2063,13 +2155,11 @@ proxies:
 - name: AFOSNE_China_vmess_271
   server: n00005.bzdqsmzngpyyng.sbs
   port: 10682
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: us2.ckcloud.info
   network: grpc
@@ -2079,7 +2169,6 @@ proxies:
 - name: AFOSNE_China_trojan_272
   server: n00007.bzdqsmzngpyyng.sbs
   port: 10519
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: us03.ckcloud.info
@@ -2088,7 +2177,6 @@ proxies:
 - name: AFOSNE_China_trojan_273
   server: n00003.bzdqsmzngpyyng.sbs
   port: 10519
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: us03.ckcloud.info
@@ -2097,7 +2185,6 @@ proxies:
 - name: AFOSNE_China_trojan_274
   server: n00005.bzdqsmzngpyyng.sbs
   port: 10519
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: us03.ckcloud.info
@@ -2106,13 +2193,11 @@ proxies:
 - name: AFOSNE_China_vmess_275
   server: n00007.bzdqsmzngpyyng.sbs
   port: 46675
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: us03.ckcloud.info
   network: grpc
@@ -2122,13 +2207,11 @@ proxies:
 - name: AFOSNE_China_vmess_276
   server: n00003.bzdqsmzngpyyng.sbs
   port: 46675
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: us03.ckcloud.info
   network: grpc
@@ -2138,13 +2221,11 @@ proxies:
 - name: AFOSNE_China_vmess_277
   server: n00005.bzdqsmzngpyyng.sbs
   port: 46675
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: us03.ckcloud.info
   network: grpc
@@ -2154,7 +2235,6 @@ proxies:
 - name: AFOSNE_China_trojan_278
   server: n00007.bzdqsmzngpyyng.sbs
   port: 28625
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: us04.ckcloud.info
@@ -2163,7 +2243,6 @@ proxies:
 - name: AFOSNE_China_trojan_279
   server: n00003.bzdqsmzngpyyng.sbs
   port: 28625
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: us04.ckcloud.info
@@ -2172,7 +2251,6 @@ proxies:
 - name: AFOSNE_China_trojan_280
   server: n00005.bzdqsmzngpyyng.sbs
   port: 28625
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: us04.ckcloud.info
@@ -2181,13 +2259,11 @@ proxies:
 - name: AFOSNE_China_vmess_281
   server: n00007.bzdqsmzngpyyng.sbs
   port: 46121
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: us04.ckcloud.info
   network: grpc
@@ -2197,13 +2273,11 @@ proxies:
 - name: AFOSNE_China_vmess_282
   server: n00003.bzdqsmzngpyyng.sbs
   port: 46121
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: us04.ckcloud.info
   network: grpc
@@ -2213,13 +2287,11 @@ proxies:
 - name: AFOSNE_China_vmess_283
   server: n00005.bzdqsmzngpyyng.sbs
   port: 46121
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: us04.ckcloud.info
   network: grpc
@@ -2229,7 +2301,6 @@ proxies:
 - name: AFOSNE_China_trojan_284
   server: n00007.bzdqsmzngpyyng.sbs
   port: 54295
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: vn01.ckcloud.info
@@ -2238,7 +2309,6 @@ proxies:
 - name: AFOSNE_China_trojan_285
   server: n00003.bzdqsmzngpyyng.sbs
   port: 54295
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: vn01.ckcloud.info
@@ -2247,7 +2317,6 @@ proxies:
 - name: AFOSNE_China_trojan_286
   server: n00005.bzdqsmzngpyyng.sbs
   port: 54295
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: vn01.ckcloud.info
@@ -2256,13 +2325,11 @@ proxies:
 - name: AFOSNE_China_vmess_287
   server: n00007.bzdqsmzngpyyng.sbs
   port: 39609
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: vn01.ckcloud.info
   network: grpc
@@ -2272,13 +2339,11 @@ proxies:
 - name: AFOSNE_China_vmess_288
   server: n00003.bzdqsmzngpyyng.sbs
   port: 39609
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: vn01.ckcloud.info
   network: grpc
@@ -2288,13 +2353,11 @@ proxies:
 - name: AFOSNE_China_vmess_289
   server: n00005.bzdqsmzngpyyng.sbs
   port: 39609
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: vn01.ckcloud.info
   network: grpc
@@ -2304,7 +2367,6 @@ proxies:
 - name: AFOSNE_China_trojan_290
   server: n00007.bzdqsmzngpyyng.sbs
   port: 45852
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: id01.ckcloud.info
@@ -2313,7 +2375,6 @@ proxies:
 - name: AFOSNE_China_trojan_291
   server: n00003.bzdqsmzngpyyng.sbs
   port: 45852
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: id01.ckcloud.info
@@ -2322,7 +2383,6 @@ proxies:
 - name: AFOSNE_China_trojan_292
   server: n00005.bzdqsmzngpyyng.sbs
   port: 45852
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: id01.ckcloud.info
@@ -2331,13 +2391,11 @@ proxies:
 - name: AFOSNE_China_vmess_293
   server: n00007.bzdqsmzngpyyng.sbs
   port: 44231
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: id01.ckcloud.info
   network: grpc
@@ -2347,13 +2405,11 @@ proxies:
 - name: AFOSNE_China_vmess_294
   server: n00003.bzdqsmzngpyyng.sbs
   port: 44231
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: id01.ckcloud.info
   network: grpc
@@ -2363,13 +2419,11 @@ proxies:
 - name: AFOSNE_China_vmess_295
   server: n00005.bzdqsmzngpyyng.sbs
   port: 44231
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: id01.ckcloud.info
   network: grpc
@@ -2379,7 +2433,6 @@ proxies:
 - name: AFOSNE_China_trojan_296
   server: n00007.bzdqsmzngpyyng.sbs
   port: 63640
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: aus01.ckcloud.info
@@ -2388,7 +2441,6 @@ proxies:
 - name: AFOSNE_China_trojan_297
   server: n00003.bzdqsmzngpyyng.sbs
   port: 63640
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: aus01.ckcloud.info
@@ -2397,7 +2449,6 @@ proxies:
 - name: AFOSNE_China_trojan_298
   server: n00005.bzdqsmzngpyyng.sbs
   port: 63640
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: aus01.ckcloud.info
@@ -2406,13 +2457,11 @@ proxies:
 - name: AFOSNE_China_vmess_299
   server: n00007.bzdqsmzngpyyng.sbs
   port: 12838
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: aus01.ckcloud.info
   network: grpc
@@ -2422,13 +2471,11 @@ proxies:
 - name: AFOSNE_China_vmess_2100
   server: n00003.bzdqsmzngpyyng.sbs
   port: 12838
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: aus01.ckcloud.info
   network: grpc
@@ -2438,13 +2485,11 @@ proxies:
 - name: AFOSNE_China_vmess_2101
   server: n00005.bzdqsmzngpyyng.sbs
   port: 12838
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: aus01.ckcloud.info
   network: grpc
@@ -2454,7 +2499,6 @@ proxies:
 - name: AFOSNE_China_trojan_2102
   server: n00007.bzdqsmzngpyyng.sbs
   port: 15762
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: tur01.ckcloud.info
@@ -2463,7 +2507,6 @@ proxies:
 - name: AFOSNE_China_trojan_2103
   server: n00003.bzdqsmzngpyyng.sbs
   port: 15762
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: tur01.ckcloud.info
@@ -2472,7 +2515,6 @@ proxies:
 - name: AFOSNE_China_trojan_2104
   server: n00005.bzdqsmzngpyyng.sbs
   port: 15762
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: tur01.ckcloud.info
@@ -2481,13 +2523,11 @@ proxies:
 - name: AFOSNE_China_vmess_2105
   server: n00007.bzdqsmzngpyyng.sbs
   port: 29970
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: tur01.ckcloud.info
   network: grpc
@@ -2497,13 +2537,11 @@ proxies:
 - name: AFOSNE_China_vmess_2106
   server: n00003.bzdqsmzngpyyng.sbs
   port: 29970
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: tur01.ckcloud.info
   network: grpc
@@ -2513,13 +2551,11 @@ proxies:
 - name: AFOSNE_China_vmess_2107
   server: n00005.bzdqsmzngpyyng.sbs
   port: 29970
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: tur01.ckcloud.info
   network: grpc
@@ -2529,7 +2565,6 @@ proxies:
 - name: AFOSNE_China_trojan_2108
   server: n00007.bzdqsmzngpyyng.sbs
   port: 20943
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: de01.ckcloud.info
@@ -2538,7 +2573,6 @@ proxies:
 - name: AFOSNE_China_trojan_2109
   server: n00003.bzdqsmzngpyyng.sbs
   port: 20943
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: de01.ckcloud.info
@@ -2547,7 +2581,6 @@ proxies:
 - name: AFOSNE_China_trojan_2110
   server: n00005.bzdqsmzngpyyng.sbs
   port: 20943
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: de01.ckcloud.info
@@ -2556,13 +2589,11 @@ proxies:
 - name: AFOSNE_China_vmess_2111
   server: n00007.bzdqsmzngpyyng.sbs
   port: 26503
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: de01.ckcloud.info
   network: grpc
@@ -2572,13 +2603,11 @@ proxies:
 - name: AFOSNE_China_vmess_2112
   server: n00003.bzdqsmzngpyyng.sbs
   port: 26503
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: de01.ckcloud.info
   network: grpc
@@ -2588,13 +2617,11 @@ proxies:
 - name: AFOSNE_China_vmess_2113
   server: n00005.bzdqsmzngpyyng.sbs
   port: 26503
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: de01.ckcloud.info
   network: grpc
@@ -2604,7 +2631,6 @@ proxies:
 - name: AFOSNE_China_trojan_2114
   server: n00007.bzdqsmzngpyyng.sbs
   port: 39788
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: uk01.ckcloud.info
@@ -2613,7 +2639,6 @@ proxies:
 - name: AFOSNE_China_trojan_2115
   server: n00003.bzdqsmzngpyyng.sbs
   port: 39788
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: uk01.ckcloud.info
@@ -2622,7 +2647,6 @@ proxies:
 - name: AFOSNE_China_trojan_2116
   server: n00005.bzdqsmzngpyyng.sbs
   port: 39788
-  client-fingerprint: chrome
   type: trojan
   password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   sni: uk01.ckcloud.info
@@ -2631,13 +2655,11 @@ proxies:
 - name: AFOSNE_China_vmess_2117
   server: n00007.bzdqsmzngpyyng.sbs
   port: 56394
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: uk01.ckcloud.info
   network: grpc
@@ -2647,13 +2669,11 @@ proxies:
 - name: AFOSNE_China_vmess_2118
   server: n00003.bzdqsmzngpyyng.sbs
   port: 56394
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: uk01.ckcloud.info
   network: grpc
@@ -2663,13 +2683,11 @@ proxies:
 - name: AFOSNE_China_vmess_2119
   server: n00005.bzdqsmzngpyyng.sbs
   port: 56394
-  client-fingerprint: chrome
   type: vmess
   uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: uk01.ckcloud.info
   network: grpc
@@ -2689,7 +2707,6 @@ proxies:
 - name: AFOSNE_United States_trojan_41
   server: 34.219.209.205
   port: 443
-  client-fingerprint: chrome
   type: trojan
   password: d086a826-5fbd-3ccd-b181-ff76e55768fb
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -2698,7 +2715,6 @@ proxies:
 - name: AFOSNE_United States_trojan_42
   server: 103.136.185.27
   port: 5499
-  client-fingerprint: chrome
   type: trojan
   password: d086a826-5fbd-3ccd-b181-ff76e55768fb
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -2707,7 +2723,6 @@ proxies:
 - name: AFOSNE_United States_trojan_43
   server: 103.136.185.28
   port: 3504
-  client-fingerprint: chrome
   type: trojan
   password: d086a826-5fbd-3ccd-b181-ff76e55768fb
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
