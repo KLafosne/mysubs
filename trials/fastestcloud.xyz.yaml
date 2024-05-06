@@ -39,125 +39,125 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: FastFly 永久跳转地址 https://fastfly.club - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 62690, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk05.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: FastFly 国外地址： https://cloud.fastfly.top - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 62690, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk05.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 日本-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 20356, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 日本-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 20356, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 日本-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 20356, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 日本-01 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 57230, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jp01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 日本-02 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 57230, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jp01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 日本-03 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 57230, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jp01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 日本-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 37581, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 日本-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 37581, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 日本-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 37581, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 日本-06 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 16123, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jp03.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 日本-07 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 16123, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jp03.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 日本-08 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 16123, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jp03.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 香港-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 15976, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 香港-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 15976, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 香港-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 15976, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 香港-01 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 27236, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk02.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 香港-02 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 27236, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk02.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 香港-03 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 27236, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk02.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 香港-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 14490, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 香港-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 14490, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 香港-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 14490, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 香港-06 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 34090, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk04.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 香港-07 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 34090, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk04.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 香港-08 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 34090, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk04.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 香港-11 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 46912, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 香港-12 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 46912, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 香港-13 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 46912, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 香港-16 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 22704, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 香港-17 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 22704, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 香港-18 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 22704, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 香港-16 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 62690, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk05.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 香港-17 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 62690, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk05.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 香港-18 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 62690, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk05.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 台湾-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 25074, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 台湾-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 25074, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 台湾-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 25074, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 台湾-01 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 29935, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 台湾-02 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 29935, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 台湾-03 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 29935, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 台湾-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 35672, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 台湾-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 35672, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 台湾-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 35672, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 台湾-06 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 38120, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw02.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 台湾-07 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 38120, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw02.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 台湾-08 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 38120, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tw02.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 新加坡-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 新加坡-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 新加坡-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 新加坡-01 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 33957, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg02.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 新加坡-02 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 33957, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg02.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 新加坡-03 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 33957, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg02.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 新加坡-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 40276, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 新加坡-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 40276, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 新加坡-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 40276, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 新加坡-06 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 43445, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 新加坡-07 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 43445, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 新加坡-08 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 43445, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 马来西亚-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 25881, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: my01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 马来西亚-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 25881, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: my01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 马来西亚-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 25881, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: my01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 马来西亚-01 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 55561, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: my01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 马来西亚-02 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 55561, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: my01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 马来西亚-03 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 55561, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: my01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 美国-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 10598, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 美国-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 10598, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 美国-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 10598, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 美国-01 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 10682, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us2.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 美国-02 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 10682, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us2.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 美国-03 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 10682, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us2.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 美国-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 10519, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 美国-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 10519, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 美国-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 10519, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 美国-06 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 46675, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us03.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 美国-07 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 46675, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us03.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 美国-08 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 46675, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us03.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 美国-11 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 28625, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 美国-12 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 28625, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 美国-13 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 28625, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 美国-11 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 46121, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us04.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 美国-12 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 46121, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us04.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 美国-13 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 46121, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us04.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 越南-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 54295, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 越南-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 54295, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 越南-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 54295, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 越南-01 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 39609, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: vn01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 越南-02 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 39609, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: vn01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 越南-03 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 39609, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: vn01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 印度-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 45852, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 印度-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 45852, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 印度-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 45852, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 印度-01 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 44231, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: id01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 印度-02 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 44231, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: id01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 印度-03 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 44231, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: id01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 澳大利亚-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 63640, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: aus01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 澳大利亚-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 63640, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: aus01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 澳大利亚-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 63640, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: aus01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 澳大利亚-01 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 12838, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: aus01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 澳大利亚-02 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 12838, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: aus01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 澳大利亚-03 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 12838, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: aus01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 土耳其-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 15762, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 土耳其-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 15762, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 土耳其-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 15762, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 土耳其-01 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 29970, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tur01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 土耳其-02 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 29970, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tur01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 土耳其-03 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 29970, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: tur01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 德国-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 20943, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 德国-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 20943, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 德国-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 20943, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 德国-01 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 26503, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: de01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 德国-02 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 26503, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: de01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 德国-03 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 26503, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: de01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 英国-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 39788, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 英国-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 39788, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 英国-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 39788, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: vip1 英国-01 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 56394, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: uk01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 英国-02 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 56394, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: uk01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
-- {name: vip1 英国-03 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 56394, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: uk01.ckcloud.info, network: grpc, grpc-opts: {grpc-service-name: flynwn}, udp: true}
+- {name: FastFly 永久跳转地址 https://fastfly.club - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 62690, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: hk05.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: FastFly 国外地址： https://cloud.fastfly.top - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 62690, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: hk05.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 日本-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 20356, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 日本-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 20356, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 日本-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 20356, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 日本-01 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 57230, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: jp01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 日本-02 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 57230, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: jp01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 日本-03 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 57230, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: jp01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 日本-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 37581, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 日本-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 37581, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 日本-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 37581, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 日本-06 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 16123, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: jp03.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 日本-07 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 16123, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: jp03.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 日本-08 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 16123, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: jp03.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 香港-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 15976, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 香港-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 15976, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 香港-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 15976, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 香港-01 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 27236, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: hk02.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 香港-02 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 27236, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: hk02.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 香港-03 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 27236, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: hk02.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 香港-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 14490, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 香港-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 14490, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 香港-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 14490, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 香港-06 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 34090, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: hk04.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 香港-07 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 34090, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: hk04.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 香港-08 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 34090, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: hk04.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 香港-11 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 46912, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 香港-12 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 46912, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 香港-13 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 46912, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 香港-16 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 22704, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 香港-17 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 22704, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 香港-18 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 22704, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 香港-16 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 62690, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: hk05.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 香港-17 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 62690, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: hk05.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 香港-18 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 62690, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: hk05.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 台湾-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 25074, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 台湾-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 25074, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 台湾-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 25074, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 台湾-01 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 29935, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: tw01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 台湾-02 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 29935, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: tw01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 台湾-03 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 29935, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: tw01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 台湾-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 35672, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 台湾-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 35672, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 台湾-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 35672, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 台湾-06 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 38120, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: tw02.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 台湾-07 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 38120, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: tw02.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 台湾-08 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 38120, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: tw02.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 新加坡-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 21526, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 新加坡-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 21526, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 新加坡-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 21526, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 新加坡-01 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 33957, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: sg02.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 新加坡-02 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 33957, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: sg02.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 新加坡-03 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 33957, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: sg02.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 新加坡-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 40276, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 新加坡-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 40276, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 新加坡-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 40276, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 新加坡-06 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 43445, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: sg01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 新加坡-07 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 43445, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: sg01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 新加坡-08 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 43445, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: sg01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 马来西亚-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 25881, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: my01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 马来西亚-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 25881, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: my01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 马来西亚-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 25881, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: my01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 马来西亚-01 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 55561, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: my01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 马来西亚-02 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 55561, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: my01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 马来西亚-03 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 55561, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: my01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 美国-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 10598, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 美国-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 10598, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 美国-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 10598, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: us2.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 美国-01 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 10682, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: us2.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 美国-02 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 10682, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: us2.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 美国-03 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 10682, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: us2.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 美国-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 10519, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 美国-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 10519, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 美国-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 10519, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: us03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 美国-06 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 46675, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: us03.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 美国-07 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 46675, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: us03.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 美国-08 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 46675, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: us03.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 美国-11 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 28625, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 美国-12 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 28625, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 美国-13 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 28625, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: us04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 美国-11 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 46121, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: us04.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 美国-12 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 46121, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: us04.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 美国-13 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 46121, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: us04.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 越南-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 54295, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 越南-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 54295, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 越南-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 54295, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: vn01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 越南-01 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 39609, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: vn01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 越南-02 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 39609, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: vn01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 越南-03 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 39609, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: vn01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 印度-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 45852, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 印度-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 45852, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 印度-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 45852, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: id01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 印度-01 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 44231, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: id01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 印度-02 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 44231, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: id01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 印度-03 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 44231, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: id01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 澳大利亚-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 63640, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: aus01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 澳大利亚-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 63640, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: aus01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 澳大利亚-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 63640, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: aus01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 澳大利亚-01 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 12838, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: aus01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 澳大利亚-02 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 12838, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: aus01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 澳大利亚-03 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 12838, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: aus01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 土耳其-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 15762, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 土耳其-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 15762, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 土耳其-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 15762, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 土耳其-01 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 29970, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: tur01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 土耳其-02 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 29970, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: tur01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 土耳其-03 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 29970, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: tur01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 德国-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 20943, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 德国-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 20943, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 德国-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 20943, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: de01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 德国-01 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 26503, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: de01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 德国-02 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 26503, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: de01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 德国-03 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 26503, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: de01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 英国-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 39788, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 英国-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 39788, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 英国-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 39788, client-fingerprint: chrome, type: trojan, password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, sni: uk01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 英国-01 测试 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 56394, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: uk01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 英国-02 测试 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 56394, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: uk01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
+- {name: vip1 英国-03 测试 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 56394, client-fingerprint: chrome, type: vmess, uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, servername: uk01.ckcloud.info, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: flynwn}, udp: true}
 rules:
 - DOMAIN-SUFFIX,local,🎯 全球直连
 - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
@@ -168,17 +168,6 @@ rules:
 - IP-CIDR6,::1/128,🎯 全球直连,no-resolve
 - IP-CIDR6,fc00::/7,🎯 全球直连,no-resolve
 - IP-CIDR6,fe80::/10,🎯 全球直连,no-resolve
-- PROCESS-NAME,v2ray,🎯 全球直连,DIRECT
-- PROCESS-NAME,ss-local,🎯 全球直连,DIRECT
-- PROCESS-NAME,aria2c,🎯 全球直连,DIRECT
-- PROCESS-NAME,fdm,🎯 全球直连,DIRECT
-- PROCESS-NAME,Folx,🎯 全球直连,DIRECT
-- PROCESS-NAME,NetTransport,🎯 全球直连,DIRECT
-- PROCESS-NAME,Thunder,🎯 全球直连,DIRECT
-- PROCESS-NAME,Transmission,🎯 全球直连,DIRECT
-- PROCESS-NAME,uTorrent,🎯 全球直连,DIRECT
-- PROCESS-NAME,WebTorrent,🎯 全球直连,DIRECT
-- PROCESS-NAME,WebTorrent Helper,🎯 全球直连,DIRECT
 - DOMAIN-KEYWORD,1drv,Ⓜ️ 微软服务
 - DOMAIN-KEYWORD,microsoft,Ⓜ️ 微软服务
 - DOMAIN-SUFFIX,aadrm.com,Ⓜ️ 微软服务
@@ -457,6 +446,7 @@ rules:
 - DOMAIN-SUFFIX,biz5.kankan.com,🛑 全球拦截
 - DOMAIN-SUFFIX,c.algovid.com,🛑 全球拦截
 - DOMAIN-SUFFIX,cms.laifeng.com,🛑 全球拦截
+- DOMAIN-SUFFIX,da.mmarket.com,🛑 全球拦截
 - DOMAIN-SUFFIX,dotcounter.douyutv.com,🛑 全球拦截
 - DOMAIN-SUFFIX,g.uusee.com,🛑 全球拦截
 - DOMAIN-SUFFIX,gcdn.2mdn.net,🛑 全球拦截
@@ -8508,6 +8498,16 @@ rules:
 - DOMAIN-SUFFIX,officesoftcn.com,🛑 全球拦截
 - DOMAIN-SUFFIX,photozoomchina.com,🛑 全球拦截
 - DOMAIN-SUFFIX,xitongqingli.com,🛑 全球拦截
+- DOMAIN-SUFFIX,netflix.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,netflix.net,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflxext.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflximg.com,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflximg.net,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflxso.net,🎥 NETFLIX
+- DOMAIN-SUFFIX,nflxvideo.net,🎥 NETFLIX
+- DOMAIN-KEYWORD,netflixdnstest,🎥 NETFLIX
+- DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,🎥 NETFLIX
+- DOMAIN-KEYWORD,dualstack.apiproxy-,🎥 NETFLIX
 - DOMAIN-SUFFIX,ext-twitch.tv,🌍 国外媒体
 - DOMAIN-SUFFIX,jtvnw.net,🌍 国外媒体
 - DOMAIN-SUFFIX,ttvnw.net,🌍 国外媒体
@@ -8675,16 +8675,6 @@ rules:
 - DOMAIN-SUFFIX,tvb.com,🌍 国外媒体
 - DOMAIN-SUFFIX,naver.com,🌍 国外媒体
 - DOMAIN-SUFFIX,smartmediarep.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflix.com,🌍 国外媒体
-- DOMAIN-SUFFIX,netflix.net,🌍 国外媒体
-- DOMAIN-SUFFIX,nflxext.com,🌍 国外媒体
-- DOMAIN-SUFFIX,nflximg.com,🌍 国外媒体
-- DOMAIN-SUFFIX,nflximg.net,🌍 国外媒体
-- DOMAIN-SUFFIX,nflxso.net,🌍 国外媒体
-- DOMAIN-SUFFIX,nflxvideo.net,🌍 国外媒体
-- DOMAIN-KEYWORD,netflixdnstest,🌍 国外媒体
-- DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,🌍 国外媒体
-- DOMAIN-KEYWORD,dualstack.apiproxy-,🌍 国外媒体
 - DOMAIN-SUFFIX,dmc.nico,🌍 国外媒体
 - DOMAIN-SUFFIX,nicovideo.jp,🌍 国外媒体
 - DOMAIN-SUFFIX,nimg.jp,🌍 国外媒体
@@ -8738,6 +8728,32 @@ rules:
 - DOMAIN-SUFFIX,ytimg.com,🌍 国外媒体
 - DOMAIN,youtubei.googleapis.com,🌍 国外媒体
 - DOMAIN,yt3.ggpht.com,🌍 国外媒体
+- DOMAIN-SUFFIX,acg.tv,🌏 国内媒体
+- DOMAIN-SUFFIX,acgvideo.com,🌏 国内媒体
+- DOMAIN-SUFFIX,b23.tv,🌏 国内媒体
+- DOMAIN-SUFFIX,bilibili.com,🌏 国内媒体
+- DOMAIN-SUFFIX,bilibili.tv,🌏 国内媒体
+- DOMAIN-SUFFIX,biliapi.net,🌏 国内媒体
+- DOMAIN-SUFFIX,biliapi.com,🌏 国内媒体
+- DOMAIN-SUFFIX,bilivideo.com,🌏 国内媒体
+- DOMAIN-SUFFIX,hdslb.com,🌏 国内媒体
+- DOMAIN,upos-hz-mirrorakam.akamaized.net,🌏 国内媒体
+- DOMAIN,intel-cache.m.iqiyi.com,🌏 国内媒体
+- DOMAIN,intel-cache.video.iqiyi.com,🌏 国内媒体
+- DOMAIN-SUFFIX,inter.iqiyi.com,🌏 国内媒体
+- DOMAIN-SUFFIX,inter.ptqy.gitv.tv,🌏 国内媒体
+- DOMAIN-SUFFIX,intl.iqiyi.com,🌏 国内媒体
+- IP-CIDR,103.44.56.0/22,🌏 国内媒体,no-resolve
+- IP-CIDR,118.26.120.0/24,🌏 国内媒体,no-resolve
+- IP-CIDR,118.26.32.0/23,🌏 国内媒体,no-resolve
+- IP-CIDR,223.119.62.225/28,🌏 国内媒体,no-resolve
+- IP-CIDR,23.40.241.251/32,🌏 国内媒体,no-resolve
+- IP-CIDR,23.40.242.10/32,🌏 国内媒体,no-resolve
+- DOMAIN-SUFFIX,api.mob.app.letv.com,🌏 国内媒体
+- DOMAIN-SUFFIX,v.smtcdns.com,🌏 国内媒体
+- DOMAIN-SUFFIX,vv.video.qq.com,🌏 国内媒体
+- DOMAIN-SUFFIX,youku.com,🌏 国内媒体
+- IP-CIDR,106.11.0.0/16,🌏 国内媒体,no-resolve
 - DOMAIN-SUFFIX,t.me,📲 电报信息
 - DOMAIN-SUFFIX,tdesktop.com,📲 电报信息
 - DOMAIN-SUFFIX,telegra.ph,📲 电报信息
@@ -8758,77 +8774,6 @@ rules:
 - IP-CIDR6,2001:67c:4e8::/48,📲 电报信息,no-resolve
 - IP-CIDR6,2001:b28:f23c::/48,📲 电报信息,no-resolve
 - IP-CIDR6,2a0a:f280::/32,📲 电报信息,no-resolve
-- DOMAIN-SUFFIX,aaplimg.com,🍎 苹果服务
-- DOMAIN-SUFFIX,apple.co,🍎 苹果服务
-- DOMAIN-SUFFIX,apple.com,🍎 苹果服务
-- DOMAIN-SUFFIX,apple.com.cn,🍎 苹果服务
-- DOMAIN-SUFFIX,apple-cloudkit.com,🍎 苹果服务
-- DOMAIN-SUFFIX,apple-livephotoskit.com,🍎 苹果服务
-- DOMAIN-SUFFIX,apple-mapkit.com,🍎 苹果服务
-- DOMAIN-SUFFIX,applemusic.com,🍎 苹果服务
-- DOMAIN-SUFFIX,appstore.com,🍎 苹果服务
-- DOMAIN-SUFFIX,apzones.com,🍎 苹果服务
-- DOMAIN-SUFFIX,cdn-apple.com,🍎 苹果服务
-- DOMAIN-SUFFIX,icloud.com,🍎 苹果服务
-- DOMAIN-SUFFIX,icloud.com.cn,🍎 苹果服务
-- DOMAIN-SUFFIX,icloud-content.com,🍎 苹果服务
-- DOMAIN-SUFFIX,me.com,🍎 苹果服务
-- DOMAIN-SUFFIX,mzstatic.com,🍎 苹果服务
-- DOMAIN-KEYWORD,apple.com.akadns.net,🍎 苹果服务
-- DOMAIN-KEYWORD,apple.com.edgekey.net,🍎 苹果服务
-- DOMAIN-KEYWORD,apple-support.akadns.net,🍎 苹果服务
-- DOMAIN-KEYWORD,icloud.com.akadns.net,🍎 苹果服务
-- DOMAIN-SUFFIX,flyert.com,🎯 全球直连
-- DOMAIN-SUFFIX,gandi.net,🎯 全球直连
-- DOMAIN-SUFFIX,snapdrop.net,🎯 全球直连
-- DOMAIN,download.jetbrains.com,🎯 全球直连
-- DOMAIN,origin-a.akamaihd.net,🎯 全球直连
-- DOMAIN-SUFFIX,paypal.com,🎯 全球直连
-- DOMAIN-SUFFIX,paypal.me,🎯 全球直连
-- DOMAIN-SUFFIX,paypal-mktg.com,🎯 全球直连
-- DOMAIN-SUFFIX,paypalobjects.com,🎯 全球直连
-- DOMAIN-SUFFIX,cm.steampowered.com,🎯 全球直连
-- DOMAIN-SUFFIX,steamserver.net,🎯 全球直连
-- IP-CIDR,182.254.116.0/24,🎯 全球直连,no-resolve
-- IP-CIDR,203.205.238.0/23,🎯 全球直连,no-resolve
-- IP-CIDR,203.205.254.0/23,🎯 全球直连,no-resolve
-- DOMAIN,ip.istatmenus.app,🎯 全球直连
-- DOMAIN,sms.imagetasks.com,🎯 全球直连
-- DOMAIN-SUFFIX,netspeedtestmaster.com,🎯 全球直连
-- DOMAIN,speedtest.macpaw.com,🎯 全球直连
-- DOMAIN-SUFFIX,acg.rip,🎯 全球直连
-- DOMAIN-SUFFIX,animebytes.tv,🎯 全球直连
-- DOMAIN-SUFFIX,awesome-hd.me,🎯 全球直连
-- DOMAIN-SUFFIX,broadcasthe.net,🎯 全球直连
-- DOMAIN-SUFFIX,chdbits.co,🎯 全球直连
-- DOMAIN-SUFFIX,classix-unlimited.co.uk,🎯 全球直连
-- DOMAIN-SUFFIX,comicat.org,🎯 全球直连
-- DOMAIN-SUFFIX,empornium.me,🎯 全球直连
-- DOMAIN-SUFFIX,gazellegames.net,🎯 全球直连
-- DOMAIN-SUFFIX,hdbits.org,🎯 全球直连
-- DOMAIN-SUFFIX,hdchina.org,🎯 全球直连
-- DOMAIN-SUFFIX,hddolby.com,🎯 全球直连
-- DOMAIN-SUFFIX,hdhome.org,🎯 全球直连
-- DOMAIN-SUFFIX,hdsky.me,🎯 全球直连
-- DOMAIN-SUFFIX,icetorrent.org,🎯 全球直连
-- DOMAIN-SUFFIX,jpopsuki.eu,🎯 全球直连
-- DOMAIN-SUFFIX,keepfrds.com,🎯 全球直连
-- DOMAIN-SUFFIX,madsrevolution.net,🎯 全球直连
-- DOMAIN-SUFFIX,morethan.tv,🎯 全球直连
-- DOMAIN-SUFFIX,m-team.cc,🎯 全球直连
-- DOMAIN-SUFFIX,myanonamouse.net,🎯 全球直连
-- DOMAIN-SUFFIX,nanyangpt.com,🎯 全球直连
-- DOMAIN-SUFFIX,ncore.cc,🎯 全球直连
-- DOMAIN-SUFFIX,open.cd,🎯 全球直连
-- DOMAIN-SUFFIX,ourbits.club,🎯 全球直连
-- DOMAIN-SUFFIX,passthepopcorn.me,🎯 全球直连
-- DOMAIN-SUFFIX,privatehd.to,🎯 全球直连
-- DOMAIN-SUFFIX,pterclub.com,🎯 全球直连
-- DOMAIN-SUFFIX,redacted.ch,🎯 全球直连
-- DOMAIN-SUFFIX,springsunday.net,🎯 全球直连
-- DOMAIN-SUFFIX,tjupt.org,🎯 全球直连
-- DOMAIN-SUFFIX,totheglory.im,🎯 全球直连
-- GEOIP,CN,🎯 全球直连,no-resolve
 - DOMAIN-SUFFIX,9cache.com,🔰 节点选择
 - DOMAIN-SUFFIX,9gag.com,🔰 节点选择
 - DOMAIN-SUFFIX,abc.com,🔰 节点选择
@@ -9066,6 +9011,7 @@ rules:
 - DOMAIN-KEYWORD,google,🔰 节点选择
 - DOMAIN-KEYWORD,.blogspot.,🔰 节点选择
 - DOMAIN-SUFFIX,goog,🔰 节点选择
+- DOMAIN,testflight.apple.com,🔰 节点选择
 - DOMAIN-SUFFIX,gravatar.com,🔰 节点选择
 - DOMAIN-SUFFIX,tumblr.com,🔰 节点选择
 - DOMAIN-SUFFIX,videopress.com,🔰 节点选择
@@ -9217,10 +9163,106 @@ rules:
 - DOMAIN-SUFFIX,go.dev,🔰 节点选择
 - DOMAIN-SUFFIX,golang.org,🔰 节点选择
 - DOMAIN-SUFFIX,appsto.re,🔰 节点选择
+- DOMAIN-SUFFIX,smoot.apple.com,🔰 节点选择
+- DOMAIN,amp-api.podcasts.apple.com,🔰 节点选择
+- DOMAIN,beta.music.apple.com,🔰 节点选择
+- DOMAIN,books.itunes.apple.com,🔰 节点选择
+- DOMAIN,lookup-api.apple.com,🔰 节点选择
+- DOMAIN,radio.itunes.apple.com,🔰 节点选择
+- DOMAIN,apps.apple.com,🔰 节点选择
+- DOMAIN,books.apple.com,🔰 节点选择
+- DOMAIN,itunes.apple.com,🔰 节点选择
+- DOMAIN,tv.apple.com,🔰 节点选择
+- DOMAIN,gateway.icloud.com,🔰 节点选择
 - DOMAIN-SUFFIX,apple.news,🔰 节点选择
+- DOMAIN,news-assets.apple.com,🔰 节点选择
+- DOMAIN,news-client.apple.com,🔰 节点选择
+- DOMAIN,news-client-search.apple.com,🔰 节点选择
+- DOMAIN,news-edge.apple.com,🔰 节点选择
+- DOMAIN,news-events.apple.com,🔰 节点选择
 - DOMAIN,apple.comscoreresearch.com,🔰 节点选择
 - DOMAIN-SUFFIX,linkedin.com,🔰 节点选择
 - DOMAIN-SUFFIX,licdn.com,🔰 节点选择
+- DOMAIN-SUFFIX,aaplimg.com,🍎 苹果服务
+- DOMAIN-SUFFIX,apple.co,🍎 苹果服务
+- DOMAIN-SUFFIX,apple.com,🍎 苹果服务
+- DOMAIN-SUFFIX,apple.com.cn,🍎 苹果服务
+- DOMAIN-SUFFIX,apple-cloudkit.com,🍎 苹果服务
+- DOMAIN-SUFFIX,apple-livephotoskit.com,🍎 苹果服务
+- DOMAIN-SUFFIX,apple-mapkit.com,🍎 苹果服务
+- DOMAIN-SUFFIX,applemusic.com,🍎 苹果服务
+- DOMAIN-SUFFIX,appstore.com,🍎 苹果服务
+- DOMAIN-SUFFIX,apzones.com,🍎 苹果服务
+- DOMAIN-SUFFIX,cdn-apple.com,🍎 苹果服务
+- DOMAIN-SUFFIX,icloud.com,🍎 苹果服务
+- DOMAIN-SUFFIX,icloud.com.cn,🍎 苹果服务
+- DOMAIN-SUFFIX,icloud-content.com,🍎 苹果服务
+- DOMAIN-SUFFIX,me.com,🍎 苹果服务
+- DOMAIN-SUFFIX,mzstatic.com,🍎 苹果服务
+- DOMAIN-KEYWORD,apple.com.akadns.net,🍎 苹果服务
+- DOMAIN-KEYWORD,apple.com.edgekey.net,🍎 苹果服务
+- DOMAIN-KEYWORD,apple-support.akadns.net,🍎 苹果服务
+- DOMAIN-KEYWORD,icloud.com.akadns.net,🍎 苹果服务
+- DOMAIN-SUFFIX,flyert.com,🎯 全球直连
+- DOMAIN-SUFFIX,gandi.net,🎯 全球直连
+- DOMAIN-SUFFIX,snapdrop.net,🎯 全球直连
+- DOMAIN,download.jetbrains.com,🎯 全球直连
+- DOMAIN,origin-a.akamaihd.net,🎯 全球直连
+- DOMAIN-SUFFIX,paypal.com,🎯 全球直连
+- DOMAIN-SUFFIX,paypal.me,🎯 全球直连
+- DOMAIN-SUFFIX,paypal-mktg.com,🎯 全球直连
+- DOMAIN-SUFFIX,paypalobjects.com,🎯 全球直连
+- DOMAIN-SUFFIX,cm.steampowered.com,🎯 全球直连
+- DOMAIN-SUFFIX,steamserver.net,🎯 全球直连
+- IP-CIDR,182.254.116.0/24,🎯 全球直连,no-resolve
+- IP-CIDR,203.205.238.0/23,🎯 全球直连,no-resolve
+- IP-CIDR,203.205.254.0/23,🎯 全球直连,no-resolve
+- DOMAIN,ip.istatmenus.app,🎯 全球直连
+- DOMAIN,sms.imagetasks.com,🎯 全球直连
+- DOMAIN-SUFFIX,netspeedtestmaster.com,🎯 全球直连
+- DOMAIN,speedtest.macpaw.com,🎯 全球直连
+- DOMAIN-SUFFIX,acg.rip,🎯 全球直连
+- DOMAIN-SUFFIX,animebytes.tv,🎯 全球直连
+- DOMAIN-SUFFIX,awesome-hd.me,🎯 全球直连
+- DOMAIN-SUFFIX,broadcasthe.net,🎯 全球直连
+- DOMAIN-SUFFIX,chdbits.co,🎯 全球直连
+- DOMAIN-SUFFIX,classix-unlimited.co.uk,🎯 全球直连
+- DOMAIN-SUFFIX,comicat.org,🎯 全球直连
+- DOMAIN-SUFFIX,empornium.me,🎯 全球直连
+- DOMAIN-SUFFIX,gazellegames.net,🎯 全球直连
+- DOMAIN-SUFFIX,hdbits.org,🎯 全球直连
+- DOMAIN-SUFFIX,hdchina.org,🎯 全球直连
+- DOMAIN-SUFFIX,hddolby.com,🎯 全球直连
+- DOMAIN-SUFFIX,hdhome.org,🎯 全球直连
+- DOMAIN-SUFFIX,hdsky.me,🎯 全球直连
+- DOMAIN-SUFFIX,icetorrent.org,🎯 全球直连
+- DOMAIN-SUFFIX,jpopsuki.eu,🎯 全球直连
+- DOMAIN-SUFFIX,keepfrds.com,🎯 全球直连
+- DOMAIN-SUFFIX,madsrevolution.net,🎯 全球直连
+- DOMAIN-SUFFIX,morethan.tv,🎯 全球直连
+- DOMAIN-SUFFIX,m-team.cc,🎯 全球直连
+- DOMAIN-SUFFIX,myanonamouse.net,🎯 全球直连
+- DOMAIN-SUFFIX,nanyangpt.com,🎯 全球直连
+- DOMAIN-SUFFIX,ncore.cc,🎯 全球直连
+- DOMAIN-SUFFIX,open.cd,🎯 全球直连
+- DOMAIN-SUFFIX,ourbits.club,🎯 全球直连
+- DOMAIN-SUFFIX,passthepopcorn.me,🎯 全球直连
+- DOMAIN-SUFFIX,privatehd.to,🎯 全球直连
+- DOMAIN-SUFFIX,pterclub.com,🎯 全球直连
+- DOMAIN-SUFFIX,redacted.ch,🎯 全球直连
+- DOMAIN-SUFFIX,springsunday.net,🎯 全球直连
+- DOMAIN-SUFFIX,tjupt.org,🎯 全球直连
+- DOMAIN-SUFFIX,totheglory.im,🎯 全球直连
+- GEOIP,CN,🎯 全球直连,no-resolve
+- PROCESS-NAME,aria2c,🎯 全球直连
+- PROCESS-NAME,fdm,🎯 全球直连
+- PROCESS-NAME,Folx,🎯 全球直连
+- PROCESS-NAME,NetTransport,🎯 全球直连
+- PROCESS-NAME,Thunder,🎯 全球直连
+- PROCESS-NAME,Transmission,🎯 全球直连
+- PROCESS-NAME,uTorrent,🎯 全球直连
+- PROCESS-NAME,WebTorrent,🎯 全球直连
+- PROCESS-NAME,WebTorrent Helper,🎯 全球直连
 - PROCESS-NAME,DownloadService,🎯 全球直连
 - PROCESS-NAME,Weiyun,🎯 全球直连
 - DOMAIN-KEYWORD,aria2,🎯 全球直连
@@ -9228,4 +9270,4 @@ rules:
 - DOMAIN-KEYWORD,yunpan,🎯 全球直连
 - DOMAIN-KEYWORD,Thunder,🎯 全球直连
 - DOMAIN-KEYWORD,XLLiveUD,🎯 全球直连
-- MATCH,,🐟 漏网之鱼,dns-failed
+- MATCH,🐟 漏网之鱼
