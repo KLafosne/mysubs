@@ -1196,7 +1196,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 62690
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1210,7 +1210,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 62690
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1224,7 +1224,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 20356
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1232,7 +1232,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 20356
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1240,7 +1240,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 20356
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1248,7 +1248,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 57230
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1262,7 +1262,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 57230
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1276,7 +1276,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 57230
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1290,7 +1290,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 37581
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1298,7 +1298,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 37581
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1306,7 +1306,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 37581
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: jp03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1314,7 +1314,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 16123
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1328,7 +1328,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 16123
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1342,7 +1342,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 16123
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1356,7 +1356,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 15976
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1364,7 +1364,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 15976
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1372,7 +1372,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 15976
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: hk02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1380,7 +1380,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 27236
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1394,7 +1394,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 27236
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1408,7 +1408,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 27236
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1422,7 +1422,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 14490
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1430,7 +1430,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 14490
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1438,7 +1438,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 14490
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1446,7 +1446,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 34090
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1460,7 +1460,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 34090
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1474,7 +1474,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 34090
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1488,7 +1488,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 46912
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1496,7 +1496,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 46912
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1504,7 +1504,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 46912
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1512,7 +1512,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 22704
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1520,7 +1520,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 22704
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1528,7 +1528,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 22704
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1536,7 +1536,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 62690
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1550,7 +1550,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 62690
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1564,7 +1564,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 62690
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1578,7 +1578,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 25074
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1586,7 +1586,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 25074
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1594,7 +1594,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 25074
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: tw01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1602,7 +1602,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 29935
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1616,7 +1616,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 29935
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1630,7 +1630,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 29935
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1644,7 +1644,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 35672
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1652,7 +1652,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 35672
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1660,7 +1660,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 35672
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1668,7 +1668,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 38120
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1682,7 +1682,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 38120
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1696,7 +1696,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 38120
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1710,7 +1710,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 21526
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: sg02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1718,7 +1718,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 21526
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: sg02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1726,7 +1726,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 21526
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: sg02.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1734,7 +1734,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 33957
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1748,7 +1748,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 33957
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1762,7 +1762,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 33957
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1776,7 +1776,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 40276
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1784,7 +1784,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 40276
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1792,7 +1792,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 40276
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: sg01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1800,7 +1800,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 43445
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1814,7 +1814,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 43445
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1828,7 +1828,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 43445
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1842,7 +1842,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 25881
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: my01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1850,7 +1850,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 25881
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: my01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1858,7 +1858,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 25881
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: my01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1866,7 +1866,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 55561
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1880,7 +1880,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 55561
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1894,7 +1894,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 55561
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1908,7 +1908,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 10598
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: us2.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1916,7 +1916,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 10598
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: us2.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1924,7 +1924,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 10598
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: us2.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1932,7 +1932,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 10682
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1946,7 +1946,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 10682
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1960,7 +1960,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 10682
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -1974,7 +1974,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 10519
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: us03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1982,7 +1982,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 10519
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: us03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1990,7 +1990,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 10519
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: us03.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -1998,7 +1998,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 46675
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -2012,7 +2012,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 46675
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -2026,7 +2026,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 46675
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -2040,7 +2040,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 28625
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: us04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2048,7 +2048,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 28625
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: us04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2056,7 +2056,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 28625
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: us04.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2064,7 +2064,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 46121
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -2078,7 +2078,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 46121
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -2092,7 +2092,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 46121
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -2106,7 +2106,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 54295
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2114,7 +2114,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 54295
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2122,7 +2122,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 54295
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2130,7 +2130,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 39609
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -2144,7 +2144,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 39609
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -2158,7 +2158,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 39609
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -2172,7 +2172,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 45852
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: id01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2180,7 +2180,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 45852
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: id01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2188,7 +2188,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 45852
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: id01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2196,7 +2196,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 44231
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -2210,7 +2210,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 44231
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -2224,7 +2224,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 44231
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -2238,7 +2238,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 63640
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: aus01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2246,7 +2246,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 63640
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: aus01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2254,7 +2254,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 63640
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: aus01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2262,7 +2262,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 12838
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -2276,7 +2276,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 12838
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -2290,7 +2290,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 12838
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -2304,7 +2304,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 15762
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2312,7 +2312,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 15762
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2320,7 +2320,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 15762
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2328,7 +2328,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 29970
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -2342,7 +2342,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 29970
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -2356,7 +2356,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 29970
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -2370,7 +2370,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 20943
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: de01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2378,7 +2378,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 20943
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: de01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2386,7 +2386,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 20943
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: de01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2394,7 +2394,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 26503
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -2408,7 +2408,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 26503
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -2422,7 +2422,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 26503
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -2436,7 +2436,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 39788
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: uk01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2444,7 +2444,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 39788
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: uk01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2452,7 +2452,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 39788
   type: trojan
-  password: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  password: 91f46a94-591d-464f-b83e-eb1f4730b119
   sni: uk01.ckcloud.info
   skip-cert-verify: true
   udp: true
@@ -2460,7 +2460,7 @@ proxies:
   server: n00007.bzdqsmzngpyyng.sbs
   port: 56394
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -2474,7 +2474,7 @@ proxies:
   server: n00003.bzdqsmzngpyyng.sbs
   port: 56394
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -2488,7 +2488,7 @@ proxies:
   server: n00005.bzdqsmzngpyyng.sbs
   port: 56394
   type: vmess
-  uuid: 5d9a3ad6-8c78-4b12-b6ac-e37f24f31477
+  uuid: 91f46a94-591d-464f-b83e-eb1f4730b119
   alterId: 0
   cipher: auto
   tls: true
@@ -2498,7 +2498,7 @@ proxies:
   grpc-opts:
     grpc-service-name: flynwn
   udp: true
-- name: AFOSNE_None_vmess_31
+- name: AFOSNE_United States_vmess_31
   server: mcecloud.net
   port: 10086
   type: vmess
@@ -2508,7 +2508,7 @@ proxies:
   tls: false
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_None_vmess_32
+- name: AFOSNE_United States_vmess_32
   server: mcecloud.net
   port: 10086
   type: vmess
@@ -2518,41 +2518,28 @@ proxies:
   tls: false
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_Japan_trojan_41
-  server: 54.178.105.34
+- name: AFOSNE_United States_trojan_41
+  server: 34.219.209.205
   port: 443
+  client-fingerprint: chrome
   type: trojan
   password: d086a826-5fbd-3ccd-b181-ff76e55768fb
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
   skip-cert-verify: true
   udp: true
-- name: AFOSNE_Japan_trojan_42
-  server: 35.78.217.38
-  port: 443
+- name: AFOSNE_United States_trojan_42
+  server: 103.136.185.27
+  port: 5499
+  client-fingerprint: chrome
   type: trojan
   password: d086a826-5fbd-3ccd-b181-ff76e55768fb
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
   skip-cert-verify: true
   udp: true
 - name: AFOSNE_United States_trojan_43
-  server: 34.219.209.205
-  port: 443
-  type: trojan
-  password: d086a826-5fbd-3ccd-b181-ff76e55768fb
-  sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
-  skip-cert-verify: true
-  udp: true
-- name: AFOSNE_United States_trojan_44
-  server: 103.136.185.27
-  port: 5499
-  type: trojan
-  password: d086a826-5fbd-3ccd-b181-ff76e55768fb
-  sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
-  skip-cert-verify: true
-  udp: true
-- name: AFOSNE_United States_trojan_45
   server: 103.136.185.28
   port: 3504
+  client-fingerprint: chrome
   type: trojan
   password: d086a826-5fbd-3ccd-b181-ff76e55768fb
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -3541,13 +3528,11 @@ proxy-groups:
   - AFOSNE_China_vmess_2117
   - AFOSNE_China_vmess_2118
   - AFOSNE_China_vmess_2119
-  - AFOSNE_None_vmess_31
-  - AFOSNE_None_vmess_32
-  - AFOSNE_Japan_trojan_41
-  - AFOSNE_Japan_trojan_42
+  - AFOSNE_United States_vmess_31
+  - AFOSNE_United States_vmess_32
+  - AFOSNE_United States_trojan_41
+  - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
-  - AFOSNE_United States_trojan_44
-  - AFOSNE_United States_trojan_45
   - AFOSNE_Germany_trojan_51
   - AFOSNE_Germany_trojan_52
   - AFOSNE_Germany_trojan_53
@@ -3866,13 +3851,11 @@ proxy-groups:
   - AFOSNE_China_vmess_2117
   - AFOSNE_China_vmess_2118
   - AFOSNE_China_vmess_2119
-  - AFOSNE_None_vmess_31
-  - AFOSNE_None_vmess_32
-  - AFOSNE_Japan_trojan_41
-  - AFOSNE_Japan_trojan_42
+  - AFOSNE_United States_vmess_31
+  - AFOSNE_United States_vmess_32
+  - AFOSNE_United States_trojan_41
+  - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
-  - AFOSNE_United States_trojan_44
-  - AFOSNE_United States_trojan_45
   - AFOSNE_Germany_trojan_51
   - AFOSNE_Germany_trojan_52
   - AFOSNE_Germany_trojan_53
