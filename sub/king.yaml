@@ -1206,7 +1206,6 @@ proxies:
   servername: hk05.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_22
@@ -1223,7 +1222,6 @@ proxies:
   servername: hk05.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_23
@@ -1267,7 +1265,6 @@ proxies:
   servername: jp01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_27
@@ -1284,7 +1281,6 @@ proxies:
   servername: jp01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_28
@@ -1301,7 +1297,6 @@ proxies:
   servername: jp01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_29
@@ -1345,7 +1340,6 @@ proxies:
   servername: jp03.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_213
@@ -1362,7 +1356,6 @@ proxies:
   servername: jp03.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_214
@@ -1379,7 +1372,6 @@ proxies:
   servername: jp03.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_215
@@ -1423,7 +1415,6 @@ proxies:
   servername: hk02.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_219
@@ -1440,7 +1431,6 @@ proxies:
   servername: hk02.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_220
@@ -1457,7 +1447,6 @@ proxies:
   servername: hk02.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_221
@@ -1501,7 +1490,6 @@ proxies:
   servername: hk04.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_225
@@ -1518,7 +1506,6 @@ proxies:
   servername: hk04.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_226
@@ -1535,7 +1522,6 @@ proxies:
   servername: hk04.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_227
@@ -1606,7 +1592,6 @@ proxies:
   servername: hk05.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_234
@@ -1623,7 +1608,6 @@ proxies:
   servername: hk05.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_235
@@ -1640,7 +1624,6 @@ proxies:
   servername: hk05.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_236
@@ -1684,7 +1667,6 @@ proxies:
   servername: tw01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_240
@@ -1701,7 +1683,6 @@ proxies:
   servername: tw01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_241
@@ -1718,7 +1699,6 @@ proxies:
   servername: tw01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_242
@@ -1762,7 +1742,6 @@ proxies:
   servername: tw02.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_246
@@ -1779,7 +1758,6 @@ proxies:
   servername: tw02.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_247
@@ -1796,7 +1774,6 @@ proxies:
   servername: tw02.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_248
@@ -1840,7 +1817,6 @@ proxies:
   servername: sg02.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_252
@@ -1857,7 +1833,6 @@ proxies:
   servername: sg02.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_253
@@ -1874,7 +1849,6 @@ proxies:
   servername: sg02.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_254
@@ -1918,7 +1892,6 @@ proxies:
   servername: sg01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_258
@@ -1935,7 +1908,6 @@ proxies:
   servername: sg01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_259
@@ -1952,7 +1924,6 @@ proxies:
   servername: sg01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_260
@@ -1996,7 +1967,6 @@ proxies:
   servername: my01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_264
@@ -2013,7 +1983,6 @@ proxies:
   servername: my01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_265
@@ -2030,7 +1999,6 @@ proxies:
   servername: my01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_266
@@ -2074,7 +2042,6 @@ proxies:
   servername: us2.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_270
@@ -2091,7 +2058,6 @@ proxies:
   servername: us2.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_271
@@ -2108,7 +2074,6 @@ proxies:
   servername: us2.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_272
@@ -2152,7 +2117,6 @@ proxies:
   servername: us03.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_276
@@ -2169,7 +2133,6 @@ proxies:
   servername: us03.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_277
@@ -2186,7 +2149,6 @@ proxies:
   servername: us03.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_278
@@ -2230,7 +2192,6 @@ proxies:
   servername: us04.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_282
@@ -2247,7 +2208,6 @@ proxies:
   servername: us04.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_283
@@ -2264,7 +2224,6 @@ proxies:
   servername: us04.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_284
@@ -2308,7 +2267,6 @@ proxies:
   servername: vn01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_288
@@ -2325,7 +2283,6 @@ proxies:
   servername: vn01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_289
@@ -2342,7 +2299,6 @@ proxies:
   servername: vn01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_290
@@ -2386,7 +2342,6 @@ proxies:
   servername: id01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_294
@@ -2403,7 +2358,6 @@ proxies:
   servername: id01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_295
@@ -2420,7 +2374,6 @@ proxies:
   servername: id01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_296
@@ -2464,7 +2417,6 @@ proxies:
   servername: aus01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_2100
@@ -2481,7 +2433,6 @@ proxies:
   servername: aus01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_2101
@@ -2498,7 +2449,6 @@ proxies:
   servername: aus01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_2102
@@ -2542,7 +2492,6 @@ proxies:
   servername: tur01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_2106
@@ -2559,7 +2508,6 @@ proxies:
   servername: tur01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_2107
@@ -2576,7 +2524,6 @@ proxies:
   servername: tur01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_2108
@@ -2620,7 +2567,6 @@ proxies:
   servername: de01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_2112
@@ -2637,7 +2583,6 @@ proxies:
   servername: de01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_2113
@@ -2654,7 +2599,6 @@ proxies:
   servername: de01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_trojan_2114
@@ -2698,7 +2642,6 @@ proxies:
   servername: uk01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_2118
@@ -2715,7 +2658,6 @@ proxies:
   servername: uk01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_China_vmess_2119
@@ -2732,10 +2674,9 @@ proxies:
   servername: uk01.ckcloud.info
   network: grpc
   grpc-opts:
-    grpc-mode: gun
     grpc-service-name: flynwn
   udp: true
-- name: AFOSNE_United States_vmess_31
+- name: AFOSNE_None_vmess_31
   server: mcecloud.net
   port: 10086
   type: vmess
@@ -3783,7 +3724,7 @@ proxy-groups:
   - AFOSNE_China_vmess_2117
   - AFOSNE_China_vmess_2118
   - AFOSNE_China_vmess_2119
-  - AFOSNE_United States_vmess_31
+  - AFOSNE_None_vmess_31
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
@@ -4105,7 +4046,7 @@ proxy-groups:
   - AFOSNE_China_vmess_2117
   - AFOSNE_China_vmess_2118
   - AFOSNE_China_vmess_2119
-  - AFOSNE_United States_vmess_31
+  - AFOSNE_None_vmess_31
   - AFOSNE_United States_trojan_41
   - AFOSNE_United States_trojan_42
   - AFOSNE_United States_trojan_43
