@@ -4,7 +4,7 @@ on:
   #   branches:
   #     - main  # 替换为你的默认分支
   schedule:
-    - cron: 30 1/1 * * *
+    - cron: '0 */12 * * *'
   workflow_dispatch:  # 触发手动事件
 jobs:
   main:
