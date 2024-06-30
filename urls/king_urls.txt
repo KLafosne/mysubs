@@ -1,7 +1,9 @@
-https://pub-23ea1d2a917d4f75a7ddb7beb17b21c9.r2.dev/trials%2Fayucloud.services.yaml
-https://pub-23ea1d2a917d4f75a7ddb7beb17b21c9.r2.dev/trials%2Ffastestcloud.xyz.yaml
-https://pub-23ea1d2a917d4f75a7ddb7beb17b21c9.r2.dev/trials%2Fmcecloud.com.yaml
-https://pub-23ea1d2a917d4f75a7ddb7beb17b21c9.r2.dev/trials%2Fnova.live.yaml
-https://pub-23ea1d2a917d4f75a7ddb7beb17b21c9.r2.dev/trials%2Fqlgq.top.yaml
-https://pub-23ea1d2a917d4f75a7ddb7beb17b21c9.r2.dev/trials%2Fwww.ckcloud.xyz.yaml
-https://pub-23ea1d2a917d4f75a7ddb7beb17b21c9.r2.dev/trials%2F%E4%BA%BA%E4%BA%BA%E4%BC%A0%E6%89%BF.com.yaml
+https://raw.githubusercontent.com/KLafosne/mysubs/main/trials/biubiufast.com.yaml
+https://raw.githubusercontent.com/KLafosne/mysubs/main/trials/ayucloud.services.yaml
+https://raw.githubusercontent.com/KLafosne/mysubs/main/trials/fastestcloud.xyz.yaml
+https://raw.githubusercontent.com/KLafosne/mysubs/main/trials/mcecloud.com.yaml
+https://raw.githubusercontent.com/KLafosne/mysubs/main/trials/nova.live.yaml
+https://raw.githubusercontent.com/KLafosne/mysubs/main/trials/qlgq.top.yaml
+https://raw.githubusercontent.com/KLafosne/mysubs/main/trials/www.ckcloud.xyz.yaml
+https://raw.githubusercontent.com/KLafosne/mysubs/main/trials/www.duguletian.com.yaml
+https://raw.githubusercontent.com/KLafosne/mysubs/main/trials/人人传承.com.yaml
