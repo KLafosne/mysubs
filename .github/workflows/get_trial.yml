@@ -31,7 +31,17 @@ jobs:
 
       - name: Run king
         run: python kings.py  
-   
+        
+      - name: Commit
+        id: commit
+        continue-on-error: true
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add .
+           git commit -m "Updated at $(date '+%Y-%m-%d %H:%M:%S')"
+          git pull --rebase
+     
       - name: Upload
         uses: ryand56/r2-upload-action@latest
         with:
@@ -41,6 +51,7 @@ jobs:
           r2-bucket: ${{ secrets.R2_BUCKET }}
           source-dir: sub
       - uses: ad-m/github-push-action@master
-        if: ${{ steps.Upload.outcome == 'success' }}
+        if: ${{ steps.commit.outcome == 'success' }}
+        
       - name: Run get_trial_update_url.py
         run: python get_trial_update_url.py
