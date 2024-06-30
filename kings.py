@@ -17,9 +17,9 @@ def process_urls(url_file, processor):
                 data = response.read().decode('utf-8')
                 processor(data, index)
             except Exception as e:
-                logging.error(f"Error processing URL {url}: {e}")
+                logging.error(f"Error processing URL {url} {e}")
     except Exception as e:
-        logging.error(f"Error reading file {url_file}: {e}")
+        logging.error(f"Error reading file {url_file} {e}")
 #提取clash节点
 def process_clash(data, index):
     content = yaml.safe_load(data)
