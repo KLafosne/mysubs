@@ -45,7 +45,7 @@ jobs:
           r2-access-key-id: ${{ secrets.R2_ACCESS_KEY_ID }}
           r2-secret-access-key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
           r2-bucket: ${{ secrets.R2_BUCKET }}
-          source-dir: subscribe
+          source-dir: sub
       - uses: ad-m/github-push-action@master
         if: ${{ steps.Upload.outcome == 'success' }}
       - name: Run get_trial_update_url.py
