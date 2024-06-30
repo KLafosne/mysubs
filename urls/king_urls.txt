@@ -1,1 +1,7 @@
-
+./trials/biubiufast.com.yaml
+./trials/ayucloud.services.yaml
+.trials/fastestcloud.xyz.yaml
+./trials/mcecloud.com.yaml
+./trials/nova.live.yaml
+./qlgq.top.yaml
+./trials/www.ckcloud.xyz.yaml
