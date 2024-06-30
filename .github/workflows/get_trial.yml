@@ -42,14 +42,22 @@ jobs:
            git commit -m "Updated at $(date '+%Y-%m-%d %H:%M:%S')"
           git pull --rebase
      
-      - name: Upload
+      - name: Upload sub
         uses: ryand56/r2-upload-action@latest
         with:
           r2-account-id: ${{ secrets.R2_ACCOUNT_ID }}
           r2-access-key-id: ${{ secrets.R2_ACCESS_KEY_ID }}
           r2-secret-access-key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
           r2-bucket: ${{ secrets.R2_BUCKET }}
-          source-dir: sub trials
+          source-dir: sub
+      - name: Upload  trials
+        uses: ryand56/r2-upload-action@latest
+        with:
+          r2-account-id: ${{ secrets.R2_ACCOUNT_ID }}
+          r2-access-key-id: ${{ secrets.R2_ACCESS_KEY_ID }}
+          r2-secret-access-key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          r2-bucket: ${{ secrets.R2_BUCKET }}
+          source-dir: trials
       - uses: ad-m/github-push-action@master
         if: ${{ steps.commit.outcome == 'success' }}
         
