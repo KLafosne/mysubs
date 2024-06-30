@@ -1302,7 +1302,6 @@ proxies:
 - name: AFOSNE_China_trojan_21
   server: fly0001.flyflylflyflysbs.sbs
   port: 22704
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: hk05.ckcloud.info
@@ -1311,7 +1310,6 @@ proxies:
 - name: AFOSNE_China_trojan_22
   server: fly0001.flyflylflyflysbs.sbs
   port: 22704
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: hk05.ckcloud.info
@@ -1320,7 +1318,6 @@ proxies:
 - name: AFOSNE_China_trojan_23
   server: fly0001.flyflylflyflysbs.sbs
   port: 20356
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: jp01.ckcloud.info
@@ -1329,7 +1326,6 @@ proxies:
 - name: AFOSNE_China_trojan_24
   server: fly0001.flyflylflyflysbs.sbs
   port: 20356
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: jp01.ckcloud.info
@@ -1338,13 +1334,11 @@ proxies:
 - name: AFOSNE_China_vmess_25
   server: fly0001.flyflylflyflysbs.sbs
   port: 57230
-  client-fingerprint: chrome
   type: vmess
   uuid: 933b90fa-69de-4bf8-9af8-6967924c448b
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: jp01.ckcloud.info
   network: grpc
@@ -1354,7 +1348,6 @@ proxies:
 - name: AFOSNE_China_trojan_26
   server: fly0001.flyflylflyflysbs.sbs
   port: 37581
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: jp03.ckcloud.info
@@ -1363,7 +1356,6 @@ proxies:
 - name: AFOSNE_China_trojan_27
   server: fly0001.flyflylflyflysbs.sbs
   port: 37581
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: jp03.ckcloud.info
@@ -1372,13 +1364,11 @@ proxies:
 - name: AFOSNE_China_vmess_28
   server: fly0001.flyflylflyflysbs.sbs
   port: 16123
-  client-fingerprint: chrome
   type: vmess
   uuid: 933b90fa-69de-4bf8-9af8-6967924c448b
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: jp03.ckcloud.info
   network: grpc
@@ -1388,7 +1378,6 @@ proxies:
 - name: AFOSNE_China_trojan_29
   server: fly0001.flyflylflyflysbs.sbs
   port: 15976
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: hk02.ckcloud.info
@@ -1397,7 +1386,6 @@ proxies:
 - name: AFOSNE_China_trojan_210
   server: fly0001.flyflylflyflysbs.sbs
   port: 15976
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: hk02.ckcloud.info
@@ -1406,13 +1394,11 @@ proxies:
 - name: AFOSNE_China_vmess_211
   server: fly0001.flyflylflyflysbs.sbs
   port: 27236
-  client-fingerprint: chrome
   type: vmess
   uuid: 933b90fa-69de-4bf8-9af8-6967924c448b
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk02.ckcloud.info
   network: grpc
@@ -1422,7 +1408,6 @@ proxies:
 - name: AFOSNE_China_trojan_212
   server: fly0001.flyflylflyflysbs.sbs
   port: 14490
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: hk04.ckcloud.info
@@ -1431,7 +1416,6 @@ proxies:
 - name: AFOSNE_China_trojan_213
   server: fly0001.flyflylflyflysbs.sbs
   port: 14490
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: hk04.ckcloud.info
@@ -1440,13 +1424,11 @@ proxies:
 - name: AFOSNE_China_vmess_214
   server: fly0001.flyflylflyflysbs.sbs
   port: 34090
-  client-fingerprint: chrome
   type: vmess
   uuid: 933b90fa-69de-4bf8-9af8-6967924c448b
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk04.ckcloud.info
   network: grpc
@@ -1456,7 +1438,6 @@ proxies:
 - name: AFOSNE_China_trojan_215
   server: fly0001.flyflylflyflysbs.sbs
   port: 46912
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: hk03.ckcloud.info
@@ -1465,7 +1446,6 @@ proxies:
 - name: AFOSNE_China_trojan_216
   server: fly0001.flyflylflyflysbs.sbs
   port: 46912
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: hk03.ckcloud.info
@@ -1474,7 +1454,6 @@ proxies:
 - name: AFOSNE_China_trojan_217
   server: fly0001.flyflylflyflysbs.sbs
   port: 22704
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: hk05.ckcloud.info
@@ -1483,7 +1462,6 @@ proxies:
 - name: AFOSNE_China_trojan_218
   server: fly0001.flyflylflyflysbs.sbs
   port: 22704
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: hk05.ckcloud.info
@@ -1492,13 +1470,11 @@ proxies:
 - name: AFOSNE_China_vmess_219
   server: fly0001.flyflylflyflysbs.sbs
   port: 62690
-  client-fingerprint: chrome
   type: vmess
   uuid: 933b90fa-69de-4bf8-9af8-6967924c448b
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: hk05.ckcloud.info
   network: grpc
@@ -1508,7 +1484,6 @@ proxies:
 - name: AFOSNE_China_trojan_220
   server: fly0001.flyflylflyflysbs.sbs
   port: 14374
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: sk01.ckcloud.info
@@ -1517,7 +1492,6 @@ proxies:
 - name: AFOSNE_China_trojan_221
   server: f10002.flyflylflyflysbs.sbs
   port: 14374
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: sk01.ckcloud.info
@@ -1526,7 +1500,6 @@ proxies:
 - name: AFOSNE_China_trojan_222
   server: fly0001.flyflylflyflysbs.sbs
   port: 25074
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: tw01.ckcloud.info
@@ -1535,7 +1508,6 @@ proxies:
 - name: AFOSNE_China_trojan_223
   server: fly0001.flyflylflyflysbs.sbs
   port: 25074
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: tw01.ckcloud.info
@@ -1544,13 +1516,11 @@ proxies:
 - name: AFOSNE_China_vmess_224
   server: fly0001.flyflylflyflysbs.sbs
   port: 29935
-  client-fingerprint: chrome
   type: vmess
   uuid: 933b90fa-69de-4bf8-9af8-6967924c448b
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: tw01.ckcloud.info
   network: grpc
@@ -1560,7 +1530,6 @@ proxies:
 - name: AFOSNE_China_trojan_225
   server: fly0001.flyflylflyflysbs.sbs
   port: 35672
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: tw02.ckcloud.info
@@ -1569,7 +1538,6 @@ proxies:
 - name: AFOSNE_China_trojan_226
   server: fly0001.flyflylflyflysbs.sbs
   port: 35672
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: tw02.ckcloud.info
@@ -1578,13 +1546,11 @@ proxies:
 - name: AFOSNE_China_vmess_227
   server: fly0001.flyflylflyflysbs.sbs
   port: 38120
-  client-fingerprint: chrome
   type: vmess
   uuid: 933b90fa-69de-4bf8-9af8-6967924c448b
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: tw02.ckcloud.info
   network: grpc
@@ -1594,7 +1560,6 @@ proxies:
 - name: AFOSNE_China_trojan_228
   server: fly0001.flyflylflyflysbs.sbs
   port: 21526
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: sg02.ckcloud.info
@@ -1603,7 +1568,6 @@ proxies:
 - name: AFOSNE_China_trojan_229
   server: fly0001.flyflylflyflysbs.sbs
   port: 21526
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: sg02.ckcloud.info
@@ -1612,13 +1576,11 @@ proxies:
 - name: AFOSNE_China_vmess_230
   server: fly0001.flyflylflyflysbs.sbs
   port: 33957
-  client-fingerprint: chrome
   type: vmess
   uuid: 933b90fa-69de-4bf8-9af8-6967924c448b
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: sg02.ckcloud.info
   network: grpc
@@ -1628,7 +1590,6 @@ proxies:
 - name: AFOSNE_China_trojan_231
   server: fly0001.flyflylflyflysbs.sbs
   port: 40276
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: sg01.ckcloud.info
@@ -1637,7 +1598,6 @@ proxies:
 - name: AFOSNE_China_trojan_232
   server: fly0001.flyflylflyflysbs.sbs
   port: 40276
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: sg01.ckcloud.info
@@ -1646,13 +1606,11 @@ proxies:
 - name: AFOSNE_China_vmess_233
   server: fly0001.flyflylflyflysbs.sbs
   port: 43445
-  client-fingerprint: chrome
   type: vmess
   uuid: 933b90fa-69de-4bf8-9af8-6967924c448b
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: sg01.ckcloud.info
   network: grpc
@@ -1662,7 +1620,6 @@ proxies:
 - name: AFOSNE_China_trojan_234
   server: fly0001.flyflylflyflysbs.sbs
   port: 25881
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: my01.ckcloud.info
@@ -1671,7 +1628,6 @@ proxies:
 - name: AFOSNE_China_trojan_235
   server: fly0001.flyflylflyflysbs.sbs
   port: 25881
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: my01.ckcloud.info
@@ -1680,13 +1636,11 @@ proxies:
 - name: AFOSNE_China_vmess_236
   server: fly0001.flyflylflyflysbs.sbs
   port: 55561
-  client-fingerprint: chrome
   type: vmess
   uuid: 933b90fa-69de-4bf8-9af8-6967924c448b
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: my01.ckcloud.info
   network: grpc
@@ -1696,7 +1650,6 @@ proxies:
 - name: AFOSNE_China_trojan_237
   server: fly0001.flyflylflyflysbs.sbs
   port: 10598
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: us2.ckcloud.info
@@ -1705,7 +1658,6 @@ proxies:
 - name: AFOSNE_China_trojan_238
   server: fly0001.flyflylflyflysbs.sbs
   port: 10598
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: us2.ckcloud.info
@@ -1714,13 +1666,11 @@ proxies:
 - name: AFOSNE_China_vmess_239
   server: fly0001.flyflylflyflysbs.sbs
   port: 10682
-  client-fingerprint: chrome
   type: vmess
   uuid: 933b90fa-69de-4bf8-9af8-6967924c448b
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: us2.ckcloud.info
   network: grpc
@@ -1730,7 +1680,6 @@ proxies:
 - name: AFOSNE_China_trojan_240
   server: fly0001.flyflylflyflysbs.sbs
   port: 10519
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: us03.ckcloud.info
@@ -1739,7 +1688,6 @@ proxies:
 - name: AFOSNE_China_trojan_241
   server: fly0001.flyflylflyflysbs.sbs
   port: 10519
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: us03.ckcloud.info
@@ -1748,13 +1696,11 @@ proxies:
 - name: AFOSNE_China_vmess_242
   server: fly0001.flyflylflyflysbs.sbs
   port: 46675
-  client-fingerprint: chrome
   type: vmess
   uuid: 933b90fa-69de-4bf8-9af8-6967924c448b
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: us03.ckcloud.info
   network: grpc
@@ -1764,7 +1710,6 @@ proxies:
 - name: AFOSNE_China_trojan_243
   server: fly0001.flyflylflyflysbs.sbs
   port: 28625
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: us04.ckcloud.info
@@ -1773,7 +1718,6 @@ proxies:
 - name: AFOSNE_China_trojan_244
   server: fly0001.flyflylflyflysbs.sbs
   port: 28625
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: us04.ckcloud.info
@@ -1782,7 +1726,6 @@ proxies:
 - name: AFOSNE_China_trojan_245
   server: f10002.flyflylflyflysbs.sbs
   port: 28625
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: us04.ckcloud.info
@@ -1791,13 +1734,11 @@ proxies:
 - name: AFOSNE_China_vmess_246
   server: fly0001.flyflylflyflysbs.sbs
   port: 46121
-  client-fingerprint: chrome
   type: vmess
   uuid: 933b90fa-69de-4bf8-9af8-6967924c448b
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: us04.ckcloud.info
   network: grpc
@@ -1807,7 +1748,6 @@ proxies:
 - name: AFOSNE_China_trojan_247
   server: fly0001.flyflylflyflysbs.sbs
   port: 54295
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: vn01.ckcloud.info
@@ -1816,7 +1756,6 @@ proxies:
 - name: AFOSNE_China_trojan_248
   server: fly0001.flyflylflyflysbs.sbs
   port: 54295
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: vn01.ckcloud.info
@@ -1825,13 +1764,11 @@ proxies:
 - name: AFOSNE_China_vmess_249
   server: fly0001.flyflylflyflysbs.sbs
   port: 39609
-  client-fingerprint: chrome
   type: vmess
   uuid: 933b90fa-69de-4bf8-9af8-6967924c448b
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: vn01.ckcloud.info
   network: grpc
@@ -1841,7 +1778,6 @@ proxies:
 - name: AFOSNE_China_trojan_250
   server: fly0001.flyflylflyflysbs.sbs
   port: 45852
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: id01.ckcloud.info
@@ -1850,7 +1786,6 @@ proxies:
 - name: AFOSNE_China_trojan_251
   server: fly0001.flyflylflyflysbs.sbs
   port: 45852
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: id01.ckcloud.info
@@ -1859,13 +1794,11 @@ proxies:
 - name: AFOSNE_China_vmess_252
   server: fly0001.flyflylflyflysbs.sbs
   port: 44231
-  client-fingerprint: chrome
   type: vmess
   uuid: 933b90fa-69de-4bf8-9af8-6967924c448b
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: id01.ckcloud.info
   network: grpc
@@ -1875,7 +1808,6 @@ proxies:
 - name: AFOSNE_China_trojan_253
   server: fly0001.flyflylflyflysbs.sbs
   port: 63640
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: aus01.ckcloud.info
@@ -1884,7 +1816,6 @@ proxies:
 - name: AFOSNE_China_trojan_254
   server: fly0001.flyflylflyflysbs.sbs
   port: 63640
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: aus01.ckcloud.info
@@ -1893,13 +1824,11 @@ proxies:
 - name: AFOSNE_China_vmess_255
   server: fly0001.flyflylflyflysbs.sbs
   port: 12838
-  client-fingerprint: chrome
   type: vmess
   uuid: 933b90fa-69de-4bf8-9af8-6967924c448b
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: aus01.ckcloud.info
   network: grpc
@@ -1909,7 +1838,6 @@ proxies:
 - name: AFOSNE_China_trojan_256
   server: fly0001.flyflylflyflysbs.sbs
   port: 15762
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: tur01.ckcloud.info
@@ -1918,7 +1846,6 @@ proxies:
 - name: AFOSNE_China_trojan_257
   server: fly0001.flyflylflyflysbs.sbs
   port: 15762
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: tur01.ckcloud.info
@@ -1927,13 +1854,11 @@ proxies:
 - name: AFOSNE_China_vmess_258
   server: fly0001.flyflylflyflysbs.sbs
   port: 29970
-  client-fingerprint: chrome
   type: vmess
   uuid: 933b90fa-69de-4bf8-9af8-6967924c448b
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: tur01.ckcloud.info
   network: grpc
@@ -1943,7 +1868,6 @@ proxies:
 - name: AFOSNE_China_trojan_259
   server: fly0001.flyflylflyflysbs.sbs
   port: 20943
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: de01.ckcloud.info
@@ -1952,7 +1876,6 @@ proxies:
 - name: AFOSNE_China_trojan_260
   server: fly0001.flyflylflyflysbs.sbs
   port: 20943
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: de01.ckcloud.info
@@ -1961,13 +1884,11 @@ proxies:
 - name: AFOSNE_China_vmess_261
   server: fly0001.flyflylflyflysbs.sbs
   port: 26503
-  client-fingerprint: chrome
   type: vmess
   uuid: 933b90fa-69de-4bf8-9af8-6967924c448b
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: de01.ckcloud.info
   network: grpc
@@ -1977,7 +1898,6 @@ proxies:
 - name: AFOSNE_China_trojan_262
   server: fly0001.flyflylflyflysbs.sbs
   port: 39788
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: uk01.ckcloud.info
@@ -1986,7 +1906,6 @@ proxies:
 - name: AFOSNE_China_trojan_263
   server: fly0001.flyflylflyflysbs.sbs
   port: 39788
-  client-fingerprint: chrome
   type: trojan
   password: 933b90fa-69de-4bf8-9af8-6967924c448b
   sni: uk01.ckcloud.info
@@ -1995,13 +1914,11 @@ proxies:
 - name: AFOSNE_China_vmess_264
   server: fly0001.flyflylflyflysbs.sbs
   port: 56394
-  client-fingerprint: chrome
   type: vmess
   uuid: 933b90fa-69de-4bf8-9af8-6967924c448b
   alterId: 0
   cipher: auto
   tls: true
-  tfo: false
   skip-cert-verify: true
   servername: uk01.ckcloud.info
   network: grpc
@@ -2035,7 +1952,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_51
   server: fkvip101.qlgq.fun
   port: 11789
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: fkvip101.qlgq.fun
@@ -2047,7 +1963,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_52
   server: fkvip101.qlgq.fun
   port: 21789
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: fkvip101.qlgq.fun
@@ -2059,7 +1974,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_53
   server: fkvip101.qlgq.fun
   port: 31789
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: fkvip101.qlgq.fun
@@ -2071,7 +1985,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_54
   server: fkvip102.qlgq.fun
   port: 41789
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: fkvip102.qlgq.fun
@@ -2083,7 +1996,6 @@ proxies:
 - name: AFOSNE_Germany_trojan_55
   server: fkvip102.qlgq.fun
   port: 51789
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: fkvip102.qlgq.fun
@@ -2095,7 +2007,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_56
   server: sgvip101.qlgq.fun
   port: 11223
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: sgvip101.qlgq.fun
@@ -2107,7 +2018,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_57
   server: sgvip101.qlgq.fun
   port: 21223
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: sgvip101.qlgq.fun
@@ -2119,7 +2029,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_58
   server: sgvip101.qlgq.fun
   port: 31223
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: sgvip101.qlgq.fun
@@ -2131,7 +2040,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_59
   server: sgvip101.qlgq.fun
   port: 41223
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: sgvip101.qlgq.fun
@@ -2143,7 +2051,6 @@ proxies:
 - name: AFOSNE_Singapore_trojan_510
   server: sgvip101.qlgq.fun
   port: 51223
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: sgvip101.qlgq.fun
@@ -2155,7 +2062,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_511
   server: jpvip101.qlgq.fun
   port: 61239
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: jpvip101.qlgq.fun
@@ -2167,7 +2073,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_512
   server: jpvip101.qlgq.fun
   port: 61288
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: jpvip101.qlgq.fun
@@ -2179,7 +2084,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_513
   server: jpvip101.qlgq.fun
   port: 61237
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: jpvip101.qlgq.fun
@@ -2191,7 +2095,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_514
   server: jpvip101.qlgq.fun
   port: 61236
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: jpvip101.qlgq.fun
@@ -2203,7 +2106,6 @@ proxies:
 - name: AFOSNE_Japan_trojan_515
   server: jpvip101.qlgq.fun
   port: 61235
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: jpvip101.qlgq.fun
@@ -2215,7 +2117,6 @@ proxies:
 - name: AFOSNE_United States_trojan_516
   server: lavip101.qlgq.fun
   port: 11156
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: lavip101.qlgq.fun
@@ -2227,7 +2128,6 @@ proxies:
 - name: AFOSNE_United States_trojan_517
   server: lavip101.qlgq.fun
   port: 21156
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: lavip101.qlgq.fun
@@ -2239,7 +2139,6 @@ proxies:
 - name: AFOSNE_United States_trojan_518
   server: lavip101.qlgq.fun
   port: 31156
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: lavip101.qlgq.fun
@@ -2251,7 +2150,6 @@ proxies:
 - name: AFOSNE_United Kingdom_trojan_519
   server: ukvip101.qlgq.fun
   port: 14568
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: ukvip101.qlgq.fun
@@ -2263,7 +2161,6 @@ proxies:
 - name: AFOSNE_United Kingdom_trojan_520
   server: ukvip101.qlgq.fun
   port: 14586
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: ukvip101.qlgq.fun
@@ -2275,7 +2172,6 @@ proxies:
 - name: AFOSNE_United Kingdom_trojan_521
   server: ukvip101.qlgq.fun
   port: 18885
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: ukvip101.qlgq.fun
@@ -2287,7 +2183,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_522
   server: hkvip101.qlgq.fun
   port: 12249
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: hkvip101.qlgq.fun
@@ -2299,7 +2194,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_523
   server: hkvip101.qlgq.fun
   port: 22249
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: hkvip101.qlgq.fun
@@ -2311,7 +2205,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_524
   server: hkvip102.qlgq.fun
   port: 32249
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: hkvip102.qlgq.fun
@@ -2323,7 +2216,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_525
   server: hkvip102.qlgq.fun
   port: 42249
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: hkvip102.qlgq.fun
@@ -2335,7 +2227,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_526
   server: hkvip103.qlgq.fun
   port: 52249
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: hkvip103.qlgq.fun
@@ -2347,7 +2238,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_527
   server: hkvip103.qlgq.fun
   port: 11116
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: hkvip103.qlgq.fun
@@ -2359,7 +2249,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_528
   server: hkvip104.qlgq.fun
   port: 45136
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: hkvip104.qlgq.fun
@@ -2371,7 +2260,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_529
   server: hkvip104.qlgq.fun
   port: 46216
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: hkvip104.qlgq.fun
@@ -2383,7 +2271,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_530
   server: hkvip105.qlgq.fun
   port: 41116
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: hkvip105.qlgq.fun
@@ -2395,7 +2282,6 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_531
   server: hkvip105.qlgq.fun
   port: 51116
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: hkvip105.qlgq.fun
@@ -2407,7 +2293,6 @@ proxies:
 - name: AFOSNE_Malaysia_trojan_532
   server: klvip101.qlgq.fun
   port: 10443
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: klvip101.qlgq.fun
@@ -2419,7 +2304,6 @@ proxies:
 - name: AFOSNE_Malaysia_trojan_533
   server: klvip101.qlgq.fun
   port: 20443
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: klvip101.qlgq.fun
@@ -2431,7 +2315,6 @@ proxies:
 - name: AFOSNE_Malaysia_trojan_534
   server: klvip101.qlgq.fun
   port: 30443
-  client-fingerprint: chrome
   type: trojan
   password: 9406e8a0-24d3-38ba-9b2e-4180f26c240c
   sni: klvip101.qlgq.fun
