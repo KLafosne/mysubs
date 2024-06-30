@@ -29,16 +29,24 @@ jobs:
       - name: Run king
         run: python kings.py  
    
-      - name: Commit
-        id: commit
-        continue-on-error: true
-        run: |
-          git config user.email "actions@github.com"
-          git config user.name "GitHub Actions"
-          git add .
-           git commit -m "Updated at $(date '+%Y-%m-%d %H:%M:%S')"
-          git pull --rebase
+      # - name: Commit
+      #   id: commit
+      #   continue-on-error: true
+      #   run: |
+      #     git config user.email "actions@github.com"
+      #     git config user.name "GitHub Actions"
+      #     git add .
+      #      git commit -m "Updated at $(date '+%Y-%m-%d %H:%M:%S')"
+      #     git pull --rebase
+      - name: Upload
+        uses: ryand56/r2-upload-action@latest
+        with:
+          r2-account-id: ${{ secrets.R2_ACCOUNT_ID }}
+          r2-access-key-id: ${{ secrets.R2_ACCESS_KEY_ID }}
+          r2-secret-access-key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          r2-bucket: ${{ secrets.R2_BUCKET }}
+          source-dir: subscribe
       - uses: ad-m/github-push-action@master
-        if: ${{ steps.commit.outcome == 'success' }}
+        if: ${{ steps.Upload.outcome == 'success' }}
       - name: Run get_trial_update_url.py
         run: python get_trial_update_url.py
