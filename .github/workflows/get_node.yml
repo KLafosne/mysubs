@@ -32,6 +32,9 @@ jobs:
       - name: Run king
         run: python kings.py  
         
+      - name: Run sb script
+        run: python sb.py 
+        
       - name: Commit
         id: commit
         continue-on-error: true
