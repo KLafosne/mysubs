@@ -2162,7 +2162,11 @@
             "tls": {
                 "enabled": true,
                 "server_name": "AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM",
-                "insecure": true
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
             },
             "type": "trojan"
         },
@@ -2174,7 +2178,11 @@
             "tls": {
                 "enabled": true,
                 "server_name": "AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM",
-                "insecure": true
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
             },
             "type": "trojan"
         },
@@ -2186,7 +2194,11 @@
             "tls": {
                 "enabled": true,
                 "server_name": "AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM",
-                "insecure": true
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
             },
             "type": "trojan"
         },
