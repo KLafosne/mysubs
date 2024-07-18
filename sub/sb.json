@@ -2156,17 +2156,13 @@
         },
         {
             "password": "bfa6beeb-1c32-37dc-9d5b-c7076567833f",
-            "server": "54.213.13.255",
+            "server": "34.215.241.10",
             "server_port": 443,
             "tag": "AFOSNE_United States_trojan_41",
             "tls": {
                 "enabled": true,
                 "server_name": "AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "type": "trojan"
         },
@@ -2178,11 +2174,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "type": "trojan"
         },
@@ -2194,11 +2186,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "type": "trojan"
         },
