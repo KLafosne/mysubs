@@ -1,68 +1,73 @@
 [www.ckcloud.xyz]
-更新订阅链接/续费续签失败  注册失败(pkvlhmm151@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(etxbkgd290@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [fastestcloud.xyz]
-email  pkvlhmm151@gmail.com
+email  etxbkgd290@gmail.com
 node_n  64
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://sbs.fastfly.life:21600/api/v1/client/subscribe?token=c04546637da9a309f6e8c64c67705ca5
-time  2024-07-18 20:32:59.548769+08:00
+sub_url  https://sbs.fastfly.life:21600/api/v1/client/subscribe?token=09601fa5e55fc947406b50c494c58f63
+time  2024-07-19 20:12:17.493267+08:00
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [biubiufast.com]
-更新订阅链接/续费续签失败  注册失败(pkvlhmm151@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
+更新订阅链接/续费续签失败  注册失败(etxbkgd290@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
 
 [cloud.speedypro.xyz name Speedypro]
-更新订阅链接/续费续签失败  注册失败(pkvlhmm151@gmail.com): HTTPSConnectionPool(host='cloud.speedypro.xyz%20name%20speedypro', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ffb78d697e0>: Failed to resolve 'cloud.speedypro.xyz%20name%20speedypro' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(etxbkgd290@gmail.com): HTTPSConnectionPool(host='cloud.speedypro.xyz%20name%20speedypro', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4f42f7a4d0>: Failed to resolve 'cloud.speedypro.xyz%20name%20speedypro' ([Errno -2] Name or service not known)"))
 
 [ayucloud.services]
 email  pkvlhmm151@xxxhi.cc
-last_checkin  2024-07-18 20:33:18.168046+08:00
+last_checkin  2024-07-19 20:11:23.769747+08:00
 node_n  98
-sub_info  0B  1.092G  2024-07-19 20:33:17+08:00  (剩余 1.092G 23:59:54.808085)
+sub_info  0B  1.743G  2024-07-19 20:33:17+08:00  (剩余 1.743G 0:21:47.690823)
 sub_url  https://network.ayucloud.nl/link/cPhtocVELErT977b?clash=1
 time  2024-07-18 20:33:18.784207+08:00
+更新订阅链接/续费续签失败  发送邮箱验证码失败(etxbkgd290@gmail.com): 创建 mail.gw 账户失败: 500 Internal Server Error '{"@context":"\\/contexts\\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}'
 
 [人人传承.com]
 email  pkvlhmm151@xxxhi.cc
 invite_code  TLkE  10000
-last_checkin  2024-07-18 20:33:18.758988+08:00
+last_checkin  2024-07-19 20:11:23.772337+08:00
 node_n  47
-sub_info  0B  10.15G  2024-07-19 20:33:18+08:00  (剩余 10.15G 23:59:12.417534)
+sub_info  12.89M  10.25G  2024-07-19 20:33:18+08:00  (剩余 10.24G 0:21:45.194284)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/5XCnCoPIP1xMPvGS?sub=3
 time  2024-07-18 20:33:19.264178+08:00
+保存base64/clash订阅失败  'NoneType' object is not iterable
+更新订阅链接/续费续签失败  发送邮箱验证码失败(etxbkgd290@gmail.com): 创建 mail.gw 账户失败: 500 Internal Server Error '{"@context":"\\/contexts\\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}'
 
 [qlgq.top]
 email  pkvlhmm151@xxxhi.cc
-last_checkin  2024-07-18 20:32:57.089345+08:00
+last_checkin  2024-07-19 20:11:23.773714+08:00
 node_n  34
-sub_info  0B  888G  2024-07-19 20:32:56+08:00  (剩余 888G 23:59:54.444031)
+sub_info  0B  888.1G  2024-07-19 20:32:56+08:00  (剩余 888.1G 0:20:47.210478)
 sub_url  https://www.qlgq.top/link/caced9a7ea5eaa4a?clash=1
 time  2024-07-18 20:32:58.500664+08:00
+更新订阅链接/续费续签失败  发送邮箱验证码失败(etxbkgd290@gmail.com): 创建 mail.gw 账户失败: 422 Unprocessable Entity '{"@context":"\\/contexts\\/ConstraintViolationList","@type":"ConstraintViolationList","hydra:title":"An error occurred","hydra:description":"address: This value is already used.","violations":[{"propertyPath":"address","message":"This value is already used.","code":"23bd9dbf-6b9b-41cd-a99e-4844bcf3077f"}]}'
 
 [nova.live]
 email  crcbokgp750@muatoc.com
-last_checkin  2024-07-18 09:12:29.406142+08:00
+last_checkin  2024-07-19 20:11:23.774782+08:00
 node_n  3
-sub_info  136.9M  3.226G  永不过期  (剩余 3.092G)
+sub_info  136.9M  3.302G  永不过期  (剩余 3.168G)
 sub_url  https://new.gfw.news/link/Bk5oN1YJsmvrFgSB?sub=3
 time  2024-06-30 18:45:41.060678+08:00
 
 [www.duguletian.com]
 email  pkvlhmm151@xxxhi.cc
-last_checkin  2024-07-18 20:33:06.495544+08:00
+last_checkin  2024-07-19 20:11:23.776156+08:00
 node_n  6
-sub_info  0B  1.017G  2024-07-19 20:33:06+08:00  (剩余 1.017G 23:59:56.866619)
+sub_info  6.452M  1.035G  2024-07-19 20:33:06+08:00  (剩余 1.029G 0:21:37.666059)
 sub_url  https://www.duguletian.com/link/C4XKIDdTy808sIrr?sub=3
 time  2024-07-18 20:33:07.105158+08:00
+更新订阅链接/续费续签失败  发送邮箱验证码失败(etxbkgd290@gmail.com): 创建 mail.gw 账户失败: 500 Internal Server Error '{"@context":"\\/contexts\\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}'
 
 [mcecloud.com]
-email  spbzaxcj94@gmail.com
-last_checkin  2024-07-18 09:12:51.018074+08:00
-sub_info  0B  1.952G  2024-07-19 09:12:50+08:00  (剩余 1.952G 12:39:36.933888)
-sub_url  https://metron.mcecloud.com/link/yGqmcuZMKt8gatGV?sub=3
-time  2024-07-18 09:12:51.987024+08:00
+email  etxbkgd290@gmail.com
+last_checkin  2024-07-19 20:11:32.979967+08:00
+sub_info  0B  1.598G  2024-07-20 20:11:32+08:00  (剩余 1.598G 23:59:02.477924)
+sub_url  https://metron.mcecloud.com/link/bTqBGOGex6JUUgRo?sub=3
+time  2024-07-19 20:11:34.051370+08:00
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [ikuuu.me name ikuuu]
-更新订阅链接/续费续签失败  注册失败(pkvlhmm151@gmail.com): HTTPSConnectionPool(host='ikuuu.me%20name%20ikuuu', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ffb78d6a650>: Failed to resolve 'ikuuu.me%20name%20ikuuu' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(etxbkgd290@gmail.com): HTTPSConnectionPool(host='ikuuu.me%20name%20ikuuu', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4f42f7a4a0>: Failed to resolve 'ikuuu.me%20name%20ikuuu' ([Errno -2] Name or service not known)"))
