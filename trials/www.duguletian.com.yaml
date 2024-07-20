@@ -39,12 +39,14 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.dugusite3.top, port: 5061, type: vmess, uuid: 48630e14-5997-3daf-bd5a-6b1a9bcaae7c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.dugusite3.top, port: 5061, type: vmess, uuid: 48630e14-5997-3daf-bd5a-6b1a9bcaae7c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 AWS3 *3 - 独孤乐天, server: ru-1.dugusite3.top, port: 5061, type: vmess, uuid: 48630e14-5997-3daf-bd5a-6b1a9bcaae7c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 AWS3 *3 IPv6 - 独孤乐天, server: jp6-3.dugusite3.top, port: 5061, type: vmess, uuid: 48630e14-5997-3daf-bd5a-6b1a9bcaae7c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.dugusite3.top, port: 5061, type: vmess, uuid: 48630e14-5997-3daf-bd5a-6b1a9bcaae7c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.dugusite3.top, port: 5061, type: vmess, uuid: 48630e14-5997-3daf-bd5a-6b1a9bcaae7c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 💣 剩余流量：1.01GB - 独孤乐天, server: www.duguletian.com, port: 10086, type: vmess, uuid: 210cf91b-7b88-39f8-b4c9-ba159a41d639, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 💣 过期时间：2024-07-21 - 独孤乐天, server: www.duguletian.com, port: 10086, type: vmess, uuid: 210cf91b-7b88-39f8-b4c9-ba159a41d639, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.dugusite3.top, port: 5061, type: vmess, uuid: 210cf91b-7b88-39f8-b4c9-ba159a41d639, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.dugusite3.top, port: 5061, type: vmess, uuid: 210cf91b-7b88-39f8-b4c9-ba159a41d639, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS3 *3 - 独孤乐天, server: ru-1.dugusite3.top, port: 5061, type: vmess, uuid: 210cf91b-7b88-39f8-b4c9-ba159a41d639, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS3 *3 IPv6 - 独孤乐天, server: jp6-3.dugusite3.top, port: 5061, type: vmess, uuid: 210cf91b-7b88-39f8-b4c9-ba159a41d639, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.dugusite3.top, port: 5061, type: vmess, uuid: 210cf91b-7b88-39f8-b4c9-ba159a41d639, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.dugusite3.top, port: 5061, type: vmess, uuid: 210cf91b-7b88-39f8-b4c9-ba159a41d639, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,17gouwuba.com,REJECT
 - DOMAIN-SUFFIX,186078.com,REJECT

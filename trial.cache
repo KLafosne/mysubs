@@ -1,72 +1,71 @@
 [www.ckcloud.xyz]
-更新订阅链接/续费续签失败  注册失败(ynjvqmv287@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(uukpwedm615@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [fastestcloud.xyz]
-email  ynjvqmv287@gmail.com
+email  uukpwedm615@gmail.com
 node_n  64
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://sbs.fastfly.life:21600/api/v1/client/subscribe?token=d16fbd9e9b438ec3a68b01ac7deed94e
-time  2024-07-19 20:31:58.965596+08:00
-保存base64/clash订阅失败  'NoneType' object is not iterable
+sub_url  https://sbs.fastfly.life:21600/api/v1/client/subscribe?token=ea362b09e6715be551beafff8103fbba
+time  2024-07-20 09:28:46.928468+08:00
+保存base64/clash订阅失败  string indices must be integers
+获取订阅失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<html>\n<head><title>404 Not Found</title></head>\n<body>\n<center><h1>404 Not Found</h1></center>\n<hr><center>nginx</center>\n</body>\n</html>\n\n\n\n\n\n\n')
 
 [biubiufast.com]
-更新订阅链接/续费续签失败  注册失败(ynjvqmv287@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
+更新订阅链接/续费续签失败  注册失败(uukpwedm615@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
 
 [cloud.speedypro.xyz name Speedypro]
-更新订阅链接/续费续签失败  注册失败(ynjvqmv287@gmail.com): HTTPSConnectionPool(host='cloud.speedypro.xyz%20name%20speedypro', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f492ff20910>: Failed to resolve 'cloud.speedypro.xyz%20name%20speedypro' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(uukpwedm615@gmail.com): HTTPSConnectionPool(host='cloud.speedypro.xyz%20name%20speedypro', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f9fe9cfa980>: Failed to resolve 'cloud.speedypro.xyz%20name%20speedypro' ([Errno -2] Name or service not known)"))
 
 [ayucloud.services]
-email  pkvlhmm151@xxxhi.cc
-last_checkin  2024-07-19 20:11:23.769747+08:00
+email  uukpwedm615@lista.cc
+last_checkin  2024-07-20 09:12:22.108158+08:00
 node_n  98
-sub_info  0B  1.743G  2024-07-19 20:33:17+08:00  (剩余 1.743G 0:01:58.242263)
-sub_url  https://network.ayucloud.nl/link/cPhtocVELErT977b?clash=1
-time  2024-07-18 20:33:18.784207+08:00
-更新订阅链接/续费续签失败  发送邮箱验证码失败(ynjvqmv287@gmail.com): 创建 mail.gw 账户失败: 422 Unprocessable Entity '{"@context":"\\/contexts\\/ConstraintViolationList","@type":"ConstraintViolationList","hydra:title":"An error occurred","hydra:description":"address: This value is already used.","violations":[{"propertyPath":"address","message":"This value is already used.","code":"23bd9dbf-6b9b-41cd-a99e-4844bcf3077f"}]}'
+sub_info  0B  1.132G  2024-07-21 09:12:21+08:00  (剩余 1.132G 23:59:54.713133)
+sub_url  https://network.ayucloud.nl/link/ByTE8LJ4Ohl18AVx?clash=1
+time  2024-07-20 09:12:22.719083+08:00
 
 [人人传承.com]
-email  pkvlhmm151@xxxhi.cc
-invite_code  TLkE  10000
-last_checkin  2024-07-19 20:11:23.772337+08:00
+email  uukpwedm615@lista.cc
+invite_code  LzPs  10000
+last_checkin  2024-07-20 09:12:38.480556+08:00
 node_n  47
-sub_info  12.93M  10.25G  2024-07-19 20:33:18+08:00  (剩余 10.24G 0:01:28.732978)
-sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/5XCnCoPIP1xMPvGS?sub=3
-time  2024-07-18 20:33:19.264178+08:00
-更新订阅链接/续费续签失败  发送邮箱验证码失败(ynjvqmv287@gmail.com): 创建 mail.gw 账户失败: 500 Internal Server Error '{"@context":"\\/contexts\\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}'
+sub_info  0B  10.12G  2024-07-21 09:12:38+08:00  (剩余 10.12G 23:59:56.359053)
+sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/yTeJwqAkuuczsOrN?sub=3
+time  2024-07-20 09:12:39.010922+08:00
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [qlgq.top]
 email  pkvlhmm151@xxxhi.cc
-last_checkin  2024-07-19 20:11:23.773714+08:00
+last_checkin  2024-07-20 09:12:10.568030+08:00
 node_n  34
-sub_info  0B  888.1G  2024-07-19 20:32:56+08:00  (剩余 888.1G 0:01:46.897433)
+sub_info  146.9K  888.1G  2024-07-19 20:32:56+08:00  (剩余 888.1G -1 day, 11:20:40.961336)
 sub_url  https://www.qlgq.top/link/caced9a7ea5eaa4a?clash=1
 time  2024-07-18 20:32:58.500664+08:00
-更新订阅链接/续费续签失败  发送邮箱验证码失败(ynjvqmv287@gmail.com): 创建 mail.gw 账户失败: 500 Internal Server Error '{"@context":"\\/contexts\\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}'
+更新订阅链接/续费续签失败  发送邮箱验证码失败(uukpwedm615@gmail.com): 创建 mail.gw 账户失败: 500 Internal Server Error '{"@context":"\\/contexts\\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}'
 
 [nova.live]
 email  crcbokgp750@muatoc.com
-last_checkin  2024-07-19 20:11:23.774782+08:00
+last_checkin  2024-07-20 09:12:10.569452+08:00
 node_n  3
-sub_info  136.9M  3.302G  永不过期  (剩余 3.168G)
+sub_info  136.9M  3.467G  永不过期  (剩余 3.333G)
 sub_url  https://new.gfw.news/link/Bk5oN1YJsmvrFgSB?sub=3
 time  2024-06-30 18:45:41.060678+08:00
 
 [www.duguletian.com]
-email  pkvlhmm151@xxxhi.cc
-last_checkin  2024-07-19 20:11:23.776156+08:00
-node_n  6
-sub_info  6.452M  1.035G  2024-07-19 20:33:06+08:00  (剩余 1.029G 0:01:54.278152)
-sub_url  https://www.duguletian.com/link/C4XKIDdTy808sIrr?sub=3
-time  2024-07-18 20:33:07.105158+08:00
-更新订阅链接/续费续签失败  发送邮箱验证码失败(ynjvqmv287@gmail.com): 创建 mail.gw 账户失败: 500 Internal Server Error '{"@context":"\\/contexts\\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}'
+email  uukpwedm615@lista.cc
+last_checkin  2024-07-20 09:13:09.278619+08:00
+node_n  8
+sub_info  0B  1.014G  2024-07-21 09:13:09+08:00  (剩余 1.014G 23:59:57.806012)
+sub_url  https://www.duguletian.com/link/fJXU7iLdRKUUvfMY?sub=3
+time  2024-07-20 09:13:09.923883+08:00
 
 [mcecloud.com]
 email  etxbkgd290@gmail.com
-last_checkin  2024-07-19 20:11:32.979967+08:00
-sub_info  0B  1.598G  2024-07-20 20:11:32+08:00  (剩余 1.598G 23:40:24.712560)
+last_checkin  2024-07-20 09:12:10.571773+08:00
+sub_info  0B  1.603G  2024-07-20 20:11:32+08:00  (剩余 1.603G 10:59:15.142687)
 sub_url  https://metron.mcecloud.com/link/bTqBGOGex6JUUgRo?sub=3
 time  2024-07-19 20:11:34.051370+08:00
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [ikuuu.me name ikuuu]
-更新订阅链接/续费续签失败  注册失败(ynjvqmv287@gmail.com): HTTPSConnectionPool(host='ikuuu.me%20name%20ikuuu', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f492ff21de0>: Failed to resolve 'ikuuu.me%20name%20ikuuu' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(uukpwedm615@gmail.com): HTTPSConnectionPool(host='ikuuu.me%20name%20ikuuu', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f9fe9cfa890>: Failed to resolve 'ikuuu.me%20name%20ikuuu' ([Errno -2] Name or service not known)"))
