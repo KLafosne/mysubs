@@ -1,70 +1,69 @@
 [www.ckcloud.xyz]
-更新订阅链接/续费续签失败  注册失败(tzddfkrm130@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(aebhhyvt699@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [fastestcloud.xyz]
-email  tzddfkrm130@gmail.com
+email  aebhhyvt699@gmail.com
 node_n  64
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://sbs.fastfly.life:21600/api/v1/client/subscribe?token=3c6d1351c00298394279d45c89527aaf
-time  2024-07-22 20:33:11.445950+08:00
+sub_url  https://abcd.fastfly.life:21600/api/v1/client/subscribe?token=4ff94df685e25fbd6ca844ce54643998
+time  2024-07-23 09:14:11.191942+08:00
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [biubiufast.com]
-更新订阅链接/续费续签失败  注册失败(tzddfkrm130@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
+更新订阅链接/续费续签失败  注册失败(aebhhyvt699@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
 
 [cloud.speedypro.xyz name Speedypro]
-更新订阅链接/续费续签失败  注册失败(tzddfkrm130@gmail.com): HTTPSConnectionPool(host='cloud.speedypro.xyz%20name%20speedypro', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f0bf58812d0>: Failed to resolve 'cloud.speedypro.xyz%20name%20speedypro' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(aebhhyvt699@gmail.com): HTTPSConnectionPool(host='cloud.speedypro.xyz%20name%20speedypro', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f2ba7b17cd0>: Failed to resolve 'cloud.speedypro.xyz%20name%20speedypro' ([Errno -2] Name or service not known)"))
 
 [ayucloud.services]
 email  tzddfkrm130@xxxhi.cc
-last_checkin  2024-07-22 20:33:21.363396+08:00
+last_checkin  2024-07-23 09:14:05.933568+08:00
 node_n  98
-sub_info  0B  1.116G  2024-07-23 20:33:21+08:00  (剩余 1.116G 23:59:55.912330)
+sub_info  0B  1.677G  2024-07-23 20:33:21+08:00  (剩余 1.677G 11:19:09.270120)
 sub_url  https://network.ayucloud.nl/link/IjgfqXn6b0XDsVVM?clash=1
 time  2024-07-22 20:33:22.291477+08:00
 
 [人人传承.com]
-email  pftjhwucm648@snapmail.cc
-invite_code  XEHa  10000
-last_checkin  2024-07-22 09:17:25.356225+08:00
+email  aebhhyvt699@nespressopixie.com
+invite_code  knZo  10000
+last_checkin  2024-07-23 09:14:15.855528+08:00
 node_n  47
-sub_info  0B  10.11G  2024-07-23 09:17:25+08:00  (剩余 10.11G 12:44:26.515829)
-sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/hcfcFlEKpbKtrvUP?sub=3
-time  2024-07-22 09:17:26.357353+08:00
+sub_info  0B  10.18G  2024-07-24 09:14:15+08:00  (剩余 10.18G 23:59:56.827587)
+sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/sXnmjLdeUmeU0s4i?sub=3
+time  2024-07-23 09:14:16.256676+08:00
 
 [qlgq.top]
-email  pkvlhmm151@xxxhi.cc
-last_checkin  2024-07-22 09:15:53.518145+08:00
+email  aebhhyvt699@nespressopixie.com
+last_checkin  2024-07-23 09:14:17.246506+08:00
 node_n  34
-sub_info  200.2K  888.2G  2024-07-19 20:32:56+08:00  (剩余 888.2G -4 days, 23:59:54.143039)
-sub_url  https://www.qlgq.top/link/caced9a7ea5eaa4a?clash=1
-time  2024-07-18 20:32:58.500664+08:00
-更新订阅链接/续费续签失败  发送邮箱验证码失败(tzddfkrm130@gmail.com): 创建 mail.gw 账户失败: 500 Internal Server Error '{"@context":"\\/contexts\\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}'
+sub_info  0B  888G  2024-07-24 09:14:17+08:00  (剩余 888G 23:59:55.666606)
+sub_url  https://www.qlgq.top/link/ae7c2dcda41304dc?clash=1
+time  2024-07-23 09:14:18.025454+08:00
 
 [nova.live]
 email  crcbokgp750@muatoc.com
-last_checkin  2024-07-22 09:15:53.519107+08:00
+last_checkin  2024-07-23 09:14:05.937052+08:00
 node_n  3
-sub_info  146.1M  3.656G  永不过期  (剩余 3.514G)
+sub_info  146.3M  3.762G  永不过期  (剩余 3.619G)
 sub_url  https://new.gfw.news/link/Bk5oN1YJsmvrFgSB?sub=3
 time  2024-06-30 18:45:41.060678+08:00
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [www.duguletian.com]
 email  tzddfkrm130@xxxhi.cc
-last_checkin  2024-07-22 20:33:21.374988+08:00
-node_n  6
-sub_info  0B  1.036G  2024-07-23 20:33:21+08:00  (剩余 1.036G 23:59:16.426709)
+last_checkin  2024-07-23 09:14:05.938161+08:00
+node_n  8
+sub_info  0B  1.077G  2024-07-23 20:33:21+08:00  (剩余 1.077G 11:19:13.030012)
 sub_url  https://www.duguletian.com/link/bUi16xoX2JSabUl7?sub=3
 time  2024-07-22 20:33:22.057106+08:00
 
 [mcecloud.com]
 email  tzddfkrm130@gmail.com
-last_checkin  2024-07-22 20:33:58.722282+08:00
-sub_info  0B  1.098G  2024-07-23 20:33:58+08:00  (剩余 1.098G 23:59:54.576355)
+last_checkin  2024-07-23 09:14:05.939095+08:00
+sub_info  0B  1.418G  2024-07-23 20:33:58+08:00  (剩余 1.418G 11:19:37.884689)
 sub_url  https://metron.mcecloud.com/link/l0SXrDme1cvnS1Vz?sub=3
 time  2024-07-22 20:33:59.822660+08:00
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [ikuuu.me name ikuuu]
-更新订阅链接/续费续签失败  注册失败(tzddfkrm130@gmail.com): HTTPSConnectionPool(host='ikuuu.me%20name%20ikuuu', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f0bf58818d0>: Failed to resolve 'ikuuu.me%20name%20ikuuu' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(aebhhyvt699@gmail.com): HTTPSConnectionPool(host='ikuuu.me%20name%20ikuuu', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f2ba7b17fa0>: Failed to resolve 'ikuuu.me%20name%20ikuuu' ([Errno -2] Name or service not known)"))
