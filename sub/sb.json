@@ -319,7 +319,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -329,7 +329,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -339,7 +339,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -349,7 +349,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -359,7 +359,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -369,7 +369,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -379,7 +379,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -389,7 +389,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -399,7 +399,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucew2",
@@ -409,7 +409,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayuclsaa",
@@ -419,7 +419,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -429,7 +429,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucl243113",
@@ -439,7 +439,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -449,7 +449,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -459,7 +459,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -469,7 +469,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -479,7 +479,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -489,7 +489,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -499,7 +499,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -509,7 +509,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "a12cloud1",
@@ -519,7 +519,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayu1245",
@@ -529,7 +529,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -539,7 +539,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -549,7 +549,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -559,7 +559,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucles1",
@@ -569,7 +569,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -579,7 +579,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -589,7 +589,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -599,7 +599,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -609,7 +609,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -619,7 +619,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -629,7 +629,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayu1245",
@@ -639,7 +639,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -649,7 +649,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ay2dsd1",
@@ -659,7 +659,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "fjlfjafl231303831",
@@ -669,7 +669,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ay21d1",
@@ -679,7 +679,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -689,7 +689,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -699,7 +699,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ay2l23ud1",
@@ -709,7 +709,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -719,7 +719,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ay2loud1",
@@ -729,7 +729,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -739,7 +739,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -749,7 +749,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayuc211",
@@ -759,7 +759,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "dajkdkjda\u0026dja*/?",
@@ -769,7 +769,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "wedsa",
@@ -779,7 +779,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -789,7 +789,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -799,7 +799,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "fsfal2",
@@ -809,7 +809,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -819,7 +819,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayds23sd1",
@@ -829,7 +829,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -839,7 +839,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -849,7 +849,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -859,7 +859,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -869,7 +869,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -879,7 +879,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ay232sffssd1",
@@ -889,7 +889,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -899,7 +899,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucjrsll",
@@ -909,7 +909,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -919,7 +919,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -929,7 +929,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "dajsdkdkjda\u0026dja*/?",
@@ -939,7 +939,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "dadk2jat*/?",
@@ -949,7 +949,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -959,7 +959,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -969,7 +969,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "dajkdkjda\u0026dja*/?",
@@ -979,7 +979,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayugfsd",
@@ -989,7 +989,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -999,7 +999,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayds232sffssd1",
@@ -1009,7 +1009,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayds232sffssd1",
@@ -1019,7 +1019,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "dajkdr\u0026dja*/?",
@@ -1029,7 +1029,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "2sa2/1a",
@@ -1039,7 +1039,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "dajkdkjdsa\u0026dja*/?",
@@ -1049,7 +1049,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "dajkbgja*/?",
@@ -1059,7 +1059,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "dajkdkjdssa\u0026dja*/?",
@@ -1069,7 +1069,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "dajkdkjda\u0026dja*/?",
@@ -1079,7 +1079,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "Vdssf.mj/2Zr",
@@ -1089,7 +1089,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "1mj21sr",
@@ -1099,7 +1099,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "1mj21sr",
@@ -1109,7 +1109,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "Vdss1samj/2Zr",
@@ -1119,7 +1119,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -1129,7 +1129,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -1139,7 +1139,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -1149,7 +1149,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -1159,7 +1159,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -1169,7 +1169,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -1179,7 +1179,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucl12s1",
@@ -1189,7 +1189,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -1199,7 +1199,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "fs23l/",
@@ -1209,7 +1209,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -1219,7 +1219,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "dajkdkjda\u0026dja*/?",
@@ -1229,7 +1229,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -1239,7 +1239,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -1249,7 +1249,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -1259,7 +1259,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -1269,7 +1269,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "Vdssf.mj/2Zr",
@@ -1279,7 +1279,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "aa2x2sa2/1a",
@@ -1289,7 +1289,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=17a4c97066.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=8b4f697121.download.windowsupdate.com"
         },
         {
             "password": "933b90fa-69de-4bf8-9af8-6967924c448b",
@@ -2156,7 +2156,7 @@
         },
         {
             "password": "bfa6beeb-1c32-37dc-9d5b-c7076567833f",
-            "server": "54.149.239.171",
+            "server": "35.91.139.235",
             "server_port": 443,
             "tag": "AFOSNE_United States_trojan_41",
             "tls": {
