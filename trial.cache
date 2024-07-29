@@ -1,45 +1,46 @@
 [www.ckcloud.xyz]
-更新订阅链接/续费续签失败  注册失败(yaedcjfe352@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<!DOCTYPE html>\n<html lang="en">\n<head>\n <meta charset="UTF-8" />\n <meta name="robots" content="noindex,nofollow,noarchive" />\n <title>An Error Occurred: Method Not Allowed</title>\n <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 128 128%22><text y=%221.2em%22 font-size=%2296%22>❌</text></svg>" />\n <style>body { background-color: #fff; color: #222; font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; margin: 0; }\n.container { margin: 30px; max-width: 600px; }\nh1 { color: #dc3545; font-size: 24px; }\nh2 { font-size: 18px; }</style>\n</head>\n<body>\n<div class="container">\n <h1>Oops! An Error Occurred</h1>\n <h2>The server returned a "405 Method Not Allowed".</h2>\n\n <p>\n Something is broken. Please let us know what you were doing when this error occurred.\n We will fix it as soon as possible. Sorry for any inconvenience caused.\n </p>\n</div>\n</body>\n</html>')
+更新订阅链接/续费续签失败  注册失败(zmvboya492@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<!DOCTYPE html>\n<html lang="en">\n<head>\n <meta charset="UTF-8" />\n <meta name="robots" content="noindex,nofollow,noarchive" />\n <title>An Error Occurred: Method Not Allowed</title>\n <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 128 128%22><text y=%221.2em%22 font-size=%2296%22>❌</text></svg>" />\n <style>body { background-color: #fff; color: #222; font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; margin: 0; }\n.container { margin: 30px; max-width: 600px; }\nh1 { color: #dc3545; font-size: 24px; }\nh2 { font-size: 18px; }</style>\n</head>\n<body>\n<div class="container">\n <h1>Oops! An Error Occurred</h1>\n <h2>The server returned a "405 Method Not Allowed".</h2>\n\n <p>\n Something is broken. Please let us know what you were doing when this error occurred.\n We will fix it as soon as possible. Sorry for any inconvenience caused.\n </p>\n</div>\n</body>\n</html>')
 
 [fastestcloud.xyz]
-email  yaedcjfe352@gmail.com
+email  zmvboya492@gmail.com
 node_n  64
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://sbs.fastfly.life:21600/api/v1/client/subscribe?token=f5827b882282491f647037db996fb534
-time  2024-07-29 09:16:15.645557+08:00
+sub_url  https://abcd.fastfly.life:21600/api/v1/client/subscribe?token=309b3275f541ff61eb7f6d1a5ee1c01a
+time  2024-07-29 20:34:08.966286+08:00
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [biubiufast.com]
-更新订阅链接/续费续签失败  注册失败(yaedcjfe352@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
+更新订阅链接/续费续签失败  注册失败(zmvboya492@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
 
 [cloud.speedypro.xyz name Speedypro]
-更新订阅链接/续费续签失败  注册失败(yaedcjfe352@gmail.com): HTTPSConnectionPool(host='cloud.speedypro.xyz%20name%20speedypro', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f66033e2500>: Failed to resolve 'cloud.speedypro.xyz%20name%20speedypro' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(zmvboya492@gmail.com): HTTPSConnectionPool(host='cloud.speedypro.xyz%20name%20speedypro', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f361e1dd720>: Failed to resolve 'cloud.speedypro.xyz%20name%20speedypro' ([Errno -2] Name or service not known)"))
 
 [ayucloud.services]
 email  yaedcjfe352@xxxhi.cc
 last_checkin  2024-07-29 09:16:17.158497+08:00
 node_n  98
-sub_info  0B  1.166G  2024-07-30 09:16:16+08:00  (剩余 1.166G 23:59:52.849078)
+sub_info  0B  1.166G  2024-07-30 09:16:16+08:00  (剩余 1.166G 12:43:01.719868)
 sub_url  https://network.ayucloud.nl/link/gXzcrOY8YsvnGpHn?clash=1
 time  2024-07-29 09:16:18.051165+08:00
-保存base64/clash订阅失败  'NoneType' object is not iterable
+保存base64/clash订阅失败  _gen_base64_config: no content
 
 [人人传承.com]
-email  ucrrzsq100@mynanaimohomes.com
-invite_code  ThMb  9999
-last_checkin  2024-07-29 09:15:56.235500+08:00
+email  zmvboya492@muatoc.com
+invite_code  F532  10000
+last_checkin  2024-07-29 20:33:32.704013+08:00
 node_n  47
-sub_info  215.2M  10.24G  2024-07-29 20:29:33+08:00  (剩余 10.03G 11:13:34.789699)
-sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/4PSFXsUiScaAPzG2?sub=3
-time  2024-07-28 20:29:33.884728+08:00
+sub_info  0B  10.16G  2024-07-30 20:33:32+08:00  (剩余 10.16G 23:59:43.919677)
+sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/LXrEs90ryqz1onNJ?sub=3
+time  2024-07-29 20:33:33.251476+08:00
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [qlgq.top]
-email  ucrrzsq100@mynanaimohomes.com
-last_checkin  2024-07-29 09:15:56.237504+08:00
+email  zmvboya492@muatoc.com
+last_checkin  2024-07-29 20:32:59.297433+08:00
 node_n  34
-sub_info  0B  888G  2024-07-29 20:29:34+08:00  (剩余 888G 11:13:33.840062)
-sub_url  https://www.qlgq.top/link/54de12a96227d141?clash=1
-time  2024-07-28 20:29:35.806360+08:00
+sub_info  0B  888G  2024-07-30 20:32:59+08:00  (剩余 888G 23:58:54.110009)
+sub_url  https://www.qlgq.top/link/ddb78224aff149c8?clash=1
+time  2024-07-29 20:33:00.416663+08:00
 
 [nova.live]
 email  crcbokgp750@muatoc.com
@@ -53,17 +54,18 @@ time  2024-06-30 18:45:41.060678+08:00
 email  yaedcjfe352@xxxhi.cc
 last_checkin  2024-07-29 09:16:05.493083+08:00
 node_n  6
-sub_info  0B  1.001G  2024-07-30 09:16:05+08:00  (剩余 1.001G 23:59:54.011882)
+sub_info  0B  1.001G  2024-07-30 09:16:05+08:00  (剩余 1.001G 12:43:16.117761)
 sub_url  https://www.duguletian.com/link/CLs7OufcrzfdvHbZ?sub=3
 time  2024-07-29 09:16:06.327305+08:00
+保存base64/clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
 
 [mcecloud.com]
 email  yaedcjfe352@gmail.com
 last_checkin  2024-07-29 09:16:06.044243+08:00
-sub_info  0B  1.11G  2024-07-30 09:16:05+08:00  (剩余 1.11G 23:59:50.242084)
+sub_info  0B  1.11G  2024-07-30 09:16:05+08:00  (剩余 1.11G 12:42:19.257298)
 sub_url  https://metron.mcecloud.com/link/YL8jz6rQWzDCaUKE?sub=3
 time  2024-07-29 09:16:08.016529+08:00
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [ikuuu.me name ikuuu]
-更新订阅链接/续费续签失败  注册失败(yaedcjfe352@gmail.com): HTTPSConnectionPool(host='ikuuu.me%20name%20ikuuu', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f66033e22f0>: Failed to resolve 'ikuuu.me%20name%20ikuuu' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(zmvboya492@gmail.com): HTTPSConnectionPool(host='ikuuu.me%20name%20ikuuu', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f361e1df100>: Failed to resolve 'ikuuu.me%20name%20ikuuu' ([Errno -2] Name or service not known)"))

@@ -1730,7 +1730,7 @@ proxies:
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_United States_trojan_41
-  server: 34.221.17.183
+  server: 35.95.148.52
   port: 443
   type: trojan
   password: bfa6beeb-1c32-37dc-9d5b-c7076567833f
