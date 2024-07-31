@@ -1,5 +1,5 @@
 [www.ckcloud.xyz]
-更新订阅链接/续费续签失败  注册失败(uhtgvepv724@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<!DOCTYPE html>\n<html lang="en">\n<head>\n <meta charset="UTF-8" />\n <meta name="robots" content="noindex,nofollow,noarchive" />\n <title>An Error Occurred: Method Not Allowed</title>\n <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 128 128%22><text y=%221.2em%22 font-size=%2296%22>❌</text></svg>" />\n <style>body { background-color: #fff; color: #222; font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; margin: 0; }\n.container { margin: 30px; max-width: 600px; }\nh1 { color: #dc3545; font-size: 24px; }\nh2 { font-size: 18px; }</style>\n</head>\n<body>\n<div class="container">\n <h1>Oops! An Error Occurred</h1>\n <h2>The server returned a "405 Method Not Allowed".</h2>\n\n <p>\n Something is broken. Please let us know what you were doing when this error occurred.\n We will fix it as soon as possible. Sorry for any inconvenience caused.\n </p>\n</div>\n</body>\n</html>')
+更新订阅链接/续费续签失败  注册失败(gkrituo850@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [fastestcloud.xyz]
 email  zmvboya492@gmail.com
@@ -11,59 +11,59 @@ time  2024-07-29 20:34:08.966286+08:00
 更新旧订阅失败  'NoneType' object is not subscriptable
 
 [biubiufast.com]
-更新订阅链接/续费续签失败  注册失败(uhtgvepv724@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
+更新订阅链接/续费续签失败  注册失败(gkrituo850@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
 
 [cloud.speedypro.xyz name Speedypro]
-更新订阅链接/续费续签失败  注册失败(uhtgvepv724@gmail.com): HTTPSConnectionPool(host='cloud.speedypro.xyz%20name%20speedypro', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f41de7dde10>: Failed to resolve 'cloud.speedypro.xyz%20name%20speedypro' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(gkrituo850@gmail.com): HTTPSConnectionPool(host='cloud.speedypro.xyz%20name%20speedypro', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f239bf35660>: Failed to resolve 'cloud.speedypro.xyz%20name%20speedypro' ([Errno -2] Name or service not known)"))
 
 [ayucloud.services]
-email  kssnztslz131@miteon.com
-last_checkin  2024-07-30 09:14:25.293948+08:00
+email  gkrituo850@snapmail.cc
+last_checkin  2024-07-31 09:02:21.639055+08:00
 node_n  98
-sub_info  0B  1.26G  2024-07-31 09:14:24+08:00  (剩余 1.26G 12:41:40.239811)
-sub_url  https://network.ayucloud.nl/link/1126iSkcIdlAxEYk?clash=1
-time  2024-07-30 09:14:26.148403+08:00
+sub_info  0B  1.019G  2024-08-01 09:02:21+08:00  (剩余 1.019G 23:59:56.080374)
+sub_url  https://network.ayucloud.nl/link/P8fZbfVhynxVTnIw?clash=1
+time  2024-07-31 09:02:22.499757+08:00
 
 [人人传承.com]
 email  uhtgvepv724@nespressopixie.com
 invite_code  F532  9999
-last_checkin  2024-07-30 20:32:06.875477+08:00
+last_checkin  2024-07-31 09:02:01.593026+08:00
 node_n  47
-sub_info  0B  10.14G  2024-07-31 20:32:06+08:00  (剩余 10.14G 23:59:55.894033)
+sub_info  0B  10.31G  2024-07-31 20:32:06+08:00  (剩余 10.31G 11:30:01.356760)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/Db6x8EEcsyIt2Jz7?sub=3
 time  2024-07-30 20:32:07.951283+08:00
 
 [qlgq.top]
 email  uhtgvepv724@nespressopixie.com
-last_checkin  2024-07-30 20:32:08.705225+08:00
+last_checkin  2024-07-31 09:02:01.593665+08:00
 node_n  34
-sub_info  0B  888G  2024-07-31 20:32:08+08:00  (剩余 888G 23:59:55.934422)
+sub_info  0B  888G  2024-07-31 20:32:08+08:00  (剩余 888G 11:29:22.773507)
 sub_url  https://www.qlgq.top/link/e0a31dd5a571f5c3?clash=1
 time  2024-07-30 20:32:10.030058+08:00
 
 [nova.live]
 email  crcbokgp750@muatoc.com
-last_checkin  2024-07-30 09:13:58.306941+08:00
+last_checkin  2024-07-31 09:02:01.595720+08:00
 node_n  3
-sub_info  164.6M  4.489G  永不过期  (剩余 4.328G)
+sub_info  164.6M  4.584G  永不过期  (剩余 4.423G)
 sub_url  https://new.gfw.news/link/Bk5oN1YJsmvrFgSB?sub=3
 time  2024-06-30 18:45:41.060678+08:00
 
 [www.duguletian.com]
-email  kssnztslz131@miteon.com
-last_checkin  2024-07-30 09:14:11.837917+08:00
+email  gkrituo850@snapmail.cc
+last_checkin  2024-07-31 09:02:07.793385+08:00
 node_n  6
-sub_info  0B  1.049G  2024-07-31 09:14:11+08:00  (剩余 1.049G 12:42:10.318384)
-sub_url  https://www.duguletian.com/link/fjmItrb9nov6Ortp?sub=3
-time  2024-07-30 09:14:12.542680+08:00
+sub_info  0B  1.015G  2024-08-01 09:02:07+08:00  (剩余 1.015G 23:59:56.060877)
+sub_url  https://www.duguletian.com/link/D4mhphroUywA7D8Q?sub=3
+time  2024-07-31 09:02:08.979626+08:00
 
 [mcecloud.com]
-email  kssnztslz131@gmail.com
-last_checkin  2024-07-30 09:14:59.300888+08:00
-sub_info  0B  1.644G  2024-07-31 09:14:59+08:00  (剩余 1.644G 12:41:24.440281)
-sub_url  https://metron.mcecloud.com/link/jaQg2OjM9OGDY3QZ?sub=3
-time  2024-07-30 09:15:00.324383+08:00
+email  gkrituo850@gmail.com
+last_checkin  2024-07-31 09:02:54.045924+08:00
+sub_info  0B  1.667G  2024-08-01 09:02:53+08:00  (剩余 1.667G 23:59:02.026788)
+sub_url  https://metron.mcecloud.com/link/1cOYu1pTnkz4ndbS?sub=3
+time  2024-07-31 09:02:54.955163+08:00
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [ikuuu.me name ikuuu]
-更新订阅链接/续费续签失败  注册失败(uhtgvepv724@gmail.com): HTTPSConnectionPool(host='ikuuu.me%20name%20ikuuu', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f41de7dec20>: Failed to resolve 'ikuuu.me%20name%20ikuuu' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(gkrituo850@gmail.com): HTTPSConnectionPool(host='ikuuu.me%20name%20ikuuu', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f239bf36e60>: Failed to resolve 'ikuuu.me%20name%20ikuuu' ([Errno -2] Name or service not known)"))
