@@ -1,5 +1,5 @@
 [www.ckcloud.xyz]
-更新订阅链接/续费续签失败  注册失败(gvtnogx53@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(gcwnbilf573@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<!DOCTYPE html>\n<html lang="en">\n<head>\n <meta charset="UTF-8" />\n <meta name="robots" content="noindex,nofollow,noarchive" />\n <title>An Error Occurred: Method Not Allowed</title>\n <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 128 128%22><text y=%221.2em%22 font-size=%2296%22>❌</text></svg>" />\n <style>body { background-color: #fff; color: #222; font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; margin: 0; }\n.container { margin: 30px; max-width: 600px; }\nh1 { color: #dc3545; font-size: 24px; }\nh2 { font-size: 18px; }</style>\n</head>\n<body>\n<div class="container">\n <h1>Oops! An Error Occurred</h1>\n <h2>The server returned a "405 Method Not Allowed".</h2>\n\n <p>\n Something is broken. Please let us know what you were doing when this error occurred.\n We will fix it as soon as possible. Sorry for any inconvenience caused.\n </p>\n</div>\n</body>\n</html>')
 
 [fastestcloud.xyz]
 email  zmvboya492@gmail.com
@@ -11,60 +11,59 @@ time  2024-07-29 20:34:08.966286+08:00
 更新旧订阅失败  'NoneType' object is not subscriptable
 
 [biubiufast.com]
-更新订阅链接/续费续签失败  注册失败(gvtnogx53@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
+更新订阅链接/续费续签失败  注册失败(gcwnbilf573@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
 
 [cloud.speedypro.xyz name Speedypro]
-更新订阅链接/续费续签失败  注册失败(gvtnogx53@gmail.com): HTTPSConnectionPool(host='cloud.speedypro.xyz%20name%20speedypro', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f924c9671f0>: Failed to resolve 'cloud.speedypro.xyz%20name%20speedypro' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(gcwnbilf573@gmail.com): HTTPSConnectionPool(host='cloud.speedypro.xyz%20name%20speedypro', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fcc6f5f6a40>: Failed to resolve 'cloud.speedypro.xyz%20name%20speedypro' ([Errno -2] Name or service not known)"))
 
 [ayucloud.services]
-email  gkrituo850@snapmail.cc
-last_checkin  2024-07-31 09:02:21.639055+08:00
+email  gcwnbilf573@lista.cc
+last_checkin  2024-08-01 09:22:06.414326+08:00
 node_n  98
-sub_info  0B  1.019G  2024-08-01 09:02:21+08:00  (剩余 1.019G 12:29:20.056466)
-sub_url  https://network.ayucloud.nl/link/P8fZbfVhynxVTnIw?clash=1
-time  2024-07-31 09:02:22.499757+08:00
+sub_info  0B  1.111G  2024-08-02 09:22:06+08:00  (剩余 1.111G 23:59:56.042356)
+sub_url  https://network.ayucloud.nl/link/zPdS4brremmWwo3F?clash=1
+time  2024-08-01 09:22:07.220094+08:00
 
 [人人传承.com]
 email  gvtnogx53@nespressopixie.com
 invite_code  fQ39  10000
-last_checkin  2024-07-31 20:33:29.637699+08:00
+last_checkin  2024-08-01 09:20:16.972817+08:00
 node_n  47
-sub_info  0B  10.13G  2024-08-01 20:33:29+08:00  (剩余 10.13G 23:59:55.579242)
+sub_info  0B  10.25G  2024-08-01 20:33:29+08:00  (剩余 10.25G 11:13:09.354269)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/SqV1x3z5272TMz4X?sub=3
 time  2024-07-31 20:33:30.147541+08:00
 
 [qlgq.top]
 email  gvtnogx53@nespressopixie.com
-last_checkin  2024-07-31 20:33:08.117243+08:00
+last_checkin  2024-08-01 09:20:16.973362+08:00
 node_n  34
-sub_info  0B  888G  2024-08-01 20:33:07+08:00  (剩余 888G 23:58:34.125279)
+sub_info  0B  888.1G  2024-08-01 20:33:07+08:00  (剩余 888.1G 11:12:05.559820)
 sub_url  https://www.qlgq.top/link/620d553548202251?clash=1
 time  2024-07-31 20:33:09.351876+08:00
 
 [nova.live]
 email  crcbokgp750@muatoc.com
-last_checkin  2024-07-31 09:02:01.595720+08:00
+last_checkin  2024-08-01 09:20:16.974281+08:00
 node_n  3
-sub_info  164.6M  4.584G  永不过期  (剩余 4.423G)
+sub_info  164.6M  4.698G  永不过期  (剩余 4.537G)
 sub_url  https://new.gfw.news/link/Bk5oN1YJsmvrFgSB?sub=3
 time  2024-06-30 18:45:41.060678+08:00
 
 [www.duguletian.com]
-email  gkrituo850@snapmail.cc
-last_checkin  2024-07-31 09:02:07.793385+08:00
-node_n  6
-sub_info  0B  1.015G  2024-08-01 09:02:07+08:00  (剩余 1.015G 12:28:24.053493)
-sub_url  https://www.duguletian.com/link/D4mhphroUywA7D8Q?sub=3
-time  2024-07-31 09:02:08.979626+08:00
-保存base64/clash订阅失败  'NoneType' object is not iterable
+email  gcwnbilf573@lista.cc
+last_checkin  2024-08-01 09:20:23.253944+08:00
+node_n  8
+sub_info  0B  1.005G  2024-08-02 09:20:23+08:00  (剩余 1.005G 23:59:57.829552)
+sub_url  https://www.duguletian.com/link/jTJwBE6xZ25aQ4hH?sub=3
+time  2024-08-01 09:20:24.079072+08:00
 
 [mcecloud.com]
-email  gkrituo850@gmail.com
-last_checkin  2024-07-31 09:02:54.045924+08:00
-sub_info  0B  1.667G  2024-08-01 09:02:53+08:00  (剩余 1.667G 12:29:42.421723)
-sub_url  https://metron.mcecloud.com/link/1cOYu1pTnkz4ndbS?sub=3
-time  2024-07-31 09:02:54.955163+08:00
+email  gcwnbilf573@gmail.com
+last_checkin  2024-08-01 09:20:23.056322+08:00
+sub_info  0B  1.833G  2024-08-02 09:20:22+08:00  (剩余 1.833G 23:59:47.868458)
+sub_url  https://metron.mcecloud.com/link/nqpbTRTq9XjawMn9?sub=3
+time  2024-08-01 09:20:24.203639+08:00
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [ikuuu.me name ikuuu]
-更新订阅链接/续费续签失败  注册失败(gvtnogx53@gmail.com): HTTPSConnectionPool(host='ikuuu.me%20name%20ikuuu', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f924c966680>: Failed to resolve 'ikuuu.me%20name%20ikuuu' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(gcwnbilf573@gmail.com): HTTPSConnectionPool(host='ikuuu.me%20name%20ikuuu', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fcc6f5f6ad0>: Failed to resolve 'ikuuu.me%20name%20ikuuu' ([Errno -2] Name or service not known)"))
