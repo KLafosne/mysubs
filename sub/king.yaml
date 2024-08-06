@@ -1730,8 +1730,9 @@ proxies:
     grpc-service-name: flynwn
   udp: true
 - name: AFOSNE_United States_trojan_41
-  server: 34.214.5.102
+  server: 35.92.239.72
   port: 443
+  client-fingerprint: chrome
   type: trojan
   password: bfa6beeb-1c32-37dc-9d5b-c7076567833f
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -1740,6 +1741,7 @@ proxies:
 - name: AFOSNE_United States_trojan_42
   server: 103.136.185.27
   port: 5514
+  client-fingerprint: chrome
   type: trojan
   password: bfa6beeb-1c32-37dc-9d5b-c7076567833f
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -1748,6 +1750,7 @@ proxies:
 - name: AFOSNE_United States_trojan_43
   server: 103.136.185.28
   port: 3504
+  client-fingerprint: chrome
   type: trojan
   password: bfa6beeb-1c32-37dc-9d5b-c7076567833f
   sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM
@@ -1756,8 +1759,9 @@ proxies:
 - name: AFOSNE_Germany_trojan_51
   server: fkvip101.qlgq.fun
   port: 11789
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: fkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1767,8 +1771,9 @@ proxies:
 - name: AFOSNE_Germany_trojan_52
   server: fkvip101.qlgq.fun
   port: 21789
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: fkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1778,8 +1783,9 @@ proxies:
 - name: AFOSNE_Germany_trojan_53
   server: fkvip101.qlgq.fun
   port: 31789
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: fkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1789,8 +1795,9 @@ proxies:
 - name: AFOSNE_Germany_trojan_54
   server: fkvip102.qlgq.fun
   port: 41789
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: fkvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1800,8 +1807,9 @@ proxies:
 - name: AFOSNE_Germany_trojan_55
   server: fkvip102.qlgq.fun
   port: 51789
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: fkvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1811,8 +1819,9 @@ proxies:
 - name: AFOSNE_Singapore_trojan_56
   server: sgvip101.qlgq.fun
   port: 11223
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1822,8 +1831,9 @@ proxies:
 - name: AFOSNE_Singapore_trojan_57
   server: sgvip101.qlgq.fun
   port: 21223
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1833,8 +1843,9 @@ proxies:
 - name: AFOSNE_Singapore_trojan_58
   server: sgvip101.qlgq.fun
   port: 31223
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1844,8 +1855,9 @@ proxies:
 - name: AFOSNE_Singapore_trojan_59
   server: sgvip101.qlgq.fun
   port: 41223
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1855,8 +1867,9 @@ proxies:
 - name: AFOSNE_Singapore_trojan_510
   server: sgvip101.qlgq.fun
   port: 51223
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1866,8 +1879,9 @@ proxies:
 - name: AFOSNE_Japan_trojan_511
   server: jpvip101.qlgq.fun
   port: 61239
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: jpvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1877,8 +1891,9 @@ proxies:
 - name: AFOSNE_Japan_trojan_512
   server: jpvip101.qlgq.fun
   port: 61288
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: jpvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1888,8 +1903,9 @@ proxies:
 - name: AFOSNE_Japan_trojan_513
   server: jpvip101.qlgq.fun
   port: 61237
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: jpvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1899,8 +1915,9 @@ proxies:
 - name: AFOSNE_Japan_trojan_514
   server: jpvip101.qlgq.fun
   port: 61236
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: jpvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1910,8 +1927,9 @@ proxies:
 - name: AFOSNE_Japan_trojan_515
   server: jpvip101.qlgq.fun
   port: 61235
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: jpvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1921,8 +1939,9 @@ proxies:
 - name: AFOSNE_United States_trojan_516
   server: lavip101.qlgq.fun
   port: 11156
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: lavip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1932,8 +1951,9 @@ proxies:
 - name: AFOSNE_United States_trojan_517
   server: lavip101.qlgq.fun
   port: 21156
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: lavip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1943,8 +1963,9 @@ proxies:
 - name: AFOSNE_United States_trojan_518
   server: lavip101.qlgq.fun
   port: 31156
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: lavip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1954,8 +1975,9 @@ proxies:
 - name: AFOSNE_United Kingdom_trojan_519
   server: ukvip101.qlgq.fun
   port: 14568
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: ukvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1965,8 +1987,9 @@ proxies:
 - name: AFOSNE_United Kingdom_trojan_520
   server: ukvip101.qlgq.fun
   port: 14586
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: ukvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1976,8 +1999,9 @@ proxies:
 - name: AFOSNE_United Kingdom_trojan_521
   server: ukvip101.qlgq.fun
   port: 18885
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: ukvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1987,8 +2011,9 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_522
   server: hkvip101.qlgq.fun
   port: 12249
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: hkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1998,8 +2023,9 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_523
   server: hkvip101.qlgq.fun
   port: 22249
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: hkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2009,8 +2035,9 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_524
   server: hkvip102.qlgq.fun
   port: 32249
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: hkvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2020,8 +2047,9 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_525
   server: hkvip102.qlgq.fun
   port: 42249
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: hkvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2031,8 +2059,9 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_526
   server: hkvip103.qlgq.fun
   port: 52249
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: hkvip103.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2042,8 +2071,9 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_527
   server: hkvip103.qlgq.fun
   port: 11116
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: hkvip103.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2053,8 +2083,9 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_528
   server: hkvip104.qlgq.fun
   port: 45136
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: hkvip104.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2064,8 +2095,9 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_529
   server: hkvip104.qlgq.fun
   port: 46216
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: hkvip104.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2075,8 +2107,9 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_530
   server: hkvip105.qlgq.fun
   port: 41116
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: hkvip105.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2086,8 +2119,9 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_531
   server: hkvip105.qlgq.fun
   port: 51116
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: hkvip105.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2097,8 +2131,9 @@ proxies:
 - name: AFOSNE_Malaysia_trojan_532
   server: klvip101.qlgq.fun
   port: 10443
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: klvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2108,8 +2143,9 @@ proxies:
 - name: AFOSNE_Malaysia_trojan_533
   server: klvip101.qlgq.fun
   port: 20443
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: klvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2119,8 +2155,9 @@ proxies:
 - name: AFOSNE_Malaysia_trojan_534
   server: klvip101.qlgq.fun
   port: 30443
+  client-fingerprint: chrome
   type: trojan
-  password: 45ef9689-8d8d-3b20-b19b-456aa107f5b8
+  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
   sni: klvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
