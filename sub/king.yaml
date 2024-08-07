@@ -32,11 +32,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_12
   server: 231103level3.unclemanco.com
@@ -45,11 +44,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_13
   server: 231103level3.unclemanco.com
@@ -58,11 +56,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_14
   server: 231103level3.unclemanco.com
@@ -71,11 +68,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_15
   server: 231103level3.unclemanco.com
@@ -84,11 +80,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_16
   server: 231103level3.unclemanco.com
@@ -97,11 +92,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_17
   server: 231103level3.unclemanco.com
@@ -110,11 +104,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_18
   server: 231103level3.unclemanco.com
@@ -123,11 +116,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_19
   server: 231103level3.unclemanco.com
@@ -136,11 +128,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_110
   server: 231103level3.unclemanco.com
@@ -149,11 +140,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucew2
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_111
   server: 231103level3.unclemanco.com
@@ -162,11 +152,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayuclsaa
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_112
   server: 231103level3.unclemanco.com
@@ -175,11 +164,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_113
   server: 231103level3.unclemanco.com
@@ -188,11 +176,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucl243113
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_114
   server: 231103level3.unclemanco.com
@@ -201,11 +188,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_115
   server: 231103level3.unclemanco.com
@@ -214,11 +200,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_116
   server: 231103level3.unclemanco.com
@@ -227,11 +212,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_117
   server: 231103level3.unclemanco.com
@@ -240,11 +224,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_118
   server: 231103level3.unclemanco.com
@@ -253,11 +236,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_119
   server: 231103level3.unclemanco.com
@@ -266,11 +248,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_120
   server: 231103level3.unclemanco.com
@@ -279,11 +260,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_121
   server: 231103level3.unclemanco.com
@@ -292,11 +272,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: a12cloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_122
   server: 231103level3.unclemanco.com
@@ -305,11 +284,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayu1245
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_123
   server: 231103level3.unclemanco.com
@@ -318,11 +296,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_124
   server: 231103level3.unclemanco.com
@@ -331,11 +308,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_125
   server: 231103level3.unclemanco.com
@@ -344,11 +320,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_126
   server: 231103level3.unclemanco.com
@@ -357,11 +332,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucles1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_127
   server: 231103level3.unclemanco.com
@@ -370,11 +344,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_128
   server: 231103level3.unclemanco.com
@@ -383,11 +356,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_129
   server: 231103level3.unclemanco.com
@@ -396,11 +368,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_130
   server: 231103level3.unclemanco.com
@@ -409,11 +380,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_131
   server: 231103level3.unclemanco.com
@@ -422,11 +392,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_132
   server: 231103level3.unclemanco.com
@@ -435,11 +404,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_133
   server: 231103level3.unclemanco.com
@@ -448,11 +416,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayu1245
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_134
   server: 231103level3.unclemanco.com
@@ -461,11 +428,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_135
   server: 231103level3.unclemanco.com
@@ -474,11 +440,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ay2dsd1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_136
   server: 231103level3.unclemanco.com
@@ -487,11 +452,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: fjlfjafl231303831
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_137
   server: 231103level3.unclemanco.com
@@ -500,11 +464,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ay21d1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_138
   server: 231103level3.unclemanco.com
@@ -513,11 +476,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_139
   server: 231103level3.unclemanco.com
@@ -526,11 +488,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_140
   server: 231103level3.unclemanco.com
@@ -539,11 +500,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ay2l23ud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_141
   server: 231103level3.unclemanco.com
@@ -552,11 +512,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_142
   server: 231103level3.unclemanco.com
@@ -565,11 +524,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ay2loud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_143
   server: 231103level3.unclemanco.com
@@ -578,11 +536,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_144
   server: 231103level3.unclemanco.com
@@ -591,11 +548,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_145
   server: 231103level3.unclemanco.com
@@ -604,11 +560,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayuc211
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_146
   server: 231103level3.unclemanco.com
@@ -617,11 +572,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: dajkdkjda&dja*/?
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_147
   server: 231103level2.unclemanco.com
@@ -630,11 +584,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: wedsa
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_148
   server: 231103level2.unclemanco.com
@@ -643,11 +596,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_149
   server: 231103level2.unclemanco.com
@@ -656,11 +608,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_150
   server: 231103level2.unclemanco.com
@@ -669,11 +620,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: fsfal2
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_151
   server: 231103level2.unclemanco.com
@@ -682,11 +632,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_152
   server: 231103level2.unclemanco.com
@@ -695,11 +644,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayds23sd1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_153
   server: 231103level2.unclemanco.com
@@ -708,11 +656,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_154
   server: 231103level2.unclemanco.com
@@ -721,11 +668,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_155
   server: 231103level2.unclemanco.com
@@ -734,11 +680,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_156
   server: 231103level2.unclemanco.com
@@ -747,11 +692,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_157
   server: 231103level2.unclemanco.com
@@ -760,11 +704,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_158
   server: 231103level2.unclemanco.com
@@ -773,11 +716,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ay232sffssd1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_159
   server: 231103level2.unclemanco.com
@@ -786,11 +728,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_160
   server: 231103level2.unclemanco.com
@@ -799,11 +740,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucjrsll
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_161
   server: 231103level2.unclemanco.com
@@ -812,11 +752,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_162
   server: 231103level2.unclemanco.com
@@ -825,11 +764,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_163
   server: 231103level2.unclemanco.com
@@ -838,11 +776,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: dajsdkdkjda&dja*/?
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_164
   server: 231103level2.unclemanco.com
@@ -851,11 +788,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: dadk2jat*/?
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_165
   server: 231103level2.unclemanco.com
@@ -864,11 +800,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_166
   server: 231103level2.unclemanco.com
@@ -877,11 +812,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_167
   server: 231103level2.unclemanco.com
@@ -890,11 +824,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: dajkdkjda&dja*/?
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_168
   server: 231103levelx.unclemanco.com
@@ -903,11 +836,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayugfsd
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_169
   server: 231103levelx.unclemanco.com
@@ -916,11 +848,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_170
   server: 231103level2.unclemanco.com
@@ -929,11 +860,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayds232sffssd1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_171
   server: 231103level2.unclemanco.com
@@ -942,11 +872,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayds232sffssd1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_172
   server: 231103level2.unclemanco.com
@@ -955,11 +884,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: dajkdr&dja*/?
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_173
   server: 231103level2.unclemanco.com
@@ -968,11 +896,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: 2sa2/1a
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_174
   server: 231103level2.unclemanco.com
@@ -981,11 +908,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: dajkdkjdsa&dja*/?
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_175
   server: 231103level2.unclemanco.com
@@ -994,11 +920,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: dajkbgja*/?
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_176
   server: 231103level2.unclemanco.com
@@ -1007,11 +932,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: dajkdkjdssa&dja*/?
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_177
   server: 231103level2.unclemanco.com
@@ -1020,11 +944,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: dajkdkjda&dja*/?
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_178
   server: 231103level2.unclemanco.com
@@ -1033,11 +956,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: Vdssf.mj/2Zr
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_179
   server: 231103level2.unclemanco.com
@@ -1046,11 +968,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: 1mj21sr
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_180
   server: 231103level2.unclemanco.com
@@ -1059,11 +980,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: 1mj21sr
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_181
   server: 231103level2.unclemanco.com
@@ -1072,11 +992,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: Vdss1samj/2Zr
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_182
   server: 231103level1.unclemanco.com
@@ -1085,11 +1004,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_183
   server: 231103level1.unclemanco.com
@@ -1098,11 +1016,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_184
   server: 231103level1.unclemanco.com
@@ -1111,11 +1028,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_185
   server: 231103level1.unclemanco.com
@@ -1124,11 +1040,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_186
   server: 231103level1.unclemanco.com
@@ -1137,11 +1052,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_187
   server: 231103level1.unclemanco.com
@@ -1150,11 +1064,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_188
   server: 231103level1.unclemanco.com
@@ -1163,11 +1076,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucl12s1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_189
   server: 231103level1.unclemanco.com
@@ -1176,11 +1088,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_190
   server: 231103level1.unclemanco.com
@@ -1189,11 +1100,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: fs23l/
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_191
   server: 231103level1.unclemanco.com
@@ -1202,11 +1112,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_192
   server: 231103levelx.unclemanco.com
@@ -1215,11 +1124,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: dajkdkjda&dja*/?
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_193
   server: 231103levelx.unclemanco.com
@@ -1228,11 +1136,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_194
   server: 231103level1.unclemanco.com
@@ -1241,11 +1148,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_195
   server: 231103level1.unclemanco.com
@@ -1254,11 +1160,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_196
   server: 231103level1.unclemanco.com
@@ -1267,11 +1172,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_197
   server: 231103level1.unclemanco.com
@@ -1280,11 +1184,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: Vdssf.mj/2Zr
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_198
   server: 231103level1.unclemanco.com
@@ -1293,11 +1196,10 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: aa2x2sa2/1a
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
-    host: b578697608.download.windowsupdate.com
+    host: cfd4497668.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_trojan_21
   server: fly0001.flyflylflyflysbs.sbs
@@ -1953,7 +1855,7 @@ proxies:
   server: fkvip101.qlgq.fun
   port: 11789
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: fkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1964,7 +1866,7 @@ proxies:
   server: fkvip101.qlgq.fun
   port: 21789
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: fkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1975,7 +1877,7 @@ proxies:
   server: fkvip101.qlgq.fun
   port: 31789
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: fkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1986,7 +1888,7 @@ proxies:
   server: fkvip102.qlgq.fun
   port: 41789
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: fkvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1997,7 +1899,7 @@ proxies:
   server: fkvip102.qlgq.fun
   port: 51789
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: fkvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2008,7 +1910,7 @@ proxies:
   server: sgvip101.qlgq.fun
   port: 11223
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2019,7 +1921,7 @@ proxies:
   server: sgvip101.qlgq.fun
   port: 21223
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2030,7 +1932,7 @@ proxies:
   server: sgvip101.qlgq.fun
   port: 31223
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2041,7 +1943,7 @@ proxies:
   server: sgvip101.qlgq.fun
   port: 41223
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2052,7 +1954,7 @@ proxies:
   server: sgvip101.qlgq.fun
   port: 51223
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2063,7 +1965,7 @@ proxies:
   server: jpvip101.qlgq.fun
   port: 61239
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: jpvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2074,7 +1976,7 @@ proxies:
   server: jpvip101.qlgq.fun
   port: 61288
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: jpvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2085,7 +1987,7 @@ proxies:
   server: jpvip101.qlgq.fun
   port: 61237
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: jpvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2096,7 +1998,7 @@ proxies:
   server: jpvip101.qlgq.fun
   port: 61236
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: jpvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2107,7 +2009,7 @@ proxies:
   server: jpvip101.qlgq.fun
   port: 61235
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: jpvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2118,7 +2020,7 @@ proxies:
   server: lavip101.qlgq.fun
   port: 11156
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: lavip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2129,7 +2031,7 @@ proxies:
   server: lavip101.qlgq.fun
   port: 21156
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: lavip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2140,7 +2042,7 @@ proxies:
   server: lavip101.qlgq.fun
   port: 31156
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: lavip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2151,7 +2053,7 @@ proxies:
   server: ukvip101.qlgq.fun
   port: 14568
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: ukvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2162,7 +2064,7 @@ proxies:
   server: ukvip101.qlgq.fun
   port: 14586
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: ukvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2173,7 +2075,7 @@ proxies:
   server: ukvip101.qlgq.fun
   port: 18885
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: ukvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2184,7 +2086,7 @@ proxies:
   server: hkvip101.qlgq.fun
   port: 12249
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: hkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2195,7 +2097,7 @@ proxies:
   server: hkvip101.qlgq.fun
   port: 22249
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: hkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2206,7 +2108,7 @@ proxies:
   server: hkvip102.qlgq.fun
   port: 32249
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: hkvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2217,7 +2119,7 @@ proxies:
   server: hkvip102.qlgq.fun
   port: 42249
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: hkvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2228,7 +2130,7 @@ proxies:
   server: hkvip103.qlgq.fun
   port: 52249
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: hkvip103.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2239,7 +2141,7 @@ proxies:
   server: hkvip103.qlgq.fun
   port: 11116
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: hkvip103.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2250,7 +2152,7 @@ proxies:
   server: hkvip104.qlgq.fun
   port: 45136
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: hkvip104.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2261,7 +2163,7 @@ proxies:
   server: hkvip104.qlgq.fun
   port: 46216
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: hkvip104.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2272,7 +2174,7 @@ proxies:
   server: hkvip105.qlgq.fun
   port: 41116
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: hkvip105.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2283,7 +2185,7 @@ proxies:
   server: hkvip105.qlgq.fun
   port: 51116
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: hkvip105.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2294,7 +2196,7 @@ proxies:
   server: klvip101.qlgq.fun
   port: 10443
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: klvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2305,7 +2207,7 @@ proxies:
   server: klvip101.qlgq.fun
   port: 20443
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: klvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2316,7 +2218,7 @@ proxies:
   server: klvip101.qlgq.fun
   port: 30443
   type: trojan
-  password: 5521bdf9-5194-39b9-8d07-53e9431c0f9d
+  password: 7f19c1f8-af3d-3513-99d2-3a3172af0264
   sni: klvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
