@@ -28,1178 +28,1080 @@ proxies:
 - name: AFOSNE_China_ss_11
   server: 231103level3.unclemanco.com
   port: 803
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_12
   server: 231103level3.unclemanco.com
   port: 806
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_13
   server: 231103level3.unclemanco.com
   port: 913
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_14
   server: 231103level3.unclemanco.com
   port: 817
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_15
   server: 231103level3.unclemanco.com
   port: 9030
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_16
   server: 231103level3.unclemanco.com
   port: 920
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_17
   server: 231103level3.unclemanco.com
   port: 9035
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_18
   server: 231103level3.unclemanco.com
   port: 917
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_19
   server: 231103level3.unclemanco.com
   port: 9019
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_110
   server: 231103level3.unclemanco.com
   port: 9001
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucew2
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_111
   server: 231103level3.unclemanco.com
   port: 807
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayuclsaa
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_112
   server: 231103level3.unclemanco.com
   port: 810
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_113
   server: 231103level3.unclemanco.com
   port: 921
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucl243113
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_114
   server: 231103level3.unclemanco.com
   port: 919
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_115
   server: 231103level3.unclemanco.com
   port: 825
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_116
   server: 231103level3.unclemanco.com
   port: 834
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_117
   server: 231103level3.unclemanco.com
   port: 908
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_118
   server: 231103level3.unclemanco.com
   port: 9040
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_119
   server: 231103level3.unclemanco.com
   port: 835
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_120
   server: 231103level3.unclemanco.com
   port: 905
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_121
   server: 231103level3.unclemanco.com
   port: 904
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: a12cloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_122
   server: 231103level3.unclemanco.com
   port: 824
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayu1245
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_123
   server: 231103level3.unclemanco.com
   port: 9054
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_124
   server: 231103level3.unclemanco.com
   port: 9063
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_125
   server: 231103level3.unclemanco.com
   port: 20012
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_126
   server: 231103level3.unclemanco.com
   port: 907
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucles1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_127
   server: 231103level3.unclemanco.com
   port: 823
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_128
   server: 231103level3.unclemanco.com
   port: 9059
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_129
   server: 231103level3.unclemanco.com
   port: 9062
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_130
   server: 231103level3.unclemanco.com
   port: 819
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_131
   server: 231103level3.unclemanco.com
   port: 9021
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_132
   server: 231103level3.unclemanco.com
   port: 914
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_133
   server: 231103level3.unclemanco.com
   port: 909
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayu1245
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_134
   server: 231103level3.unclemanco.com
   port: 918
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_135
   server: 231103level3.unclemanco.com
   port: 811
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ay2dsd1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_136
   server: 231103level3.unclemanco.com
   port: 1313
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: fjlfjafl231303831
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_137
   server: 231103level3.unclemanco.com
   port: 901
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ay21d1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_138
   server: 231103level3.unclemanco.com
   port: 9873
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_139
   server: 231103level3.unclemanco.com
   port: 821
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_140
   server: 231103level3.unclemanco.com
   port: 903
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ay2l23ud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_141
   server: 231103level3.unclemanco.com
   port: 910
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_142
   server: 231103level3.unclemanco.com
   port: 906
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ay2loud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_143
   server: 231103level3.unclemanco.com
   port: 9060
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_144
   server: 231103level3.unclemanco.com
   port: 9037
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_145
   server: 231103level3.unclemanco.com
   port: 902
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayuc211
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_146
   server: 231103level3.unclemanco.com
   port: 37863
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: dajkdkjda&dja*/?
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_147
   server: 231103level2.unclemanco.com
   port: 804
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: wedsa
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_148
   server: 231103level2.unclemanco.com
   port: 9048
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_149
   server: 231103level2.unclemanco.com
   port: 9022
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_150
   server: 231103level2.unclemanco.com
   port: 916
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: fsfal2
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_151
   server: 231103level2.unclemanco.com
   port: 926
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_152
   server: 231103level2.unclemanco.com
   port: 39004
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayds23sd1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_153
   server: 231103level2.unclemanco.com
   port: 9053
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_154
   server: 231103level2.unclemanco.com
   port: 8001
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_155
   server: 231103level2.unclemanco.com
   port: 9052
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_156
   server: 231103level2.unclemanco.com
   port: 818
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_157
   server: 231103level2.unclemanco.com
   port: 813
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_158
   server: 231103level2.unclemanco.com
   port: 4321
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ay232sffssd1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_159
   server: 231103level2.unclemanco.com
   port: 820
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_160
   server: 231103level2.unclemanco.com
   port: 809
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucjrsll
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_161
   server: 231103level2.unclemanco.com
   port: 911
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_162
   server: 231103level2.unclemanco.com
   port: 857
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_163
   server: 231103level2.unclemanco.com
   port: 2201
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: dajsdkdkjda&dja*/?
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_164
   server: 231103level2.unclemanco.com
   port: 39201
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: dadk2jat*/?
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_165
   server: 231103level2.unclemanco.com
   port: 2789
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_166
   server: 231103level2.unclemanco.com
   port: 9038
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_167
   server: 231103level2.unclemanco.com
   port: 19999
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: dajkdkjda&dja*/?
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_168
   server: 231103levelx.unclemanco.com
   port: 3033
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayugfsd
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_169
   server: 231103levelx.unclemanco.com
   port: 1549
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_170
   server: 231103level2.unclemanco.com
   port: 6041
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayds232sffssd1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_171
   server: 231103level2.unclemanco.com
   port: 44444
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayds232sffssd1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_172
   server: 231103level2.unclemanco.com
   port: 38011
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: dajkdr&dja*/?
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_173
   server: 231103level2.unclemanco.com
   port: 10058
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: 2sa2/1a
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_174
   server: 231103level2.unclemanco.com
   port: 37865
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: dajkdkjdsa&dja*/?
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_175
   server: 231103level2.unclemanco.com
   port: 39073
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: dajkbgja*/?
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_176
   server: 231103level2.unclemanco.com
   port: 38002
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: dajkdkjdssa&dja*/?
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_177
   server: 231103level2.unclemanco.com
   port: 6559
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: dajkdkjda&dja*/?
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_178
   server: 231103level2.unclemanco.com
   port: 36203
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: Vdssf.mj/2Zr
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_179
   server: 231103level2.unclemanco.com
   port: 36454
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: 1mj21sr
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_180
   server: 231103level2.unclemanco.com
   port: 36452
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: 1mj21sr
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_181
   server: 231103level2.unclemanco.com
   port: 36243
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: Vdss1samj/2Zr
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_182
   server: 231103level1.unclemanco.com
   port: 9047
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_183
   server: 231103level1.unclemanco.com
   port: 912
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_184
   server: 231103level1.unclemanco.com
   port: 840
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_185
   server: 231103level1.unclemanco.com
   port: 9051
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_186
   server: 231103level1.unclemanco.com
   port: 925
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_187
   server: 231103level1.unclemanco.com
   port: 812
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_188
   server: 231103level1.unclemanco.com
   port: 837
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucl12s1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_189
   server: 231103level1.unclemanco.com
   port: 816
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_190
   server: 231103level1.unclemanco.com
   port: 2688
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: fs23l/
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_191
   server: 231103level1.unclemanco.com
   port: 915
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_192
   server: 231103levelx.unclemanco.com
   port: 2205
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: dajkdkjda&dja*/?
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_193
   server: 231103levelx.unclemanco.com
   port: 9020
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_194
   server: 231103level1.unclemanco.com
   port: 924
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_195
   server: 231103level1.unclemanco.com
   port: 6879
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_196
   server: 231103level1.unclemanco.com
   port: 9044
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_197
   server: 231103level1.unclemanco.com
   port: 36201
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: Vdssf.mj/2Zr
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_ss_198
   server: 231103level1.unclemanco.com
   port: 10021
-  client-fingerprint: chrome
   type: ss
   cipher: aes-128-gcm
   password: aa2x2sa2/1a
   plugin: obfs
   plugin-opts:
     mode: http
-    host: 46f5697716.download.windowsupdate.com
+    host: c6b5497770.download.windowsupdate.com
   udp: true
 - name: AFOSNE_China_trojan_21
   server: fly0001.flyflylflyflysbs.sbs
