@@ -2367,7 +2367,11 @@
             "tls": {
                 "enabled": true,
                 "server_name": "AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM",
-                "insecure": true
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
             },
             "type": "trojan"
         },
@@ -2379,7 +2383,11 @@
             "tls": {
                 "enabled": true,
                 "server_name": "AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM",
-                "insecure": true
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
             },
             "type": "trojan"
         },
@@ -2391,7 +2399,11 @@
             "tls": {
                 "enabled": true,
                 "server_name": "AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM",
-                "insecure": true
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
             },
             "type": "trojan"
         },
@@ -2403,11 +2415,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "fkvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2423,11 +2431,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "fkvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2443,11 +2447,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "fkvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2463,11 +2463,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "fkvip102.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2483,11 +2479,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "fkvip102.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2503,11 +2495,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "sgvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2523,11 +2511,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "sgvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2543,11 +2527,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "sgvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2563,11 +2543,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "sgvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2583,11 +2559,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "sgvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2603,11 +2575,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "jpvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2623,11 +2591,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "jpvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2643,11 +2607,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "jpvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2663,11 +2623,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "jpvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2683,11 +2639,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "jpvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2703,11 +2655,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "lavip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2723,11 +2671,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "lavip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2743,11 +2687,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "lavip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2763,11 +2703,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "ukvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2783,11 +2719,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "ukvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2803,11 +2735,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "ukvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2823,11 +2751,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "hkvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2843,11 +2767,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "hkvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2863,11 +2783,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "hkvip102.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2883,11 +2799,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "hkvip102.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2903,11 +2815,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "hkvip103.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2923,11 +2831,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "hkvip103.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2943,11 +2847,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "hkvip104.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2963,11 +2863,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "hkvip104.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2983,11 +2879,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "hkvip105.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -3003,11 +2895,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "hkvip105.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -3023,11 +2911,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "klvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -3043,11 +2927,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "klvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -3063,11 +2943,7 @@
             "tls": {
                 "enabled": true,
                 "server_name": "klvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
