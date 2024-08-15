@@ -32,7 +32,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: 1m23sddsc4532r
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -45,7 +44,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -58,7 +56,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -71,7 +68,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -84,7 +80,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -97,7 +92,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -110,7 +104,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -123,7 +116,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -136,7 +128,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -149,7 +140,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -162,7 +152,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucew2
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -175,7 +164,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayuclsaa
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -188,7 +176,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -201,7 +188,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucl243113
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -214,7 +200,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -227,7 +212,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -240,7 +224,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -253,7 +236,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -266,7 +248,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -279,7 +260,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -292,7 +272,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -305,7 +284,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: a12cloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -318,7 +296,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayu1245
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -331,7 +308,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -344,7 +320,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -357,7 +332,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -370,7 +344,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucles1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -383,7 +356,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -396,7 +368,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -409,7 +380,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -422,7 +392,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -435,7 +404,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -448,7 +416,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -461,7 +428,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayu1245
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -474,7 +440,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -487,7 +452,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ay2dsd1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -500,7 +464,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: fjlfjafl231303831
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -513,7 +476,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ay21d1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -526,7 +488,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -539,7 +500,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -552,7 +512,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ay2l23ud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -565,7 +524,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -578,7 +536,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ay2loud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -591,7 +548,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -604,7 +560,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -617,7 +572,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayuc211
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -630,7 +584,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: dajkdkjda&dja*/?
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -643,7 +596,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: wedsa
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -656,7 +608,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -669,7 +620,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -682,7 +632,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: fsfal2
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -695,7 +644,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -708,7 +656,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayds23sd1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -721,7 +668,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -734,7 +680,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -747,7 +692,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -760,7 +704,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -773,7 +716,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -786,7 +728,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ay232sffssd1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -799,7 +740,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -812,7 +752,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucjrsll
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -825,7 +764,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -838,7 +776,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -851,7 +788,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: dajsdkdkjda&dja*/?
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -864,7 +800,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -877,7 +812,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: dadk2jat*/?
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -890,7 +824,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -903,7 +836,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: dajkdkjda&dja*/?
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -916,7 +848,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayugfsd
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -929,7 +860,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -942,7 +872,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayds232sffssd1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -955,7 +884,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayds232sffssd1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -968,7 +896,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: dajkdr&dja*/?
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -981,7 +908,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: 2sa2/1a
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -994,7 +920,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: dajkdkjdsa&dja*/?
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1007,7 +932,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: dajkbgja*/?
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1020,7 +944,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: dajkdkjdssa&dja*/?
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1033,7 +956,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: Vdssf.mj/2Zr
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1046,7 +968,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: dajkdkjda&dja*/?
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1059,7 +980,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: 1mj21sr
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1072,7 +992,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: Vdss1samj/2Zr
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1085,7 +1004,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: 1mj21sr
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1098,7 +1016,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1111,7 +1028,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1124,7 +1040,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1137,7 +1052,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1150,7 +1064,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1163,7 +1076,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1176,7 +1088,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucl12s1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1189,7 +1100,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1202,7 +1112,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: fs23l/
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1215,7 +1124,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1228,7 +1136,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: dajkdkjda&dja*/?
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1241,7 +1148,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1254,7 +1160,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1267,7 +1172,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1280,7 +1184,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1293,7 +1196,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: Vdssf.mj/2Zr
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1306,7 +1208,6 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: aa2x2sa2/1a
-  tfo: false
   plugin: obfs
   plugin-opts:
     mode: http
@@ -1968,8 +1869,9 @@ proxies:
 - name: AFOSNE_Germany_trojan_51
   server: fkvip101.qlgq.fun
   port: 11789
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: fkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1979,8 +1881,9 @@ proxies:
 - name: AFOSNE_Germany_trojan_52
   server: fkvip101.qlgq.fun
   port: 21789
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: fkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -1990,8 +1893,9 @@ proxies:
 - name: AFOSNE_Germany_trojan_53
   server: fkvip101.qlgq.fun
   port: 31789
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: fkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2001,8 +1905,9 @@ proxies:
 - name: AFOSNE_Germany_trojan_54
   server: fkvip102.qlgq.fun
   port: 41789
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: fkvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2012,8 +1917,9 @@ proxies:
 - name: AFOSNE_Germany_trojan_55
   server: fkvip102.qlgq.fun
   port: 51789
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: fkvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2023,8 +1929,9 @@ proxies:
 - name: AFOSNE_Singapore_trojan_56
   server: sgvip101.qlgq.fun
   port: 11223
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2034,8 +1941,9 @@ proxies:
 - name: AFOSNE_Singapore_trojan_57
   server: sgvip101.qlgq.fun
   port: 21223
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2045,8 +1953,9 @@ proxies:
 - name: AFOSNE_Singapore_trojan_58
   server: sgvip101.qlgq.fun
   port: 31223
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2056,8 +1965,9 @@ proxies:
 - name: AFOSNE_Singapore_trojan_59
   server: sgvip101.qlgq.fun
   port: 41223
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2067,8 +1977,9 @@ proxies:
 - name: AFOSNE_Singapore_trojan_510
   server: sgvip101.qlgq.fun
   port: 51223
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: sgvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2078,8 +1989,9 @@ proxies:
 - name: AFOSNE_Japan_trojan_511
   server: jpvip101.qlgq.fun
   port: 61239
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: jpvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2089,8 +2001,9 @@ proxies:
 - name: AFOSNE_Japan_trojan_512
   server: jpvip101.qlgq.fun
   port: 61288
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: jpvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2100,8 +2013,9 @@ proxies:
 - name: AFOSNE_Japan_trojan_513
   server: jpvip101.qlgq.fun
   port: 61237
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: jpvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2111,8 +2025,9 @@ proxies:
 - name: AFOSNE_Japan_trojan_514
   server: jpvip101.qlgq.fun
   port: 61236
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: jpvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2122,8 +2037,9 @@ proxies:
 - name: AFOSNE_Japan_trojan_515
   server: jpvip101.qlgq.fun
   port: 61235
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: jpvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2133,8 +2049,9 @@ proxies:
 - name: AFOSNE_United States_trojan_516
   server: lavip101.qlgq.fun
   port: 11156
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: lavip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2144,8 +2061,9 @@ proxies:
 - name: AFOSNE_United States_trojan_517
   server: lavip101.qlgq.fun
   port: 21156
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: lavip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2155,8 +2073,9 @@ proxies:
 - name: AFOSNE_United States_trojan_518
   server: lavip101.qlgq.fun
   port: 31156
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: lavip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2166,8 +2085,9 @@ proxies:
 - name: AFOSNE_United Kingdom_trojan_519
   server: ukvip101.qlgq.fun
   port: 14568
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: ukvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2177,8 +2097,9 @@ proxies:
 - name: AFOSNE_United Kingdom_trojan_520
   server: ukvip101.qlgq.fun
   port: 14586
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: ukvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2188,8 +2109,9 @@ proxies:
 - name: AFOSNE_United Kingdom_trojan_521
   server: ukvip101.qlgq.fun
   port: 18885
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: ukvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2199,8 +2121,9 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_522
   server: hkvip101.qlgq.fun
   port: 12249
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: hkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2210,8 +2133,9 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_523
   server: hkvip101.qlgq.fun
   port: 22249
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: hkvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2221,8 +2145,9 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_524
   server: hkvip102.qlgq.fun
   port: 32249
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: hkvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2232,8 +2157,9 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_525
   server: hkvip102.qlgq.fun
   port: 42249
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: hkvip102.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2243,8 +2169,9 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_526
   server: hkvip103.qlgq.fun
   port: 52249
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: hkvip103.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2254,8 +2181,9 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_527
   server: hkvip103.qlgq.fun
   port: 11116
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: hkvip103.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2265,8 +2193,9 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_528
   server: hkvip104.qlgq.fun
   port: 45136
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: hkvip104.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2276,8 +2205,9 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_529
   server: hkvip104.qlgq.fun
   port: 46216
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: hkvip104.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2287,8 +2217,9 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_530
   server: hkvip105.qlgq.fun
   port: 41116
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: hkvip105.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2298,8 +2229,9 @@ proxies:
 - name: AFOSNE_Hong Kong_trojan_531
   server: hkvip105.qlgq.fun
   port: 51116
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: hkvip105.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2309,8 +2241,9 @@ proxies:
 - name: AFOSNE_Malaysia_trojan_532
   server: klvip101.qlgq.fun
   port: 10443
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: klvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2320,8 +2253,9 @@ proxies:
 - name: AFOSNE_Malaysia_trojan_533
   server: klvip101.qlgq.fun
   port: 20443
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: klvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
@@ -2331,8 +2265,9 @@ proxies:
 - name: AFOSNE_Malaysia_trojan_534
   server: klvip101.qlgq.fun
   port: 30443
+  client-fingerprint: chrome
   type: trojan
-  password: 28e7eeb4-ad36-3cc8-812e-4425508c6803
+  password: 654f09e0-2ec9-31e7-80b6-5486902ce38d
   sni: klvip101.qlgq.fun
   skip-cert-verify: true
   network: grpc
