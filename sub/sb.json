@@ -526,7 +526,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -536,7 +536,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -546,7 +546,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -556,7 +556,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -566,7 +566,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -576,7 +576,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -586,7 +586,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -596,7 +596,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -606,7 +606,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -616,7 +616,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucew2",
@@ -626,7 +626,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayuclsaa",
@@ -636,7 +636,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -646,7 +646,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucl243113",
@@ -656,7 +656,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -666,7 +666,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -676,7 +676,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -686,7 +686,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -696,7 +696,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -706,7 +706,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -716,7 +716,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -726,7 +726,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "a12cloud1",
@@ -736,7 +736,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayu1245",
@@ -746,7 +746,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -756,7 +756,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -766,7 +766,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -776,7 +776,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucles1",
@@ -786,7 +786,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -796,7 +796,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -806,7 +806,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -816,7 +816,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -826,7 +826,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -836,7 +836,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -846,7 +846,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayu1245",
@@ -856,7 +856,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -866,7 +866,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ay2dsd1",
@@ -876,7 +876,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "fjlfjafl231303831",
@@ -886,7 +886,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ay21d1",
@@ -896,7 +896,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -906,7 +906,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -916,7 +916,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ay2l23ud1",
@@ -926,7 +926,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -936,7 +936,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ay2loud1",
@@ -946,7 +946,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -956,7 +956,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -966,7 +966,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayuc211",
@@ -976,7 +976,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "dajkdkjda\u0026dja*/?",
@@ -986,7 +986,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "wedsa",
@@ -996,7 +996,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -1006,7 +1006,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -1016,7 +1016,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "fsfal2",
@@ -1026,7 +1026,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -1036,7 +1036,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayds23sd1",
@@ -1046,7 +1046,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -1056,7 +1056,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -1066,7 +1066,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -1076,7 +1076,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -1086,7 +1086,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -1096,7 +1096,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ay232sffssd1",
@@ -1106,7 +1106,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -1116,7 +1116,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucjrsll",
@@ -1126,7 +1126,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -1136,7 +1136,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -1146,7 +1146,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "dajsdkdkjda\u0026dja*/?",
@@ -1156,7 +1156,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -1166,7 +1166,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "dadk2jat*/?",
@@ -1176,7 +1176,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -1186,7 +1186,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "dajkdkjda\u0026dja*/?",
@@ -1196,7 +1196,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayugfsd",
@@ -1206,7 +1206,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -1216,7 +1216,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayds232sffssd1",
@@ -1226,7 +1226,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayds232sffssd1",
@@ -1236,7 +1236,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "dajkdr\u0026dja*/?",
@@ -1246,7 +1246,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "2sa2/1a",
@@ -1256,7 +1256,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "dajkdkjdsa\u0026dja*/?",
@@ -1266,7 +1266,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "dajkbgja*/?",
@@ -1276,7 +1276,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "dajkdkjdssa\u0026dja*/?",
@@ -1286,7 +1286,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "Vdssf.mj/2Zr",
@@ -1296,7 +1296,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "dajkdkjda\u0026dja*/?",
@@ -1306,7 +1306,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "1mj21sr",
@@ -1316,7 +1316,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "Vdss1samj/2Zr",
@@ -1326,7 +1326,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "1mj21sr",
@@ -1336,7 +1336,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -1346,7 +1346,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -1356,7 +1356,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -1366,7 +1366,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -1376,7 +1376,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -1386,7 +1386,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -1396,7 +1396,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucl12s1",
@@ -1406,7 +1406,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -1416,7 +1416,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "fs23l/",
@@ -1426,7 +1426,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -1436,7 +1436,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "dajkdkjda\u0026dja*/?",
@@ -1446,7 +1446,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -1456,7 +1456,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -1466,7 +1466,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "ayucloud1",
@@ -1476,7 +1476,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "QHPy2u",
@@ -1486,7 +1486,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "Vdssf.mj/2Zr",
@@ -1496,7 +1496,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "aa2x2sa2/1a",
@@ -1506,7 +1506,7 @@
             "type": "shadowsocks",
             "method": "aes-128-gcm",
             "plugin": "obfs-local",
-            "plugin_opts": "obfs=http;obfs-host=47b3e98013.download.windowsupdate.com"
+            "plugin_opts": "obfs=http;obfs-host=e7e9098060.download.windowsupdate.com"
         },
         {
             "password": "933b90fa-69de-4bf8-9af8-6967924c448b",
@@ -2420,18 +2420,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "fkvip101.qlgq.fun",
             "server_port": 11789,
             "tag": "AFOSNE_Germany_trojan_51",
             "tls": {
                 "enabled": true,
                 "server_name": "fkvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2440,18 +2436,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "fkvip101.qlgq.fun",
             "server_port": 21789,
             "tag": "AFOSNE_Germany_trojan_52",
             "tls": {
                 "enabled": true,
                 "server_name": "fkvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2460,18 +2452,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "fkvip101.qlgq.fun",
             "server_port": 31789,
             "tag": "AFOSNE_Germany_trojan_53",
             "tls": {
                 "enabled": true,
                 "server_name": "fkvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2480,18 +2468,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "fkvip102.qlgq.fun",
             "server_port": 41789,
             "tag": "AFOSNE_Germany_trojan_54",
             "tls": {
                 "enabled": true,
                 "server_name": "fkvip102.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2500,18 +2484,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "fkvip102.qlgq.fun",
             "server_port": 51789,
             "tag": "AFOSNE_Germany_trojan_55",
             "tls": {
                 "enabled": true,
                 "server_name": "fkvip102.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2520,18 +2500,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "sgvip101.qlgq.fun",
             "server_port": 11223,
             "tag": "AFOSNE_Singapore_trojan_56",
             "tls": {
                 "enabled": true,
                 "server_name": "sgvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2540,18 +2516,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "sgvip101.qlgq.fun",
             "server_port": 21223,
             "tag": "AFOSNE_Singapore_trojan_57",
             "tls": {
                 "enabled": true,
                 "server_name": "sgvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2560,18 +2532,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "sgvip101.qlgq.fun",
             "server_port": 31223,
             "tag": "AFOSNE_Singapore_trojan_58",
             "tls": {
                 "enabled": true,
                 "server_name": "sgvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2580,18 +2548,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "sgvip101.qlgq.fun",
             "server_port": 41223,
             "tag": "AFOSNE_Singapore_trojan_59",
             "tls": {
                 "enabled": true,
                 "server_name": "sgvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2600,18 +2564,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "sgvip101.qlgq.fun",
             "server_port": 51223,
             "tag": "AFOSNE_Singapore_trojan_510",
             "tls": {
                 "enabled": true,
                 "server_name": "sgvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2620,18 +2580,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "jpvip101.qlgq.fun",
             "server_port": 61239,
             "tag": "AFOSNE_Japan_trojan_511",
             "tls": {
                 "enabled": true,
                 "server_name": "jpvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2640,18 +2596,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "jpvip101.qlgq.fun",
             "server_port": 61288,
             "tag": "AFOSNE_Japan_trojan_512",
             "tls": {
                 "enabled": true,
                 "server_name": "jpvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2660,18 +2612,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "jpvip101.qlgq.fun",
             "server_port": 61237,
             "tag": "AFOSNE_Japan_trojan_513",
             "tls": {
                 "enabled": true,
                 "server_name": "jpvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2680,18 +2628,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "jpvip101.qlgq.fun",
             "server_port": 61236,
             "tag": "AFOSNE_Japan_trojan_514",
             "tls": {
                 "enabled": true,
                 "server_name": "jpvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2700,18 +2644,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "jpvip101.qlgq.fun",
             "server_port": 61235,
             "tag": "AFOSNE_Japan_trojan_515",
             "tls": {
                 "enabled": true,
                 "server_name": "jpvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2720,18 +2660,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "lavip101.qlgq.fun",
             "server_port": 11156,
             "tag": "AFOSNE_United States_trojan_516",
             "tls": {
                 "enabled": true,
                 "server_name": "lavip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2740,18 +2676,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "lavip101.qlgq.fun",
             "server_port": 21156,
             "tag": "AFOSNE_United States_trojan_517",
             "tls": {
                 "enabled": true,
                 "server_name": "lavip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2760,18 +2692,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "lavip101.qlgq.fun",
             "server_port": 31156,
             "tag": "AFOSNE_United States_trojan_518",
             "tls": {
                 "enabled": true,
                 "server_name": "lavip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2780,18 +2708,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "ukvip101.qlgq.fun",
             "server_port": 14568,
             "tag": "AFOSNE_United Kingdom_trojan_519",
             "tls": {
                 "enabled": true,
                 "server_name": "ukvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2800,18 +2724,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "ukvip101.qlgq.fun",
             "server_port": 14586,
             "tag": "AFOSNE_United Kingdom_trojan_520",
             "tls": {
                 "enabled": true,
                 "server_name": "ukvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2820,18 +2740,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "ukvip101.qlgq.fun",
             "server_port": 18885,
             "tag": "AFOSNE_United Kingdom_trojan_521",
             "tls": {
                 "enabled": true,
                 "server_name": "ukvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2840,18 +2756,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "hkvip101.qlgq.fun",
             "server_port": 12249,
             "tag": "AFOSNE_Hong Kong_trojan_522",
             "tls": {
                 "enabled": true,
                 "server_name": "hkvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2860,18 +2772,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "hkvip101.qlgq.fun",
             "server_port": 22249,
             "tag": "AFOSNE_Hong Kong_trojan_523",
             "tls": {
                 "enabled": true,
                 "server_name": "hkvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2880,18 +2788,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "hkvip102.qlgq.fun",
             "server_port": 32249,
             "tag": "AFOSNE_Hong Kong_trojan_524",
             "tls": {
                 "enabled": true,
                 "server_name": "hkvip102.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2900,18 +2804,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "hkvip102.qlgq.fun",
             "server_port": 42249,
             "tag": "AFOSNE_Hong Kong_trojan_525",
             "tls": {
                 "enabled": true,
                 "server_name": "hkvip102.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2920,18 +2820,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "hkvip103.qlgq.fun",
             "server_port": 52249,
             "tag": "AFOSNE_Hong Kong_trojan_526",
             "tls": {
                 "enabled": true,
                 "server_name": "hkvip103.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2940,18 +2836,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "hkvip103.qlgq.fun",
             "server_port": 11116,
             "tag": "AFOSNE_Hong Kong_trojan_527",
             "tls": {
                 "enabled": true,
                 "server_name": "hkvip103.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2960,18 +2852,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "hkvip104.qlgq.fun",
             "server_port": 45136,
             "tag": "AFOSNE_Hong Kong_trojan_528",
             "tls": {
                 "enabled": true,
                 "server_name": "hkvip104.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -2980,18 +2868,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "hkvip104.qlgq.fun",
             "server_port": 46216,
             "tag": "AFOSNE_Hong Kong_trojan_529",
             "tls": {
                 "enabled": true,
                 "server_name": "hkvip104.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -3000,18 +2884,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "hkvip105.qlgq.fun",
             "server_port": 41116,
             "tag": "AFOSNE_Hong Kong_trojan_530",
             "tls": {
                 "enabled": true,
                 "server_name": "hkvip105.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -3020,18 +2900,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "hkvip105.qlgq.fun",
             "server_port": 51116,
             "tag": "AFOSNE_Hong Kong_trojan_531",
             "tls": {
                 "enabled": true,
                 "server_name": "hkvip105.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -3040,18 +2916,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "klvip101.qlgq.fun",
             "server_port": 10443,
             "tag": "AFOSNE_Malaysia_trojan_532",
             "tls": {
                 "enabled": true,
                 "server_name": "klvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -3060,18 +2932,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "klvip101.qlgq.fun",
             "server_port": 20443,
             "tag": "AFOSNE_Malaysia_trojan_533",
             "tls": {
                 "enabled": true,
                 "server_name": "klvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
@@ -3080,18 +2948,14 @@
             "type": "trojan"
         },
         {
-            "password": "654f09e0-2ec9-31e7-80b6-5486902ce38d",
+            "password": "73d13984-37e2-3cce-bba6-4a16ecbc3a0c",
             "server": "klvip101.qlgq.fun",
             "server_port": 30443,
             "tag": "AFOSNE_Malaysia_trojan_534",
             "tls": {
                 "enabled": true,
                 "server_name": "klvip101.qlgq.fun",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
+                "insecure": true
             },
             "transport": {
                 "type": "grpc",
